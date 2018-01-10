@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+        <title> Social Feeds | Countdown for the 2018 World Cup in Russia.</title>
+
+        <link rel="stylesheet" href="./assets/css/main.css">
+
+        <script src="./assets/js/main.js"></script>
+    </head>
+    <body>
+        <div class="app-toolbar">
+            <div class="left-icons-wrapper">
+                <!-- <div class="icon-wrapper"></div> -->
+            </div>
+            <div class="title-heading">
+                <h1>Social Feeds</h1>
+            </div>
+            <div class="right-icons-wrapper">
+                <!-- <div class="icon-wrapper"></div> -->
+            </div>
+        </div>
+        <div class="app-container txt-algn-center dates">
+
+            <section>
+                <a class="twitter-timeline"  href="https://twitter.com/search?q=FIFAWorldCup2018%20%28filter%3Aimages%20OR%20filter%3Avideos%29%20lang%3Aen%20%20%20filter%3Averified" data-widget-id="945554717031137281">
+                    Tweets about FIFAWorldCup2018
+                </a>
+            </section>
+
+    
+            <footer class="custom-scrollbar">
+                <nav>
+                    <span class="footer-link"><a href="./"> Home </a></span>
+                    <span class="footer-link"><a href="./dates.html"> Dates </a></span>
+                    <span class="footer-link"><a href="./teams-list.html"> Teams </a></span>
+                    <span class="footer-link"><a href="./cities-list.html"> Cities </a></span>
+                    <span class="footer-link"><a href="./stadiums-list.html"> Stadiums </a></span>
+                    <span class="footer-link"><a href="./tournament-facts.html"> Facts </a></span>
+                    <span class="footer-link"><a href="./social-feeds.html"> Social </a></span>
+                    <span class="footer-link"><a href="./useful-links.html">Links </a></span>
+                </nav>
+            </footer>
+        </div>
+
+
+        <script>
+            window.twttr = (function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0],
+                t = window.twttr || {};
+              if (d.getElementById(id)) return t;
+              js = d.createElement(s);
+              js.id = id;
+              js.src = "https://platform.twitter.com/widgets.js";
+              fjs.parentNode.insertBefore(js, fjs);
+
+              t._e = [];
+              t.ready = function(f) {
+                t._e.push(f);
+              };
+
+              return t;
+            }(document, "script", "twitter-wjs"));
+        </script>
+
+        <script>
+            window.onload = function(){
+                setTimeout(function(){
+                    const twitterWidget = document.querySelector("iframe#twitter-widget-0");
+                    twitterWidget.style.minHeight = "84vh";
+                    // console.log(twitterWidget);
+                }, 1200)
+            }
+        </script>
+    </body>
+</html>

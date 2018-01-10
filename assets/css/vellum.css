@@ -1,0 +1,117 @@
+:root {
+    --vellum-blue-bg: #0154a4;
+    --vellum-button-red-bg: #c81b23;
+
+    /*--vellum-bg: var(--vellum-blue-bg);
+    --vellum-star-fill: white;
+    --vellum-border-stroke: none;
+    --vellum-border-stroke-width: none;*/
+
+    /* --vellum-bg: white;
+    --vellum-star-fill: var(--vellum-blue-bg);
+    --vellum-border-stroke: var(--vellum-blue-bg);
+    --vellum-border-stroke-width: 1px; */
+
+    /* --vellum-bg: transparent;
+    --vellum-star-fill: var(--vellum-blue-bg);
+    --vellum-border-stroke: var(--vellum-button-red-bg);
+    --vellum-border-stroke-width: 1px; */
+
+    --vellum-bg: var(--app-bg-white);
+    --vellum-star-fill: var(--vellum-blue-bg);
+    --vellum-border-stroke: var(--vellum-blue-bg);
+    --vellum-border-stroke-width: 0px;
+}
+/* body, h1, h2, h3, h4, h5, h6 {
+    font-family: Dusha;
+    margin: 0;
+    padding: 0;
+    border: none;
+} */
+p, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.vellum {
+    box-sizing: border-box;
+    /*background-color: yellow;*/
+    max-width: 960px;
+    max-width: 720px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.vellum img,
+.vellum svg {
+    width: 100%;
+    height: auto;
+}
+.narrow-part {
+    margin: 0 auto;
+    width: calc(100% - 50px*2);
+    width: 80%;
+    background-color: var(--vellum-bg);
+    border: solid var(--vellum-border-stroke) var(--vellum-border-stroke-width);
+    border-top: none;
+    border-bottom: none;
+}
+.fancy-vellum-button-top,
+.fancy-vellum-button-bottom {
+    box-sizing: border-box;
+    padding: 1rem 0;
+    background-color: var(--vellum-bg);
+}
+.fancy-vellum-button-top.narrow-part {
+    border-top: solid var(--vellum-border-stroke) var(--vellum-border-stroke-width);
+}
+.fancy-vellum-button-wrapper {
+    box-sizing: border-box;
+    display: flex;
+}
+.side-button-patch {
+    width: 50px;
+    height: 50px;
+}
+.right.side-button-patch {
+    transform: rotateZ(180deg);
+}
+.center-button-patch {
+    width: calc(100% - 100px);
+    height: 50px;
+    background-color: var(--vellum-button-red-bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vellum-content {
+    box-sizing: border-box;
+    padding: 0 8px 0;
+    background-color: var(--vellum-bg);
+}
+.vellum-bottom {
+    box-sizing: border-box;
+    position: relative;
+    margin-top: -1px;
+    margin-top: -4px;
+    margin-top: calc(-1 * var(--vellum-border-stroke-width));
+    z-index: -1;
+}
+.vellum-bottom.narrow-part {
+    background-color: transparent;
+    border: 0;
+}
+.fancy-star-wrapper {
+    box-sizing: border-box;
+    /*border: solid brown 2px;*/
+    position: absolute;
+    bottom: 0;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fancy-star-wrapper img {
+    width: 40px;
+}

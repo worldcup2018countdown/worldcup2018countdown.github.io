@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 400" width="600" height="400">
+	<defs>
+		<g id="france">
+			<rect x="0" y="0" width="600" height="403.023" fill="rgb(237,41,57)"/>
+			<rect x="0" y="0" width="400" height="403.023" fill="rgb(255,255,255)"/>
+			<rect x="0" y="0" width="200" height="403.023" fill="rgb(0,35,149)"/>
+		</g>
+		<g id="belgium">
+			<rect x="0" y="0" width="600" height="520" fill="rgb(237,41,57)"/>
+			<rect x="0" y="0" width="400" height="520" fill="rgb(250,224,66)"/>
+			<rect x="0" y="0" width="200" height="520" fill="rgb(0,0,0)"/>
+		</g>
+		<g id="south-korea">
+			<rect x="0" y="0" width="600" height="400" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/>
+			<g id="Group1">
+				<g id="b1">
+					<path d=" M 403 327.205 L 458.47 244 M 423.801 341.073 L 479.271 257.868 M 444.603 354.94 L 500.073 271.735" fill="rgb(0,0,0)" stroke-width="16.667" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4"/>
+					<path d=" M 98.921 126.04 L 154.391 42.835 M 119.722 139.907 L 175.192 56.702 M 140.524 153.775 L 195.994 70.57" fill="rgb(0,0,0)" stroke-width="16.667" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4"/>
+				</g>
+				<line x1="417.874" y1="278.583" x2="487.211" y2="324.808" stroke-width="8.333" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4"/>
+				<path d=" M 244.53 283.205 C 198.608 252.59 186.18 190.452 216.795 144.53 C 247.41 98.608 309.548 86.18 355.47 116.795 C 401.392 147.41 413.82 209.548 383.205 255.47 C 352.59 301.392 290.452 313.82 244.53 283.205 Z " fill="rgb(205,46,58)"/>
+				<path d=" M 216.795 144.53 C 201.477 167.506 207.686 198.55 230.662 213.868 C 253.639 229.185 284.682 222.976 300 200 C 315.318 177.024 346.361 170.815 369.338 186.132 C 392.314 201.45 398.523 232.494 383.205 255.47 C 352.57 301.423 290.483 313.84 244.53 283.205 C 198.577 252.57 186.16 190.483 216.795 144.53 Z " fill="rgb(0,71,160)"/>
+			</g>
+			<g id="Group2">
+				<g id="b2">
+					<path d=" M 457.47 152.94 L 402 69.735 M 478.271 139.073 L 422.801 55.868 M 499.073 125.205 L 443.603 42" fill="rgb(0,0,0)" stroke-width="16.667" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4"/>
+					<path d=" M 154.391 357.165 L 98.921 273.96 M 175.192 343.298 L 119.722 260.093 M 195.994 329.43 L 140.524 246.225" fill="rgb(0,0,0)" stroke-width="16.667" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4"/>
+				</g>
+				<path d=" M 137.057 308.629 L 157.858 294.761 M 417.874 121.417 L 442.142 105.239 M 462.943 91.371 L 483.744 77.504" fill="rgb(0,0,0)" stroke-width="8.333" stroke="rgb(255,255,255)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4"/>
+			</g>
+		</g>
+	</defs>
+</svg>

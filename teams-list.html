@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+        <title> Teams List | Countdown for the 2018 World Cup in Russia.</title>
+
+        <link rel="stylesheet" href="./assets/css/main.css">
+
+        <style>
+            .fancy-buttons-list .country-meta-wrapper {
+                max-height: 0;
+                opacity: 0;
+                transition: all 100ms linear;
+            }
+            .fancy-buttons-list.show-meta .country-meta-wrapper {
+                max-height: 10rem;
+                opacity: 1;
+            }
+            
+        </style>
+
+        <script src="./assets/js/main.js"></script>
+    </head>
+    <body>
+        <div class="app-toolbar">
+            <div class="left-icons-wrapper">
+            </div>
+            <div class="title-heading">
+                <h1> Teams </h1>
+            </div>
+            <div class="right-icons-wrapper">
+            </div>
+        </div>
+        <div class="app-container txt-algn-center dates">
+
+            <div class="separator-heading">
+                <div class="head">
+                    <h2>32 Countries</h2>
+                </div>
+                <div class="fancy-separator"></div>
+                <div class="body">
+                    <h3>5 Continents</h3>
+                </div>
+            </div>
+            
+            <div class="main-paragraph">
+                <p>
+                    There 32 teams who have qualified from 6 continents and the qualifying started over 4334 days ago. Here are the teams:
+                </p>
+            </div>
+
+            <div class="rounded-bar rearranger">
+                <span>Order by:</span>
+                <select name="order-countries-by" id="order-countries">
+                    <option value="Group">Group</option>
+                    <option value="Rank">Rank</option>
+                    <option value="Pot">Pot</option>
+                    <option value="Confederation">Confederation</option>
+                    <option value="Population">Population</option>
+                    <option value="Appearance">Appearance</option>
+                    <option value="Name">Alphabet</option>
+                </select>
+            </div>
+
+            <div>
+                <label for="hide-country-meta">
+                    <p>
+                        Hide country information 
+                        <input type="checkbox" name="" id="hide-country-meta">
+                    </p>
+                </label>
+            </div>
+
+            <div class="fancy-buttons-list show-meta">
+            </div>
+    
+            <footer class="custom-scrollbar">
+                <nav>
+                    <span class="footer-link"><a href="./"> Home </a></span>
+                    <span class="footer-link"><a href="./dates.html"> Dates </a></span>
+                    <span class="footer-link"><a href="./teams-list.html"> Teams </a></span>
+                    <span class="footer-link"><a href="./cities-list.html"> Cities </a></span>
+                    <span class="footer-link"><a href="./stadiums-list.html"> Stadiums </a></span>
+                    <span class="footer-link"><a href="./tournament-facts.html"> Facts </a></span>
+                    <span class="footer-link"><a href="./social-feeds.html"> Social </a></span>
+                    <span class="footer-link"><a href="./useful-links.html">Links </a></span>
+                </nav>
+            </footer>
+        </div>
+
+        <div class="templates">
+            <div class="fancy-button-item" data-ss-item="country-button">
+                <svg class="wc-fancy-button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="-11 -10 1222 230.612"
+                    width="1222" height="230.612">
+                    <defs>
+                        <style>
+                            text {
+                                font-family:Dusha;
+                                font-weight:400;
+                                font-size:20px;
+                                font-style:normal;
+                                fill:#d9cba0;
+                                stroke:none;
+                            }
+                            text.country-name {
+                                text-transform: uppercase;
+                            }
+                        </style>
+                        <clipPath id="flagClip">
+                            <rect x="161.635" y="40.146" width="191.365" height="126.31" rx="10" ry="10"></rect>
+                        </clipPath>
+                        <filter id="3dylUF5Un9wBqqrTJS4tykog5L3ByTSv" x="-200%" y="-200%" width="400%" height="400%">
+                            <feOffset xmlns="http://www.w3.org/2000/svg" in="SourceAlpha" result="offOut" dx="0" dy="1" />
+                            <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="offOut" result="blurOut" stdDeviation="2.5" />
+                            <feComponentTransfer xmlns="http://www.w3.org/2000/svg" in="blurOut" result="opacOut">
+                                <feFuncA xmlns="http://www.w3.org/2000/svg" type="table" tableValues="0 0.5" />
+                            </feComponentTransfer>
+                            <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="opacOut" mode="normal" />
+                        </filter>
+                    </defs>
+                    <g id="Button" filter="url(#3dylUF5Un9wBqqrTJS4tykog5L3ByTSv)">
+                        <defs>
+                            <filter id="kNBTIJjpzmA38fNRZdMcE3Mih2mDDIvH" x="-200%" y="-200%" width="400%" height="400%">
+                                <feOffset xmlns="http://www.w3.org/2000/svg" in="SourceAlpha" result="offOut" dx="0" dy="1" />
+                                <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="offOut" result="blurOut" stdDeviation="2.5" />
+                                <feComponentTransfer xmlns="http://www.w3.org/2000/svg" in="blurOut" result="opacOut">
+                                    <feFuncA xmlns="http://www.w3.org/2000/svg" type="table" tableValues="0 0.5" />
+                                </feComponentTransfer>
+                                <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="opacOut" mode="normal" />
+                            </filter>
+                        </defs>
+                        <g filter="url(#kNBTIJjpzmA38fNRZdMcE3Mih2mDDIvH)">
+                            <linearGradient id="_lgradient_0" x1="33.69178706102254%" y1="-16.624692903298836%" x2="45.34503436499094%" y2="149.45430993874697%">
+                                <stop offset="0%" stop-opacity="1" style="stop-color:rgb(248,245,199)" />
+                                <stop offset="97.82608695652173%" stop-opacity="1" style="stop-color:rgb(182,155,115)" />
+                            </linearGradient>
+                            <path d=" M 1095.89 208.38 Q 1134.18 210.81 1144.51 187.77 C 1152.44 175.85 1164.25 152.13 1172.49 141.46 Q 1181.86 129.33 1200 110.31 Q 1178.37 90.99 1169.94 76 C 1157.94 54.67 1147.34 26.44 1142.19 18.14 Q 1130.3 -2.55 1100.71 0.36 L 99.29 0.36 Q 69.7 -2.55 57.81 18.14 C 52.66 26.44 42.06 54.67 30.06 76 Q 21.63 90.99 0 110.31 Q 18.14 129.33 27.51 141.46 C 35.75 152.13 47.56 175.85 55.49 187.77 Q 65.82 210.81 104.11 208.38 L 1095.89 208.38 Z "
+                                fill="url(#_lgradient_0)" />
+                        </g>
+                        <linearGradient id="_lgradient_1" x1="-4.390245757758116%" y1="52.706606885852814%" x2="103.80631906735726%" y2="52.706606885852814%">
+                            <stop offset="2.608695652173913%" stop-opacity="1" style="stop-color:rgb(200,28,34)" />
+                            <stop offset="49.130434782608695%" stop-opacity="1" style="stop-color:rgb(200,28,34)" />
+                            <stop offset="97.3913043478261%" stop-opacity="1" style="stop-color:rgb(200,28,34)" />
+                        </linearGradient>
+                        <path d=" M 1074.45 192.31 L 1079.4 192.46 L 1089.58 191.87 L 1099.47 189.55 L 1099.47 189.55 C 1099.62 189.55 1099.62 189.55 1099.76 189.55 C 1103.4 188.09 1106.6 185.91 1109.51 183.44 C 1112.27 180.82 1114.31 177.76 1115.76 174.42 L 1125.66 158.12 L 1125.66 157.98 C 1129.73 150.27 1134.24 143 1139.19 135.87 L 1147.48 125.98 L 1162.75 109.39 L 1145.29 91.79 L 1137 80.15 L 1121.87 48.44 L 1113.87 31.57 L 1107.91 24.15 L 1100.49 19.2 L 1091.33 16.58 L 1083.76 16.15 L 1078.52 16.44 L 121.48 16.44 L 116.24 16.15 L 108.67 16.58 L 99.51 19.2 L 92.09 24.15 L 86.13 31.57 L 77.98 48.44 L 63 80.01 L 54.71 91.79 L 37.25 109.39 L 52.52 125.98 L 60.81 135.87 C 65.76 143 70.27 150.27 74.34 157.98 L 74.34 158.12 L 84.24 174.42 C 85.69 177.76 87.73 180.82 90.49 183.44 C 93.4 185.91 96.6 188.09 100.24 189.55 C 100.38 189.55 100.38 189.55 100.53 189.55 L 100.53 189.55 L 110.42 191.87 L 120.6 192.46 L 125.55 192.31 L 1074.45 192.31 Z "
+                            fill="url(#_lgradient_1)" />
+                        <g transform="matrix(2.98,0,0,2.98,393.75,41.97)">
+                            <text transform="matrix(1,0,0,1,28.79,26.12)" class="country-name"
+                                data-str-sub-country-button="Name">KOREA REPUBLIC</text>
+                        </g>
+                        <path d=" M 1113.59 104.31 C 1113.59 101.2 1116.11 98.68 1119.21 98.68 C 1122.32 98.68 1124.84 101.2 1124.84 104.31 C 1124.84 107.41 1122.32 109.93 1119.21 109.93 C 1116.11 109.93 1113.59 107.41 1113.59 104.31 Z "
+                            fill="rgb(192,175,134)" />
+                        <path d=" M 75.18 104.31 C 75.18 101.2 77.7 98.68 80.8 98.68 C 83.91 98.68 86.43 101.2 86.43 104.31 C 86.43 107.41 83.91 109.93 80.8 109.93 C 77.7 109.93 75.18 107.41 75.18 104.31 Z "
+                            fill="rgb(192,175,134)" />
+                        <rect x="161.635" y="16.146" width="191.365" height="176.31" transform="matrix(1,0,0,1,0,0)" fill="transparent"/>
+                        <image xlink:href="./assets/images/korea.png" x="161.635" y="16.146" width="191.365" height="176.31" style="clip-path: url(#flagClip);" />
+                    </g>
+                </svg>
+                <div class="country-meta-wrapper">
+                    <div class="country-meta">
+                        <div class="left-side">
+                                <p class="category-value">
+                                    <span class="category">Rank</span>
+                                    <span class="value" data-str-sub-country-button="Rank">38</span>
+                                </p>
+                                <p class="category-value">
+                                    <span class="category">Group</span>
+                                    <span class="value" data-str-sub-country-button="Group">F</span>
+                                </p>
+                                <p class="category-value">
+                                    <span class="category">Pot</span>
+                                    <span class="value" data-str-sub-country-button="Pot">4</span>
+                                </p>
+                        </div>
+                    <div class="right-side">
+                            <p class="category-value">
+                                <span class="category">Conf.</span>
+                                <span class="value" data-str-sub-country-button="Confederation">CONCACAF</span>
+                            </p>
+                            <p class="category-value">
+                                <span class="category">Pop.</span>
+                                <span class="value">274980</span>
+                            </p>
+                            <p class="category-value">
+                                <span class="category">App.</span>
+                                <span class="value">4</span>
+                            </p>
+                    </div>
+                    </div>
+                    <div class="fancy-separator"></div>
+                </div>
+            </div>            
+        </div>
+
+        <script>
+            let countryList;
+            fetchJSON("./assets/json/Team Order List.json").then(data => {
+                countryList = data;
+                countryList.forEach( (item, index) => item.index = index );
+                const strSubGroupName = "country-button";
+                const btnListEl = document.querySelector(".fancy-buttons-list");
+                for (let index = 0; index < data.length; index++) {
+                    const btnItemEl = document.querySelector(".templates .fancy-button-item")
+                            .cloneNode(true);
+                    btnListEl.appendChild(btnItemEl);
+                }
+                insertGroupStrings(data, strSubGroupName);
+
+                const appContainer = document.querySelector(".app-container");
+                appContainer.querySelectorAll("svg.wc-fancy-button").forEach(fancyBtn => {
+                    const fancyBtnCountryTextEl = fancyBtn.querySelector("text.country-name");
+                    if(!fancyBtnCountryTextEl) return;
+                    const countryName = fancyBtnCountryTextEl.textContent;
+                    const flagImagePath = "./assets/images/country flags/"+countryName+".svg";
+                    fancyBtn.querySelector("image")
+                        .setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', flagImagePath);
+                })
+            });
+            document.querySelector("#order-countries").addEventListener("change", function(e){
+                let category = e.target.value;
+                // if we're ordering by group just use the index of the countries
+                // since the country list json is already by default ordered by group
+                if(category == "Group") category = "index";
+                countryList.sort( (a,b) => {
+                    return (a[category] > b[category]) ? 1 : ((b[category] > a[category]) ? -1 : 0);
+                });
+                console.log(countryList[0]);
+                const fancyBtnListEl = document.querySelector(".fancy-buttons-list");
+                countryList.forEach(country => {
+                    const fancyBtnEl = fancyBtnListEl.querySelector("[data-ss-index='"+country.index+"']");
+                    fancyBtnListEl.insertBefore(fancyBtnEl, null);
+                });
+            });
+            document.querySelector("input#hide-country-meta").addEventListener("change", e => {
+                document.querySelector(".fancy-buttons-list").classList.toggle("show-meta");
+            })
+        </script>
+    </body>
+</html>

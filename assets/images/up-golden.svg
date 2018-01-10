@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="450 100 300 300"
+    width="300" height="300">
+    <g id="Group">
+        <path d=" M 601.5 211.3 L 518.2 291.3 L 507.7 281.3 L 596.3 196.3 L 601.5 191.3 L 606.7 196.3 L 695.2 281.3 L 684.8 291.3 L 601.5 211.3 L 601.5 211.3 Z "
+            fill-rule="evenodd" fill="rgb(207,189,147)" />
+        <rect x="450" y="100" width="300" height="300" transform="matrix(0,-1,1,0,350,850)" fill="none" />
+    </g>
+</svg>

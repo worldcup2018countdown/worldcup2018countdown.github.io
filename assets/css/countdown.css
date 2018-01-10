@@ -1,0 +1,100 @@
+.countdown-wrapper.countdown-mini {
+    margin: 1rem;
+}
+.countdown-mini .countdown-intro,
+.countdown-mini .countdown-area {
+    color:  var(--app-gold);
+}
+.countdown-mini #countdown-days h2 {
+    font-size: 2em;
+    margin: 0;
+}
+.countdown-mini #countdown-separator {
+    width: 100%;
+    height: 1rem;
+    background-image: url('../images/Fancy Separator.png');
+}
+.countdown-mini .countdown-time h3 {
+    display: inline-block;
+    padding: 0 0.25em;
+    font-size: 1.1em;
+    margin: 0;
+}
+.countdown-time #cntdwn-secs-figure {
+    min-width: 1.5em;
+    display: inline-block;
+}
+#cntdwn-sec-ones {
+    padding: 0 0.125em;
+}
+
+
+.time-figure {
+    display: inline-block;
+    /* border: solid lime 2px; */
+    transition: transform 0.8s ease;
+    animation-duration: 0.8s;
+}
+.time-figure:hover {
+   /* color: pink; */
+}
+.magnify-n-rotate {
+    transform: rotateY(360deg) scale(1.2);
+}
+.rotate-z {
+    transform: rotateZ(360deg);
+}
+.rotate-x {
+    transform: rotateX(360deg);
+}
+.rotate-x-3x {
+    transform: rotateX(1080deg);
+}
+
+.countdown-area {position: relative;}
+.countdown-area.show-end .end-message{
+    display: flex;
+}
+.countdown-area.show-end .countdown {
+    /*display: none;*/
+    opacity: 0;
+}
+.end-message {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: indigo;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none
+}
+
+
+.animate-flbd   {animation-name: fromLeftBottomDiagonal;}
+.animate-fltd 	{animation-name: fromLeftTopDiagonal;}
+.animate-ft 	{animation-name: fromTop;}
+.animate-fb 	{animation-name: fromBeneath;}
+.animate-frtd	{animation-name: fromRightTopDiagonal;}
+.animate-frbd 	{animation-name: fromRightBottomDiagonal;}
+
+@keyframes fromLeftBottomDiagonal {
+    0% {transform: translate(-20px, 20px);}
+}
+@keyframes fromLeftTopDiagonal {
+    0% {transform: translate(-20px, -20px);}
+}
+@keyframes fromTop {
+    0% {transform: translateY(-40px);}
+}
+@keyframes fromBeneath {
+    0% {transform: translateY(40px);}
+}
+@keyframes fromRightBottomDiagonal {
+    0% {transform: translate(20px, 20px);}
+}
+@keyframes fromRightTopDiagonal {
+    0% {transform: translate(20px, -20px);}
+}

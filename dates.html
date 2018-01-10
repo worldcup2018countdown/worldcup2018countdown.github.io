@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+        <title> Dates | Countdown for the 2018 World Cup in Russia.</title>
+
+        <link rel="stylesheet" href="./assets/css/main.css">
+        <link rel="stylesheet" href="./assets/css/dates.css">
+    </head>
+    <body>
+        <div class="app-toolbar">
+            <div class="left-icons-wrapper">
+                <!-- <div class="icon-wrapper"></div>
+                <div class="icon-wrapper"></div> -->
+            </div>
+            <div class="title-heading">
+                <h1>Dates</h1>
+            </div>
+            <div class="right-icons-wrapper">
+                    <!-- <div class="icon-wrapper"></div> -->
+            </div>
+        </div>
+        <div class="app-container txt-algn-center dates">
+
+            <div class="app-content">
+                <h1 class="date-header" id="date-header">14th June</h1>
+
+                <div class="fancy-separator"></div>
+
+                <div class="match-cards-container show-stadiums">
+                    <div class="narrow-card match-card">
+                        <div class="left-section time">
+                            <h3 class="time-text">23:45</h3>
+                        </div>
+                        <div class="right-section match-teams">
+                            <h3 class="team-text">Saudi Arabia</h3>
+                            <h5 class="vs-text">vs</h5>
+                            <h3 class="team-text">Uruguay</h3>
+                            <div class="venue">
+                                <h4 class="venue-text">Krestovskiy Stadium, Saint Petersburg</h4>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="narrow-card match-card">
+                        <div class="left-section time">
+                            <h3 class="time-text">20:30</h3>
+                        </div>
+                        <div class="right-section match-teams">
+                            <h3 class="team-text">Russia</h3>
+                            <h5 class="vs-text">vs</h5>
+                            <h3 class="team-text">Egypt</h3>
+                        </div>
+                    </div>
+
+                    <div class="narrow-card match-card">
+                        <div class="left-section time">
+                            <h3 class="time-text">18:00</h3>
+                        </div>
+                        <div class="right-section match-teams">
+                            <h3 class="team-text">Portugal</h3>
+                            <h5 class="vs-text">vs</h5>
+                            <h3 class="team-text">Spain</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="rest-day-wrapper" class="hide">
+                    <h3>Rest Day</h3>
+                </div>
+                
+                <label id="show-stadiums-label" for="show-stadiums-checkbox">
+                    Show stadiums
+                    <input type="checkbox" name="show-stadiums" id="show-stadiums-checkbox" checked>
+                </label>
+
+                <div class="carousel-paginator" id="matchday-paginator">
+                    <button class="previous" id="prev-day">
+                        <div class="icon-wrapper center-bg"></div>
+                    </button>
+                    <button class="next" id="next-day">
+                        <div class="icon-wrapper center-bg"></div>
+                    </button>
+                </div>
+            </div>
+    
+            <footer class="custom-scrollbar">
+                <nav>
+                    <span class="footer-link"><a href="./"> Home </a></span>
+                    <span class="footer-link"><a href="./dates.html"> Dates </a></span>
+                    <span class="footer-link"><a href="./teams-list.html"> Teams </a></span>
+                    <span class="footer-link"><a href="./cities-list.html"> Cities </a></span>
+                    <span class="footer-link"><a href="./stadiums-list.html"> Stadiums </a></span>
+                    <span class="footer-link"><a href="./tournament-facts.html"> Facts </a></span>
+                    <span class="footer-link"><a href="./social-feeds.html"> Social </a></span>
+                    <span class="footer-link"><a href="./useful-links.html">Links </a></span>
+                </nav>
+            </footer>
+        </div>
+
+        <div class="templates">
+            <div class="narrow-card match-card">
+                    <div class="left-section time">
+                        <h3 class="time-text" data-str-sub-match-dates-list="Time"></h3>
+                    </div>
+                    <div class="right-section match-teams">
+                        <h3 class="team-text" data-str-sub-match-dates-list="Team 1"></h3>
+                        <h5 class="vs-text">vs</h5>
+                        <h3 class="team-text" data-str-sub-match-dates-list="Team 2"></h3>
+                        <div class="venue">
+                            <h4 class="venue-text">
+                                <!-- <a href="#"> -->
+                                    <span class="stadium" data-str-sub-match-dates-list="Stadium"></span>,
+                                <!-- </a>  -->
+                                <!-- <a href="#"> -->
+                                    <span class="city" data-str-sub-match-dates-list="City"></span>
+                                <!-- </a> -->
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <script src="./assets/js/main.js"></script>
+        <script src="./assets/js/dates.js"></script>
+    </body>
+</html>

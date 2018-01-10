@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+        <title> Stadium | Countdown for the 2018 World Cup in Russia.</title>
+
+        <link rel="stylesheet" href="../assets/css/main.css">
+        <link rel="stylesheet" href="../assets/css/modal.css">
+        <link rel="stylesheet" href="../assets/css/simple-card-carousel.css">
+        <style>
+            h2,h3,h4,h5,h6,p {
+                margin: 0;
+                padding: 0;
+                color: var(--app-gold);
+            }
+            .stadium-hero-wrapper {
+                position: relative;
+                padding-top: 33.33%;
+                width: 100%;
+            }
+            .stadium-hero {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                background-size: cover;
+                border-radius: 4px;
+            }
+            .stadium-stats {
+                position: absolute;
+                bottom: 0;
+                width: 100%;
+                border-bottom-right-radius: 4px;
+                border-bottom-left-radius: 4px;
+                background-color: var(--app-dark-accent-blue);
+            }
+            .stadium-info-container {
+                width: 90%;
+                max-width: 720px;
+                margin: 0 auto;
+            }
+            section .section-header {
+                margin: 0.5em 0 0.25em;
+                border-bottom: dashed var(--app-gold) 1px;
+            }
+            section .section-hero {
+                position: relative;
+                width: 100%;
+                /* max-width: 720px; */
+                margin: 0 auto;
+            }
+            section .section-hero img {
+                border-radius: 4px;
+                width: 100%;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+            section .section-hero:hover .copyright-text {
+                opacity: 1;
+            }
+            .copyright-text {
+                position: absolute;
+                opacity: 0;
+                bottom: 0;
+                background-color: var(--app-dark-accent-blue);
+                padding: 0.125rem 0.5rem;
+                margin-bottom: 0.125rem;
+                width: 100%;
+                box-sizing: border-box;
+                border-bottom-left-radius: 4px;
+                border-bottom-right-radius: 4px;
+                transition: opacity 300ms ease;
+            }
+            section .section-content {
+                text-align: left;
+            }
+            section section:not(:last-child){
+                margin-bottom: 1rem;
+            }
+            section section h3 {
+                color: var(--app-bg-white);
+                text-decoration: underline;
+            }
+            .sectors-intro {
+                text-align: left;
+            }
+            .sectors-thumbnail .center-bg {
+                background-size: cover;
+            }
+            .sectors-thumbnail {
+                box-sizing: border-box;
+                display: flex;
+                position: relative;
+                width: 100%;
+                padding-top: 40%;
+                overflow-y: hidden;
+                /* border: solid var(--app-accent-blue) 1px; */
+            }
+            .main-image-wrapper {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                width: 60%;
+                height: 100%;
+                background-color: azure;
+            }
+            .minor-images {
+                position: absolute;
+                top: 0%;
+                left: 60%;
+                width: 40%;
+                height: 100%;
+            }
+            .minor-image-top-wrapper,
+            .minor-image-bottom-wrapper {
+                height: 50%;
+            }
+            .youtube-wrapper {
+                position: relative;
+                width: 100%;
+                padding-top: 56.25%;
+            }
+            .youtube-wrapper iframe {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                box-sizing: border-box;
+                width: 100%;
+                height: 100%;
+                border: solid var(--app-dark-accent-blue) 1px;
+                border-radius: 4px;                
+            }
+            #modal .carousel-wrapper {
+                margin-top: 1rem;
+            }
+            #modal img {
+                max-height: 100%;
+                max-width: auto;
+            }
+            .carousel-photo-explainer {
+                position: absolute;
+                bottom: 0;
+                background: var(--app-blue);
+                padding: 0 4px;              
+            }
+        </style>
+    </head>
+    <body>
+        <div class="app-toolbar">
+            <div class="left-icons-wrapper">
+                <!-- <div class="icon-wrapper"></div> -->
+            </div>
+            <div class="title-heading">
+                <h1>Krestovskiy Stadium</h1>
+            </div>
+            <div class="right-icons-wrapper">
+                <!-- <div class="icon-wrapper"></div> -->
+            </div>
+        </div>
+        <div class="app-container txt-algn-center stadium wide">
+            <!-- stadium hero -->
+            <div class="stadium-hero-wrapper">
+                <div class="stadium-hero center-bg" style="background-image: url(http://piterarena.com/sites/default/files/title-img/svet2_full_0.jpg)">
+                    <div class="stadium-stats">
+                        <h4>Capacity: 45000</h4>
+                        <h4>City: Moscow</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="stadium-info-container">
+            <!-- stadium design -->
+                <section>
+                    <h2 class="section-header">Design</h2>
+                    <div class="section-hero">
+                        <img src="http://i078.radikal.ru/1410/3c/1a128526020b.jpg" alt="Stadium Design Image">
+                        <p class="copyright-text">Hello World!</p>
+                    </div>
+                    <div class="section-content">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi maxime deserunt expedita, porro enim minima eos facere ipsum unde. Quisquam, minima? Dolore explicabo placeat quis voluptates animi ullam eaque fuga.
+                        </p>
+                    </div>
+                </section>
+
+            <!-- stadium history -->
+                <section></section>
+
+
+            <!-- stadium legacy -->
+                <section></section>
+
+
+            <!-- Additional Information -->
+                <section class="additional-information">
+                    <h2 class="section-header">Additional Information</h2>
+                <!-- sectors -->
+                    <section>
+                        <h3>Sectors</h3>
+                        <p class="sectors-intro">
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                        </p>
+                        <div class="sectors-thumbnail">
+                            <div class="main-image-wrapper center-bg modal-triggers" data-for-scard-num="0"
+                                style="background-image:url(http://pic2.fc-zenit.ru/upload/files/stadium_map.jpg)">
+                                <!-- <img src="http://pic2.fc-zenit.ru/upload/files/stadium_map.jpg" alt=""> -->
+                            </div>
+                            <div class="minor-images">
+                                <div class="minor-image-top-wrapper center-bg modal-triggers" data-for-scard-num="1"
+                                    style="background-image:url(http://app.globoesporte.globo.com/futebol/copa-das-confederacoes/arena-zenit/assets/images/stadium-comparison-new.jpg)">
+                                        <!-- <img src="http://app.globoesporte.globo.com/futebol/copa-das-confederacoes/arena-zenit/assets/images/stadium-comparison-new.jpg" alt=""> -->
+                                </div>
+                                <div class="minor-image-bottom-wrapper center-bg modal-triggers" data-for-scard-num="2"
+                                    style="background-image:url(http://www.sportsevents365.com/images/venues/thumbs/Krestovsky-Stadium.png)">
+                                        <!-- <img src="http://www.sportsevents365.com/images/venues/thumbs/Krestovsky-Stadium.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                <!-- video -->
+                    <section>
+                        <h3>Video Tour</h3>
+                        <div class="youtube-wrapper">
+                            <!-- <iframe src="https://www.youtube.com/embed/RyWYpNw86PE">
+                            </iframe> -->
+                        </div>
+                    </section>
+                </section>
+
+                <!-- The Modal -->
+                <div id="modal" class="modal">
+
+                    <!-- Modal content -->
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <div class="carousel-wrapper ease">
+                            <div class="carousel-card show-card" data-scard-num="0">
+                                <div class="prev next-prev">
+                                    <h4>&lt;</h4>
+                                    <p>Previous</p>
+                                </div>
+                                <div class="card-content">
+                                    <img src="http://pic2.fc-zenit.ru/upload/files/stadium_map.jpg">
+                                    
+                                    <p class="carousel-photo-explainer">Hello World!</p>
+                                </div>
+                                <div class="next next-prev">
+                                    <h4>&gt;</h4>
+                                    <p>Next</p>
+                                </div>
+                            </div>
+                            <div class="carousel-card" data-scard-num="1">
+                                <div class="prev next-prev">
+                                    <h4>&lt;</h4>
+                                    <p>Previous</p>
+                                </div>
+                                <div class="card-content">
+                                    <img src="http://app.globoesporte.globo.com/futebol/copa-das-confederacoes/arena-zenit/assets/images/stadium-comparison-new.jpg">
+                                </div>
+                                <div class="next next-prev">
+                                    <h4>&gt;</h4>
+                                    <p>Next</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+    
+            <footer class="custom-scrollbar">
+                <nav>
+                    <span class="footer-link"><a href="../"> Home </a></span>
+                    <span class="footer-link"><a href="../dates.html"> Dates </a></span>
+                    <span class="footer-link"><a href="../teams-list.html"> Teams </a></span>
+                    <span class="footer-link"><a href="../cities-list.html"> Cities </a></span>
+                    <span class="footer-link"><a href="../stadiums-list.html"> Stadiums </a></span>
+                    <span class="footer-link"><a href="../tournament-facts.html"> Facts </a></span>
+                    <span class="footer-link"><a href="../social-feeds.html"> Social </a></span>
+                    <span class="footer-link"><a href="../useful-links.html">Links </a></span>
+                </nav>
+            </footer>
+        </div>
+
+        <script src="../assets/js/main.js"></script>
+        <script src="../assets/js/modal.js"></script>
+        <script src="../assets/js/simple-card-carousel.js"></script>
+        <script>
+            // A click on the images open the modal
+            var modalTriggers = document.querySelectorAll(".modal-triggers");
+            
+            // When the user clicks on the button, open the modal
+            modalTriggers.forEach(div => {
+                div.addEventListener("click", e => {
+                    document.querySelectorAll(".carousel-card")
+                        .forEach(card => card.classList.remove("show-card"));
+                    const wantedScardNum = div.dataset.forScardNum;
+                    const wantedScardQuery = "[data-scard-num='"+wantedScardNum+"']";
+                    document.querySelector(".carousel-wrapper")
+                        .querySelector(wantedScardQuery).classList.add("show-card");
+                    modal.style.display = "block";
+                });
+            })            
+        </script>
+
+    </body>
+</html>

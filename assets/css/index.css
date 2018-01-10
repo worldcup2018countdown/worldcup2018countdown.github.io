@@ -1,0 +1,58 @@
+.hero {
+    min-height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.wc-logo {
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    background-image: url(../images/fwc-2018-logo1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wc-title {
+    color: whitesmoke;
+}
+
+.wc-title .fwc-text {
+    margin: 0;
+    font-size: 1em;
+}
+
+.wc-title .r2018-text {
+    margin: 0;
+    font-size: 2.4em;
+}
+
+.countdown-wrapper {
+    margin: 15vh 0;
+}
+
+.countdown-intro,
+.countdown-area {
+    color:  var(--app-gold);
+}
+
+#countdown-days h2 {
+    font-size: 4em;
+    margin: 0.5rem;
+}
+
+#countdown-separator {
+    width: 100%;
+    height: 2rem;
+    background-image: url('../images/Fancy Separator.png');
+}
+
+.countdown-time h3 {
+    display: inline-block;
+    padding: 0 8px;
+    /* font-size: 2.2em; */
+    font-size: 2.1em;
+    margin: 1rem 0;
+}

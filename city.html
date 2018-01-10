@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+        <title> Moscow | Host City | Countdown for the 2018 World Cup in Russia.</title>
+
+        <link rel="stylesheet" href="./assets/css/main.css">
+
+        <style>
+            .city {
+                color: var(--app-gold)
+            }
+            .city-hero {
+                display: flex;
+                margin-bottom: 1rem;
+                padding-bottom: 1rem;
+                border-bottom: dashed 1px;
+            }
+            .host-city-badge {
+                width: 40%;
+                padding: 4px;
+            }
+            .host-city-details {
+                width: 60%;
+            }
+            .host-city-details .city-name {
+                font-size: 2em;
+            }
+            .host-city-details .city-stats h3{
+                margin: 0.25em 0;
+            }
+            .host-city-details .city-stats span{
+                display: inline-block;
+                width: 45%;
+            }
+            .host-city-details .city-stats span:first-child {
+                text-align: left;
+            }
+            .host-city-details .city-stats span:last-child {
+                text-align: right;
+            }
+            .city-info img {
+                max-width: 100%;
+                height: auto;
+            }
+            .city-stadiums {
+                text-align: left;
+            }
+            .city-stadiums h3 {
+                font-size: 1.4rem;
+                border-bottom: dashed 1px;
+                margin: 2rem 1rem 1rem;
+            }
+            .city-stadiums a h5,
+            .city-stadiums a:visited h5 {
+                color: var(--app-gold);
+                text-decoration: underline;
+                transition: all 200ms linear;
+            }
+            .city-stadiums a:hover h5,
+            .city-stadiums a:focus h5 {
+                color: goldenrod;
+                font-size: 1.25rem;
+            }
+            .city-stadiums h5 {
+                padding-left: 1rem;
+                font-size: 1.2rem;
+                margin: 0.5rem 0;
+            }
+            @media screen and (min-width: 680px){
+                .app-container.wide {width: 80%;}
+            }
+        </style>
+    </head>
+    <body>
+        <div class="app-toolbar">
+            <div class="left-icons-wrapper">
+                <!-- <div class="icon-wrapper"></div> -->
+            </div>
+            <div class="title-heading">
+                <h1>Moscow</h1>
+            </div>
+            <div class="right-icons-wrapper">
+                <!-- <div class="icon-wrapper"></div> -->
+            </div>
+        </div>
+        <div class="app-container txt-algn-center city wide">
+            <div class="city-hero">
+                <div class="host-city-badge center-bg" style="background-image:url(./assets/images/cities/city-badges-moscow.png)"></div>
+                <div class="host-city-details">
+                    <h2 class="city-name">Moscow</h2>
+                    <div class="city-stats">
+                        <h3>
+                            <span>Founded</span>
+                            <span>1440</span>
+                        </h3>
+                        <h3>
+                            <span>Population</span>
+                            <span>3 567 890</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+
+            <section class="city-info">
+                <img src="./assets/images/cities/Moscow.jpg" alt="">
+            </section>
+
+            <section class="city-stadiums">
+                <h3>Stadiums</h3>
+                <a href="#"><h5>Luzhinki Stadium</h5></a>
+                <a href="#"><h5>Spartak Arena</h5></a>
+            </section>
+
+    
+            <footer class="custom-scrollbar">
+                <nav>
+                    <span class="footer-link"><a href="./"> Home </a></span>
+                    <span class="footer-link"><a href="./dates.html"> Dates </a></span>
+                    <span class="footer-link"><a href="./teams-list.html"> Teams </a></span>
+                    <span class="footer-link"><a href="./cities-list.html"> Cities </a></span>
+                    <span class="footer-link"><a href="./stadiums-list.html"> Stadiums </a></span>
+                    <span class="footer-link"><a href="./tournament-facts.html"> Facts </a></span>
+                    <span class="footer-link"><a href="./social-feeds.html"> Social </a></span>
+                    <span class="footer-link"><a href="./useful-links.html">Links </a></span>
+                </nav>
+            </footer>
+        </div>
+
+        <script src="./assets/js/main.js"></script>
+    </body>
+</html>

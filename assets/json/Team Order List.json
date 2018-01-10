@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "Russia",
+    "Rank": 65,
+    "Confederation": "UEFA",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "A",
+    "Trophies": ""
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Rank": 63,
+    "Confederation": "AFC",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "A",
+    "Trophies": ""
+  },
+  {
+    "Name": "Egypt",
+    "Rank": 30,
+    "Confederation": "CAF",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "A",
+    "Trophies": ""
+  },
+  {
+    "Name": "Uruguay",
+    "Rank": 17,
+    "Confederation": "CONMEBOL",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "A",
+    "Trophies": ""
+  },
+  {
+    "Name": "Portugal",
+    "Rank": 3,
+    "Confederation": "UEFA",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "B",
+    "Trophies": ""
+  },
+  {
+    "Name": "Spain",
+    "Rank": 8,
+    "Confederation": "UEFA",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "B",
+    "Trophies": ""
+  },
+  {
+    "Name": "Morocco",
+    "Rank": 48,
+    "Confederation": "CAF",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "B",
+    "Trophies": ""
+  },
+  {
+    "Name": "Iran",
+    "Rank": 34,
+    "Confederation": "AFC",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "B",
+    "Trophies": ""
+  },
+  {
+    "Name": "France",
+    "Rank": 7,
+    "Confederation": "UEFA",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "C",
+    "Trophies": ""
+  },
+  {
+    "Name": "Australia",
+    "Rank": 43,
+    "Confederation": "AFC",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "C",
+    "Trophies": ""
+  },
+  {
+    "Name": "Peru",
+    "Rank": 10,
+    "Confederation": "CONMEBOL",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "C",
+    "Trophies": ""
+  },
+  {
+    "Name": "Denmark",
+    "Rank": 19,
+    "Confederation": "UEFA",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "C",
+    "Trophies": ""
+  },
+  {
+    "Name": "Argentina",
+    "Rank": 4,
+    "Confederation": "CONMEBOL",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "D",
+    "Trophies": ""
+  },
+  {
+    "Name": "Iceland",
+    "Rank": 21,
+    "Confederation": "UEFA",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "D",
+    "Trophies": ""
+  },
+  {
+    "Name": "Croatia",
+    "Rank": 18,
+    "Confederation": "UEFA",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "D",
+    "Trophies": ""
+  },
+  {
+    "Name": "Nigeria",
+    "Rank": 41,
+    "Confederation": "CAF",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "D",
+    "Trophies": ""
+  },
+  {
+    "Name": "Brazil",
+    "Rank": 2,
+    "Confederation": "CONMEBOL",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "E",
+    "Trophies": ""
+  },
+  {
+    "Name": "Switzerland",
+    "Rank": 11,
+    "Confederation": "UEFA",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "E",
+    "Trophies": ""
+  },
+  {
+    "Name": "Costa Rica",
+    "Rank": 22,
+    "Confederation": "CONCACAF",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "E",
+    "Trophies": ""
+  },
+  {
+    "Name": "Serbia",
+    "Rank": 38,
+    "Confederation": "UEFA",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "E",
+    "Trophies": ""
+  },
+  {
+    "Name": "Germany",
+    "Rank": 1,
+    "Confederation": "UEFA",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "F",
+    "Trophies": ""
+  },
+  {
+    "Name": "Mexico",
+    "Rank": 16,
+    "Confederation": "CONCACAF",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "F",
+    "Trophies": ""
+  },
+  {
+    "Name": "Sweden",
+    "Rank": 25,
+    "Confederation": "UEFA",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "F",
+    "Trophies": ""
+  },
+  {
+    "Name": "South Korea",
+    "Rank": 62,
+    "Confederation": "AFC",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "F",
+    "Trophies": ""
+  },
+  {
+    "Name": "Belgium",
+    "Rank": 5,
+    "Confederation": "UEFA",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "G",
+    "Trophies": ""
+  },
+  {
+    "Name": "Panama",
+    "Rank": 49,
+    "Confederation": "CONCACAF",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "G",
+    "Trophies": ""
+  },
+  {
+    "Name": "Tunisia",
+    "Rank": 28,
+    "Confederation": "CAF",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "G",
+    "Trophies": ""
+  },
+  {
+    "Name": "England",
+    "Rank": 12,
+    "Confederation": "UEFA",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "G",
+    "Trophies": ""
+  },
+  {
+    "Name": "Poland",
+    "Rank": 6,
+    "Confederation": "UEFA",
+    "Pot": 1,
+    "Appearance": "",
+    "Population": "",
+    "Group": "H",
+    "Trophies": ""
+  },
+  {
+    "Name": "Senegal",
+    "Rank": 32,
+    "Confederation": "CAF",
+    "Pot": 3,
+    "Appearance": "",
+    "Population": "",
+    "Group": "H",
+    "Trophies": ""
+  },
+  {
+    "Name": "Colombia",
+    "Rank": 13,
+    "Confederation": "CONMEBOL",
+    "Pot": 2,
+    "Appearance": "",
+    "Population": "",
+    "Group": "H",
+    "Trophies": ""
+  },
+  {
+    "Name": "Japan",
+    "Rank": 44,
+    "Confederation": "AFC",
+    "Pot": 4,
+    "Appearance": "",
+    "Population": "",
+    "Group": "H",
+    "Trophies": ""
+  }
+]

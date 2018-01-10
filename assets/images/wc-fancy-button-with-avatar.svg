@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="284.32 261 296.361 70" width="296.361" height="70">
+	<g id="BUTTON">
+		<defs>
+			<filter id="WlA1nB7W46yqzEDSco4BDL1fXQBSjpyT" x="-200%" y="-200%" width="400%" height="400%">
+				<feOffset xmlns="http://www.w3.org/2000/svg" in="SourceAlpha" result="offOut" dx="0" dy="1"/>
+				<feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="offOut" result="blurOut" stdDeviation="2.5"/>
+				<feComponentTransfer xmlns="http://www.w3.org/2000/svg" in="blurOut" result="opacOut">
+					<feFuncA xmlns="http://www.w3.org/2000/svg" type="table" tableValues="0 0.5"/>
+				</feComponentTransfer>
+				<feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="opacOut" mode="normal"/>
+			</filter>
+		</defs>
+		<g filter="url(#WlA1nB7W46yqzEDSco4BDL1fXQBSjpyT)">
+			<linearGradient id="_lgradient_2" x1="33.69178706102254%" y1="-16.624692903298836%" x2="45.34503436499094%" y2="149.45430993874697%">
+				<stop offset="0%" stop-opacity="1" style="stop-color:rgb(248,245,199)"/>
+				<stop offset="97.82608695652173%" stop-opacity="1" style="stop-color:rgb(182,155,115)"/>
+			</linearGradient>
+			<path d=" M 485.189 325 L 546.398 325 C 552.017 324.41 559.093 325 561.36 319.559 C 565.674 309.205 574.962 296.436 575.642 296.266 C 576.322 296.096 567.708 290.995 561.36 271.952 C 558.504 263.382 552.746 265.151 546.398 265.151 L 466.146 265.151 L 466.146 265.151 L 386.801 265.151 L 318.602 265.151 C 312.254 265.151 306.496 263.382 303.64 271.952 C 297.292 290.995 288.678 296.096 289.358 296.266 C 290.038 296.436 299.326 309.205 303.64 319.559 C 305.907 325 312.983 324.41 318.602 325 L 406.751 325 L 485.189 325 Z " fill="url(#_lgradient_2)"/>
+		</g>
+		<linearGradient id="_lgradient_3" x1="-4.390245757758116%" y1="52.706606885852814%" x2="103.80631906735726%" y2="52.706606885852814%">
+			<stop offset="2.608695652173913%" stop-opacity="1" style="stop-color:rgb(200,28,34)"/>
+			<stop offset="49.130434782608695%" stop-opacity="1" style="stop-color:rgb(200,28,34)"/>
+			<stop offset="97.3913043478261%" stop-opacity="1" style="stop-color:rgb(200,28,34)"/>
+		</linearGradient>
+		<path d=" M 481.624 322.28 L 538.318 322.28 C 543.523 321.758 551.437 322.28 553.537 317.469 C 557.533 308.315 564.776 297.025 565.406 296.875 C 566.036 296.724 560.777 292.215 554.897 275.378 C 552.251 267.801 544.198 269.365 538.318 269.365 L 463.986 269.365 L 463.986 269.365 L 390.493 269.365 L 327.324 269.365 C 321.445 269.365 313.391 267.801 310.745 275.378 C 304.865 292.215 299.607 296.724 300.237 296.875 C 300.866 297.025 308.109 308.315 312.105 317.469 C 314.205 322.28 322.119 321.758 327.324 322.28 L 408.971 322.28 L 481.624 322.28 Z " fill="url(#_lgradient_3)"/><g transform="matrix(1.36,0,0,1.36,386.801,269.912)">
+			<text transform="matrix(1,0,0,1,0.918,23.091)" style="font-family:Dusha;font-weight:400;font-size:14px;font-style:normal;fill:#ffffff;stroke:none;">KOREA REPUBLIC</text>
+		</g>
+		<path d=" M 553.888 295.855 C 553.888 294.44 555.037 293.291 556.452 293.291 C 557.867 293.291 559.015 294.44 559.015 295.855 C 559.015 297.27 557.867 298.418 556.452 298.418 C 555.037 298.418 553.888 297.27 553.888 295.855 Z " fill="rgb(192,175,134)"/>
+		<path d=" M 306.519 295.855 C 306.519 294.44 307.668 293.291 309.083 293.291 C 310.498 293.291 311.647 294.44 311.647 295.855 C 311.647 297.27 310.498 298.418 309.083 298.418 C 307.668 298.418 306.519 297.27 306.519 295.855 Z " fill="rgb(192,175,134)"/>
+		<rect x="321.644" y="269.912" width="60.356" height="51.688" transform="matrix(1,0,0,1,0,0)" fill="rgb(235,235,235)"/>
+	</g>
+</svg>

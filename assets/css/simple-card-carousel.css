@@ -1,0 +1,92 @@
+/* Styles for card-carousel a.k.a .carousel-card */
+/* Very bad at naming this components.... */
+/* Hope the lack of naming creativity doesn't come back to haunt me  */
+.carousel-wrapper {
+    width: 100%;
+    min-height: 400px;
+    height: 70vh;
+    /* border: solid teal 2px; */
+    display: flex;
+    overflow: hidden;
+    /*overflow: auto;*/
+    position: relative;
+}
+.carousel-card:first-child:not(.show-card) {
+    margin-left: 100%;
+}
+.carousel-card:nth-child(2):not(.show-card) {
+    margin-left: 100%;
+}
+.carousel-card {
+    position: relative;
+    /*background: yellow;*/
+    height: 100%;
+    min-width: 100%;
+    opacity: 0.2;;
+}
+.ease .carousel-card {
+    transition: opacity ease 400ms;
+}
+.linear .carousel-card {
+    transition: opacity linear 400ms;
+}
+.carousel-card.show-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 1;
+}
+.carousel-card .card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.carousel-card:first-child .next-prev {
+    display: none;
+}
+.carousel-card:first-child:not(:last-child) .next-prev {
+    display: flex;
+}
+.next-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    /*background-color: rgba(245, 245, 245, 0.45);*/
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.next-prev h4 {
+    text-align: center;
+    font-size: 4rem;
+    width: 4rem;
+    margin: 0;
+    border: solid #E0E0E0 1px;
+    border-radius: 4px;
+    background: #e0e0e0b0;
+    opacity: 0.25; 
+    color: gray;
+}
+.next-prev p {
+    font-size: 0.5rem;
+    opacity: 0; 
+    color: gray;
+    text-align: center;
+}
+.next-prev:hover h4,
+.next-prev:hover p {
+    opacity: 1;
+}
+.prev{
+    left: 0;
+}
+.next {
+    right: 0;
+}
