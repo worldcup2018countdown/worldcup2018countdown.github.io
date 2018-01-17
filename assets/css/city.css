@@ -1,0 +1,63 @@
+.city {
+    color: var(--app-gold)
+}
+.city-hero {
+    display: flex;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: dashed 1px;
+}
+.host-city-badge {
+    width: 40%;
+    padding: 4px;
+}
+.host-city-details {
+    width: 60%;
+}
+.host-city-details .city-name {
+    font-size: 2em;
+}
+.host-city-details .city-stats h3{
+    margin: 0.25em 0;
+}
+.host-city-details .city-stats span{
+    display: inline-block;
+    width: 45%;
+}
+.host-city-details .city-stats span:first-child {
+    text-align: left;
+}
+.host-city-details .city-stats span:last-child {
+    text-align: right;
+}
+.city-info img {
+    max-width: 100%;
+    height: auto;
+}
+.city-stadiums {
+    text-align: left;
+}
+.city-stadiums h3 {
+    font-size: 1.4rem;
+    border-bottom: dashed 1px;
+    margin: 2rem 1rem 1rem;
+}
+.city-stadiums a h5,
+.city-stadiums a:visited h5 {
+    color: var(--app-gold);
+    text-decoration: underline;
+    transition: all 200ms linear;
+}
+.city-stadiums a:hover h5,
+.city-stadiums a:focus h5 {
+    color: goldenrod;
+    font-size: 1.25rem;
+}
+.city-stadiums h5 {
+    padding-left: 1rem;
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+@media screen and (min-width: 680px){
+    .app-container.wide {width: 80%;}
+}

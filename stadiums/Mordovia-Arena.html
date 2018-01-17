@@ -1,0 +1,18 @@
+---
+layout: default-with-toolbar
+title: Mordovia Arena | Countdown for the 2018 World Cup in Russia.
+description: Mordovia Arena is one of the stadiums of the tournament. Here is all you need to know to get well prepared for the 2018 World Cup.
+keywords: mordovia_arena,stadium,worldcup2018countdown,wc2018countdown,countdown2018fwc,fifaworldcup,russia2018
+image_url: https://worldcup2018countdown.github.io/assets/images/share-page-images/index.png
+image_alt: Mordovia Arena page screenshot
+page_css_class: wide stadium
+toolbar_heading: Mordovia Arena
+additional_stylesheets: ["/assets/css/modal.css", "/assets/css/simple-card-carousel.css", "/assets/css/stadium.css"]
+additional_scripts: ["/assets/js/modal.js", "/assets/js/simple-card-carousel.js", "/assets/js/stadium.js"]
+stadium_name: "Mordovia Arena"
+<!-- permalink: -->
+---
+
+{% assign stadium = site.data.stadiums[page.stadium_name] %}
+
+{% include stadium-page-content.html stadium=stadium %}

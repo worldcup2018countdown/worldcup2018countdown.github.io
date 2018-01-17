@@ -1,0 +1,1386 @@
+
+{
+  "Luzhniki Stadium": {
+    "name": "Luzhniki Stadium",
+    "city": "Moscow",
+    "capacity": "81 000",
+    "url": "/stadiums/Luzhniki-Stadium.html",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Luzhniki_Stadium1.jpg/1280px-Luzhniki_Stadium1.jpg",
+    "hero_image": {
+      "url": "https://s.inyourpocket.com/gallery/140875.jpg",
+      "alt": "Outside view of the Luzhniki Stadium",
+      "description": "Outside view of the Luzhniki Stadium",
+      "copyright_holder": "inyourpocket.com",
+      "copyright_holder_url": "https://www.inyourpocket.com/",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Luzhniki Stadium is a sports stadium in Moscow, Russia. Its total seating capacity is 81,000 seats, all covered (upgraded). The stadium is a part of the Luzhniki Olympic Complex, and is located in Khamovniki District of the Central Administrative Okrug of Moscow city.",
+          "The name Luzhniki derives from the flood meadows in the bend of Moskva River where the stadium was built, translating roughly as 'The Meadows'. Its the biggest stadium in eastern Europe."
+        ]
+      },
+      {
+        "title": "History",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/RIAN_archive_487039_Opening_ceremony_of_the_1980_Olympic_Games.jpg",
+          "alt": "Opening ceremony of the 1980 Olympic Games",
+          "description": "Opening ceremony of the 1980 Olympic Games",
+          "copyright_holder": "RIA NOVOSTI",
+          "copyright_holder_url": "http://en.rian.ru/",
+          "copyright_license": "Creative Commons Attribution-Share Alike 3.0 Unported",
+          "copyright_license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+        },
+        "paragraphs": [
+          "The stadium was built in 1955–56 as the Grand Arena of the Central Lenin Stadium.",
+          "The stadium was officially opened on 31 July 1956, having been built in just 450 days. It was the national stadium of the Soviet Union, and is now the national stadium of Russia."
+        ]
+      },
+      {
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luzhniki_Stadium2.jpg",
+          "alt": "Interior view of the Luzhniki Stadium",
+          "description": "Interior view of the Luzhniki Stadium",
+          "copyright_holder": "Mos.ru",
+          "copyright_holder_url": "https://www.mos.ru/",
+          "copyright_license": "Creative Commons Attribution 4.0 International",
+          "copyright_license_url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "paragraphs": [
+          "The original stadium was demolished in 2013 to give a way for the construction of a new stadium.",
+          "The self-supported cover was retained. The facade wall was retained as well, due to its architectural value and later was reconnected to a new building. ",
+          "he Luzhniki Stadium has been selected by the Russia 2018 FIFA World Cup bid as the venue for the final, which will be held on 15 July 2018. The stadium will then join Rome's Stadio Olimpico, Berlin's Olympiastadion, Munich's Olympiastadion, Saint Denis' Stade de France and London's old Wembley Stadium as the only stadiums to have hosted the finals of the FIFA World Cup, UEFA's European Cup/Champions League and featured as a main stadium of the Summer Olympic Games."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [
+          "The stadium is divided into four sectors each of which is broken down into smaller blocks. Each block is connected to a corridor by a single exit, which means visitors won’t get lost searching for their seat in the wrong block.",
+          "The blocks are numbered in large numbers both from the side of the corridors and the arena. Large numbers facing the arena help personnel quickly locate the right place."
+        ],
+        "images": [
+          {
+            "url": "https://www.artlebedev.com/luzhniki/area-navigation/luzhniki-area-navigation-map-05.jpg",
+            "alt": "Luzhniki Olympic Complex navigation",
+            "description": "Luzhniki Olympic Complex navigation",
+            "copyright_holder": "https://www.artlebedev.com",
+            "copyright_holder_url": "https://www.artlebedev.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD%D0%B0_%D0%9B%D1%83%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%28%D0%B8%D1%8E%D0%BB%D1%8C_2015%29.jpg",
+            "alt": "Luzhniki stadium ariel view",
+            "description": "Luzhniki stadium ariel view",
+            "copyright_holder": "http://sao.mos.ru/news/news/detail/2419625.html",
+            "copyright_holder_url": "http://sao.mos.ru/news/news/detail/2419625.html",
+            "copyright_license": "Creative Commons Attribution 4.0 International",
+            "copyright_license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+          }, {
+            "url": "https://www.artlebedev.com/luzhniki/stadium-navigation/luzhniki-stadium-navigation-02.png",
+            "alt": "Luzhniki Stadium seating plan",
+            "description": "Luzhniki Stadium seating plan",
+            "copyright_holder": "https://www.artlebedev.com",
+            "copyright_holder_url": "https://www.artlebedev.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://www.artlebedev.com/luzhniki/stadium-navigation/luzhniki-stadium-navigation-13.png",
+            "alt": "Luzhniki Stadium more detailed seating plan",
+            "description": "Luzhniki Stadium more detailed seating plan",
+            "copyright_holder": "https://www.artlebedev.com",
+            "copyright_holder_url": "https://www.artlebedev.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://www.artlebedev.com/luzhniki/stadium-navigation/luzhniki-stadium-navigation-08.jpg",
+            "alt": "Entrance turning gates of the Luzhiniki Stadium",
+            "description": "Entrance turning gates of the Luzhiniki Stadium",
+            "copyright_holder": "https://www.artlebedev.com",
+            "copyright_holder_url": "https://www.artlebedev.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/NdgNBgT8sQY"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Luzhniki_Stadium",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Luzhniki Stadium",
+        "url": "https://en.wikipedia.org/wiki/Luzhniki_Stadium"
+      },{
+        "name": "Luzhniki Stadium navigation",
+        "url": "https://www.artlebedev.com/luzhniki/stadium-navigation/"
+      }
+    ]
+  },
+
+
+
+
+  "Spartak Stadium": {
+    "name": "Spartak Stadium",
+    "city": "Moscow",
+    "capacity": "45 360",
+    "url": "/stadiums/Spartak-Stadium.html",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stadium_Spartak_in_Moscow.jpg/1280px-Stadium_Spartak_in_Moscow.jpg",
+    "hero_image": {
+      "url": "http://otkritiearena.ru/img/event/big/_570.jpg?s=467579",
+      "alt": "Panorama exterior view of the Spartak Stadium.",
+      "description": "Panorama exterior view of the Spartak Stadium.",
+      "copyright_holder": "otkritiearena.ru",
+      "copyright_holder_url": "http://otkritiearena.ru/",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Spartak Stadium (Otkrytiye Arena) is a multi-purpose stadium in Moscow, Russia.",
+          "The venue is used mostly for football matches, hosting the home matches of Spartak Moscow and occasionally the Russian national team."
+        ]
+      },
+      {
+        "title": "History",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Match_veteranov_Spartaka_%286%29.jpg",
+          "alt": "A sculpture of the Roman Gladiator Spartacus, for whom the club is named, in the square outside the stadium",
+          "description": "A sculpture of the Roman Gladiator Spartacus, for whom the club is named, in the square outside the stadium",
+          "copyright_holder": "Дмитрий Садовников - soccer.ru",
+          "copyright_holder_url": "https://www.soccer.ru",
+          "copyright_license": "CC BY-SA 3.0",
+          "copyright_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "paragraphs": [
+          "The groundbreaking ceremony was held on 2 July 2007, but construction was delayed multiple times for different reasons. ",
+          "Construction was scheduled to be completed between 2009 and 2010 but, as of 2009, the stadium was still in the design stage.",
+          "The stadium officially opened on 5 September 2014."
+        ]
+      },
+      {
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Match_veteranov_Spartaka_%2810%29.jpg",
+          "alt": "Otkrytiye Arena inside",
+          "description": "Otkrytiye Arena inside",
+          "copyright_holder": "Дмитрий Садовников - soccer.ru",
+          "copyright_holder_url": "https://www.soccer.ru",
+          "copyright_license": "CC BY-SA 3.0",
+          "copyright_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "paragraphs": [
+          "Spartak Stadium was one of four stadiums used for the 2017 FIFA Confederations Cup.",
+          "During the FIFA World Cup 2018, 5 matches will be played at this stadium (4 Group Matches and 1 Round of 16 Match)."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [{
+            "url": "http://otkritiearena.ru/theimages/schema.png",
+            "alt": "Transportation schemes for the Spartak Stadium",
+            "description": "Transportation schemes for the Spartak Stadium",
+            "copyright_holder": "otkritiearena.ru",
+            "copyright_holder_url": "http://otkritiearena.ru",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          },{
+            "url": "https://pbs.twimg.com/media/DSCtMrxW4AERs77.jpg",
+            "alt": "Otritie Arena 3D Model",
+            "description": "Otritie Arena 3D Model",
+            "copyright_holder": "Открытие Арена (@otkritiearena)",
+            "copyright_holder_url": "https://twitter.com/otkritiearena",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "http://confcupticket.com/media/1_0sZogk9.jpg",
+            "alt": "Seating sectors",
+            "description": "Seating sectors",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/IWw0nhvE2lo"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Otkrytiye_Arena",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Spartak Stadium",
+        "url": "https://en.wikipedia.org/wiki/Otkrytiye_Arena"
+      }
+    ]
+  },
+
+
+  
+  "Saint-Petersburg Stadium": {
+    "name": "Saint-Petersburg Stadium",
+    "city": "Saint Petersburg",
+    "capacity": "64 287",
+    "url": "/stadiums/Saint-Petersburg-Stadium.html",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RUS-2016-Aerial-SPB-Krestovsky_Stadium_01.jpg/1280px-RUS-2016-Aerial-SPB-Krestovsky_Stadium_01.jpg",
+    "hero_image": {
+      "url": "/assets/images/stadiums/Krestovskiy-exteriour.jpg",
+      "alt": "An exteriour view of the new soccer stadium on Krestovsky Island which will host some 2018 World Cup matches in St. Petersburg, Russia.",
+      "description": "An exteriour view of the new soccer stadium on Krestovsky Island which will host some 2018 World Cup matches in St. Petersburg, Russia.",
+      "copyright_holder": "coca-colarussia.ru",
+      "copyright_holder_url": "http://www.coca-colarussia.ru/",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "The Krestovsky Stadium, officially Saint-Petersburg Stadium, also called Zenit Arena, is a retractable roof stadium in the western portion of Krestovsky Island in Saint Petersburg, Russia, which serves as home for FC Zenit Saint Petersburg."
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": "https://c2.staticflickr.com/8/7315/26958123056_07ef679b31_o.jpg",
+          "alt": "The later stages of stadium construction.",
+          "description": "The later stages of stadium construction.",
+          "copyright_holder": "3dfab.ru",
+          "copyright_holder_url": "https://www.3dfab.ru/",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "The stadium has been built on the location where the former Kirov Stadium used to stand before it was demolished.",
+          "The stadium was opened in 2017 for the FIFA Confederations Cup."
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "/assets/images/stadiums/Krestovskiy-Sunset.jpg",
+          "alt": "The later stages of stadium construction.",
+          "description": "The later stages of stadium construction.",
+          "copyright_holder": "Стадионные новости - uCoz",
+          "copyright_holder_url": "http://stadiums.at.ua/",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "The stadium will host 7 matches of the 2018 FIFA World Cup including the semi-final and the third-place-playoff."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "/assets/images/stadiums/Krestovskiy-stadium-map.jpg",
+            "alt": "Map of how to get to Krestovskiy stadium from Sportivnaya Metro Station",
+            "description": "Map of how to get to Krestovskiy stadium from Sportivnaya Metro Station",
+            "copyright_holder": "fc-zenit.ru",
+            "copyright_holder_url": "https://fc-zenit.ru/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://images.csmonitor.com/csm/2017/03/1031794_1_0315-ospaceship_standard.jpg?alias=standard_900x600",
+            "alt": "An ariel view of the new soccer stadium on Krestovsky Island.",
+            "description": "An ariel view of the new soccer stadium on Krestovsky Island.",
+            "copyright_holder": "CSMonitor.com",
+            "copyright_holder_url": "https://www.csmonitor.com/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/Krestovskiy-sectors.jpg",
+            "alt": "Krestovskiy stadium sectors",
+            "description": "Krestovskiy stadium sectors",
+            "copyright_holder": "fc-zenit.ru",
+            "copyright_holder_url": "https://fc-zenit.ru/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://i.imgur.com/jsV8Jlh.jpg",
+            "alt": "Krestovskiy Stadium at night.",
+            "description": "Krestovskiy Stadium at night.",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://c1.staticflickr.com/5/4503/37039982063_be18158b24_b.jpg",
+            "alt": "Krestovskiy Stadium at night.",
+            "description": "Krestovskiy Stadium at night.",
+            "copyright_holder": "skyscrapercity.com",
+            "copyright_holder_url": "http://www.skyscrapercity.com/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://i.imgur.com/lSbxAGc.jpg",
+            "alt": "Krestovskiy Stadium interior.",
+            "description": "Krestovskiy Stadium interior.",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/1Ta9s3gV80g"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Krestovsky_Stadium",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Saint-Petersburg Stadium",
+        "url": "https://en.wikipedia.org/wiki/Krestovsky_Stadium"
+      }, {
+        "name": "Facts about the stadium",
+        "url": "http://piterarena.com/en/facts-about-stadium"
+      }
+    ]
+  },
+
+
+
+
+  "Fisht Stadium": {
+    "name": "Fisht Stadium",
+    "city": "Sochi",
+    "capacity": "47 659",
+    "url": "/stadiums/Fisht-Stadium.html",
+    "image_url": "https://cdn4.tass.ru/width/744_b12f2926/tass/m2/uploads/i/20171003/4572386.jpg",
+    "hero_image": {
+      "url": "/assets/images/stadiums/Fisht-main-hero.jpg",
+      "alt": "Fisht stadium and the sea view.",
+      "description": "Fisht stadium and the sea view.",
+      "copyright_holder": "architime.ru",
+      "copyright_holder_url": "http://architime.ru",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Fisht Olympic Stadium is an outdoor stadium in Sochi, Russia. Located in Sochi Olympic Park and named after Mount Fisht, the 40,000-capacity stadium was constructed for the 2014 Winter Olympics and Paralympics, where it served as the venue for their opening and closing ceremonies."
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fisht_Olympic_Stadium.jpg/1024px-Fisht_Olympic_Stadium.jpg",
+          "alt": "Olympic stadium 'Fisht' in Sochi. It is constructed for the XXII Winter Olympic games in Sochi in 2014.",
+          "description": "Olympic stadium 'Fisht' in Sochi. It is constructed for the XXII Winter Olympic games in Sochi in 2014.",
+          "copyright_holder": "SKas",
+          "copyright_holder_url": "https://commons.wikimedia.org/wiki/User:SKas",
+          "copyright_license": "Creative Commons Attribution-Share Alike 4.0 International",
+          "copyright_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        },
+        "paragraphs": [
+          "In January 2015, a project began to renovate the stadium in preparation for the FIFA Confederations Cup and World Cup; among other changes, the closed roof was removed in order to make the stadium compliant with FIFA regulations.",
+          "The work was expected to be completed by June 2016, but the completion date was pushed back to November 2016."
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fisht_Olympic_Stadium_2017.jpg/1024px-Fisht_Olympic_Stadium_2017.jpg",
+          "alt": "Fisht Olympic Stadium during a 2017 FIFA Confederations Cup match in June 2017.",
+          "description": "Fisht Olympic Stadium during a 2017 FIFA Confederations Cup match in June 2017.",
+          "copyright_holder": "Эдгар Брещанов - soccer.ru",
+          "copyright_holder_url": "http://soccer.ru/",
+          "copyright_license": "Creative Commons Attribution-Share Alike 3.0 Unported",
+          "copyright_license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+        },
+        "paragraphs": [
+          "The stadium was originally built as an enclosed facility; it was re-opened in 2016 as an open-air football stadium, to host matches as part of the 2017 FIFA Confederations Cup and 2018 FIFA World Cup.",
+          "The stadium will host 6 matches of the 2018 FIFA World Cup, 4 Group Matches, 1 Round-of-16 Match and 1 Quarter Final Match."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "https://architectureofthegames.net/wp-content/uploads/2014/03/sochi-paralympic-coastal-cluster-map.png",
+            "alt": "Sochi Olympic Park navigation map.",
+            "description": "Sochi Olympic Park navigation map.",
+            "copyright_holder": "architectureofthegames.net",
+            "copyright_holder_url": "https://architectureofthegames.net",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://img-fotki.yandex.ru/get/108497/60826755.595/0_cdfc7_bc77fe44_XXL",
+            "alt": "Fisht stadium football pitch.",
+            "description": "Fisht stadium football pitch.",
+            "copyright_holder": "БлогСочи",
+            "copyright_holder_url": "http://blogsochi.ru/node/27046",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/fisht-seating-sectors.jpg",
+            "alt": "Fisht Stadium seating sectors.",
+            "description": "Fisht Stadium seating sectors.",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://img-fotki.yandex.ru/get/228104/60826755.595/0_cdfc5_3b3931b_XXL",
+            "alt": "Sochi Olympic Park Panorama.",
+            "description": "Sochi Olympic Park Panorama.",
+            "copyright_holder": "БлогСочи",
+            "copyright_holder_url": "http://blogsochi.ru/node/27047",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/RQtAQkejniM"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Fisht_Olympic_Stadium",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Fisht Stadium",
+        "url": "https://en.wikipedia.org/wiki/Fisht_Olympic_Stadium"
+      }
+    ]
+  },
+
+
+
+
+  "Nizhny Novgorod Stadium": {
+    "name": "Nizhny Novgorod Stadium",
+    "city": "Nizhny Novgorod",
+    "capacity": "44 899",
+    "url": "/stadiums/Nizhny-Novgorod-Stadium.html",
+    "image_url": "https://pbs.twimg.com/media/DQRO88AX4AAvURa.jpg",
+    "hero_image": {
+      "url": "/assets/images/stadiums/nizhny-novgorod-hero.jpg",
+      "alt": "Ariel view of the Nizhny Novgorod Stadium.",
+      "description": "Ariel view of the Nizhny Novgorod Stadium.",
+      "copyright_holder": "myrepublica.com",
+      "copyright_holder_url": "http://www.myrepublica.com",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Nizhny Novgorod Stadium is a football stadium in Nizhny Novgorod, Russia.",
+          "It is one of the venues for the 2018 FIFA World Cup. It will have a capacity of 44,899 spectators."
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": "https://pbs.twimg.com/media/DQRO88AX4AAvURa.jpg",
+          "alt": "Ariel view of Nizhny Novgorod Stadium with the Volga river in the background.",
+          "description": "Ariel view of Nizhny Novgorod Stadium with the Volga river in the background.",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "At the end of 2014, the Ministry of Sport of the Russian Federation signed a contract for the construction of the stadium.",
+          "Works on the construction of the stadium 'Nizhny Novgorod' began in 2015."
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "https://img2.cgtrader.com/items/825061/1ea820ca5e/nizhny-novgorod-stadium-russia-3d-model-low-poly-obj-3ds-fbx-dae-dwg-skp.jpg",
+          "alt": "3D model of the stadium interior.",
+          "description": "3D model of the stadium interior.",
+          "copyright_holder": "cgtrader.com",
+          "copyright_holder_url": "https://www.cgtrader.com",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "The capacity of the stadium will be 45,000 seats, including 902 seats for low-mobility groups of people together with accompanying persons.",
+          "The stadium will host 6 matches of the 2018 FIFA World Cup, 4 Group Matches, 1 Round-of-16 Match and 1 Quarter Final Match."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "/assets/images/stadiums/Nizhny-Novgorod-stadium-map.png",
+            "alt": "Map of how to get to Nizhny Novgorod Stadium from the metro statition or train station.",
+            "description": "Map of how to get to Nizhny Novgorod Stadium from the metro statition or train station.",
+            "copyright_holder": "Google Maps",
+            "copyright_holder_url": "https://www.google.com/maps/place/Стадион+'Нижний+Новгород'/@56.3301017,43.9503152,14z/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/Nizhny-Novgorod-stadium-seats.png",
+            "alt": "Nizhny Novgorod Stadium interior view.",
+            "description": "Nizhny Novgorod Stadium interior view.",
+            "copyright_holder": "day.today",
+            "copyright_holder_url": "https://www.day.today",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://ltg.blob.core.windows.net/venue-maps/football/v_2526.jpg",
+            "alt": "Nizhny Novgorod seating sectors.",
+            "description": "Nizhny Novgorod seating sectors.",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://img1.cgtrader.com/items/825061/94d989b613/nizhny-novgorod-stadium-russia-3d-model-low-poly-obj-3ds-fbx-dae-dwg-skp.jpg",
+            "alt": "Nizhny Novgorod seating and the football pitch.",
+            "description": "Nizhny Novgorod seating and the football pitch.",
+            "copyright_holder": "cgtrader.com",
+            "copyright_holder_url": "https://www.cgtrader.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/UQSxIPDf6Z8"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Stadium",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Nizhny Novgorod Stadium",
+        "url": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Stadium"
+      },{
+        "name": "Ariel pictures of the Nizhny Novgorod Stadium during the winter.",
+        "url": "https://www.youtube.com/watch?v=WoqJtwxIpV4"
+      }
+    ]
+  },
+
+
+
+
+  "Kaliningrad Stadium": {
+    "name": "Kaliningrad Stadium",
+    "city": "Kaliningrad",
+    "capacity": "35 212",
+    "url": "/stadiums/Kaliningrad-Stadium.html",
+    "image_url": "/assets/images/stadiums/kaliningrad-stadium.jpg",
+    "hero_image": {
+      "url": "/assets/images/stadiums/kaliningrad-stadium-hero.jpg",
+      "alt": "Ariel view of the kaliningrad stadium territory.",
+      "description": "Ariel view of the kaliningrad stadium territory.",
+      "copyright_holder": "stadiumguide.com",
+      "copyright_holder_url": "http://www.stadiumguide.com",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Kaliningrad Stadium (also called Arena Baltika) is an association football stadium located in Oktyabrsky Island, Kaliningrad, Russia."
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kaliningrad_05-2017_img73_new_stadium.jpg/1024px-Kaliningrad_05-2017_img73_new_stadium.jpg",
+          "alt": "Construction site of FIFA World Cup 2018 stadium in Kaliningrad.",
+          "description": "Construction site of FIFA World Cup 2018 stadium in Kaliningrad.",
+          "copyright_holder": "A.Savin",
+          "copyright_holder_url": "https://commons.wikimedia.org/wiki/User:A.Savin/UP",
+          "copyright_license": "Free Art License",
+          "copyright_license_url": "http://artlibre.org/licence/lal/en/"
+        },
+        "paragraphs": [
+          " Preparation work for construction of the infrastructure started in January 2015.",
+          "The project is based on the concept of the Allianz Arena, which hosted matches of the 2006 World Cup in Germany."
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "https://asninfo.ru/images/news/6e5e6661/5821ca0d470402b0c5138237.jpg",
+          "alt": "Exterior view of the facade of the Kaliningrad Stadium.",
+          "description": "Exterior view of the facade of the Kaliningrad Stadium.",
+          "copyright_holder": "asninfo.ru",
+          "copyright_holder_url": "https://asninfo.ru/",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "The stadium will host 4 group stage matches of the 2018 FIFA World Cup."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "/assets/images/stadiums/kaliningrad-stadium-map.jpg",
+            "alt": "Map of the Kaliningrad Stadium",
+            "description": "Map of the Kaliningrad Stadium",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/kaliningrad-more-info.jpg",
+            "alt": "Kaliningrad stadium territory ariel view.",
+            "description": "Kaliningrad stadium territory ariel view.",
+            "copyright_holder": "stadiumguide.com",
+            "copyright_holder_url": "http://www.stadiumguide.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/kaliningrad-more-info-3.jpg",
+            "alt": "Sectors of the Kaliningrad Stadium.",
+            "description": "Sectors of the Kaliningrad Stadium.",
+            "copyright_holder": "ticketutils.com",
+            "copyright_holder_url": "https://www.ticketutils.com/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/kaliningrad-more-info-2.jpg",
+            "alt": "Kaliningrad Stadium night view.",
+            "description": "Kaliningrad Stadium night view.",
+            "copyright_holder": "stadiumguide.com",
+            "copyright_holder_url": "http://www.stadiumguide.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/Ac4kJW__D4E"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Kaliningrad_Stadium",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Kaliningrad Stadium",
+        "url": "https://en.wikipedia.org/wiki/Kaliningrad_Stadium"
+      }
+    ]
+  },
+
+
+
+
+  "Ekaterinburg Arena": {
+    "name": "Ekaterinburg Arena",
+    "city": "Ekaterinburg",
+    "capacity": "35 696",
+    "url": "/stadiums/Ekaterinburg-Arena.html",
+    "image_url": "https://pbs.twimg.com/media/DP-aGo9X0AEM83I.jpg",
+    "hero_image": {
+      "url": "/assets/images/stadiums/Ekaterinburg-arena-hero.jpg",
+      "alt": "Ekaterinburg stadium at dusk.",
+      "description": "Ekaterinburg stadium at dusk.",
+      "copyright_holder": "tvzvezda.ru",
+      "copyright_holder_url": "https://tvzvezda.ru/",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Ekaterinburg Arena (Central Stadium) is a multi-purpose stadium in Yekaterinburg, Russia.The capacity of the stadium is just over 35,000."
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": "https://www.oblgazeta.ru/media/cache/7f/41/7f41aaf38cc92be33f7ca42bac64784d.jpg",
+          "alt": "10 world diplomats visit Ekaterinburg Stadium.",
+          "description": "10 world diplomats visit Ekaterinburg Stadium.",
+          "copyright_holder": "oblgazeta.ru",
+          "copyright_holder_url": "https://www.oblgazeta.ru",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Central Stadium was built in 1957. The Stadium has hosted thousands of sports and entertainment events.",
+          "From September 2006 to 2011, it completed a first large-scale stadium reconstruction. In 2015-17 completed another large-scale reconstruction."
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "/assets/images/stadiums/Ekaterinburg-arena-3d-model.jpg",
+          "alt": "Ekaterinburg Arena 3D model.",
+          "description": "Ekaterinburg Arena 3D model.",
+          "copyright_holder": "rosbalt.ru",
+          "copyright_holder_url": "http://www.rosbalt.ru/",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "As the stadium was chosen as one of the venues of the 2018 FIFA World Cup, temporary stands extending outside the original perimeter of the stadium were erected so as to comply with the FIFA requirement of seatings for 35,000 spectators.",
+          "The stadium will host 4 group stage matches of the 2018 FIFA World Cup."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "/assets/images/stadiums/Ekaterinburg-arena-3d-map-model.jpg",
+            "alt": "Ekaterinburg stadium territory map 3d model map.",
+            "description": "Ekaterinburg stadium territory map in 3d.",
+            "copyright_holder": "SkyscraperCity",
+            "copyright_holder_url": "http://www.skyscrapercity.com/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://pbs.twimg.com/media/DRUgTP0W4AAixQ7.jpg",
+            "alt": "Ekaterinburg stadium stands.",
+            "description": "Ekaterinburg stadium stands.",
+            "copyright_holder": "https://twitter.com/fgupsportin",
+            "copyright_holder_url": "https://twitter.com/fgupsportin",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/Ekaterinburg-arena-seating-sectors.png",
+            "alt": "Ekaterinburg Stadium seating sectors.",
+            "description": "Ekaterinburg Stadium seating sectors.",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://pbs.twimg.com/media/DKu3pObWsAACKBE.jpg",
+            "alt": "Ekaterinburg scenic view from the stands behind the goal.",
+            "description": "Ekaterinburg scenic view from the stands behind the goal.",
+            "copyright_holder": "https://twitter.com/fgupsportin",
+            "copyright_holder_url": "https://twitter.com/fgupsportin",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/_TLWIfNA240"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Yekaterinburg)",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Ekaterinburg Stadium",
+        "url": "https://en.wikipedia.org/wiki/Central_Stadium_(Yekaterinburg)"
+      }
+    ]
+  },
+
+
+
+
+  "Kazan Arena": {
+    "name": "Kazan Arena",
+    "city": "Kazan",
+    "capacity": "",
+    "url": "/stadiums/Kazan-Arena.html",
+    "image_url": "https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAA1AAAAAJDg3OGIyMGQ3LWQyYjgtNDkwOS04MzQzLTY4YTQzNDgyOWNlOA.jpg",
+    "hero_image": {
+      "url": "https://c1.staticflickr.com/5/4282/35430596652_dc6c169d67_b.jpg",
+      "alt": "General view outside the stadium prior to the FIFA Confederations Cup Russia 2017 Semi-Final Match.",
+      "description": "General view outside the stadium prior to the FIFA Confederations Cup Russia 2017 Semi-Final Match.",
+      "copyright_holder": "Memo Arguijo",
+      "copyright_holder_url": "",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "Kazan Arena is a stadium in Kazan, Russia.The stadium has the largest outside screen in Europe."
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/RubinKazanNewStadium.png",
+          "alt": "Kazan Arena football stadium",
+          "description": "Kazan Arena football stadium",
+          "copyright_holder": "Amar77",
+          "copyright_holder_url": "https://commons.wikimedia.org/w/index.php?title=User:Amar77&action=edit&redlink=1",
+          "copyright_license": "Creative Commons Attribution-Share Alike 3.0 Unported",
+          "copyright_license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+        },
+        "paragraphs": [
+          "The stadium's construction started in May 2010 and was completed in July 2013.",
+          "The stadium hosted the 2013 Summer Universiade opening and closing ceremonies, and some matches of the 2017 FIFA Confederations Cup."
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kazan_Arena_2017.png/1024px-Kazan_Arena_2017.png",
+          "alt": "Kazan Arena stadium before a match.",
+          "description": "Kazan Arena stadium before a match.",
+          "copyright_holder": "Andsemar",
+          "copyright_holder_url": "https://commons.wikimedia.org/w/index.php?title=User:Amar77&action=edit&redlink=1",
+          "copyright_license": "CC Attribution-Share Alike 4.0 International",
+          "copyright_license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        },
+        "paragraphs": [
+          "The stadium will host 6 matches of the 2018 FIFA World Cup tournament (4 Group Stage matches, 1 Round of 16 match and 1 Quarter final match)."
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "/assets/images/stadiums/kazan-arena-route-map.jpg",
+            "alt": "Bus routes to Kazan Arena.",
+            "description": "Bus routes to Kazan Arena.",
+            "copyright_holder": "kzn2018.com",
+            "copyright_holder_url": "http://www.kzn2018.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/kazan-arena-seats.jpg",
+            "alt": "Kazan area seats overlooking the football pitch.",
+            "description": "Kazan area seats overlooking the football pitch.",
+            "copyright_holder": "eurosport.ru",
+            "copyright_holder_url": "https://www.eurosport.ru/",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://footballtripper.com/wp-content/uploads/2014/08/kazan-arena-seating-plan.jpg",
+            "alt": "Kazan Areana seating sectors.",
+            "description": "Kazan Areana seating sectors.",
+            "copyright_holder": "footballtripper.com",
+            "copyright_holder_url": "https://footballtripper.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "/assets/images/stadiums/kazan-arena-parking-map.jpg",
+            "alt": "Kazan arena sectors and parking.",
+            "description": "Kazan arena sectors and parking.",
+            "copyright_holder": "kazanfirst.ru",
+            "copyright_holder_url": "https://kazanfirst.ru",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/yX_KK4chGdI"
+    },
+    "wiki_url": "https://en.wikipedia.org/wiki/Kazan_Arena",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Kazan Arena",
+        "url": "https://en.wikipedia.org/wiki/Kazan_Arena"
+      }
+    ]
+  },
+
+
+
+
+  "Mordovia Arena": {
+    "name": "Mordovia Arena",
+    "city": "Saransk",
+    "capacity": "44 442",
+    "url": "/stadiums/Mordovia-Arena.html",
+    "image_url": "/assets/images/stadiums/mordovia-arena.jpg",
+    "hero_image": {
+      "url": "",
+      "alt": "",
+      "description": "",
+      "copyright_holder": null,
+      "copyright_holder_url": "",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "/assets/images/stadiums/mordovia-arena-10.jpg",
+            "alt": "Travelling to and from Mordovia Stadium.",
+            "description": "Travelling to and from Mordovia Stadium.",
+            "copyright_holder": "investrm.ru",
+            "copyright_holder_url": "http://investrm.ru",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/"
+    },
+    "wiki_url": "",
+    "more_reading": [
+      {
+        "name": "Wikipedia: Mordovia Arena",
+        "url": "https://en.wikipedia.org/wiki/Mordovia_Arena"
+      }, {
+        "name": "Stadium design and accessability presentation",
+        "url": "https://www.youtube.com/watch?v=2HhJuw582w0"
+      }
+    ]
+  },
+
+
+
+
+  "Rostov Arena": {
+    "name": "Rostov Arena",
+    "city": "Rostov-on-Don",
+    "capacity": "",
+    "url": "/stadiums/Rostov-Arena.html",
+    "image_url": "/assets/images/stadiums/rostov-arena-stadium.jpg",
+    "hero_image": {
+      "url": "",
+      "alt": "",
+      "description": "",
+      "copyright_holder": null,
+      "copyright_holder_url": "",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://pbs.twimg.com/media/DRj77v3XUAEEcGV.jpg",
+            "alt": "Rostov Arena at night.",
+            "description": "Rostov Arena at night.",
+            "copyright_holder": "https://twitter.com/fgupsportin",
+            "copyright_holder_url": "https://twitter.com/fgupsportin",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/"
+    },
+    "wiki_url": "",
+    "more_reading": [
+      {
+        "name": "",
+        "url": ""
+      }
+    ]
+  },
+
+
+
+
+  "Samara Arena": {
+    "name": "Samara Arena",
+    "city": "Samara",
+    "capacity": "",
+    "url": "/stadiums/Samara-Arena.html",
+    "image_url": "https://ru2018.org/upload/000/u1/021/af886f6e.jpg",
+    "hero_image": {
+      "url": "",
+      "alt": "",
+      "description": "",
+      "copyright_holder": null,
+      "copyright_holder_url": "",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/"
+    },
+    "wiki_url": "",
+    "more_reading": [
+      {
+        "name": "",
+        "url": ""
+      }
+    ]
+  },
+
+
+
+
+  "Volgograd Arena": {
+    "name": "Volgograd Arena",
+    "city": "Volgograd",
+    "capacity": "",
+    "url": "/stadiums/Volgograd-Arena.html",
+    "image_url": "https://s14.stc.all.kpcdn.net/share/i/12/10297473/inx960x640.jpg",
+    "hero_image": {
+      "url": "",
+      "alt": "",
+      "description": "",
+      "copyright_holder": null,
+      "copyright_holder_url": "",
+      "copyright_license": null,
+      "copyright_license_url": ""
+    },
+    "info_sections": [
+      {
+        "title": null,
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "History",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },{
+        "title": "2018 FIFA World Cup",
+        "hero_image": {
+          "url": null,
+          "alt": "",
+          "description": "",
+          "copyright_holder": null,
+          "copyright_holder_url": "",
+          "copyright_license": null,
+          "copyright_license_url": ""
+        },
+        "paragraphs": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "additional_info": {
+      "sectors": {
+        "intro_text": [""],
+        "images": [
+          {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "",
+            "alt": "",
+            "description": "",
+            "copyright_holder": null,
+            "copyright_holder_url": "",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }
+        ]
+      },
+      "video_tour_url": "https://www.youtube.com/embed/"
+    },
+    "wiki_url": "",
+    "more_reading": [
+      {
+        "name": "",
+        "url": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "Moscow": {
+    "name": "Moscow",
+    "url": "/cities/Moscow.html",
+    "image_url": "/assets/images/cities/Moscow.jpg",
+    "badge_url": "/assets/images/cities/city-badge-moscow.png",
+    "founded": "1147",
+    "population": "12 228 685",
+    "wiki_url": "https://en.wikipedia.org/wiki/Moscow",
+    "stadiums": [{
+        "name": "Luzhniki Stadium",
+        "url": "/stadiums/Luzhniki-Stadium.html"
+      },{
+        "name": "Spartak Stadium",
+        "url": "/stadiums/Spartak-Stadium.html"
+      }
+    ]
+  },
+  "Saint Petersburg": {
+    "name": "Saint Petersburg",
+    "url": "/cities/Saint-Petersburg.html",
+    "image_url": "/assets/images/cities/Saint Petersburg.jpg",
+    "badge_url": "/assets/images/cities/city-badge-saint-petersburg.png",
+    "founded": "1703",
+    "population": "5 323 300",
+    "wiki_url": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+    "stadiums": [{
+        "name": "Saint-Petersburg Stadium",
+        "url": "/stadiums/Saint-Petersburg-Stadium.html"
+      }
+    ]
+  },
+  "Sochi": {
+    "name": "Sochi",
+    "url": "/cities/Sochi.html",
+    "image_url": "/assets/images/cities/Sochi.jpg",
+    "badge_url": "/assets/images/cities/city-badge-sochi.png",
+    "founded": "1838",
+    "population": "401 334",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sochi",
+    "stadiums": [{
+        "name": "Fisht Stadium",
+        "url": "/stadiums/Fisht-Stadium.html"
+      }
+    ]
+  },
+  "Ekaterinburg": {
+    "name": "Ekaterinburg",
+    "url": "/cities/Ekaterinburg.html",
+    "image_url": "/assets/images/cities/Ekaterinburg.jpg",
+    "badge_url": "/assets/images/cities/city-badge-ekaterinburg.png",
+    "founded": "1723",
+    "population": "1 349 772",
+    "wiki_url": "https://en.wikipedia.org/wiki/Yekaterinburg",
+    "stadiums": [{
+        "name": "Ekaterinburg Arena",
+        "url": "/stadiums/Ekaterinburg-Arena.html"
+      }
+    ]
+  },
+  "Kaliningrad": {
+    "name": "Kaliningrad",
+    "url": "/cities/Kaliningrad.html",
+    "image_url": "/assets/images/cities/Kaliningrad.jpg",
+    "badge_url": "/assets/images/cities/city-badge-kaliningrad.png",
+    "founded": "1255",
+    "population": "431 402",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kaliningrad",
+    "stadiums": [{
+        "name": "Kaliningrad Stadium",
+        "url": "/stadiums/Kaliningrad-Stadium.html"
+      }
+    ]
+  },
+  "Kazan": {
+    "name": "Kazan",
+    "url": "/cities/Kazan.html",
+    "image_url": "/assets/images/cities/Kazan.jpg",
+    "badge_url": "/assets/images/cities/city-badge-kazan.png",
+    "founded": "1005",
+    "population": "1 143 535",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kazan",
+    "stadiums": [{
+        "name": "Kazan Arena",
+        "url": "/stadiums/Kazan-Arena.html"
+      }
+    ]
+  },
+  "Nizhny Novgorod": {
+    "name": "Nizhny Novgorod",
+    "url": "/cities/Nizhny-Novgorod.html",
+    "image_url": "/assets/images/cities/Nizhny Novgorod.jpg",
+    "badge_url": "/assets/images/cities/city-badge-nizhny-novgorod.png",
+    "founded": "1221",
+    "population": "1 250 619",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nizhny_Novgorod",
+    "stadiums": [{
+        "name": "Nizhny Novgorod Stadium",
+        "url": "/stadiums/Nizhny-Novgorod-Stadium.html"
+      }
+    ]
+  },
+  "Rostov-on-Don": {
+    "name": "Rostov-on-Don",
+    "url": "/cities/Rostov-on-Don.html",
+    "image_url": "/assets/images/cities/Rostov-on-Don.jpg",
+    "badge_url": "/assets/images/cities/city-badge-rostov-on-don.png",
+    "founded": "1749",
+    "population": "1 109 800",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rostov-on-Don",
+    "stadiums": [{
+        "name": "Rostov Arena",
+        "url": "/stadiums/Rostov-Arena.html"
+      }
+    ]
+  },
+  "Samara": {
+    "name": "Samara",
+    "url": "/cities/Samara.html",
+    "image_url": "/assets/images/cities/Samara.jpg",
+    "badge_url": "/assets/images/cities/city-badge-samara.png",
+    "founded": "1586",
+    "population": "1 171 598",
+    "wiki_url": "https://en.wikipedia.org/wiki/Samara",
+    "stadiums": [{
+        "name": "Samara Arena",
+        "url": "/stadiums/Samara-Arena.html"
+      }
+    ]
+  },
+  "Saransk": {
+    "name": "Saransk",
+    "url": "/cities/Saransk.html",
+    "image_url": "/assets/images/cities/Saransk.jpg",
+    "badge_url": "/assets/images/cities/city-badge-saransk.png",
+    "founded": "1641",
+    "population": "297 415",
+    "wiki_url": "https://en.wikipedia.org/wiki/Saransk",
+    "stadiums": [{
+        "name": "Mordovia Arena",
+        "url": "/stadiums/Mordovia-Arena.html"
+      }
+    ]
+  },
+  "Volgograd": {
+    "name": "Volgograd",
+    "url": "/cities/Volgograd.html",
+    "image_url": "/assets/images/cities/Volgograd.jpg",
+    "badge_url": "/assets/images/cities/city-badge-moscow.png",
+    "founded": "1589",
+    "population": "1 021 215",
+    "wiki_url": "https://en.wikipedia.org/wiki/Volgograd",
+    "stadiums": [{
+        "name": "Volgograd Arena",
+        "url": "/stadiums/Volgograd-Arena.html"
+      }
+    ]
+  }
+}

@@ -1,65 +1,30 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta lang="en">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+---
+layout: default-with-toolbar
+title: Cities List | Countdown for the 2018 World Cup in Russia.
+description: A list of all the host cities of the 2018 World Cup.
+keywords: host_cities,cities,list,worldcup2018countdown,wc2018countdown,countdown2018fwc,fifaworldcup,russia2018
+image_url: https://worldcup2018countdown.github.io/assets/images/share-page-images/index.png
+image_alt: Cities list page screenshot
+page_css_class: wide cities-list
+toolbar_heading: Cities
+additional_stylesheets: 
+additional_scripts:
+---
 
-        <title> Stadiums | Countdown for the 2018 World Cup in Russia.</title>
+<div class="hero-with-separator">
+    <h2>12 Stadiums</h2>
+    <div class="fancy-separator"></div>
+    <h2>11 Cities</h2>
+</div>
+<div class="intro">
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos tempora odio, voluptatum, explicabo velit minima omnis modi, dolorem voluptas possimus tenetur! Commodi ratione natus dolores ea, voluptas id necessitatibus eveniet!
+    </p>
+</div>
 
-        <link rel="stylesheet" href="./assets/css/main.css">
-    </head>
-    <body>
-        <div class="app-toolbar">
-            <div class="left-icons-wrapper">
-                <!-- <div class="icon-wrapper"></div> -->
-            </div>
-            <div class="title-heading">
-                <h1>Stadiums</h1>
-            </div>
-            <div class="right-icons-wrapper">
-                <!-- <div class="icon-wrapper"></div> -->
-            </div>
-        </div>
-        <div class="app-container txt-algn-center dates stadiums-list wide">
-            <div class="hero-with-separator">
-                <h2>12 Stadiums</h2>
-                <div class="fancy-separator"></div>
-                <h2>11 Cities</h2>
-            </div>
-            <div class="intro">
-                <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos tempora odio, voluptatum, explicabo velit minima omnis modi, dolorem voluptas possimus tenetur! Commodi ratione natus dolores ea, voluptas id necessitatibus eveniet!
-                </p>
-            </div>
-
-            <div class="cards-container">
-                <div class="wide-card-wrapper">
-                    <div class="wide-card">
-                        <div class="card-title">
-                            <h3>Krestovskiy Stadium</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-    
-            <footer class="custom-scrollbar">
-                <nav>
-                    <span class="footer-link"><a href="./"> Home </a></span>
-                    <span class="footer-link"><a href="./dates.html"> Dates </a></span>
-                    <span class="footer-link"><a href="./teams-list.html"> Teams </a></span>
-                    <span class="footer-link"><a href="./cities-list.html"> Cities </a></span>
-                    <span class="footer-link"><a href="./stadiums-list.html"> Stadiums </a></span>
-                    <span class="footer-link"><a href="./tournament-facts.html"> Facts </a></span>
-                    <span class="footer-link"><a href="./social-feeds.html"> Social </a></span>
-                    <span class="footer-link"><a href="./useful-links.html">Links </a></span>
-                </nav>
-            </footer>
-        </div>
-
-        <script src="./assets/js/main.js"></script>
-    </body>
-</html>
+<div class="cards-container two-column-at-600 three-column-at-900">
+    {% for stadium_hash in site.data.stadiums %}
+    {% assign stadium = stadium_hash[1] %}
+        {% include wide-card.html info=stadium %}
+    {% endfor %}
+</div>

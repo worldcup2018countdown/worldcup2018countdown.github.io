@@ -1,2 +1,7 @@
 # Huge design images
 assets/designs
+_site
+_designs
+
+
+.jekyll-metadata

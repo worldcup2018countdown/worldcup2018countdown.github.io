@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        
+        <meta name="description" content="{{ page.description }}">
+        <meta name="keywords" content="{{ page.keywords }}">
+        
+        <!-- App Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#A80009">
+        <meta name="apple-mobile-web-app-title" content="WorldCup2018 Countdown">
+        <meta name="application-name" content="WorldCup2018 Countdown">
+        <meta name="theme-color" content="#006B9B">
+        
+        
+        <!--  Essential META Tags -->
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:description" content="{{ page.description }}.">
+        <meta property="og:image" content="{{ page.image_url }}">
+        <meta property="og:url" content="https://worldcup2018countdown.com">
+        <meta name="twitter:card" content="summary">
+        
+        <!--  Non-Essential, But Recommended -->
+        <meta property="og:site_name" content="World Cup 2018 Countdown Web App">
+        <meta name="twitter:image:alt" content="{{ page.image_alt }}">
+
+        <title>{{ page.title }}</title>
+
+        <link rel="stylesheet" href="/assets/css/main.css">
+        {% for stylesheet_link in page.additional_stylesheets %}
+        <link rel="stylesheet" href="{{stylesheet_link}}">
+        {% endfor %}
+
+    </head>
+    <body>
+        <div class="app-container txt-algn-center {{page.page_css_class}}">
+            
+                {{ content }}
+            
+                <footer class="custom-scrollbar">
+                    <nav>
+                        <span class="footer-link"><a href="/"> Home </a></span>
+                        <span class="footer-link"><a href="/dates.html"> Dates </a></span>
+                        <span class="footer-link"><a href="/teams-list.html"> Teams </a></span>
+                        <span class="footer-link"><a href="/cities-list.html"> Cities </a></span>
+                        <span class="footer-link"><a href="/stadiums-list.html"> Stadiums </a></span>
+                        <span class="footer-link"><a href="/tournament-facts.html"> Facts </a></span>
+                        <span class="footer-link"><a href="/social-feeds.html"> Social </a></span>
+                        <span class="footer-link"><a href="/useful-links.html">Links </a></span>
+                    </nav>
+                </footer>
+        </div>
+        <script src="/assets/js/main.js"></script>
+        {% for script_link in page.additional_scripts %}
+        <script src="{{script_link}}"></script>
+        {% endfor %}
+    </body>
+</html>

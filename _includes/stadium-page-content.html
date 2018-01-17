@@ -1,0 +1,144 @@
+<!-- stadium hero -->
+<div class="stadium-hero-wrapper">
+    <div class="stadium-hero center-bg" style="background-image: url('{{stadium.hero_image.url}}')">
+        <div class="stadium-stats">
+            <h4>Capacity: <span class="stadium-stats-info"> {{stadium.capacity}} </span></h4>
+            <h4>City: 
+                <a title="{{site.data.cities[stadium.city].url}}" class="golden" href="{{site.data.cities[stadium.city].url}}">
+                    <span class="stadium-stats-info"> {{ stadium.city }} </span>
+                </a>
+            </h4>
+        </div>
+    </div>
+</div>
+
+<div class="stadium-info-container">
+    <!-- stadium info sections -->
+    {% for info_section in stadium.info_sections %}
+    <section>
+        {% if info_section.title %}
+        <h2 class="section-header">{{info_section.title}}</h2>
+        {% endif %}
+        {% if info_section.hero_image.url %}
+        <div class="section-hero">
+            <img src="{{ info_section.hero_image.url }}" alt="{{ info_section.hero_image.alt }}">
+            <div class="image-description">
+                <p class="description-text"> {{info_section.hero_image.description}} </p>
+                <p class="copyright-text">
+                    {% if info_section.hero_image.copyright_holder and info_section.hero_image.copyright_holder_url %}
+                    <a class="golden block" href="{{ info_section.hero_image.copyright_holder_url }}">
+                        <span class="cc-holder"> &COPY; {{ info_section.hero_image.copyright_holder }}</span>
+                    </a>
+                    {% elsif info_section.hero_image.copyright_holder %}
+                    <span class="cc-holder"> &COPY; {{ info_section.hero_image.copyright_holder }}</span>
+                    {% endif %}
+                    <a class="golden block" href="{{ info_section.hero_image.copyright_license_url }}">
+                        <span class="cc-text">{{ info_section.hero_image.copyright_license }}</span>
+                    </a>
+                </p>
+            </div>
+        </div>
+        {% endif %}
+        <div class="section-content">
+            {% for paragraph in info_section.paragraphs %}
+            <p>{{paragraph}}</p>
+            {% endfor %}
+        </div>
+    </section>
+    {% endfor %}
+
+
+    <!-- Additional Information -->
+    <section class="additional-information">
+        <h2 class="section-header">Additional Information</h2>
+    <!-- sectors -->
+        <section>
+            <h3>Sectors</h3>
+            {% for para in stadium.additional_info.sectors.intro_text %}
+            <p class="sectors-intro">{{para}}</p>
+            {% endfor %}
+            <div class="sectors-thumbnail">
+                <div class="main-image-wrapper center-bg modal-triggers" data-for-scard-num="0"
+                    style="background-image:url('{{stadium.additional_info.sectors.images[0].url}}')">
+                </div>
+                <div class="minor-images">
+                    <div class="minor-image-top-wrapper center-bg modal-triggers" data-for-scard-num="1"
+                        style="background-image:url('{{stadium.additional_info.sectors.images[1].url}}')">
+                    </div>
+                    <div class="minor-image-bottom-wrapper center-bg modal-triggers" data-for-scard-num="2"
+                        style="background-image:url('{{stadium.additional_info.sectors.images[2].url}}')">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <!-- video -->
+        <section>
+            <h3>Video Tour</h3>
+            <div class="youtube-wrapper">
+                <iframe src="{{stadium.additional_info.video_tour_url}}"></iframe>
+            </div>
+        </section>
+
+        <section>
+            <h3>More Reading</h3>
+            <div class="more-reading-container">
+                <ul>
+                    {% for item in stadium.more_reading %}
+                    <li>
+                        <h4>{{item.name}}</h4>
+                        <p>
+                            <a title="{{item.url}}" class="golden block" href="{{item.url}}">{{item.url}}</a>
+                        </p>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </section>
+    </section>
+</div>
+
+<!-- The Modal -->
+<div id="modal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <div class="carousel-wrapper ease">
+            {% for image in stadium.additional_info.sectors.images %}
+            <div class="carousel-card {% if forloop.first %} show-card {% endif %}" 
+                data-scard-num="{{forloop.index | minus:1}}">
+                <div class="prev next-prev">
+                    <h4>&lt;</h4>
+                    <p>Previous</p>
+                </div>
+                <div class="card-content">
+                    <img src="{{image.url}}" alt="{{image.alt}}">
+                    
+                    <div class="carousel-photo-explainer">
+                        <p class="description-text"> {{image.description}} </p>
+                        <p class="copyright-text">
+                            {% if image.copyright_holder and image.copyright_holder_url %}
+                            <a class="golden block" href="{{ image.copyright_holder_url }}">
+                                <span class="cc-holder"> &COPY; {{ image.copyright_holder }}</span>
+                            </a>
+                            {% elsif image.copyright_holder %}
+                            <span class="cc-holder"> &COPY; {{ image.copyright_holder }}</span>
+                            {% endif %}
+                            <a class="golden block" href="{{ image.copyright_license_url }}">
+                                <span class="cc-text">{{ image.copyright_license }}</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <div class="next next-prev">
+                    <h4>&gt;</h4>
+                    <p>Next</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+
+    </div>
+</div>

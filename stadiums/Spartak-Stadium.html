@@ -1,0 +1,18 @@
+---
+layout: default-with-toolbar
+title: Spartak Stadium | Countdown for the 2018 World Cup in Russia.
+description: Spartak Stadium is one of the stadiums of the tournament. Here is all you need to know to get well prepared for the 2018 World Cup.
+keywords: spartak,spartak_stadium,otkritie_arena,otkritiye_arena,stadium,worldcup2018countdown,wc2018countdown,countdown2018fwc,fifaworldcup,russia2018
+image_url: https://worldcup2018countdown.github.io/assets/images/share-page-images/index.png
+image_alt: Spartak Stadium page screenshot
+page_css_class: wide stadium
+toolbar_heading: Spartak Stadium
+additional_stylesheets: ["/assets/css/modal.css", "/assets/css/simple-card-carousel.css", "/assets/css/stadium.css"]
+additional_scripts: ["/assets/js/modal.js", "/assets/js/simple-card-carousel.js", "/assets/js/stadium.js"]
+stadium_name: "Spartak Stadium"
+<!-- permalink: -->
+---
+
+{% assign stadium = site.data.stadiums[page.stadium_name] %}
+
+{% include stadium-page-content.html stadium=stadium %}

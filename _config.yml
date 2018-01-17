@@ -1,0 +1,23 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: World Cup 2018 Countdown
+name: World Cup 2018 Countdown Web App
+
+description: > # this means to ignore newlines until "baseurl:"
+  Countdown timer for the FIFA World Cup Russia 2018. 
+  Know exactly how many days, hours, minutes and seconds left 
+  until the main matches.
+
+url: "https://worldcup2018countdown.com" # the base hostname & protocol for your site
+
+favicon: "favicon.ico"
+
+email: worldcup2018countdown@yandex.ru
+
+# Build settings
+markdown: kramdown
+theme: minima
+

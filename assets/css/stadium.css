@@ -1,0 +1,186 @@
+h2,h3,h4,h5,h6,p,ul {
+    margin: 0;
+    padding: 0;
+    color: var(--app-gold);
+}
+p {
+  font-size: 1.2rem;  
+}
+.stadium-hero-wrapper {
+    position: relative;
+    padding-top: 33.33%;
+    width: 100%;
+    margin-bottom: 1em;
+}
+.stadium-hero {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-size: cover;
+    border-radius: 4px;
+}
+.stadium-stats {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    background-color: var(--app-dark-accent-blue);
+}
+.stadium-stats span.stadium-stats-info {
+    margin-left: 0.25rem;
+}
+a.golden {
+    color: var(--app-gold);
+    white-space: nowrap;
+    overflow-y: hidden;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    transition: all 200ms linear;
+}
+a.golden.block {
+    display: block;
+}
+a.golden:hover,
+a.golden:focus {
+    color: goldenrod;
+}
+.stadium-info-container {
+    width: 90%;
+    max-width: 720px;
+    margin: 0 auto;
+}
+section .section-header {
+    margin: 1em 0 0.25em;
+    border-bottom: dashed var(--app-gold) 1px;
+}
+section .section-hero {
+    position: relative;
+    width: 100%;
+    /* max-width: 720px; */
+    margin: 0 auto;
+}
+section .section-hero img {
+    border-radius: 4px;
+    width: 100%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+section .section-hero:hover .image-description {
+    opacity: 1;
+}
+.image-description {
+    position: absolute;
+    opacity: 0;
+    bottom: 0;
+    background-color: var(--app-dark-accent-blue);
+    padding: 0.125rem 0.5rem;
+    margin-bottom: 0.125rem;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    transition: opacity 300ms ease;
+}
+.copyright-text {
+    font-style: italic;
+}
+section .section-content {
+    text-align: left;
+}
+section section:not(:last-child){
+    margin-bottom: 1rem;
+}
+section section h3 {
+    /* color: var(--app-bg-white); */
+    /* text-decoration: underline; */
+}
+.sectors-intro {
+    text-align: left;
+}
+.sectors-thumbnail .center-bg {
+    background-size: cover;
+}
+.sectors-thumbnail {
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    padding-top: 40%;
+    overflow-y: hidden;
+    /* border: solid var(--app-accent-blue) 1px; */
+}
+.main-image-wrapper {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 60%;
+    height: 100%;
+    /* background-color: azure; */
+}
+.minor-images {
+    position: absolute;
+    top: 0%;
+    left: 60%;
+    width: 40%;
+    height: 100%;
+}
+.minor-image-top-wrapper,
+.minor-image-bottom-wrapper {
+    height: 50%;
+}
+.youtube-wrapper {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+}
+.youtube-wrapper iframe {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    border: solid var(--app-dark-accent-blue) 1px;
+    border-radius: 4px;                
+}
+#modal {
+    background-color: var(--app-dark-accent-blue);
+    background-color: rgba(168, 0, 9, 0.8);
+}
+#modal .carousel-wrapper {
+    margin-top: 1rem;
+}
+#modal img {
+    max-height: 100%;
+    max-width: auto;
+}
+.carousel-photo-explainer {
+    position: absolute;
+    bottom: 0;
+    background: var(--app-dark-accent-blue);
+    /* padding: 0 4px; */
+    width: 100%;
+    border-radius: 4px;            
+}
+
+.image-description p,
+.carousel-photo-explainer p {
+    font-size: 1rem;
+}
+
+.more-reading-container li {
+    list-style: none;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+.more-reading-container li p {
+    font-size: 1rem;
+}
+.more-reading-container li h4 {
+    font-weight: 200;
+}
