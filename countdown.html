@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta lang="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        
+        <meta name="description" content="Simple countdown timer for the FIFA World Cup Russia 2018. Full page countdown timer, that displays how many days, hours, minutes and seconds till the main day.">
+        <meta name="keywords" content="countdown,worldcup2018countdown,wc2018countdown,countdown2018fwc,fifaworldcup,russia2018">
+        
+        <!-- App Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#A80009">
+        <meta name="apple-mobile-web-app-title" content="WorldCup2018 Countdown">
+        <meta name="application-name" content="WorldCup2018 Countdown">
+        <meta name="theme-color" content="#006B9B">
+        
+        
+        <!--  Essential META Tags -->
+        <meta property="og:title" content="Simple Countdown for the World Cup 2018.">
+        <meta property="og:description" content="Simple countdown timer for the FIFA World Cup Russia 2018. Full page countdown timer, that displays how many days, hours, minutes and seconds till the main day.">
+        <meta property="og:image" content="http://api.screenshotlayer.com/api/capture?access_key=60944c2ac81004006f387586071ea1a3&url=http://worldcup2018countdown.com/screenshot.html&viewport=1336x700&width=1336&secret_key=c3232db469de3a825ed2319379985850">
+        <meta property="og:url" content="https://worldcup2018countdown.com">
+        <meta name="twitter:card" content="summary">
+        
+        <!--  Non-Essential, But Recommended -->
+        <meta property="og:site_name" content="World Cup 2018 Countdown Web App">
+        <meta name="twitter:image:alt" content="Countdown screenshot">
+
+        <title>Simple Countdown for the World Cup 2018.</title>
+
+        <link rel="stylesheet" href="/assets/css/main.css">
+        <link rel="stylesheet" href="/assets/css/index.css">
+        <link rel="stylesheet" href="/assets/css/countdown.css">
+        <style type="text/css">
+            body   {
+                background-image: url(/assets/images/bg_blue.jpg); ;
+            }
+            .app-container {
+                min-width: 1200px;
+                max-width: auto;
+            }
+            .hero {min-height: 40vh;}
+            .countdown-wrapper {margin: 4vh 0 0;}
+            p.countdown-intro {font-size: 1.4em;}
+            #countdown-days,.countdown-time {margin: 1em 0;}
+            #countdown-days h2 {font-size: 5em;}
+            #countdown-separator {height: 2.8em;}
+            .countdown-time h3 {font-size: 2.8em;}
+
+            #top-info-area {
+                display: flex;
+                flex-direction: row-reverse;
+                align-items: center;
+                position: absolute;
+                top: 1rem;
+                right: 1rem;
+            }
+            #info-button {
+                border-radius: 50%;
+                padding: 4px 10px;
+                border: solid #0154a3 var(--app-blue);
+                background-color: var(--app-accent-blue);
+                color: var(--app-blue);                
+            }
+            #info-button:hover,
+            #info-button:active,
+            #info-button:focus {
+                cursor: pointer;
+                background-color: whitesmoke;
+                color: var(--app-gold); 
+            }
+           /* #info-button:active + #hidden-buttons-container {
+                display: block;
+            }*/
+            #hidden-buttons-container {display: none;}
+            #hidden-buttons-container.show {
+                display: block;
+            }
+            #hidden-buttons-container button {
+                margin: 0 0.25rem;
+                cursor: pointer;
+                border-radius: 4px;
+                padding: 4px 8px;
+                background-color: var(--app-accent-blue);
+                color: var(--app-gold);
+                border: none;
+                background-color: whitesmoke;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="app-container txt-algn-center home screenshot">
+
+            <div id="top-info-area">
+                <button id="info-button">i</button>
+                <div id="hidden-buttons-container">
+                    <a href="/"><button>Home</button></a>
+                    <button id="fullscreen">FullScreen</button>
+                </div>
+            </div>
+
+
+
+            <div class="hero">
+                <div class="wc-logo"></div>
+                <div class="wc-title">
+                    <h3 class="fwc-text">FIFA WORLD CUP</h3>
+                    <h2 class="r2018-text">RUSSIA 2018</h2>
+                </div>
+            </div>
+
+            <div class="countdown-wrapper">
+                <p class="countdown-intro">Time till the Opening Match kick-off!</p>
+
+                <div class="countdown-area">
+                    <div id="countdown-days">
+                        <h2><span class="time-figure" id="cntdwn-days-figure">190</span> Days</h2>
+                    </div>
+                    <div id="countdown-separator" class="center-bg"></div>
+                    <div class="countdown-time">
+                        <h3><span class="" id="cntdwn-hours-figure">
+                            <span class="time-figure" id="cntdwn-hour-tens">2</span><span class="time-figure" id="cntdwn-hour-ones">3</span>
+                            </span> H</h3>
+                        <h3><span class="" id="cntdwn-mins-figure">
+                                <span class="time-figure" id="cntdwn-min-tens">0</span><span class="time-figure" id="cntdwn-min-ones">9</span>
+                            </span> M</h3>
+                        <h3><span class="" id="cntdwn-secs-figure">
+                                <span class="time-figure" id="cntdwn-sec-tens">4</span><span class="time-figure" id="cntdwn-sec-ones">7</span>
+                            </span> S</h3>
+                    </div>
+                    <div class="end-message">
+                        <h3>Match has Started!</h3>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <!-- <script src="/assets/js/main.js"></script> -->
+        <script src="/assets/js/countdown.js"></script>
+        <script type="text/javascript">
+            // start the countdown
+            const openingMatchTime = 1528988400000; //"2018-06-14T18:00" MSC Time
+            startCountdownTo(new Date(openingMatchTime).getTime());
+
+            // listen for info clicks
+            const infoBtn = document.getElementById("info-button");
+            const hdnBtnCont = document.getElementById("hidden-buttons-container");
+            const fullScrnBtn = document.getElementById("fullscreen");
+
+            // toggle  the show class on click
+            infoBtn.addEventListener("click", e => {
+                hdnBtnCont.classList.toggle("show");
+            })
+
+            // remove the show class when anywhere else on window is clicked
+            window.addEventListener("click", e => {
+                if(e.target !== infoBtn){ hdnBtnCont.classList.remove("show");}
+            })
+
+            // show full screen when full screen button shown
+            fullScrnBtn.addEventListener("click", e => {
+                fullScrnBtn.classList.toggle("fullscreen");
+                if(fullScrnBtn.classList.contains("fullscreen")){
+                    fullScrnBtn.textContent = "Exit Fullscreen";
+                }else{fullScrnBtn.textContent = "Fullscreen"}
+
+                toggleFullScreen(document.documentElement);
+            })
+
+            function toggleFullScreen(elem) {
+                // ## The below if statement seems to work better ## if ((document.fullScreenElement && document.fullScreenElement !== null) || (document.msfullscreenElement && document.msfullscreenElement !== null) || (!document.mozFullScreen && !document.webkitIsFullScreen)) {
+                // if ((document.fullScreenElement !== undefined && document.fullScreenElement === null) || (document.msFullscreenElement !== undefined && document.msFullscreenElement === null) || (document.mozFullScreen !== undefined && !document.mozFullScreen) || (document.webkitIsFullScreen !== undefined && !document.webkitIsFullScreen)) {
+                 if ((document.fullScreenElement && document.fullScreenElement !== null) || (document.msfullscreenElement && document.msfullscreenElement !== null) || (!document.mozFullScreen && !document.webkitIsFullScreen)) {
+                    if (elem.requestFullScreen) {
+                        elem.requestFullScreen();
+                    } else if (elem.mozRequestFullScreen) {
+                        elem.mozRequestFullScreen();
+                    } else if (elem.webkitRequestFullScreen) {
+                        elem.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT);
+                    } else if (elem.msRequestFullscreen) {
+                        elem.msRequestFullscreen();
+                    }
+                } else {
+                    if (document.cancelFullScreen) {
+                        document.cancelFullScreen();
+                    } else if (document.mozCancelFullScreen) {
+                        document.mozCancelFullScreen();
+                    } else if (document.webkitCancelFullScreen) {
+                        document.webkitCancelFullScreen();
+                    } else if (document.msExitFullscreen) {
+                        document.msExitFullscreen();
+                    }
+                }
+            }
+        </script>
+
+    </body>
+</html>
