@@ -36,13 +36,10 @@
         <link rel="stylesheet" href="/assets/css/main.css">
         <link rel="stylesheet" href="/assets/css/index.css">
         <link rel="stylesheet" href="/assets/css/countdown.css">
+        <link rel="stylesheet" href="/assets/css/modal.css">
         <style type="text/css">
             body   {
-                background-image: url(/assets/images/bg_blue.jpg); ;
-            }
-            .app-container {
-               /* min-width: 1200px;
-                max-width: auto;*/
+                background-image: url(/assets/images/bg_blue.jpg);
             }
             .hero {min-height: 40vh;}
             .countdown-wrapper {margin: 4vh 0 0;}
@@ -52,13 +49,25 @@
             #countdown-separator {height: 2.8em;}
             .countdown-time h3 {font-size: 2.8em;}
 
+            @media screen and (max-width: 540px){
+                p.countdown-intro {font-size: 1em;}
+                #countdown-days,.countdown-time {margin: 0.5em 0;}
+                #countdown-days h2 {font-size: 3.8em;}
+                #countdown-separator {height: 1.8em;}
+                .countdown-time h3 {font-size: 1.8em;}
+            }
+
             #top-info-area {
                 display: flex;
                 flex-direction: row-reverse;
                 align-items: center;
                 position: absolute;
                 top: 1rem;
+                top: 0;
                 right: 1rem;
+                right: 0;
+                padding: 2rem;
+                z-index: 1;
             }
             #info-button {
                 border-radius: 50%;
@@ -67,6 +76,7 @@
                 background-color: var(--app-accent-blue);
                 color: var(--app-blue);                
             }
+            #top-info-area:hover #info-button,
             #info-button:hover,
             #info-button:active,
             #info-button:focus {
@@ -91,18 +101,81 @@
                 border: none;
                 background-color: whitesmoke;
             }
+            .share-tips-container {
+                background-color: whitesmoke;
+                border-radius: 4px;
+                padding: 0px 2px 4px;                
+            }
+            h1,h2,h3,h4,h5,h6,p {
+                margin: 0.25em 0;
+                padding: 0 0.25rem;
+            }
+            .share-tips-container ul,
+            .share-tips-container ol {
+                margin: 0;
+            }
+            .share-tips-container .main-heading {
+                padding: 0.5rem 0 0.25rem;
+            }
+            h4.tldr {
+                border-top: solid 1px lightgray;
+                border-bottom: solid 1px lightgray;
+                background: #EEEEEE;
+                padding: 0.25rem;
+            }
+            .share-tips-container section {
+                text-align: left;
+                margin: 1rem 0;
+            }
+            span.button-like {
+                display: inline-block;
+                margin: 0.125rem;
+                cursor: pointer;
+                border-radius: 4px;
+                padding: 4px 8px;
+                color: var(--app-gold);
+                border: solid 1px;
+                background-color: whitesmoke;
+            }
+            span.keyboard-shortcut {
+                display: inline-flex;
+                font-size: 1.2em;
+                color: var(--app-blue);
+                font-weight: bold;
+                margin: 0 0.25em;
+                background-color: var(--app-bg-white);
+                padding: 4px 8px;
+                border-radius: 4px;
+            }
+            .share-tips-container ul li {
+                margin: 0 0 1rem;
+            }
+            .share-tips-container ol li {
+                margin: 0.25rem 0;
+            }
         </style>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112766696-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-112766696-1');
+        </script>
+        
     </head>
     <body>
-        <div class="app-container txt-algn-center home screenshot">
-
-            <div id="top-info-area">
-                <button id="info-button">i</button>
-                <div id="hidden-buttons-container">
-                    <a href="/"><button>Home</button></a>
-                    <button id="fullscreen">FullScreen</button>
-                </div>
+        <div id="top-info-area">
+            <button id="info-button">i</button>
+            <div id="hidden-buttons-container">
+                <a href="/"><button>Home</button></a>
+                <button id="show-share-tips">Share Tips</button>
+                <button id="freeze-countdown">Freeze</button>
+                <button id="fullscreen">FullScreen</button>
             </div>
+        </div>
+        <div class="app-container txt-algn-center home screenshot">
 
 
 
@@ -138,20 +211,76 @@
                     </div>
                 </div>
             </div>
-            
+
+            <div id="modal" class="modal">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <div class="share-tips-container">
+                        <h2 class="main-heading">Share Tips</h2>
+
+                        <h4 class="tldr">TL;DR : Pause > Fullscreen > Screenshot > Paste</h4>
+
+                        <section>
+                            <h3>On desktops</h3>
+
+                            <ul>
+                                <li>
+                                    <h4>Windows</h4>
+                                    <ol>
+                                        <li>Click the <span class="button-like">Freeze</span> button on the countdown to pause the countdown. </li>
+                                        <li> Click the <span class="button-like">FullScreen</span> button on the countdown page. </li>
+                                        <li> Press <span class="keyboard-shortcut">Alt + Print Screen</span>  to automatically screenshot and save the image to clipboard. </li>
+                                        <li>Click the <span class="button-like">Exit FullScrren</span> to remove fullscreen mode.</li>
+                                        <li> Press <span class="keyboard-shortcut">Ctrl + V</span> on message or post inbox of a social media of your chosing to upload the image. </li>
+                                    </ol>
+                                </li>
+
+                                <li>
+                                    <h4>Mac OS</h4>
+                                    <ol>
+                                        <li>Click the <span class="button-like">Freeze</span> button on the countdown to pause the countdown. </li>
+                                        <li> Click the <span class="button-like">FullScreen</span> button on the countdown page. </li>
+                                        <li> Press <span class="keyboard-shortcut">Shift + Ctrl + Cmd + 3</span>  to automatically screenshot and save the image to clipboard. </li>
+                                        <li>Click the <span class="button-like">Exit FullScrren</span> to remove fullscreen mode.</li>
+                                        <li> Press <span class="keyboard-shortcut">Cmd + V</span> on message or post inbox of a social media of your chosing to upload the image. </li>
+                                    </ol>
+                                </li>
+                            </ul>
+                        </section>
+
+                        <section>
+                            <h3>On mobile and tablet devices</h3>
+                            <ol>
+                                <li>Click the <span class="button-like">Freeze</span> button on the countdown to pause the countdown animations so as to ensure a clear and sharp countdown screenshot. </li>
+                                <li>Zoom in a little to make sure the countdown page fills your device screen.</li>
+                                <li>Take a screenshot using your devices screenshot shortcut.</li>
+                                <li>Upload the screenshot image to your favourite social media site.</li>
+                            </ol>
+                        </section>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- <script src="/assets/js/main.js"></script> -->
-        <script src="/assets/js/countdown.js"></script>
+        <script src="/assets/js/countdown-freezable.js"></script>
+        <script src="/assets/js/modal.js"></script>
         <script type="text/javascript">
+            const showShareTips = document.getElementById("show-share-tips");
+            showShareTips.onclick = function(){
+                document.getElementById('modal').style.display = 'block';
+            }
+
+
             // start the countdown
             const openingMatchTime = 1528988400000; //"2018-06-14T18:00" MSC Time
-            startCountdownTo(new Date(openingMatchTime).getTime());
+            const freezableCntdwn = new freezableCountdownTo(new Date(openingMatchTime).getTime());
 
             // listen for info clicks
             const infoBtn = document.getElementById("info-button");
             const hdnBtnCont = document.getElementById("hidden-buttons-container");
             const fullScrnBtn = document.getElementById("fullscreen");
+            const freezeBtn = document.getElementById("freeze-countdown");
 
             // toggle  the show class on click
             infoBtn.addEventListener("click", e => {
@@ -161,6 +290,17 @@
             // remove the show class when anywhere else on window is clicked
             window.addEventListener("click", e => {
                 if(e.target !== infoBtn){ hdnBtnCont.classList.remove("show");}
+            })
+
+
+            freezeBtn.addEventListener("click", e => {
+                if(freezeBtn.textContent == "Freeze"){
+                    freezableCntdwn.freeze();
+                    freezeBtn.textContent = "Unfreeze";
+                }else{
+                    freezableCntdwn.unfreeze();
+                    freezeBtn.textContent = "Freeze";
+                }
             })
 
             // show full screen when full screen button shown
