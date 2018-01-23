@@ -1,0 +1,42 @@
+{
+	"squad": [
+		{
+			"name": "Carlo Gonzalez",
+			"title": "Coach",
+			"club": "",
+			"age": ""
+		},
+		{
+			"name": "Roberto Firmino",
+			"title": "Forward",
+			"club": "",
+			"age": "",
+			"number": 19
+		},
+		{
+			"name": "Eduardo Eddi",
+			"title": "Goal Keeper",
+			"club": "",
+			"age": "",
+			"number": 1
+		},
+		{
+			"name": "Thiago Silva",
+			"title": "Defender",
+			"club": "",
+			"age": "",
+			"number": 3
+		},
+		{
+			"name": "Philippe Coutinho",
+			"title": "Midfielder",
+			"club": "",
+			"age": "",
+			"number": 11
+		}
+	],
+	"base": {
+		"name": "Moscow",
+		"wiki_url": "en.wikipedia.org/wiki/Moscow"
+	}
+}

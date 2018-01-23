@@ -928,6 +928,14 @@
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
+            "url": "/assets/images/stadiums/kazan-arena-seats-and-parking.jpg",
+            "alt": "Kazan arena seating sectors and parking.",
+            "description": "Kazan arena seating sectors and parking.",
+            "copyright_holder": "kzn.kassir.ru",
+            "copyright_holder_url": "https://kzn.kassir.ru",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
             "url": "/assets/images/stadiums/kazan-arena-parking-map.jpg",
             "alt": "Kazan arena sectors and parking.",
             "description": "Kazan arena sectors and parking.",
@@ -959,11 +967,11 @@
     "url": "/stadiums/Mordovia-Arena.html",
     "image_url": "/assets/images/stadiums/mordovia-arena.jpg",
     "hero_image": {
-      "url": "",
-      "alt": "",
-      "description": "",
-      "copyright_holder": null,
-      "copyright_holder_url": "",
+      "url": "/assets/images/stadiums/mordovia-arena-hero.jpg",
+      "alt": "3D Model of Mordovia Arena",
+      "description": "3D Model of Mordovia Arena",
+      "copyright_holder": "sportin.su",
+      "copyright_holder_url": "http://sportin.su",
       "copyright_license": null,
       "copyright_license_url": ""
     },
@@ -980,38 +988,37 @@
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "Mordovia Arena is a football stadium located in Saransk, Mordovia, Russia in time for the 2018 FIFA World Cup."
         ]
       },{
         "title": "History",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "/assets/images/stadiums/mordovia-arena-construction-history.jpg",
+          "alt": "Final stages of Mordovia Arena stadium construction.",
+          "description": "Final stages of Mordovia Arena stadium construction.",
+          "copyright_holder": "championat.com",
+          "copyright_holder_url": "https://www.championat.com",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "The stadium constructin broke ground in 2010. The simple bowl-shaped venue is to have stands for 44,442 people, but only in tournament mode.",
+          "After the 2018 World Cup upper stands are to be dismantled, decreasing capacity to 28,000.",
+          "Between the stands left and the roof a promenade with retail and leisure spaces is to be created."
         ]
       },{
         "title": "2018 FIFA World Cup",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "/assets/images/stadiums/mordovia-arena-history.jpg",
+          "alt": "3D model of Mordovia Arena at night.",
+          "description": "3D model of Mordovia Arena at night.",
+          "copyright_holder": "www.thesundaily.my",
+          "copyright_holder_url": "http://www.thesundaily.my",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "The stadium will host 4 group stage matches of the 2018 FIFA World Cup."
         ]
       }
     ],
@@ -1028,17 +1035,17 @@
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "/assets/images/stadiums/mordovia-arena-info-one.jpg",
+            "alt": "3D model of Mordovia Arena stadium territory.",
+            "description": "3D model of Mordovia Arena stadium territory.",
+            "copyright_holder": "drugoigorod.ru",
+            "copyright_holder_url": "http://drugoigorod.ru",
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
-            "url": "",
-            "alt": "",
-            "description": "",
+            "url": "/assets/images/stadiums/mordovia-arena-seating-sectors.jpg",
+            "alt": "Mordovia Arena stadium seating sectors plan.",
+            "description": "Mordovia Arena stadium seating sectors plan.",
             "copyright_holder": null,
             "copyright_holder_url": "",
             "copyright_license": null,
@@ -1046,9 +1053,9 @@
           }
         ]
       },
-      "video_tour_url": "https://www.youtube.com/embed/"
+      "video_tour_url": "https://www.youtube.com/embed/VmIe-XDSXfg"
     },
-    "wiki_url": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mordovia_Arena",
     "more_reading": [
       {
         "name": "Wikipedia: Mordovia Arena",
@@ -1066,15 +1073,15 @@
   "Rostov Arena": {
     "name": "Rostov Arena",
     "city": "Rostov-on-Don",
-    "capacity": "",
+    "capacity": "45 000",
     "url": "/stadiums/Rostov-Arena.html",
     "image_url": "/assets/images/stadiums/rostov-arena-stadium.jpg",
     "hero_image": {
-      "url": "",
-      "alt": "",
-      "description": "",
-      "copyright_holder": null,
-      "copyright_holder_url": "",
+      "url": "https://pbs.twimg.com/media/DTkVEbqXcAABJx-.jpg",
+      "alt": "Exterior view of Rostov Arena stadium's facade.",
+      "description": "Exterior view of Rostov Arena stadium's facade.",
+      "copyright_holder": "https://twitter.com/fgupsportin",
+      "copyright_holder_url": "https://twitter.com/fgupsportin",
       "copyright_license": null,
       "copyright_license_url": ""
     },
@@ -1091,38 +1098,37 @@
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "Rostov Arena is an association football stadium located in Rostov-on-Don, Russia."
         ]
       },{
         "title": "History",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "https://echo.msk.ru/files/2815592.jpg",
+          "alt": "Ariel view of Rostov Arena stadium during the final stages of construction.",
+          "description": "Ariel view of Rostov Arena stadium during the final stages of construction.",
+          "copyright_holder": "echo.msk.ru",
+          "copyright_holder_url": "https://echo.msk.ru",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "In June 2013, during the groundbreaking for the stadium, five shells from WWII were found, almost perfectly preserved.",
+          "In August 2013, work began on the sandy alluvium foundation for the stadium. Work on the foundation was completed in May 2014.",
+          "The stadium is to be the start of a new city centre. It will be the first large project built on the southern bank of the Don River, with the rest of the city lying north."
         ]
       },{
         "title": "2018 FIFA World Cup",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "https://pbs.twimg.com/media/DTkVErRW0AApvqO.jpg",
+          "alt": "Rostov arena interior and the newly grown grass on the football pitch.",
+          "description": "Rostov arena interior and the newly grown grass on the football pitch.",
+          "copyright_holder": "https://twitter.com/fgupsportin",
+          "copyright_holder_url": "https://twitter.com/fgupsportin",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "The stadium will host 5 matches of the 2018 FIFA World Cup; 4 Group Matches and 1 Round-of-16 Match."
         ]
       }
     ],
@@ -1131,11 +1137,11 @@
         "intro_text": [""],
         "images": [
           {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "https://pbs.twimg.com/media/DTz-X8gX0AEsfLz.jpg",
+            "alt": "Ariel view of Rostov Arena at night.",
+            "description": "Ariel view of Rostov Arena at night.",
+            "copyright_holder": "https://twitter.com/fgupsportin",
+            "copyright_holder_url": "https://twitter.com/fgupsportin",
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
@@ -1147,23 +1153,31 @@
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "/assets/images/stadiums/rostov-arena-seating-sectors.jpg",
+            "alt": "A model of the seating sectors in Rostov Arena stadium.",
+            "description": "A model of the seating sectors in Rostov Arena stadium.",
+            "copyright_holder": "ticketutils.com",
+            "copyright_holder_url": "https://www.ticketutils.com",
+            "copyright_license": null,
+            "copyright_license_url": ""
+          }, {
+            "url": "https://pbs.twimg.com/media/DTz-X8lX4AEnunr.jpg",
+            "alt": "Rostov Arena during a chilly and freezing winter night.",
+            "description": "Rostov Arena during a chilly and freezing winter night.",
+            "copyright_holder": "https://twitter.com/fgupsportin",
+            "copyright_holder_url": "https://twitter.com/fgupsportin",
             "copyright_license": null,
             "copyright_license_url": ""
           }
         ]
       },
-      "video_tour_url": "https://www.youtube.com/embed/"
+      "video_tour_url": "https://www.youtube.com/embed/UK_nEg_o7ms"
     },
-    "wiki_url": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rostov_Arena",
     "more_reading": [
       {
-        "name": "",
-        "url": ""
+        "name": "Wikipedia: Rostov Arena",
+        "url": "https://en.wikipedia.org/wiki/Rostov_Arena"
       }
     ]
   },
@@ -1178,11 +1192,11 @@
     "url": "/stadiums/Samara-Arena.html",
     "image_url": "https://ru2018.org/upload/000/u1/021/af886f6e.jpg",
     "hero_image": {
-      "url": "",
-      "alt": "",
-      "description": "",
-      "copyright_holder": null,
-      "copyright_holder_url": "",
+      "url": "/assets/images/stadiums/samara-arena-hero.jpg",
+      "alt": "3D Model of Samara Arena at night.",
+      "description": "3D Model of Samara Arena at night.",
+      "copyright_holder": "livejournal.com",
+      "copyright_holder_url": "https:/www.livejournal.com",
       "copyright_license": null,
       "copyright_license_url": ""
     },
@@ -1199,38 +1213,37 @@
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "Samara Arena (Cosmos Arena) is a football stadium located in Samara, Russia. The stadium is one of the venues for the 2018 FIFA World Cup."
         ]
       },{
         "title": "History",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "https://z65.d.sdska.ru/2-z65-75a61a1a-2813-4de6-bcde-3799b816f070.jpg",
+          "alt": "Samara Arena in its final stages of construction.",
+          "description": "Samara Arena in its final stages of construction.",
+          "copyright_holder": "63.ru",
+          "copyright_holder_url": "https://63.ru",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "Samara Arena's design concept is dominated by the theme of space, as a tribute to the traditions of the region, and its renowned aerospace sector.",
+          "The history of the city is closely related to rocket and missile engineering.",
+          "Samara Rocket Space Center produced 1660 carrier rockets of Soyuz series used for spaceflight launches."
         ]
       },{
         "title": "2018 FIFA World Cup",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "https://ru2018.org/upload/000/u1/021/af886f6e.jpg",
+          "alt": "Ariel view of Samara Arena stadium territory.",
+          "description": "Ariel view of Samara Arena stadium territory.",
+          "copyright_holder": "ru2018.org",
+          "copyright_holder_url": "https://ru2018.org",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "The stadium will host 6 matches of the 2018 FIFA World Cup, 4 Group Matches, 1 Round-of-16 Match and 1 Quarter Final Match."
         ]
       }
     ],
@@ -1239,39 +1252,43 @@
         "intro_text": [""],
         "images": [
           {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "http://st.volga.news/image/w1300/h900/max/d1efcdd4-854e-4fa7-b8ce-014edc94d096.jpg",
+            "alt": "Map of different facilities around Samara Arena stadium.",
+            "description": "Map of different facilities around Samara Arena stadium.",
+            "copyright_holder": "volga.news",
+            "copyright_holder_url": "http://volga.news/",
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "https://ru2018.org/upload/000/u1/021/d5bbad5a.jpg",
+            "alt": "3D model of samara arena stadium",
+            "description": "3D model of samara arena stadium",
+            "copyright_holder": "ru2018.org",
+            "copyright_holder_url": "https://ru2018.org",
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "/assets/images/stadiums/samara%20seating%20chart.jpg",
+            "alt": "Samara Arena stadium seating categories chart",
+            "description": "Samara Arena stadium seating categories chart",
+            "copyright_holder": "fifa.com",
+            "copyright_holder_url": "http://www.fifa.com/worldcup/organisation/ticketing/ticket-categories.html#2907547",
             "copyright_license": null,
             "copyright_license_url": ""
           }
         ]
       },
-      "video_tour_url": "https://www.youtube.com/embed/"
+      "video_tour_url": "https://www.youtube.com/embed/E585GSO9tFw"
     },
-    "wiki_url": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Cosmos_Arena",
     "more_reading": [
       {
-        "name": "",
-        "url": ""
+        "name": "Wikipedia: Samara Arena",
+        "url": "https://en.wikipedia.org/wiki/Cosmos_Arena"
+      },
+      {
+        "name": "Samara Arena project plan and changes",
+        "url": "http://taburent.ru/izmeneniya-proekta-planirovki-territorii-stadiona-samara-arena"
       }
     ]
   },
@@ -1286,11 +1303,11 @@
     "url": "/stadiums/Volgograd-Arena.html",
     "image_url": "https://s14.stc.all.kpcdn.net/share/i/12/10297473/inx960x640.jpg",
     "hero_image": {
-      "url": "",
-      "alt": "",
-      "description": "",
-      "copyright_holder": null,
-      "copyright_holder_url": "",
+      "url": "https://pbs.twimg.com/media/DQMETFRW4AE_DUL.jpg",
+      "alt": "Ariel view of Volgograd Arena and the sorrounding buildings.",
+      "description": "Ariel view of Volgograd Arena and the sorrounding buildings.",
+      "copyright_holder": "https://twitter.com/fgupsportin",
+      "copyright_holder_url": "https://twitter.com/fgupsportin",
       "copyright_license": null,
       "copyright_license_url": ""
     },
@@ -1307,38 +1324,36 @@
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "Volgograd Arena is a football stadium located in Volgograd, Russia."
         ]
       },{
         "title": "History",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "https://pbs.twimg.com/media/DQMEETsXcAAqxWG.jpg",
+          "alt": "Volgograd Arena stadium during the final stages of construction.",
+          "description": "Volgograd Arena stadium during the final stages of construction.",
+          "copyright_holder": "https://twitter.com/fgupsportin",
+          "copyright_holder_url": "https://twitter.com/fgupsportin",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "The Stadium will be built on site of the demolished Central Stadium, at the foot of the Mamayev Kurgan memorial complex, near the Volga River.",
+          "The previous stadium was built in 1958, on the site of a former oil depot."
         ]
       },{
         "title": "2018 FIFA World Cup",
         "hero_image": {
-          "url": null,
-          "alt": "",
-          "description": "",
-          "copyright_holder": null,
-          "copyright_holder_url": "",
+          "url": "https://pbs.twimg.com/media/DQMEFXvX0AAsyL7.jpg",
+          "alt": "Scenic view of Volgograd Arena stadium pitch and the seating stands.",
+          "description": "Scenic view of Volgograd Arena stadium pitch and the seating stands.",
+          "copyright_holder": "https://twitter.com/fgupsportin",
+          "copyright_holder_url": "https://twitter.com/fgupsportin",
           "copyright_license": null,
           "copyright_license_url": ""
         },
         "paragraphs": [
-          "",
-          ""
+          "The stadium will host 4 group stage matches of the 2018 FIFA World Cup."
         ]
       }
     ],
@@ -1347,39 +1362,39 @@
         "intro_text": [""],
         "images": [
           {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "/assets/images/stadiums/volgograd-arena-map-overview.jpg",
+            "alt": "3D ariel view of Volgograd Arena stadium.",
+            "description": "3D ariel view of Volgograd Arena stadium.",
+            "copyright_holder": "kubanproekt.ru",
+            "copyright_holder_url": "http://www.kubanproekt.ru/",
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
-            "copyright_holder_url": "",
+            "url": "https://z73.d.sdska.ru/2-z73-8cea6a71-9a32-41a6-b44e-e783443a479e.jpg",
+            "alt": "Square outside Volgograd Arena stadium",
+            "description": "Square outside Volgograd Arena stadium",
+            "copyright_holder": "v1.ru",
+            "copyright_holder_url": "https://v1.ru",
             "copyright_license": null,
             "copyright_license_url": ""
           }, {
-            "url": "",
-            "alt": "",
-            "description": "",
-            "copyright_holder": null,
+            "url": "/assets/images/stadiums/volgograd-stadium-seating-chart.jpg",
+            "alt": "Volgograd Arena stadium seating chart.",
+            "description": "Volgograd Arena stadium seating chart.",
+            "copyright_holder": "",
             "copyright_holder_url": "",
             "copyright_license": null,
             "copyright_license_url": ""
           }
         ]
       },
-      "video_tour_url": "https://www.youtube.com/embed/"
+      "video_tour_url": "https://www.youtube.com/embed/CXXkOO44-6g"
     },
-    "wiki_url": "",
+    "wiki_url": "https://en.wikipedia.org/wiki/Volgograd_Arena",
     "more_reading": [
       {
-        "name": "",
-        "url": ""
+        "name": "Wikipedia: Volgograd Arena",
+        "url": "https://en.wikipedia.org/wiki/Volgograd_Arena"
       }
     ]
   }
