@@ -5,6 +5,7 @@
 .countdown-mini .countdown-area {
     color:  var(--app-gold);
 }
+.countdown-mini .countdown-area {padding-bottom: 2rem;}
 .countdown-mini #countdown-days h2 {
     font-size: 2em;
     margin: 0;
@@ -51,7 +52,16 @@
     transform: rotateX(1080deg);
 }
 
-.countdown-area {position: relative;}
+.countdown-area {
+    position: relative;
+    padding-bottom: 4rem;
+}
+.countdown-time {
+    position: absolute;
+    z-index: 1;
+    width: 100%;    
+}
+
 .countdown-area.show-end .end-message{
     display: flex;
 }

@@ -1,4 +1,4 @@
-function startCountdownTo(deadlineTime){
+function startCountdownTo(deadlineTime, dontCountdown){
 
     const timerParts = [
         {
@@ -72,7 +72,8 @@ function startCountdownTo(deadlineTime){
 
     const initialTimeLeft = getTimeLeft(secsToDeadline);
     changeTimeElts(initialTimeLeft);
-
+    
+    if(dontCountdown) return;
     setInterval(function() {
         if(secsToDeadline <= 0) {
             document.querySelector(".counter-area").classList.add("show-end");
