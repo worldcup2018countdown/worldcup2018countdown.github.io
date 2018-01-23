@@ -1,0 +1,226 @@
+{% for team in site.data.teams %}
+{% if team.Name == page.country_name %}
+{% assign team_data = team %}
+{% endif %}
+{% endfor %}
+<div data-country-name="{{page.country_name}}" class="country-name-banner">
+    {% include team-fancy-button.html team=team_data %}
+</div>
+
+<div class="next-match-area">
+    <p class="next-match-text">Next Match:</p>
+
+    <div class="narrow-card match-card">
+        <div class="left-section time with-date">
+            <h5 class="stage-text" data-str-sub-next-match="Stage"> Group Stage </h5>
+            <h4 class="date-text" data-str-sub-next-match="OrdinalShortDate"> 16th June </h4>
+            <h3 class="time-text" data-str-sub-next-match="Time">23:45</h3>
+        </div>
+        <div class="right-section match-teams">
+            <div class="match-main-info">
+                <div class="x-vs-y">
+                    <h3 class="team-text" data-str-sub-next-match="Team 1"> </h3>
+                    <h5 class="vs-text">vs</h5>
+                    <h3 class="team-text" data-str-sub-next-match="Team 2"> </h3>
+                </div>
+                <a class="x-vs-y-score-link" href="#">
+                    <div class="x-vs-y-score">
+                        <span data-str-sub-next-match="Team1Score" class="x-score">3</span>
+                        <span data-str-sub-next-match="Status" class="vs-text match-status">FT</span>
+                        <span data-str-sub-next-match="Team1Score" class="y-score">1</span>
+                    </div>
+                </a>
+            </div>
+            <div class="venue">
+                <h4 class="venue-text">
+                    <a class="stadium" href="#">
+                        <span class="stadium" data-str-sub-next-match="Stadium"></span>,
+                    </a>
+                    <a class="city" href="#">
+                        <span class="city" data-str-sub-next-match="City"></span>
+                    </a>
+                </h4>
+            </div>
+        </div>
+    </div>
+
+    <!-- <p class="time-till-text">Time till next Match:</p> -->
+    
+    <div class="countdown-wrapper countdown-mini">
+        <p class="countdown-intro">Time till the Next Match kick-off!</p>
+
+        <div class="countdown-area">
+            <div id="countdown-days">
+                <h2><span class="time-figure" id="cntdwn-days-figure">190</span> Days</h2>
+            </div>
+            <div id="countdown-separator" class="center-bg"></div>
+            <div class="countdown-time">
+                <h3><span class="" id="cntdwn-hours-figure">
+                    <span class="time-figure animate-flbd" id="cntdwn-hour-tens">2</span><span class="time-figure animate-flbd" id="cntdwn-hour-ones">3</span>
+                    </span> H</h3>
+                <h3><span class="" id="cntdwn-mins-figure">
+                        <span class="time-figure animate-fb" id="cntdwn-min-tens">0</span><span class="time-figure animate-ft" id="cntdwn-min-ones">9</span>
+                    </span> M</h3>
+                <h3><span class="" id="cntdwn-secs-figure">
+                        <span class="time-figure animate-frtd" id="cntdwn-sec-tens">4</span><span class="time-figure animate-frbd" id="cntdwn-sec-ones">7</span>
+                    </span> S</h3>
+            </div>
+            <div class="end-message">
+                <h3>Match Has Started</h3>
+            </div>
+        </div>
+</div>
+
+<!-- squad -->
+<div class="collapser">
+    <div class="collapse-head rounded-bar">
+        <label for="squad-collapse">
+            <h3 class="head-text">Squad:</h3>
+            <span class="icon-wrapper collapser-icon-wrapper center-bg">
+                <img src="/assets/images/down-golden.svg" alt="up-icon">
+                <input class="collapse-trigger" type="checkbox" name="" id="squad-collapse">
+            </span>
+        </label>
+    </div>
+    <div class="collapse-body">
+
+        <div class="squad-plain-card">
+            {% assign squadData =  site.data.squads[page.country_name] %}
+            <div class="squad-member coach">
+                <span class="squad-title">Coach:</span><span>{{squadData.coach}}</span>
+            </div>
+            {% for member in squadData.squad %}
+            <div class="squad-member">
+                <span>{{member.jerseyNumber}} {{member.name}}</span>
+                <span class="squad-title">{{member.pos}}</span>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</div>
+
+<!-- group -->
+<div class="collapser">
+    <div class="collapse-head rounded-bar">
+        <label for="group-collapse">
+            <h3 class="head-text">Group:</h3>
+            <span class="icon-wrapper collapser-icon-wrapper center-bg">
+                    <img src="/assets/images/down-golden.svg" alt="up-icon">
+                <input class="collapse-trigger" type="checkbox" name="" id="group-collapse">
+            </span>
+        </label>
+    </div>
+    <div class="collapse-body">
+
+        <div class="group-plain-card">
+            <div class="group-letter">
+                <h3 id="group-letter-text">{{ team_data.Group }}</h3>
+            </div>
+            <div class="vertical-separator"></div>
+            <div class="group-teams" id="group-teams">
+                 {% for group_team in site.data.teams %}
+                 {% if group_team.Group == team_data.Group %}
+                <div data-ss-item="team" class="group-team-item">
+                    <p data-str-sub-team="Name">
+                        <a class="golden" href="/teams/{{ group_team.Name | replace : ' ', '-' }}.html">
+                            {{ group_team.Name }}
+                        </a>
+                    </p>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- matches -->
+<div class="collapser">
+    <div class="collapse-head rounded-bar">
+        <label for="matches-collapse">
+            <h3 class="head-text">Matches:</h3>
+            <span class="icon-wrapper collapser-icon-wrapper center-bg">
+                    <img src="/assets/images/down-golden.svg" alt="up-icon">
+                <input class="collapse-trigger" type="checkbox" name="" id="matches-collapse">
+            </span>
+        </label>
+    </div>
+    <div class="collapse-body">
+
+        <div class="matches-plain-card" id="country-matches-list">
+            {% for match in site.data.matches %}
+            {% if match["Team 1"] == team_data.Name or match["Team 2"] == team_data.Name %}
+            <div class="match-item">
+                <div class="match-meta-details">
+                    <h4>{{ match.Stage }}</h4>
+                    <h5>
+                        <span>{{ match.OrdinalShortDate }}</span>
+                        <span>{{ match.Time }}</span>
+                    </h5>
+                    <h6>
+                        <span class="stadium">
+                            <a class="golden" href="{{site.data.stadiums[match.Stadium].url}}">{{match.Stadium}}</a>,
+                        </span>
+                        <span class="city">
+                            <a class="golden" href="{{site.data.cities[match.City].url}}">{{match.City}}</a>
+                        </span>
+                    </h6>
+                </div>
+                <div class="match-links">
+                    <!-- <a rel="nofollow" href="https://livescore.com">Livescore</a> -->
+                    <a rel="nofollow" href="{{ match.WikiUrl }}" title="{{ match.WikiUrl }}" >Wikipedia</a>
+                    <a rel="nofollow" href="{{ match.FifaUrl }}" title="{{ match.FifaUrl }}" >Fifa</a>
+                </div>
+                <div class="match-main-details">
+                    <span class="home-team team-name">
+                        <a class="golden" href="/teams/{{ match['Team 1'] | replace : ' ', '-' }}.html">
+                            {{ match["Team 1"] }}
+                        </a>
+                    </span>
+                    
+                    <div class="vs-or-results 
+                    {% if match.status == 'NS' %} vs {%else%} results {% endif %}">
+                        <span class="vs"> vs </span>
+                        <div class="results">
+                            <span class="score">1</span>
+                            <span class="dash">-</span>
+                            <span class="score">1</span>
+                            <div class="match-flag">FT</div>
+                        </div>
+                    </div>
+                    <span class="away-team team-name">
+                        <a class="golden" href="/teams/{{ match['Team 2'] | replace : ' ', '-' }}.html">
+                            {{ match["Team 2"] }}
+                        </a>
+                    </span>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+
+    </div>
+</div>
+
+<!-- base -->
+<div class="collapser">
+    <div class="collapse-head rounded-bar">
+        <label for="base-collapse">
+            <h3 class="head-text">Base:</h3>
+            <span class="icon-wrapper collapser-icon-wrapper center-bg">
+                    <img src="/assets/images/down-golden.svg" alt="up-icon">
+                <input class="collapse-trigger" type="checkbox" name="" id="base-collapse">
+            </span>
+        </label>
+    </div>
+    <div class="collapse-body">
+
+        <h4 class="base-address">
+            <a class="golden" href="{{ site.data.team_infos[page.country_name].base.wiki_url }}">
+            {{ site.data.team_infos[page.country_name].base.name }}</a>
+        </h4>
+
+    </div>
+</div>
