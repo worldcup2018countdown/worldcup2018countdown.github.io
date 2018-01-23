@@ -1,34 +1,10 @@
 // findout team name
-const countryName = "South Korea";
+const countryName = document.querySelector(".country-name-banner").dataset.countryName;
+getMatchListAndStartCountdown(countryName);
 
-// fetch the country list
-fetchJSON("../assets/json/Team Order List.json").then(teams => {
-    // get the team's data from the country list
-    // display the team's data in fancy button
-    let countryFancyBtnData;
-    for (let t = 0; t < teams.length; t++) {
-        const team = teams[t];
-        if(team.Name == countryName) {
-            countryFancyBtnData = team;
-            break;
-        }
-    }
-    const segment = document.getElementById("country-fancy-data");
-    insertItemStrings(countryFancyBtnData, segment, "country-button");
-
-    // make an array with only countries within the same group
-    // display them in the group collapse body
-    groupTeams = [];
-    teams.forEach(team => {
-        if(team.Group == countryFancyBtnData.Group) groupTeams.push(team);
-    });
-    console.log(groupTeams);
-    getMatchList(countryName);
-})
-
-function getMatchList(countryName){
+function getMatchListAndStartCountdown(countryName){
     // fetch the match list
-    fetchJSON("../json/Matches.json").then(matches => {
+    fetchJSON("/assets/json/Matches.json").then(matches => {
         const countryMatches = [];
 
         // reduce the matches json to only items containing this match
@@ -63,16 +39,7 @@ function getMatchList(countryName){
         startCountdownTo(upcomingOrLast.DateNum);
 
         const segment = document.querySelector(".next-match-area");
-        insertItemStrings(upcomingOrLast, segment, "next-match");
-
-        dispalyTeamSquadAndBase();
+        displayMatchCard(upcomingOrLast, segment, "next-match");
     })
 
-}
-
-function dispalyTeamSquadAndBase(){
-// fetch the team json
-
-// get the squad data and display it
-// get the base location and display it
 }
