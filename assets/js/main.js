@@ -21,6 +21,31 @@ function insertItemStrings(itemData, segment, groupName){
         el.textContent = itemData[el.dataset[groupDatasetProperty]];
     })
 }
+// function instertElAtrribute(itemData, node, elAttribute){
+//     // const dataValue = itemData[el.dataset[groupDatasetProperty]];
+//     // segment.querySelectorAll(groupDatasetSelector).forEach( el => {
+//     //     if(elAttribute == "bgUrl"){
+//     //         el.style.backgroundImage = `url("${dataValue}")`;
+//     //     }else{
+//     //         el.textContent = dataValue;
+//     //     }
+//     // })
+// }
+
+function displayMatchCard(matchData, matchCardNode, ssName){
+    insertItemStrings(matchData, matchCardNode, ssName);
+
+    // insert city and stadium links
+    function slugify(s){return s.replace(/ /g, "-");}
+    matchCardNode.querySelector("a.city").href = `/cities/${slugify(matchData.City)}.html`;
+    matchCardNode.querySelector("a.stadium").href = `/stadiums/${slugify(matchData.Stadium)}.html`;
+
+    // insert match report link
+    const matchReportLink = matchCardNode.querySelector(".x-vs-y-score-link");
+    matchReportLink.href = matchData.FifaUrl;
+    // hide match report if the match is in "NS" status
+    if(matchData.Status == "NS") matchReportLink.style.display = "none";
+}
 
 function fetchJSON (jsonPath){
 	return fetch(jsonPath)

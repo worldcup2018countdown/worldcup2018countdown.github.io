@@ -85,6 +85,6 @@ function displayDateContents (dateKey){
     matchDates[dateKey].forEach(match => {
         const matchCard = matchCardTemplate.cloneNode(true);
         matchCardContainer.appendChild(matchCard);
-        insertItemStrings(match, matchCard, "match-dates-list")
+        displayMatchCard(match, matchCard, "match-dates-list");
     })
 }
