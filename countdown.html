@@ -41,13 +41,21 @@
             body   {
                 background-image: url(/assets/images/bg_blue.jpg);
             }
-            .hero {min-height: 40vh;}
-            .countdown-wrapper {margin: 4vh 0 0;}
+            .app-container {
+                padding-bottom: 8px;
+                justify-content: space-evenly;
+                flex-direction: column;
+                display: flex;
+                background-clip: content-box;
+            }
+            .hero {min-height: auto;}
+            .countdown-wrapper {margin: 0;}
             p.countdown-intro {font-size: 1.4em;}
             #countdown-days,.countdown-time {margin: 1em 0;}
             #countdown-days h2 {font-size: 5em;}
             #countdown-separator {height: 2.8em;}
             .countdown-time h3 {font-size: 2.8em;}
+            .countdown-area {padding-bottom: 7rem;}
 
             @media screen and (max-width: 540px){
                 p.countdown-intro {font-size: 1em;}
@@ -55,6 +63,10 @@
                 #countdown-days h2 {font-size: 3.8em;}
                 #countdown-separator {height: 1.8em;}
                 .countdown-time h3 {font-size: 1.8em;}
+            }
+
+            @media screen and (max-height: 540px) {
+                .hero {margin-bottom: 2rem;}
             }
 
             #top-info-area {
@@ -66,7 +78,8 @@
                 top: 0;
                 right: 1rem;
                 right: 0;
-                padding: 2rem;
+                padding-top: 2rem;
+                padding-right: 2rem;
                 z-index: 1;
             }
             #info-button {
@@ -92,7 +105,7 @@
                 display: block;
             }
             #hidden-buttons-container button {
-                margin: 0 0.25rem;
+                margin: 2px 2px;
                 cursor: pointer;
                 border-radius: 4px;
                 padding: 4px 8px;
@@ -113,6 +126,7 @@
             .share-tips-container ul,
             .share-tips-container ol {
                 margin: 0;
+                padding-left: 1.2rem;
             }
             .share-tips-container .main-heading {
                 padding: 0.5rem 0 0.25rem;
@@ -252,8 +266,9 @@
                             <h3>On mobile and tablet devices</h3>
                             <ol>
                                 <li>Click the <span class="button-like">Freeze</span> button on the countdown to pause the countdown animations so as to ensure a clear and sharp countdown screenshot. </li>
-                                <li>Zoom in a little to make sure the countdown page fills your device screen.</li>
-                                <li>Take a screenshot using your devices screenshot shortcut.</li>
+                                <li> Click the <span class="button-like">FullScreen</span> button on the countdown page. </li>
+                                <li>Take a screenshot using your device's screenshot shortcut.</li>
+                                <li>Click the <span class="button-like">Exit FullScrren</span> to remove fullscreen mode.</li>
                                 <li>Upload the screenshot image to your favourite social media site.</li>
                             </ol>
                         </section>
