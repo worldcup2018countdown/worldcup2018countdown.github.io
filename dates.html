@@ -43,20 +43,32 @@ additional_scripts: ["./assets/js/dates.js"]
 <div class="templates">
     <div class="narrow-card match-card">
             <div class="left-section time">
+                <h5 class="stage-text" data-str-sub-match-dates-list="Stage"></h5>
                 <h3 class="time-text" data-str-sub-match-dates-list="Time"></h3>
             </div>
             <div class="right-section match-teams">
-                <h3 class="team-text" data-str-sub-match-dates-list="Team 1"></h3>
-                <h5 class="vs-text">vs</h5>
-                <h3 class="team-text" data-str-sub-match-dates-list="Team 2"></h3>
+                <div class="match-main-info">
+                    <div class="x-vs-y">
+                        <h3 class="team-text" data-str-sub-match-dates-list="Team 1"> </h3>
+                        <h5 class="vs-text">vs</h5>
+                        <h3 class="team-text" data-str-sub-match-dates-list="Team 2"> </h3>
+                    </div>
+                    <a class="x-vs-y-score-link" href="#">
+                        <div class="x-vs-y-score">
+                            <span data-str-sub-match-dates-list="Team1Score" class="x-score">3</span>
+                            <span data-str-sub-match-dates-list="Status" class="vs-text match-status">FT</span>
+                            <span data-str-sub-match-dates-list="Team1Score" class="y-score">1</span>
+                        </div>
+                    </a>
+                </div>
                 <div class="venue">
                     <h4 class="venue-text">
-                        <!-- <a href="#"> -->
+                        <a class="stadium" href="#">
                             <span class="stadium" data-str-sub-match-dates-list="Stadium"></span>,
-                        <!-- </a>  -->
-                        <!-- <a href="#"> -->
+                        </a>
+                        <a class="city" href="#">
                             <span class="city" data-str-sub-match-dates-list="City"></span>
-                        <!-- </a> -->
+                        </a>
                     </h4>
                 </div>
             </div>
