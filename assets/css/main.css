@@ -66,6 +66,19 @@ body.bg-blue {
     flex-direction: row;
 }
 
+.app-toolbar .title-heading {
+    width: calc(100% - 5em);
+    overflow: hidden;
+}
+.app-toolbar .title-heading h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    white-space: nowrap;
+    overflow-x: hidden;
+    overflow: hidden;
+    text-overflow: ellipsis;    
+}
+
 .app-toolbar .icon-wrapper {
     height: 100%;
     width: 2em;
@@ -152,6 +165,12 @@ body.bg-blue {
     min-height: calc(100vh - var(--app-toolbar-height));
     padding-bottom: var(--app-toolbar-height);
 }
+@media screen and (max-width: 540px){
+    .app-container:not(.always-narrow) {
+        width: 100%;
+    }
+}
+
 .app-container.home {min-height: 100vh;}
 
 .app-container.txt-algn-center {
@@ -167,12 +186,14 @@ body.bg-blue {
 .app-container.wide footer {
     text-align: center;
     width: 80%;
-    margin: var(--app-footer-margin-vertical) 10%;
+    width: calc(100% - 16px);
 }
 .wide-narrow {
     width: 80%;
     margin: 0 auto;
 }
+
+.app-content-container {margin-bottom: 1rem;}
 
 .center-bg {
     background-size: contain;
@@ -210,6 +231,32 @@ body.bg-blue {
     text-justify: newspaper;
     font-size: 1.2em;
     color: var(--app-gold);
+}
+
+/*#asc-or-desc {background-color: yellow;}*/
+#asc, #desc {display: none;}
+#asc-or-desc.desc #asc,
+#asc-or-desc.asc #desc {
+    display: inline-block;
+    border: none;
+    color: var(--app-gold);
+    background-color: transparent;
+    border: solid 1px;
+    padding: 6px 4px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+[data-order-category="rank"] .category-value.rank,
+[data-order-category="group"] .category-value.group,
+[data-order-category="pot"] .category-value.pot,
+[data-order-category="population"] .category-value.population,
+[data-order-category="confederation"] .category-value.confederation,
+[data-order-category="appearance"] .category-value.appearance {
+    /*border: solid 1px;*/
+    color: var(--app-bg-white);
+    font-size: 1.05em;
+    font-weight: bold;
 }
 
 .rounded-bar {
@@ -314,11 +361,12 @@ body.bg-blue {
     padding: 8px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
     background-color: var(--app-blue);
     border-bottom-left-radius: 2px;
     border-top-left-radius: 2px;
-    min-width: 3em;
+    min-width: 4em;
 }
 
 .match-card .left-section h5 {
@@ -350,6 +398,39 @@ body.bg-blue {
     margin: -4px 0;
 }
 
+.match-card .match-main-info {
+    display:  flex;
+    justify-content:  space-between;
+}
+
+.match-card .x-vs-y {
+    width: 100%;
+}
+
+.match-card .x-vs-y-score {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+    padding: 0 0.25rem;
+    border-left: dashed 1px var(--app-accent-blue); 
+}
+a.x-vs-y-score-link {
+    color: var(--app-gold);
+    text-decoration: none;
+}
+a.x-vs-y-score-link:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
+.match-card span.x-score, span.y-score {
+    font-size: 1.4rem;
+}
+
+.match-card .x-vs-y-score .match-status {
+    font-size: 0.8rem;
+}
+
 #show-stadiums-label {
     margin: -1rem 0;
     display: block;
@@ -360,15 +441,21 @@ body.bg-blue {
     max-height: 0;
     transition: max-height linear 300ms;
 }
-.right-section:hover .venue,
+.match-card:hover .venue,
 .show-stadiums .right-section .venue {max-height: 3rem;}
 
 .right-section .venue-text {
     border-top: dashed 1px var(--app-accent-blue);
-    color: var( --app-bg-gray);
     padding: 2px 0;
-    margin: 4px 0 0;
     font-size: 0.8rem;
+}
+.venue-text a {
+    text-decoration: none;
+    color: var(--app-bg-gray);
+    margin-right: 0.125rem;
+}
+.venue-text a:hover {
+    text-decoration: underline;
 }
 
 .narrow-card .time-text {
@@ -383,6 +470,27 @@ svg.wc-fancy-button {
     max-height: 80px;
     /* max-height: 100px; */
     margin: 0 auto;   
+}
+
+.country-trophies {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--app-gold);
+}
+.country-trophies span.trophy-text {font-size: 1rem;}
+.country-trophies .icon-wrapper {
+    display: inline-flex;
+    margin-left: 0.5rem;
+}
+.country-trophies .icon-wrapper svg {
+    fill: var(--app-gold);
+    width: 1rem;
+    margin-bottom: 0.2rem;
+}
+.country-trophies .icon-wrapper svg:hover,
+.country-trophies .icon-wrapper svg:focus {
+    fill: whitesmoke;
 }
 
 .section-header {
@@ -549,6 +657,20 @@ select {
     border: solid var(--app-gold) 1px; 
 }
 
+.fancy-buttons-list .country-meta-wrapper {
+    max-height: 0;
+    opacity: 0;
+    overflow-y: hidden;
+    transition: all 100ms linear;
+}
+.fancy-buttons-list.show-meta .country-meta-wrapper {
+    max-height: 10rem;
+    opacity: 1;
+}
+.fancy-button-item {
+    margin-bottom: 0.5rem;
+}
+
 .country-meta {
     display: flex;
 }
@@ -657,7 +779,9 @@ select {
 footer {
     position: absolute;
     bottom: 0;
-    width: 100%;
+    /* width: 100%; */
+    right: 8px;
+    left: 8px;
     white-space: nowrap;
     overflow-x: auto;
     padding: 8px 0;

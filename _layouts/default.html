@@ -3,10 +3,11 @@
     {% include head.html %}
     <body>
         <div class="app-container txt-algn-center {{page.page_css_class}}">
-            
+            <div class="app-content-container">
                 {{ content }}
+            </div>
 
-                {% include footer.html %}
+            {% include footer.html %}
         </div>
         <script src="/assets/js/main.js"></script>
         {% for script_link in page.additional_scripts %}
