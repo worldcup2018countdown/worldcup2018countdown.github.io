@@ -1,0 +1,589 @@
+{
+    "name": "South Korea",
+    "squad": [
+        {
+            "jerseyNumber": "",
+            "name": "Kim Seung-gyu",
+            "wiki_url": "/wiki/Kim_Seung-gyu",
+            "pos": "GK",
+            "dob": "(1990-09-30) 30 September 1990 (age 27)",
+            "caps": "27",
+            "goals": "0",
+            "club": " Vissel Kobe"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Cho Hyun-woo",
+            "wiki_url": "/wiki/Cho_Hyun-woo",
+            "pos": "GK",
+            "dob": "(1991-09-25) 25 September 1991 (age 26)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Daegu FC"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Dong-jun",
+            "wiki_url": "/wiki/Kim_Dong-jun_(footballer)",
+            "pos": "GK",
+            "dob": "(1994-12-19) 19 December 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Seongnam FC"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Young-gwon",
+            "wiki_url": "/wiki/Kim_Young-gwon",
+            "pos": "DF",
+            "dob": "(1990-02-27) 27 February 1990 (age 27)",
+            "caps": "49",
+            "goals": "2",
+            "club": " Guangzhou Evergrande"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Jang Hyun-soo (Captain)",
+            "wiki_url": "/wiki/Jang_Hyun-soo",
+            "pos": "DF",
+            "dob": "(1991-09-28) 28 September 1991 (age 26)",
+            "caps": "45",
+            "goals": "3",
+            "club": " FC Tokyo"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Jin-su",
+            "wiki_url": "/wiki/Kim_Jin-su",
+            "pos": "DF",
+            "dob": "(1992-06-13) 13 June 1992 (age 25)",
+            "caps": "31",
+            "goals": "0",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Go Yo-han",
+            "wiki_url": "/wiki/Go_Yo-han",
+            "pos": "DF",
+            "dob": "(1988-03-10) 10 March 1988 (age 29)",
+            "caps": "16",
+            "goals": "0",
+            "club": " FC Seoul"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Hong Chul",
+            "wiki_url": "/wiki/Hong_Chul",
+            "pos": "DF",
+            "dob": "(1990-09-17) 17 September 1990 (age 27)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Sangju Sangmu"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Choi Chul-soon",
+            "wiki_url": "/wiki/Choi_Chul-soon",
+            "pos": "DF",
+            "dob": "(1987-02-18) 18 February 1987 (age 30)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Yun Young-sun",
+            "wiki_url": "/wiki/Yun_Young-sun",
+            "pos": "DF",
+            "dob": "(1988-10-04) 4 October 1988 (age 29)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Sangju Sangmu"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Min-jae",
+            "wiki_url": "/wiki/Kim_Min-jae_(footballer)",
+            "pos": "DF",
+            "dob": "(1996-11-15) 15 November 1996 (age 21)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Jung Seung-hyun",
+            "wiki_url": "/wiki/Jung_Seung-hyun",
+            "pos": "DF",
+            "dob": "(1994-04-03) 3 April 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Sagan Tosu"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Lee Keun-ho",
+            "wiki_url": "/wiki/Lee_Keun-ho",
+            "pos": "MF",
+            "dob": "(1985-04-11) 11 April 1985 (age 32)",
+            "caps": "81",
+            "goals": "19",
+            "club": " Gangwon FC"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Lee Jae-sung",
+            "wiki_url": "/wiki/Lee_Jae-sung_(footballer,_born_1992)",
+            "pos": "MF",
+            "dob": "(1992-08-10) 10 August 1992 (age 25)",
+            "caps": "27",
+            "goals": "5",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Jung Woo-young",
+            "wiki_url": "/wiki/Jung_Woo-young",
+            "pos": "MF",
+            "dob": "(1989-12-14) 14 December 1989 (age 28)",
+            "caps": "22",
+            "goals": "1",
+            "club": " Vissel Kobe"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Lee Seung-gi",
+            "wiki_url": "/wiki/Lee_Seung-gi_(footballer)",
+            "pos": "MF",
+            "dob": "(1988-06-02) 2 June 1988 (age 29)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Tae-hwan",
+            "wiki_url": "/wiki/Kim_Tae-hwan",
+            "pos": "MF",
+            "dob": "(1989-07-24) 24 July 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Sangju Sangmu"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Lee Chang-min",
+            "wiki_url": "/wiki/Lee_Chang-min_(footballer)",
+            "pos": "MF",
+            "dob": "(1994-01-20) 20 January 1994 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Jeju United"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Seung-dae",
+            "wiki_url": "/wiki/Kim_Seung-dae",
+            "pos": "MF",
+            "dob": "(1991-04-01) 1 April 1991 (age 26)",
+            "caps": "2",
+            "goals": "1",
+            "club": " Pohang Steelers"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Sung-joon",
+            "wiki_url": "/wiki/Kim_Sung-joon_(footballer)",
+            "pos": "MF",
+            "dob": "(1988-04-08) 8 April 1988 (age 29)",
+            "caps": "0",
+            "goals": "0",
+            "club": " FC Seoul"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Lee Chan-dong",
+            "wiki_url": "/wiki/Lee_Chan-dong",
+            "pos": "MF",
+            "dob": "(1993-01-10) 10 January 1993 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Jeju United"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Son Jun-ho",
+            "wiki_url": "/wiki/Son_Jun-ho_(footballer)",
+            "pos": "MF",
+            "dob": "(1992-05-12) 12 May 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kim Shin-wook",
+            "wiki_url": "/wiki/Kim_Shin-wook",
+            "pos": "FW",
+            "dob": "(1988-04-14) 14 April 1988 (age 29)",
+            "caps": "41",
+            "goals": "6",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Jin Seong-wook",
+            "wiki_url": "/wiki/Jin_Seong-wook",
+            "pos": "FW",
+            "dob": "(1993-11-16) 16 November 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Jeju United"
+        },
+        {
+            "name": "Kim Jin-hyeon",
+            "wiki_url": "/wiki/Kim_Jin-hyeon",
+            "pos": "GK",
+            "dob": "(1987-07-06) 6 July 1987 (age 30)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Cerezo Osaka"
+        },
+        {
+            "name": "Gu Sung-yun",
+            "wiki_url": "/wiki/Gu_Sung-yun",
+            "pos": "GK",
+            "dob": "(1994-06-27) 27 June 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Consadole Sapporo"
+        },
+        {
+            "name": "Kwoun Sun-tae",
+            "wiki_url": "/wiki/Kwoun_Sun-tae",
+            "pos": "GK",
+            "dob": "(1984-09-11) 11 September 1984 (age 33)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Kashima Antlers"
+        },
+        {
+            "name": "Kim Min-woo",
+            "wiki_url": "/wiki/Kim_Min-woo_(footballer)",
+            "pos": "DF",
+            "dob": "(1990-02-25) 25 February 1990 (age 27)",
+            "caps": "15",
+            "goals": "1",
+            "club": " Sangju Sangmu"
+        },
+        {
+            "name": "Kwon Kyung-won",
+            "wiki_url": "/wiki/Kwon_Kyung-won",
+            "pos": "DF",
+            "dob": "(1992-01-31) 31 January 1992 (age 25)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Tianjin Quanjian"
+        },
+        {
+            "name": "Kim Kee-hee",
+            "wiki_url": "/wiki/Kim_Kee-hee",
+            "pos": "DF",
+            "dob": "(1989-07-13) 13 July 1989 (age 28)",
+            "caps": "23",
+            "goals": "0",
+            "club": " Shanghai Shenhua"
+        },
+        {
+            "name": "Kim Ju-young",
+            "wiki_url": "/wiki/Kim_Ju-young",
+            "pos": "DF",
+            "dob": "(1988-07-09) 9 July 1988 (age 29)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Hebei China Fortune"
+        },
+        {
+            "name": "Rim Chang-woo",
+            "wiki_url": "/wiki/Rim_Chang-woo",
+            "pos": "DF",
+            "dob": "(1992-02-13) 13 February 1992 (age 25)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Al-Wahda"
+        },
+        {
+            "name": "Oh Jae-suk",
+            "wiki_url": "/wiki/Oh_Jae-suk",
+            "pos": "DF",
+            "dob": "(1990-01-04) 4 January 1990 (age 28)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Gamba Osaka"
+        },
+        {
+            "name": "Song Ju-hun",
+            "wiki_url": "/wiki/Song_Ju-hun",
+            "pos": "DF",
+            "dob": "(1994-01-13) 13 January 1994 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Albirex Niigata"
+        },
+        {
+            "name": "Yun Suk-young",
+            "wiki_url": "/wiki/Yun_Suk-young",
+            "pos": "DF",
+            "dob": "(1990-02-13) 13 February 1990 (age 27)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Kashiwa Reysol"
+        },
+        {
+            "name": "Kwak Tae-hwi",
+            "wiki_url": "/wiki/Kwak_Tae-hwi",
+            "pos": "DF",
+            "dob": "(1981-07-08) 8 July 1981 (age 36)",
+            "caps": "58",
+            "goals": "5",
+            "club": " FC Seoul"
+        },
+        {
+            "name": "Hong Jeong-ho",
+            "wiki_url": "/wiki/Hong_Jeong-ho",
+            "pos": "DF",
+            "dob": "(1989-08-12) 12 August 1989 (age 28)",
+            "caps": "41",
+            "goals": "2",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "name": "Park Joo-ho",
+            "wiki_url": "/wiki/Park_Joo-ho",
+            "pos": "DF",
+            "dob": "(1987-01-16) 16 January 1987 (age 31)",
+            "caps": "32",
+            "goals": "0",
+            "club": " Ulsan Hyundai"
+        },
+        {
+            "name": "Kim Chang-soo",
+            "wiki_url": "/wiki/Kim_Chang-soo",
+            "pos": "DF",
+            "dob": "(1985-09-12) 12 September 1985 (age 32)",
+            "caps": "25",
+            "goals": "0",
+            "club": " Ulsan Hyundai"
+        },
+        {
+            "name": "Kim Min-hyeok",
+            "wiki_url": "/wiki/Kim_Min-hyeok_(footballer,_born_February_1992)",
+            "pos": "DF",
+            "dob": "(1992-02-27) 27 February 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Sagan Tosu"
+        },
+        {
+            "name": "Lee Yong",
+            "wiki_url": "/wiki/Lee_Yong_(footballer,_born_1986)",
+            "pos": "DF",
+            "dob": "(1986-12-24) 24 December 1986 (age 31)",
+            "caps": "22",
+            "goals": "0",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "name": "Yeom Ki-hun",
+            "wiki_url": "/wiki/Yeom_Ki-hun",
+            "pos": "MF",
+            "dob": "(1983-03-30) 30 March 1983 (age 34)",
+            "caps": "56",
+            "goals": "5",
+            "club": " Suwon Samsung Bluewings"
+        },
+        {
+            "name": "Lee Myung-joo",
+            "wiki_url": "/wiki/Lee_Myung-joo",
+            "pos": "MF",
+            "dob": "(1990-04-24) 24 April 1990 (age 27)",
+            "caps": "17",
+            "goals": "1",
+            "club": " Asan Mugunghwa"
+        },
+        {
+            "name": "Yun Il-lok",
+            "wiki_url": "/wiki/Yun_Il-lok",
+            "pos": "MF",
+            "dob": "(1992-03-07) 7 March 1992 (age 25)",
+            "caps": "8",
+            "goals": "1",
+            "club": " Yokohama F. Marinos"
+        },
+        {
+            "name": "Ju Se-jong",
+            "wiki_url": "/wiki/Ju_Se-jong",
+            "pos": "MF",
+            "dob": "(1990-10-30) 30 October 1990 (age 27)",
+            "caps": "8",
+            "goals": "1",
+            "club": " Asan Mugunghwa"
+        },
+        {
+            "name": "Ki Sung-yueng",
+            "wiki_url": "/wiki/Ki_Sung-yueng",
+            "pos": "MF",
+            "dob": "(1989-01-24) 24 January 1989 (age 28)",
+            "caps": "97",
+            "goals": "10",
+            "club": " Swansea City"
+        },
+        {
+            "name": "Koo Ja-cheol",
+            "wiki_url": "/wiki/Koo_Ja-cheol",
+            "pos": "MF",
+            "dob": "(1989-02-27) 27 February 1989 (age 28)",
+            "caps": "65",
+            "goals": "19",
+            "club": " FC Augsburg"
+        },
+        {
+            "name": "Son Heung-min",
+            "wiki_url": "/wiki/Son_Heung-min",
+            "pos": "MF",
+            "dob": "(1992-07-08) 8 July 1992 (age 25)",
+            "caps": "61",
+            "goals": "20",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "name": "Kwon Chang-hoon",
+            "wiki_url": "/wiki/Kwon_Chang-hoon",
+            "pos": "MF",
+            "dob": "(1994-06-30) 30 June 1994 (age 23)",
+            "caps": "14",
+            "goals": "3",
+            "club": " Dijon"
+        },
+        {
+            "name": "Lee Chung-yong",
+            "wiki_url": "/wiki/Lee_Chung-yong",
+            "pos": "MF",
+            "dob": "(1988-07-02) 2 July 1988 (age 29)",
+            "caps": "78",
+            "goals": "8",
+            "club": " Crystal Palace"
+        },
+        {
+            "name": "Nam Tae-hee",
+            "wiki_url": "/wiki/Nam_Tae-hee",
+            "pos": "MF",
+            "dob": "(1991-07-03) 3 July 1991 (age 26)",
+            "caps": "38",
+            "goals": "4",
+            "club": " Al-Duhail"
+        },
+        {
+            "name": "Kim Bo-kyung",
+            "wiki_url": "/wiki/Kim_Bo-kyung",
+            "pos": "MF",
+            "dob": "(1989-10-09) 9 October 1989 (age 28)",
+            "caps": "36",
+            "goals": "4",
+            "club": " Kashiwa Reysol"
+        },
+        {
+            "name": "Park Jong-woo",
+            "wiki_url": "/wiki/Park_Jong-woo",
+            "pos": "MF",
+            "dob": "(1989-03-10) 10 March 1989 (age 28)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Emirates"
+        },
+        {
+            "name": "Hwang Il-su",
+            "wiki_url": "/wiki/Hwang_Il-su",
+            "pos": "MF",
+            "dob": "(1987-08-08) 8 August 1987 (age 30)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Yanbian Funde"
+        },
+        {
+            "name": "Han Kook-young",
+            "wiki_url": "/wiki/Han_Kook-young",
+            "pos": "MF",
+            "dob": "(1990-04-19) 19 April 1990 (age 27)",
+            "caps": "41",
+            "goals": "0",
+            "club": " Gangwon FC"
+        },
+        {
+            "name": "Koh Myong-jin",
+            "wiki_url": "/wiki/Koh_Myong-jin",
+            "pos": "MF",
+            "dob": "(1988-01-09) 9 January 1988 (age 30)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Al-Rayyan"
+        },
+        {
+            "name": "Heo Yong-joon",
+            "wiki_url": "/wiki/Heo_Yong-joon",
+            "pos": "MF",
+            "dob": "(1993-01-08) 8 January 1993 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Jeonnam Dragons"
+        },
+        {
+            "name": "Lee Jeong-hyeop",
+            "wiki_url": "/wiki/Lee_Jeong-hyeop",
+            "pos": "FW",
+            "dob": "(1991-06-24) 24 June 1991 (age 26)",
+            "caps": "19",
+            "goals": "5",
+            "club": " Shonan Bellmare"
+        },
+        {
+            "name": "Ji Dong-won",
+            "wiki_url": "/wiki/Ji_Dong-won",
+            "pos": "FW",
+            "dob": "(1991-05-28) 28 May 1991 (age 26)",
+            "caps": "47",
+            "goals": "11",
+            "club": " FC Augsburg"
+        },
+        {
+            "name": "Hwang Ui-jo",
+            "wiki_url": "/wiki/Hwang_Ui-jo",
+            "pos": "FW",
+            "dob": "(1992-08-28) 28 August 1992 (age 25)",
+            "caps": "11",
+            "goals": "1",
+            "club": " Gamba Osaka"
+        },
+        {
+            "name": "Lee Dong-gook",
+            "wiki_url": "/wiki/Lee_Dong-gook",
+            "pos": "FW",
+            "dob": "(1979-04-29) 29 April 1979 (age 38)",
+            "caps": "105",
+            "goals": "33",
+            "club": " Jeonbuk Hyundai Motors"
+        },
+        {
+            "name": "Hwang Hee-chan",
+            "wiki_url": "/wiki/Hwang_Hee-chan",
+            "pos": "FW",
+            "dob": "(1996-01-26) 26 January 1996 (age 21)",
+            "caps": "9",
+            "goals": "1",
+            "club": " Red Bull Salzburg"
+        }
+    ],
+    "captain": "Ki Sung-yueng",
+    "coach": "Shin Tae-yong"
+}

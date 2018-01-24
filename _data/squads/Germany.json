@@ -1,0 +1,372 @@
+{
+    "name": "Germany",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Kevin Trapp",
+            "wiki_url": "/wiki/Kevin_Trapp",
+            "pos": "GK",
+            "dob": "(1990-07-08) 8 July 1990 (age 27)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Bernd Leno",
+            "wiki_url": "/wiki/Bernd_Leno",
+            "pos": "GK",
+            "dob": "(1992-03-04) 4 March 1992 (age 25)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Bayer Leverkusen"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Marc-André ter Stegen",
+            "wiki_url": "/wiki/Marc-Andr%C3%A9_ter_Stegen",
+            "pos": "GK",
+            "dob": "(1992-04-30) 30 April 1992 (age 25)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Niklas Süle",
+            "wiki_url": "/wiki/Niklas_S%C3%BCle",
+            "pos": "DF",
+            "dob": "(1995-09-03) 3 September 1995 (age 22)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Marvin Plattenhardt",
+            "wiki_url": "/wiki/Marvin_Plattenhardt",
+            "pos": "DF",
+            "dob": "(1992-01-26) 26 January 1992 (age 25)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Hertha BSC"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Matthias Ginter",
+            "wiki_url": "/wiki/Matthias_Ginter",
+            "pos": "DF",
+            "dob": "(1994-01-19) 19 January 1994 (age 24)",
+            "caps": "17",
+            "goals": "0",
+            "club": " Borussia Mönchengladbach"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Mats Hummels",
+            "wiki_url": "/wiki/Mats_Hummels",
+            "pos": "DF",
+            "dob": "(1988-12-16) 16 December 1988 (age 29)",
+            "caps": "62",
+            "goals": "5",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Antonio Rüdiger",
+            "wiki_url": "/wiki/Antonio_R%C3%BCdiger",
+            "pos": "DF",
+            "dob": "(1993-03-03) 3 March 1993 (age 24)",
+            "caps": "22",
+            "goals": "1",
+            "club": " Chelsea"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Joshua Kimmich",
+            "wiki_url": "/wiki/Joshua_Kimmich",
+            "pos": "DF",
+            "dob": "(1995-02-08) 8 February 1995 (age 22)",
+            "caps": "25",
+            "goals": "3",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Marcel Halstenberg",
+            "wiki_url": "/wiki/Marcel_Halstenberg",
+            "pos": "DF",
+            "dob": "(1991-09-27) 27 September 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " RB Leipzig"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Sami Khedira",
+            "wiki_url": "/wiki/Sami_Khedira",
+            "pos": "MF",
+            "dob": "(1987-04-04) 4 April 1987 (age 30)",
+            "caps": "72",
+            "goals": "7",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Julian Draxler",
+            "wiki_url": "/wiki/Julian_Draxler",
+            "pos": "MF",
+            "dob": "(1993-09-20) 20 September 1993 (age 24)",
+            "caps": "40",
+            "goals": "6",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Toni Kroos",
+            "wiki_url": "/wiki/Toni_Kroos",
+            "pos": "MF",
+            "dob": "(1990-01-04) 4 January 1990 (age 28)",
+            "caps": "80",
+            "goals": "12",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Mesut Özil",
+            "wiki_url": "/wiki/Mesut_%C3%96zil",
+            "pos": "MF",
+            "dob": "(1988-10-15) 15 October 1988 (age 29)",
+            "caps": "88",
+            "goals": "22",
+            "club": " Arsenal"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Emre Can",
+            "wiki_url": "/wiki/Emre_Can",
+            "pos": "MF",
+            "dob": "(1994-01-12) 12 January 1994 (age 24)",
+            "caps": "20",
+            "goals": "1",
+            "club": " Liverpool"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Mario Götze",
+            "wiki_url": "/wiki/Mario_G%C3%B6tze",
+            "pos": "MF",
+            "dob": "(1992-06-03) 3 June 1992 (age 25)",
+            "caps": "63",
+            "goals": "17",
+            "club": " Borussia Dortmund"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Julian Brandt",
+            "wiki_url": "/wiki/Julian_Brandt",
+            "pos": "MF",
+            "dob": "(1996-05-02) 2 May 1996 (age 21)",
+            "caps": "13",
+            "goals": "1",
+            "club": " Bayer Leverkusen"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "İlkay Gündoğan",
+            "wiki_url": "/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan",
+            "pos": "MF",
+            "dob": "(1990-10-24) 24 October 1990 (age 27)",
+            "caps": "22",
+            "goals": "4",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Sebastian Rudy",
+            "wiki_url": "/wiki/Sebastian_Rudy",
+            "pos": "MF",
+            "dob": "(1990-02-28) 28 February 1990 (age 27)",
+            "caps": "24",
+            "goals": "1",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Leroy Sané",
+            "wiki_url": "/wiki/Leroy_San%C3%A9",
+            "pos": "MF",
+            "dob": "(1996-01-11) 11 January 1996 (age 22)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Sandro Wagner",
+            "wiki_url": "/wiki/Sandro_Wagner",
+            "pos": "FW",
+            "dob": "(1987-11-29) 29 November 1987 (age 30)",
+            "caps": "7",
+            "goals": "5",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Timo Werner",
+            "wiki_url": "/wiki/Timo_Werner",
+            "pos": "FW",
+            "dob": "(1996-03-06) 6 March 1996 (age 21)",
+            "caps": "10",
+            "goals": "7",
+            "club": " RB Leipzig"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Lars Stindl",
+            "wiki_url": "/wiki/Lars_Stindl",
+            "pos": "FW",
+            "dob": "(1988-08-26) 26 August 1988 (age 29)",
+            "caps": "10",
+            "goals": "4",
+            "club": " Borussia Mönchengladbach"
+        },
+        {
+            "name": "Manuel Neuer (captain)",
+            "wiki_url": "/wiki/Manuel_Neuer",
+            "pos": "GK",
+            "dob": "(1986-03-27) 27 March 1986 (age 31)",
+            "caps": "74",
+            "goals": "0",
+            "club": " Bayern Munich"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "wiki_url": "/wiki/J%C3%A9r%C3%B4me_Boateng",
+            "pos": "DF",
+            "dob": "(1988-09-03) 3 September 1988 (age 29)",
+            "caps": "68",
+            "goals": "1",
+            "club": " Bayern Munich"
+        },
+        {
+            "name": "Shkodran Mustafi",
+            "wiki_url": "/wiki/Shkodran_Mustafi",
+            "pos": "DF",
+            "dob": "(1992-04-17) 17 April 1992 (age 25)",
+            "caps": "20",
+            "goals": "2",
+            "club": " Arsenal"
+        },
+        {
+            "name": "Jonas Hector",
+            "wiki_url": "/wiki/Jonas_Hector",
+            "pos": "DF",
+            "dob": "(1990-05-27) 27 May 1990 (age 27)",
+            "caps": "35",
+            "goals": "3",
+            "club": " 1. FC Köln"
+        },
+        {
+            "name": "Benjamin Henrichs",
+            "wiki_url": "/wiki/Benjamin_Henrichs",
+            "pos": "DF",
+            "dob": "(1997-02-23) 23 February 1997 (age 20)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Bayer Leverkusen"
+        },
+        {
+            "name": "Benedikt Höwedes",
+            "wiki_url": "/wiki/Benedikt_H%C3%B6wedes",
+            "pos": "DF",
+            "dob": "(1988-02-29) 29 February 1988 (age 29)",
+            "caps": "44",
+            "goals": "2",
+            "club": " Juventus"
+        },
+        {
+            "name": "Amin Younes",
+            "wiki_url": "/wiki/Amin_Younes",
+            "pos": "MF",
+            "dob": "(1993-08-06) 6 August 1993 (age 24)",
+            "caps": "5",
+            "goals": "2",
+            "club": " Ajax"
+        },
+        {
+            "name": "Leon Goretzka",
+            "wiki_url": "/wiki/Leon_Goretzka",
+            "pos": "MF",
+            "dob": "(1995-02-06) 6 February 1995 (age 22)",
+            "caps": "12",
+            "goals": "6",
+            "club": " Schalke 04"
+        },
+        {
+            "name": "Serge Gnabry",
+            "wiki_url": "/wiki/Serge_Gnabry",
+            "pos": "MF",
+            "dob": "(1995-07-14) 14 July 1995 (age 22)",
+            "caps": "2",
+            "goals": "3",
+            "club": " 1899 Hoffenheim"
+        },
+        {
+            "name": "Kerem Demirbay",
+            "wiki_url": "/wiki/Kerem_Demirbay",
+            "pos": "MF",
+            "dob": "(1993-07-03) 3 July 1993 (age 24)",
+            "caps": "2",
+            "goals": "1",
+            "club": " 1899 Hoffenheim"
+        },
+        {
+            "name": "Diego Demme",
+            "wiki_url": "/wiki/Diego_Demme",
+            "pos": "MF",
+            "dob": "(1991-11-21) 21 November 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " RB Leipzig"
+        },
+        {
+            "name": "Julian Weigl",
+            "wiki_url": "/wiki/Julian_Weigl",
+            "pos": "MF",
+            "dob": "(1995-09-08) 8 September 1995 (age 22)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Borussia Dortmund"
+        },
+        {
+            "name": "Thomas Müller",
+            "wiki_url": "/wiki/Thomas_M%C3%BCller",
+            "pos": "FW",
+            "dob": "(1989-09-13) 13 September 1989 (age 28)",
+            "caps": "89",
+            "goals": "37",
+            "club": " Bayern Munich"
+        },
+        {
+            "name": "Mario Gómez",
+            "wiki_url": "/wiki/Mario_G%C3%B3mez",
+            "pos": "FW",
+            "dob": "(1985-07-10) 10 July 1985 (age 32)",
+            "caps": "71",
+            "goals": "31",
+            "club": " VfB Stuttgart"
+        },
+        {
+            "name": "André Schürrle",
+            "wiki_url": "/wiki/Andr%C3%A9_Sch%C3%BCrrle",
+            "pos": "FW",
+            "dob": "(1990-11-06) 6 November 1990 (age 27)",
+            "caps": "57",
+            "goals": "22",
+            "club": " Borussia Dortmund"
+        }
+    ],
+    "captain": "Manuel Neuer",
+    "coach": "Joachim Löw"
+}

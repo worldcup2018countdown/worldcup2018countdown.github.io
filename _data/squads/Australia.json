@@ -1,0 +1,408 @@
+{
+    "name": "Australia",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Ryan, MathewMathew Ryan",
+            "wiki_url": "/wiki/Mathew_Ryan",
+            "pos": "GK",
+            "dob": "(1992-04-08) 8 April 1992 (age 25)",
+            "caps": "41",
+            "goals": "0",
+            "club": " Brighton & Hove Albion"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Langerak, MitchellMitchell Langerak",
+            "wiki_url": "/wiki/Mitchell_Langerak",
+            "pos": "GK",
+            "dob": "(1988-08-22) 22 August 1988 (age 29)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Nagoya Grampus"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Vukovic, DannyDanny Vukovic",
+            "wiki_url": "/wiki/Danny_Vukovic",
+            "pos": "GK",
+            "dob": "(1985-02-27) 27 February 1985 (age 32)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Genk"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Degenek, MilosMilos Degenek",
+            "wiki_url": "/wiki/Milos_Degenek",
+            "pos": "DF",
+            "dob": "(1994-04-28) 28 April 1994 (age 23)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Yokohama F. Marinos"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Gersbach, AlexAlex Gersbach",
+            "wiki_url": "/wiki/Alex_Gersbach",
+            "pos": "DF",
+            "dob": "(1997-05-08) 8 May 1997 (age 20)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Lens"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Jurman, MatthewMatthew Jurman",
+            "wiki_url": "/wiki/Matthew_Jurman",
+            "pos": "DF",
+            "dob": "(1989-12-08) 8 December 1989 (age 28)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Suwon Samsung Bluewings"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Wright, BaileyBailey Wright",
+            "wiki_url": "/wiki/Bailey_Wright",
+            "pos": "DF",
+            "dob": "(1992-07-28) 28 July 1992 (age 25)",
+            "caps": "21",
+            "goals": "1",
+            "club": " Bristol City"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Risdon, JoshJosh Risdon",
+            "wiki_url": "/wiki/Josh_Risdon",
+            "pos": "DF",
+            "dob": "(1992-07-27) 27 July 1992 (age 25)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Western Sydney Wanderers"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Behich, AzizAziz Behich",
+            "wiki_url": "/wiki/Aziz_Behich",
+            "pos": "DF",
+            "dob": "(1990-10-16) 16 October 1990 (age 27)",
+            "caps": "19",
+            "goals": "2",
+            "club": " Bursaspor"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "McGowan, RyanRyan McGowan",
+            "wiki_url": "/wiki/Ryan_McGowan",
+            "pos": "DF",
+            "dob": "(1989-08-15) 15 August 1989 (age 28)",
+            "caps": "20",
+            "goals": "0",
+            "club": " Al-Sharjah"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Sainsbury, TrentTrent Sainsbury",
+            "wiki_url": "/wiki/Trent_Sainsbury",
+            "pos": "DF",
+            "dob": "(1992-01-05) 5 January 1992 (age 26)",
+            "caps": "33",
+            "goals": "3",
+            "club": " Jiangsu Suning"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Milligan, MarkMark Milligan",
+            "wiki_url": "/wiki/Mark_Milligan",
+            "pos": "MF",
+            "dob": "(1985-08-04) 4 August 1985 (age 32)",
+            "caps": "67",
+            "goals": "6",
+            "club": " Melbourne Victory !Melbourne Victory"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Mooy, AaronAaron Mooy",
+            "wiki_url": "/wiki/Aaron_Mooy",
+            "pos": "MF",
+            "dob": "(1990-09-15) 15 September 1990 (age 27)",
+            "caps": "31",
+            "goals": "5",
+            "club": " Huddersfield Town"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Troisi, JamesJames Troisi",
+            "wiki_url": "/wiki/James_Troisi",
+            "pos": "MF",
+            "dob": "(1988-07-03) 3 July 1988 (age 29)",
+            "caps": "36",
+            "goals": "5",
+            "club": " Melbourne Victory"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Jedinak, MileMile Jedinak (Captain)",
+            "wiki_url": "/wiki/Mile_Jedinak",
+            "pos": "MF",
+            "dob": "(1984-08-03) 3 August 1984 (age 33)",
+            "caps": "73",
+            "goals": "18",
+            "club": " Aston Villa"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Luongo, MassimoMassimo Luongo",
+            "wiki_url": "/wiki/Massimo_Luongo",
+            "pos": "MF",
+            "dob": "(1992-09-25) 25 September 1992 (age 25)",
+            "caps": "32",
+            "goals": "5",
+            "club": " Queens Park Rangers"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Irvine, JacksonJackson Irvine",
+            "wiki_url": "/wiki/Jackson_Irvine",
+            "pos": "MF",
+            "dob": "(1993-03-07) 7 March 1993 (age 24)",
+            "caps": "15",
+            "goals": "1",
+            "club": " Hull City"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Rogic, TomTom Rogic",
+            "wiki_url": "/wiki/Tom_Rogic",
+            "pos": "MF",
+            "dob": "(1992-12-16) 16 December 1992 (age 25)",
+            "caps": "33",
+            "goals": "7",
+            "club": " Celtic"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Cahill, TimTim Cahill",
+            "wiki_url": "/wiki/Tim_Cahill",
+            "pos": "FW",
+            "dob": "(1979-12-06) 6 December 1979 (age 38)",
+            "caps": "104",
+            "goals": "50",
+            "club": "Unattached"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Leckie, MathewMathew Leckie",
+            "wiki_url": "/wiki/Mathew_Leckie",
+            "pos": "FW",
+            "dob": "(1991-02-04) 4 February 1991 (age 26)",
+            "caps": "49",
+            "goals": "6",
+            "club": " Hertha Berlin"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Juric, TomiTomi Juric",
+            "wiki_url": "/wiki/Tomi_Juric",
+            "pos": "FW",
+            "dob": "(1991-07-22) 22 July 1991 (age 26)",
+            "caps": "32",
+            "goals": "8",
+            "club": " Luzern"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Kruse, RobbieRobbie Kruse",
+            "wiki_url": "/wiki/Robbie_Kruse",
+            "pos": "FW",
+            "dob": "(1988-10-05) 5 October 1988 (age 29)",
+            "caps": "60",
+            "goals": "5",
+            "club": " VfL Bochum"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Rukavytsya, NikitaNikita Rukavytsya",
+            "wiki_url": "/wiki/Nikita_Rukavytsya",
+            "pos": "FW",
+            "dob": "(1987-06-22) 22 June 1987 (age 30)",
+            "caps": "16",
+            "goals": "1",
+            "club": " Maccabi Haifa"
+        },
+        {
+            "name": "Birighitti, MarkMark Birighitti",
+            "wiki_url": "/wiki/Mark_Birighitti",
+            "pos": "GK",
+            "dob": "(1991-04-17) 17 April 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " NAC Breda"
+        },
+        {
+            "name": "Galekovic, EugeneEugene Galekovic",
+            "wiki_url": "/wiki/Eugene_Galekovic",
+            "pos": "GK",
+            "dob": "(1981-06-12) 12 June 1981 (age 36)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Melbourne City"
+        },
+        {
+            "name": "Federici, AdamAdam Federici",
+            "wiki_url": "/wiki/Adam_Federici",
+            "pos": "GK",
+            "dob": "(1985-01-31) 31 January 1985 (age 32)",
+            "caps": "16",
+            "goals": "0",
+            "club": " AFC Bournemouth"
+        },
+        {
+            "name": "Smith, BradBrad Smith",
+            "wiki_url": "/wiki/Brad_Smith_(footballer,_born_1994)",
+            "pos": "DF",
+            "dob": "(1994-04-09) 9 April 1994 (age 23)",
+            "caps": "19",
+            "goals": "0",
+            "club": " AFC Bournemouth"
+        },
+        {
+            "name": "Spiranovic, MatthewMatthew Spiranovic",
+            "wiki_url": "/wiki/Matthew_Spiranovic",
+            "pos": "DF",
+            "dob": "(1988-06-27) 27 June 1988 (age 29)",
+            "caps": "35",
+            "goals": "0",
+            "club": " Hangzhou Greentown"
+        },
+        {
+            "name": "McGowan, DylanDylan McGowan",
+            "wiki_url": "/wiki/Dylan_McGowan",
+            "pos": "DF",
+            "dob": "(1991-08-06) 6 August 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Gangwon FC"
+        },
+        {
+            "name": "Grant, RhyanRhyan Grant",
+            "wiki_url": "/wiki/Rhyan_Grant",
+            "pos": "DF",
+            "dob": "(1991-02-26) 26 February 1991 (age 26)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Sydney FC"
+        },
+        {
+            "name": "Williams, RhysRhys Williams",
+            "wiki_url": "/wiki/Rhys_Williams_(footballer)",
+            "pos": "DF",
+            "dob": "(1988-07-14) 14 July 1988 (age 29)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Melbourne Victory"
+        },
+        {
+            "name": "Goodwin, CraigCraig Goodwin",
+            "wiki_url": "/wiki/Craig_Goodwin",
+            "pos": "MF",
+            "dob": "(1991-12-16) 16 December 1991 (age 26)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Sparta Rotterdam"
+        },
+        {
+            "name": "Jeggo, JamesJames Jeggo",
+            "wiki_url": "/wiki/James_Jeggo",
+            "pos": "MF",
+            "dob": "(1992-02-12) 12 February 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Sturm Graz"
+        },
+        {
+            "name": "Amini, MustafaMustafa Amini",
+            "wiki_url": "/wiki/Mustafa_Amini",
+            "pos": "MF",
+            "dob": "(1993-04-20) 20 April 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " AGF"
+        },
+        {
+            "name": "Hrustic, AjdinAjdin Hrustic",
+            "wiki_url": "/wiki/Ajdin_Hrustic",
+            "pos": "MF",
+            "dob": "(1996-07-05) 5 July 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Groningen"
+        },
+        {
+            "name": "McGree, RileyRiley McGree",
+            "wiki_url": "/wiki/Riley_McGree",
+            "pos": "MF",
+            "dob": "(1998-11-02) 2 November 1998 (age 19)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Newcastle Jets"
+        },
+        {
+            "name": "McKay, MattMatt McKay",
+            "wiki_url": "/wiki/Matt_McKay",
+            "pos": "MF",
+            "dob": "(1983-01-11) 11 January 1983 (age 35)",
+            "caps": "59",
+            "goals": "2",
+            "club": " Brisbane Roar"
+        },
+        {
+            "name": "Ikonomidis, ChrisChris Ikonomidis",
+            "wiki_url": "/wiki/Chris_Ikonomidis",
+            "pos": "MF",
+            "dob": "(1995-05-04) 4 May 1995 (age 22)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Lazio"
+        },
+        {
+            "name": "Edwards, RyanRyan Edwards",
+            "wiki_url": "/wiki/Ryan_Edwards_(Australian_footballer)",
+            "pos": "MF",
+            "dob": "(1993-11-17) 17 November 1993 (age 24)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Partick Thistle"
+        },
+        {
+            "name": "Maclaren, JamieJamie Maclaren",
+            "wiki_url": "/wiki/Jamie_Maclaren",
+            "pos": "FW",
+            "dob": "(1993-07-29) 29 July 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Hibernian"
+        },
+        {
+            "name": "Mabil, AwerAwer Mabil",
+            "wiki_url": "/wiki/Awer_Mabil",
+            "pos": "FW",
+            "dob": "(1995-09-15) 15 September 1995 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Paços de Ferreira"
+        },
+        {
+            "name": "Burns, NathanNathan Burns",
+            "wiki_url": "/wiki/Nathan_Burns",
+            "pos": "FW",
+            "dob": "(1988-05-07) 7 May 1988 (age 29)",
+            "caps": "24",
+            "goals": "3",
+            "club": " Wellington Phoenix"
+        }
+    ],
+    "captain": "Mile Jedinak",
+    "coach": "Vacant"
+}

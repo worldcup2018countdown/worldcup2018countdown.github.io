@@ -1,0 +1,696 @@
+{
+    "name": "Nigeria",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Daniel Akpeyi",
+            "wiki_url": "/wiki/Daniel_Akpeyi",
+            "pos": "GK",
+            "dob": "(1986-08-03) 3 August 1986 (age 31)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Chippa United"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Ikechukwu Ezenwa",
+            "wiki_url": "/wiki/Ikechukwu_Ezenwa",
+            "pos": "GK",
+            "dob": "(1988-10-16) 16 October 1988 (age 29)",
+            "caps": "19",
+            "goals": "0",
+            "club": " Ifeanyi Ubah"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Francis Uzoho",
+            "wiki_url": "/wiki/Francis_Uzoho",
+            "pos": "GK",
+            "dob": "(1998-10-28) 28 October 1998 (age 19)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Deportivo La Coruña"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Ola Aina",
+            "wiki_url": "/wiki/Ola_Aina",
+            "pos": "DF",
+            "dob": "(1996-10-08) 8 October 1996 (age 21)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Hull City"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Kenneth Omeruo",
+            "wiki_url": "/wiki/Kenneth_Omeruo",
+            "pos": "DF",
+            "dob": "(1993-10-17) 17 October 1993 (age 24)",
+            "caps": "36",
+            "goals": "0",
+            "club": " Kasımpaşa"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "William Troost-Ekong",
+            "wiki_url": "/wiki/William_Troost-Ekong",
+            "pos": "DF",
+            "dob": "(1993-09-01) 1 September 1993 (age 24)",
+            "caps": "17",
+            "goals": "0",
+            "club": " Bursaspor"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Leon Balogun",
+            "wiki_url": "/wiki/Leon_Balogun",
+            "pos": "DF",
+            "dob": "(1989-06-28) 28 June 1989 (age 28)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Mainz 05"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Shehu Abdullahi",
+            "wiki_url": "/wiki/Shehu_Abdullahi",
+            "pos": "DF",
+            "dob": "(1993-03-12) 12 March 1993 (age 24)",
+            "caps": "21",
+            "goals": "0",
+            "club": " Bursaspor"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Tyronne Ebuehi",
+            "wiki_url": "/wiki/Tyronne_Ebuehi",
+            "pos": "DF",
+            "dob": "(1995-12-16) 16 December 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " ADO Den Haag"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Chidozie Awaziem",
+            "wiki_url": "/wiki/Chidozie_Awaziem",
+            "pos": "DF",
+            "dob": "(1997-01-01) 1 January 1997 (age 21)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Nantes"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Brian Idowu",
+            "wiki_url": "/wiki/Brian_Idowu",
+            "pos": "DF",
+            "dob": "(1992-05-18) 18 May 1992 (age 25)",
+            "caps": "1",
+            "goals": "1",
+            "club": " Amkar Perm"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Uche Henry Agbo",
+            "wiki_url": "/wiki/Uche_Henry_Agbo",
+            "pos": "MF",
+            "dob": "(1995-12-04) 4 December 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Standard Liège"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Oghenekaro Etebo",
+            "wiki_url": "/wiki/Oghenekaro_Etebo",
+            "pos": "MF",
+            "dob": "(1995-11-09) 9 November 1995 (age 22)",
+            "caps": "12",
+            "goals": "1",
+            "club": " Feirense"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "John Obi Mikel (Captain)",
+            "wiki_url": "/wiki/John_Obi_Mikel",
+            "pos": "MF",
+            "dob": "(1987-04-22) 22 April 1987 (age 30)",
+            "caps": "82",
+            "goals": "6",
+            "club": " Tianjin Teda"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Wilfred Ndidi",
+            "wiki_url": "/wiki/Wilfred_Ndidi",
+            "pos": "MF",
+            "dob": "(1996-12-16) 16 December 1996 (age 21)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Leicester City"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Chidiebere Nwakali",
+            "wiki_url": "/wiki/Chidiebere_Nwakali",
+            "pos": "MF",
+            "dob": "(1996-12-26) 26 December 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Sogndal"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "John Ogu",
+            "wiki_url": "/wiki/John_Ogu",
+            "pos": "MF",
+            "dob": "(1988-04-20) 20 April 1988 (age 29)",
+            "caps": "16",
+            "goals": "2",
+            "club": " Hapoel Be'er Sheva"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Ahmed Musa",
+            "wiki_url": "/wiki/Ahmed_Musa_(footballer)",
+            "pos": "FW",
+            "dob": "(1992-10-14) 14 October 1992 (age 25)",
+            "caps": "67",
+            "goals": "13",
+            "club": " Leicester City"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Olarenwaju Kayode",
+            "wiki_url": "/wiki/Olarenwaju_Kayode",
+            "pos": "FW",
+            "dob": "(1993-05-08) 8 May 1993 (age 24)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Girona"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Henry Onyekuru",
+            "wiki_url": "/wiki/Henry_Onyekuru",
+            "pos": "FW",
+            "dob": "(1997-06-05) 5 June 1997 (age 20)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Anderlecht"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Kelechi Iheanacho",
+            "wiki_url": "/wiki/Kelechi_Iheanacho",
+            "pos": "FW",
+            "dob": "(1996-10-03) 3 October 1996 (age 21)",
+            "caps": "14",
+            "goals": "8",
+            "club": " Leicester City"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Alex Iwobi",
+            "wiki_url": "/wiki/Alex_Iwobi",
+            "pos": "FW",
+            "dob": "(1996-05-03) 3 May 1996 (age 21)",
+            "caps": "14",
+            "goals": "4",
+            "club": " Arsenal"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Anthony Nwakaeme",
+            "wiki_url": "/wiki/Anthony_Nwakaeme",
+            "pos": "FW",
+            "dob": "(1989-03-21) 21 March 1989 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Hapoel Be'er Sheva"
+        },
+        {
+            "name": "Dele Ajiboye",
+            "wiki_url": "/wiki/Dele_Ajiboye",
+            "pos": "GK",
+            "dob": "(1990-08-07) 7 August 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Plateau United"
+        },
+        {
+            "name": "Theophilus Afelokhai",
+            "wiki_url": "/w/index.php?title=Theophilus_Afelokhai&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1988-04-07) 7 April 1988 (age 29)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Enyimba"
+        },
+        {
+            "name": "Dele Alampasu",
+            "wiki_url": "/w/index.php?title=Dele_Alampasu&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1996-12-24) 24 December 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Feirense"
+        },
+        {
+            "name": "Okiemute Odah",
+            "wiki_url": "/w/index.php?title=Okiemute_Odah&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1988-11-23) 23 November 1988 (age 29)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Lobi Stars"
+        },
+        {
+            "name": "Carl Ikeme",
+            "wiki_url": "/wiki/Carl_Ikeme",
+            "pos": "GK",
+            "dob": "(1986-06-08) 8 June 1986 (age 31)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Wolverhampton Wanderers"
+        },
+        {
+            "name": "Elderson Echiéjilé",
+            "wiki_url": "/wiki/Elderson_Echi%C3%A9jil%C3%A9",
+            "pos": "DF",
+            "dob": "(1988-01-20) 20 January 1988 (age 30)",
+            "caps": "60",
+            "goals": "3",
+            "club": " Sivasspor"
+        },
+        {
+            "name": "Chima Akas",
+            "wiki_url": "/wiki/Chima_Akas",
+            "pos": "DF",
+            "dob": "(1994-05-03) 3 May 1994 (age 23)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Enyimba"
+        },
+        {
+            "name": "Stephen Eze",
+            "wiki_url": "/wiki/Stephen_Eze",
+            "pos": "DF",
+            "dob": "(1994-03-08) 8 March 1994 (age 23)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Lokomotiv Plovdiv"
+        },
+        {
+            "name": "Olamilekan Aniyikaye",
+            "wiki_url": "/w/index.php?title=Olamilekan_Aniyikaye&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1993-01-06) 6 January 1993 (age 25)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Ifeanyi Ubah"
+        },
+        {
+            "name": "Emmanuel Ariwachukwu",
+            "wiki_url": "/w/index.php?title=Emmanuel_Ariwachukwu&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1993-12-27) 27 December 1993 (age 24)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Akwa United"
+        },
+        {
+            "name": "Daniel James",
+            "wiki_url": "/w/index.php?title=Daniel_James_(Nigerian_footballer)&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1996-11-18) 18 November 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Plateau United"
+        },
+        {
+            "name": "Orji Kalu",
+            "wiki_url": "/wiki/Orji_Kalu",
+            "pos": "DF",
+            "dob": "(1991-09-02) 2 September 1991 (age 26)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Tirana"
+        },
+        {
+            "name": "Jamiu Alimi",
+            "wiki_url": "/wiki/Jamiu_Alimi",
+            "pos": "DF",
+            "dob": "(1992-10-05) 5 October 1992 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Kano Pillars"
+        },
+        {
+            "name": "Chinedu Ajanah",
+            "wiki_url": "/w/index.php?title=Chinedu_Ajanah&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1992-01-19) 19 January 1992 (age 26)",
+            "caps": "0",
+            "goals": "0",
+            "club": " ABS"
+        },
+        {
+            "name": "Elijah Golbe",
+            "wiki_url": "/w/index.php?title=Elijah_Golbe&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1990-08-27) 27 August 1990 (age 27)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Plateau United"
+        },
+        {
+            "name": "Nasiru Sani",
+            "wiki_url": "/w/index.php?title=Nasiru_Sani&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1996-12-01) 1 December 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Enyimba"
+        },
+        {
+            "name": "Musa Muhammed",
+            "wiki_url": "/wiki/Musa_Muhammed",
+            "pos": "DF",
+            "dob": "(1996-10-31) 31 October 1996 (age 21)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Lokomotiv Plovdiv"
+        },
+        {
+            "name": "Kingsley Madu",
+            "wiki_url": "/wiki/Kingsley_Madu",
+            "pos": "DF",
+            "dob": "(1995-12-12) 12 December 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Zulte Waregem"
+        },
+        {
+            "name": "Ogenyi Onazi",
+            "wiki_url": "/wiki/Ogenyi_Onazi",
+            "pos": "MF",
+            "dob": "(1992-12-25) 25 December 1992 (age 25)",
+            "caps": "48",
+            "goals": "1",
+            "club": " Trabzonspor"
+        },
+        {
+            "name": "Moses Simon",
+            "wiki_url": "/wiki/Moses_Simon",
+            "pos": "MF",
+            "dob": "(1995-07-12) 12 July 1995 (age 22)",
+            "caps": "19",
+            "goals": "4",
+            "club": " Gent"
+        },
+        {
+            "name": "Mikel Agu",
+            "wiki_url": "/wiki/Mikel_Agu",
+            "pos": "MF",
+            "dob": "(1993-05-27) 27 May 1993 (age 24)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Bursaspor"
+        },
+        {
+            "name": "Victor Moses",
+            "wiki_url": "/wiki/Victor_Moses",
+            "pos": "MF",
+            "dob": "(1990-12-12) 12 December 1990 (age 27)",
+            "caps": "30",
+            "goals": "10",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Rabiu Ali",
+            "wiki_url": "/wiki/Rabiu_Ali",
+            "pos": "MF",
+            "dob": "(1986-06-23) 23 June 1986 (age 31)",
+            "caps": "17",
+            "goals": "6",
+            "club": " Kano Pillars"
+        },
+        {
+            "name": "Osas Okoro",
+            "wiki_url": "/wiki/Osas_Okoro",
+            "pos": "MF",
+            "dob": "(1990-09-07) 7 September 1990 (age 27)",
+            "caps": "14",
+            "goals": "2",
+            "club": " Enugu Rangers"
+        },
+        {
+            "name": "Ifeanyi Ifeanyi",
+            "wiki_url": "/w/index.php?title=Ifeanyi_Ifeanyi&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1995-08-15) 15 August 1995 (age 22)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Akwa United"
+        },
+        {
+            "name": "Aremu Afeez",
+            "wiki_url": "/wiki/Aremu_Afeez",
+            "pos": "MF",
+            "dob": "(1999-10-03) 3 October 1999 (age 18)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Akwa United"
+        },
+        {
+            "name": "Samuel Mathias",
+            "wiki_url": "/w/index.php?title=Samuel_Mathias&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1996-12-23) 23 December 1996 (age 21)",
+            "caps": "3",
+            "goals": "0",
+            "club": " El-Kanemi Warriors"
+        },
+        {
+            "name": "Destiny Ashadi",
+            "wiki_url": "/w/index.php?title=Destiny_Ashadi&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1995-03-31) 31 March 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Katsina United"
+        },
+        {
+            "name": "Thomas Zenke",
+            "wiki_url": "/w/index.php?title=Thomas_Zenke&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1993-01-30) 30 January 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Nasarawa United"
+        },
+        {
+            "name": "Emeka Atuloma",
+            "wiki_url": "/w/index.php?title=Emeka_Atuloma&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1992-10-01) 1 October 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Rivers United"
+        },
+        {
+            "name": "Raphael Ayagwa",
+            "wiki_url": "/w/index.php?title=Raphael_Ayagwa&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1997-02-04) 4 February 1997 (age 20)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Lobi Stars"
+        },
+        {
+            "name": "Maarouf Youssef",
+            "wiki_url": "/wiki/Maarouf_Youssef",
+            "pos": "MF",
+            "dob": "(1992-02-20) 20 February 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Zamalek"
+        },
+        {
+            "name": "Odion Ighalo",
+            "wiki_url": "/wiki/Odion_Ighalo",
+            "pos": "FW",
+            "dob": "(1989-06-16) 16 June 1989 (age 28)",
+            "caps": "15",
+            "goals": "4",
+            "club": " Changchun Yatai"
+        },
+        {
+            "name": "Kingsley Eduwo",
+            "wiki_url": "/w/index.php?title=Kingsley_Eduwo&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1996-06-19) 19 June 1996 (age 21)",
+            "caps": "5",
+            "goals": "1",
+            "club": " Lobi Stars"
+        },
+        {
+            "name": "Anthony Okpotu",
+            "wiki_url": "/w/index.php?title=Anthony_Okpotu&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1994-03-03) 3 March 1994 (age 23)",
+            "caps": "5",
+            "goals": "1",
+            "club": " Lobi Stars"
+        },
+        {
+            "name": "Ubong Friday",
+            "wiki_url": "/w/index.php?title=Ubong_Friday&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1998-03-03) 3 March 1998 (age 19)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Akwa United"
+        },
+        {
+            "name": "Peter Eneji",
+            "wiki_url": "/w/index.php?title=Peter_Eneji&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1999-04-08) 8 April 1999 (age 18)",
+            "caps": "3",
+            "goals": "2",
+            "club": " Plateau United"
+        },
+        {
+            "name": "Gabriel Okechukwu",
+            "wiki_url": "/wiki/Gabriel_Okechukwu",
+            "pos": "FW",
+            "dob": "(1995-08-28) 28 August 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Akwa United"
+        },
+        {
+            "name": "Sikiru Olatunbosun",
+            "wiki_url": "/wiki/Sikiru_Olatunbosun",
+            "pos": "FW",
+            "dob": "(1995-11-28) 28 November 1995 (age 22)",
+            "caps": "3",
+            "goals": "0",
+            "club": " MFM"
+        },
+        {
+            "name": "Aaron Olanare",
+            "wiki_url": "/wiki/Aaron_Samuel_Olanare",
+            "pos": "FW",
+            "dob": "(1994-06-04) 4 June 1994 (age 23)",
+            "caps": "7",
+            "goals": "2",
+            "club": " CSKA Moscow"
+        },
+        {
+            "name": "Ibrahim Alhassan",
+            "wiki_url": "/wiki/Abdullahi_Ibrahim_Alhassan",
+            "pos": "FW",
+            "dob": "(1996-11-03) 3 November 1996 (age 21)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Austria Wien"
+        },
+        {
+            "name": "Stephen Odey",
+            "wiki_url": "/wiki/Stephen_Odey",
+            "pos": "FW",
+            "dob": "(1998-01-15) 15 January 1998 (age 20)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Zürich"
+        },
+        {
+            "name": "Ifeanyi George",
+            "wiki_url": "/w/index.php?title=Ifeanyi_George&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1993-11-22) 22 November 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Enugu Rangers"
+        },
+        {
+            "name": "Prince Aggreh",
+            "wiki_url": "/wiki/Prince_Obus_Aggreh",
+            "pos": "FW",
+            "dob": "(1996-09-30) 30 September 1996 (age 21)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Ifeanyi Ubah"
+        },
+        {
+            "name": "Mfon Udoh",
+            "wiki_url": "/wiki/Mfon_Udoh",
+            "pos": "FW",
+            "dob": "(1992-03-14) 14 March 1992 (age 25)",
+            "caps": "2",
+            "goals": "1",
+            "club": " Enyimba"
+        },
+        {
+            "name": "Sunday Adetunji",
+            "wiki_url": "/w/index.php?title=Sunday_Adetunji&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1997-12-10) 10 December 1997 (age 20)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Abia Warriors"
+        },
+        {
+            "name": "Chiamaka Madu",
+            "wiki_url": "/wiki/Chiamaka_Madu",
+            "pos": "FW",
+            "dob": "(1996-07-27) 27 July 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Enugu Rangers"
+        },
+        {
+            "name": "Austin Oladapo",
+            "wiki_url": "/w/index.php?title=Austin_Oladapo&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1998-05-30) 30 May 1998 (age 19)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Enyimba"
+        },
+        {
+            "name": "Victor Osimhen",
+            "wiki_url": "/wiki/Victor_Osimhen",
+            "pos": "FW",
+            "dob": "(1998-12-29) 29 December 1998 (age 19)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Wolfsburg"
+        },
+        {
+            "name": "Isaac Success",
+            "wiki_url": "/wiki/Isaac_Success",
+            "pos": "FW",
+            "dob": "(1996-01-07) 7 January 1996 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Watford"
+        },
+        {
+            "name": "Noah Bazee",
+            "wiki_url": "/wiki/Noah_Joel_Sarenren_Bazee",
+            "pos": "FW",
+            "dob": "(1996-08-21) 21 August 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Hannover 96"
+        }
+    ],
+    "captain": "John Obi Mikel",
+    "coach": "Gernot Rohr"
+}

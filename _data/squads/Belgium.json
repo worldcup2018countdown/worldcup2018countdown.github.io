@@ -1,0 +1,339 @@
+{
+    "name": "Belgium",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Thibaut Courtois",
+            "wiki_url": "/wiki/Thibaut_Courtois",
+            "pos": "GK",
+            "dob": "(1992-05-11) 11 May 1992 (age 25)",
+            "caps": "54",
+            "goals": "0",
+            "club": " Chelsea"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Simon Mignolet",
+            "wiki_url": "/wiki/Simon_Mignolet",
+            "pos": "GK",
+            "dob": "(1988-03-06) 6 March 1988 (age 29)",
+            "caps": "20",
+            "goals": "0",
+            "club": " Liverpool"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Koen Casteels",
+            "wiki_url": "/wiki/Koen_Casteels",
+            "pos": "GK",
+            "dob": "(1992-06-25) 25 June 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Wolfsburg"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Matz Sels",
+            "wiki_url": "/wiki/Matz_Sels",
+            "pos": "GK",
+            "dob": "(1992-02-26) 26 February 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Anderlecht"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Jan Vertonghen",
+            "wiki_url": "/wiki/Jan_Vertonghen",
+            "pos": "DF",
+            "dob": "(1987-04-24) 24 April 1987 (age 30)",
+            "caps": "98",
+            "goals": "8",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Thomas Vermaelen",
+            "wiki_url": "/wiki/Thomas_Vermaelen",
+            "pos": "DF",
+            "dob": "(1985-11-14) 14 November 1985 (age 32)",
+            "caps": "63",
+            "goals": "1",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Thomas Meunier",
+            "wiki_url": "/wiki/Thomas_Meunier",
+            "pos": "DF",
+            "dob": "(1991-09-12) 12 September 1991 (age 26)",
+            "caps": "21",
+            "goals": "5",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Laurent Ciman",
+            "wiki_url": "/wiki/Laurent_Ciman",
+            "pos": "DF",
+            "dob": "(1985-08-05) 5 August 1985 (age 32)",
+            "caps": "19",
+            "goals": "1",
+            "club": " Los Angeles FC"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Jordan Lukaku",
+            "wiki_url": "/wiki/Jordan_Lukaku",
+            "pos": "DF",
+            "dob": "(1994-07-25) 25 July 1994 (age 23)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Lazio"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Dedryck Boyata",
+            "wiki_url": "/wiki/Dedryck_Boyata",
+            "pos": "DF",
+            "dob": "(1990-11-28) 28 November 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Celtic"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Leander Dendoncker",
+            "wiki_url": "/wiki/Leander_Dendoncker",
+            "pos": "DF",
+            "dob": "(1995-04-15) 15 April 1995 (age 22)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Anderlecht"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Christian Kabasele",
+            "wiki_url": "/wiki/Christian_Kabasele",
+            "pos": "DF",
+            "dob": "(1991-02-24) 24 February 1991 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Watford"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Axel Witsel",
+            "wiki_url": "/wiki/Axel_Witsel",
+            "pos": "MF",
+            "dob": "(1989-01-12) 12 January 1989 (age 29)",
+            "caps": "87",
+            "goals": "9",
+            "club": " Tianjin Quanjian"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Eden Hazard (captain)",
+            "wiki_url": "/wiki/Eden_Hazard",
+            "pos": "MF",
+            "dob": "(1991-01-07) 7 January 1991 (age 27)",
+            "caps": "82",
+            "goals": "21",
+            "club": " Chelsea"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Mousa Dembélé",
+            "wiki_url": "/wiki/Moussa_Demb%C3%A9l%C3%A9_(Belgian_footballer)",
+            "pos": "MF",
+            "dob": "(1987-07-16) 16 July 1987 (age 30)",
+            "caps": "73",
+            "goals": "5",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Kevin Mirallas",
+            "wiki_url": "/wiki/Kevin_Mirallas",
+            "pos": "MF",
+            "dob": "(1987-10-05) 5 October 1987 (age 30)",
+            "caps": "57",
+            "goals": "10",
+            "club": " Olympiacos"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Kevin De Bruyne",
+            "wiki_url": "/wiki/Kevin_De_Bruyne",
+            "pos": "MF",
+            "dob": "(1991-06-28) 28 June 1991 (age 26)",
+            "caps": "55",
+            "goals": "12",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Steven Defour",
+            "wiki_url": "/wiki/Steven_Defour",
+            "pos": "MF",
+            "dob": "(1988-04-15) 15 April 1988 (age 29)",
+            "caps": "50",
+            "goals": "2",
+            "club": " Burnley"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Nacer Chadli",
+            "wiki_url": "/wiki/Nacer_Chadli",
+            "pos": "MF",
+            "dob": "(1989-08-02) 2 August 1989 (age 28)",
+            "caps": "40",
+            "goals": "4",
+            "club": " West Bromwich Albion"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Thorgan Hazard",
+            "wiki_url": "/wiki/Thorgan_Hazard",
+            "pos": "MF",
+            "dob": "(1993-03-29) 29 March 1993 (age 24)",
+            "caps": "7",
+            "goals": "1",
+            "club": " Borussia Mönchengladbach"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Youri Tielemans",
+            "wiki_url": "/wiki/Youri_Tielemans",
+            "pos": "MF",
+            "dob": "(1997-05-07) 7 May 1997 (age 20)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Monaco"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Adnan Januzaj",
+            "wiki_url": "/wiki/Adnan_Januzaj",
+            "pos": "MF",
+            "dob": "(1995-02-05) 5 February 1995 (age 22)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Real Sociedad"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Romelu Lukaku",
+            "wiki_url": "/wiki/Romelu_Lukaku",
+            "pos": "FW",
+            "dob": "(1993-05-13) 13 May 1993 (age 24)",
+            "caps": "65",
+            "goals": "31",
+            "club": " Manchester United"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Dries Mertens",
+            "wiki_url": "/wiki/Dries_Mertens",
+            "pos": "FW",
+            "dob": "(1987-05-06) 6 May 1987 (age 30)",
+            "caps": "63",
+            "goals": "13",
+            "club": " Napoli"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Divock Origi",
+            "wiki_url": "/wiki/Divock_Origi",
+            "pos": "FW",
+            "dob": "(1995-04-18) 18 April 1995 (age 22)",
+            "caps": "24",
+            "goals": "3",
+            "club": " Wolfsburg"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Laurent Depoitre",
+            "wiki_url": "/wiki/Laurent_Depoitre",
+            "pos": "FW",
+            "dob": "(1988-12-07) 7 December 1988 (age 29)",
+            "caps": "1",
+            "goals": "1",
+            "club": " Huddersfield Town"
+        },
+        {
+            "name": "Toby Alderweireld",
+            "wiki_url": "/wiki/Toby_Alderweireld",
+            "pos": "DF",
+            "dob": "(1989-03-02) 2 March 1989 (age 28)",
+            "caps": "71",
+            "goals": "3",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "name": "Vincent Kompany (vice-captain)",
+            "wiki_url": "/wiki/Vincent_Kompany",
+            "pos": "DF",
+            "dob": "(1986-04-10) 10 April 1986 (age 31)",
+            "caps": "72",
+            "goals": "4",
+            "club": " Manchester City"
+        },
+        {
+            "name": "Thomas Foket",
+            "wiki_url": "/wiki/Thomas_Foket",
+            "pos": "DF",
+            "dob": "(1994-09-25) 25 September 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Gent"
+        },
+        {
+            "name": "Radja Nainggolan",
+            "wiki_url": "/wiki/Radja_Nainggolan",
+            "pos": "MF",
+            "dob": "(1988-05-04) 4 May 1988 (age 29)",
+            "caps": "28",
+            "goals": "6",
+            "club": " Roma"
+        },
+        {
+            "name": "Marouane Fellaini",
+            "wiki_url": "/wiki/Marouane_Fellaini",
+            "pos": "MF",
+            "dob": "(1987-11-22) 22 November 1987 (age 30)",
+            "caps": "77",
+            "goals": "15",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Yannick Carrasco",
+            "wiki_url": "/wiki/Yannick_Ferreira_Carrasco",
+            "pos": "MF",
+            "dob": "(1993-09-04) 4 September 1993 (age 24)",
+            "caps": "21",
+            "goals": "5",
+            "club": " Atlético Madrid"
+        },
+        {
+            "name": "Michy Batshuayi",
+            "wiki_url": "/wiki/Michy_Batshuayi",
+            "pos": "FW",
+            "dob": "(1993-10-02) 2 October 1993 (age 24)",
+            "caps": "12",
+            "goals": "4",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Christian Benteke",
+            "wiki_url": "/wiki/Christian_Benteke",
+            "pos": "FW",
+            "dob": "(1990-12-03) 3 December 1990 (age 27)",
+            "caps": "31",
+            "goals": "11",
+            "club": " Crystal Palace"
+        }
+    ],
+    "captain": "Eden Hazard",
+    "coach": "Roberto Martínez"
+}

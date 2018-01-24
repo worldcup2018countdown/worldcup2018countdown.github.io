@@ -1,0 +1,525 @@
+{
+    "name": "Japan",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Masaaki Higashiguchi",
+            "wiki_url": "/wiki/Masaaki_Higashiguchi",
+            "pos": "GK",
+            "dob": "(1986-05-12) 12 May 1986 (age 31)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Gamba Osaka"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Shūichi Gonda",
+            "wiki_url": "/wiki/Sh%C5%ABichi_Gonda",
+            "pos": "GK",
+            "dob": "(1989-03-03) 3 March 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Sagan Tosu"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Kōsuke Nakamura",
+            "wiki_url": "/wiki/Kosuke_Nakamura",
+            "pos": "GK",
+            "dob": "(1995-02-27) 27 February 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Kashiwa Reysol"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Gen Shōji",
+            "wiki_url": "/wiki/Gen_Shoji",
+            "pos": "DF",
+            "dob": "(1992-12-11) 11 December 1992 (age 25)",
+            "caps": "9",
+            "goals": "1",
+            "club": " Kashima Antlers"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Shōgo Taniguchi",
+            "wiki_url": "/wiki/Shogo_Taniguchi",
+            "pos": "DF",
+            "dob": "(1991-07-15) 15 July 1991 (age 26)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Kawasaki Frontale"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Shintarō Kurumaya",
+            "wiki_url": "/wiki/Shintaro_Kurumaya",
+            "pos": "DF",
+            "dob": "(1992-04-05) 5 April 1992 (age 25)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Kawasaki Frontale"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Genta Miura",
+            "wiki_url": "/wiki/Genta_Miura",
+            "pos": "DF",
+            "dob": "(1995-03-01) 1 March 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Gamba Osaka"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Ryō Hatsuse",
+            "wiki_url": "/wiki/Ryo_Hatsuse",
+            "pos": "DF",
+            "dob": "(1997-07-10) 10 July 1997 (age 20)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Gamba Osaka"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Sei Muroya",
+            "wiki_url": "/wiki/Sei_Muroya",
+            "pos": "DF",
+            "dob": "(1995-04-05) 5 April 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " FC Tokyo"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Shūto Yamamoto",
+            "wiki_url": "/wiki/Shuto_Yamamoto",
+            "pos": "DF",
+            "dob": "(1985-06-01) 1 June 1985 (age 32)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Kashima Antlers"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Naomichi Ueda",
+            "wiki_url": "/wiki/Naomichi_Ueda",
+            "pos": "DF",
+            "dob": "(1994-10-24) 24 October 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Kashima Antlers"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Yōsuke Ideguchi",
+            "wiki_url": "/wiki/Yosuke_Ideguchi",
+            "pos": "MF",
+            "dob": "(1996-08-23) 23 August 1996 (age 21)",
+            "caps": "10",
+            "goals": "2",
+            "club": " Cultural Leonesa"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Yōjiro Takahagi",
+            "wiki_url": "/wiki/Yojiro_Takahagi",
+            "pos": "MF",
+            "dob": "(1986-08-02) 2 August 1986 (age 31)",
+            "caps": "3",
+            "goals": "0",
+            "club": " FC Tokyo"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Ryota Oshima",
+            "wiki_url": "/wiki/Ryota_Oshima",
+            "pos": "MF",
+            "dob": "(1993-01-23) 23 January 1993 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Kawasaki Frontale"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Shoma Doi",
+            "wiki_url": "/wiki/Shoma_Doi",
+            "pos": "MF",
+            "dob": "(1992-05-21) 21 May 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Kashima Antlers"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Kento Misao",
+            "wiki_url": "/wiki/Kento_Misao",
+            "pos": "MF",
+            "dob": "(1996-04-19) 19 April 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Kashima Antlers"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Yasuyuki Konno",
+            "wiki_url": "/wiki/Yasuyuki_Konno",
+            "pos": "MF",
+            "dob": "(1983-01-25) 25 January 1983 (age 34)",
+            "caps": "93",
+            "goals": "4",
+            "club": " Gamba Osaka"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Shū Kurata",
+            "wiki_url": "/wiki/Shu_Kurata",
+            "pos": "FW",
+            "dob": "(1988-11-26) 26 November 1988 (age 29)",
+            "caps": "9",
+            "goals": "2",
+            "club": " Gamba Osaka"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Kengo Kawamata",
+            "wiki_url": "/wiki/Kengo_Kawamata",
+            "pos": "FW",
+            "dob": "(1989-10-14) 14 October 1989 (age 28)",
+            "caps": "8",
+            "goals": "1",
+            "club": " Jubilo Iwata"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Yu Kobayashi",
+            "wiki_url": "/wiki/Yu_Kobayashi_(footballer)",
+            "pos": "FW",
+            "dob": "(1987-09-23) 23 September 1987 (age 30)",
+            "caps": "11",
+            "goals": "2",
+            "club": " Kawasaki Frontale"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Jun'ya Itō",
+            "wiki_url": "/wiki/Junya_Ito_(footballer,_born_1993)",
+            "pos": "FW",
+            "dob": "(1993-03-09) 9 March 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Kashiwa Reysol"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Mū Kanazaki",
+            "wiki_url": "/wiki/Mu_Kanazaki",
+            "pos": "FW",
+            "dob": "(1989-02-16) 16 February 1989 (age 28)",
+            "caps": "11",
+            "goals": "2",
+            "club": " Kashima Antlers"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Hiroyuki Abe",
+            "wiki_url": "/wiki/Hiroyuki_Abe_(footballer)",
+            "pos": "FW",
+            "dob": "(1989-07-05) 5 July 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Kawasaki Frontale"
+        },
+        {
+            "name": "Eiji Kawashima",
+            "wiki_url": "/wiki/Eiji_Kawashima",
+            "pos": "GK",
+            "dob": "(1983-03-20) 20 March 1983 (age 34)",
+            "caps": "80",
+            "goals": "0",
+            "club": " Metz"
+        },
+        {
+            "name": "Shūsaku Nishikawa",
+            "wiki_url": "/wiki/Shusaku_Nishikawa",
+            "pos": "GK",
+            "dob": "(1986-06-18) 18 June 1986 (age 31)",
+            "caps": "31",
+            "goals": "0",
+            "club": " Urawa Red Diamonds"
+        },
+        {
+            "name": "Akihiro Hayashi",
+            "wiki_url": "/wiki/Akihiro_Hayashi",
+            "pos": "GK",
+            "dob": "(1987-05-07) 7 May 1987 (age 30)",
+            "caps": "0",
+            "goals": "0",
+            "club": " FC Tokyo"
+        },
+        {
+            "name": "Daigo Nishi",
+            "wiki_url": "/wiki/Daigo_Nishi",
+            "pos": "DF",
+            "dob": "(1987-08-28) 28 August 1987 (age 30)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Kashima Antlers"
+        },
+        {
+            "name": "Yūto Nagatomo",
+            "wiki_url": "/wiki/Yuto_Nagatomo",
+            "pos": "DF",
+            "dob": "(1986-09-12) 12 September 1986 (age 31)",
+            "caps": "101",
+            "goals": "3",
+            "club": " Internazionale"
+        },
+        {
+            "name": "Maya Yoshida",
+            "wiki_url": "/wiki/Maya_Yoshida",
+            "pos": "DF",
+            "dob": "(1988-08-24) 24 August 1988 (age 29)",
+            "caps": "80",
+            "goals": "10",
+            "club": " Southampton"
+        },
+        {
+            "name": "Hiroki Sakai",
+            "wiki_url": "/wiki/Hiroki_Sakai",
+            "pos": "DF",
+            "dob": "(1990-04-12) 12 April 1990 (age 27)",
+            "caps": "40",
+            "goals": "0",
+            "club": " Marseille"
+        },
+        {
+            "name": "Gōtoku Sakai",
+            "wiki_url": "/wiki/G%C5%8Dtoku_Sakai",
+            "pos": "DF",
+            "dob": "(1991-03-14) 14 March 1991 (age 26)",
+            "caps": "37",
+            "goals": "0",
+            "club": " Hamburg"
+        },
+        {
+            "name": "Tomoaki Makino",
+            "wiki_url": "/wiki/Tomoaki_Makino",
+            "pos": "DF",
+            "dob": "(1987-05-11) 11 May 1987 (age 30)",
+            "caps": "28",
+            "goals": "3",
+            "club": " Urawa Red Diamonds"
+        },
+        {
+            "name": "Tomoya Ugajin",
+            "wiki_url": "/wiki/Tomoya_Ugajin",
+            "pos": "DF",
+            "dob": "(1988-03-23) 23 March 1988 (age 29)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Urawa Red Diamonds"
+        },
+        {
+            "name": "Masato Morishige",
+            "wiki_url": "/wiki/Masato_Morishige",
+            "pos": "DF",
+            "dob": "(1987-05-21) 21 May 1987 (age 30)",
+            "caps": "41",
+            "goals": "2",
+            "club": " FC Tokyo"
+        },
+        {
+            "name": "Hiroshi Kiyotake",
+            "wiki_url": "/wiki/Hiroshi_Kiyotake",
+            "pos": "MF",
+            "dob": "(1989-11-12) 12 November 1989 (age 28)",
+            "caps": "44",
+            "goals": "5",
+            "club": " Cerezo Osaka"
+        },
+        {
+            "name": "Makoto Hasebe ",
+            "wiki_url": "/wiki/Makoto_Hasebe",
+            "pos": "MF",
+            "dob": "(1984-01-18) 18 January 1984 (age 34)",
+            "caps": "106",
+            "goals": "2",
+            "club": " Eintracht Frankfurt"
+        },
+        {
+            "name": "Hotaru Yamaguchi",
+            "wiki_url": "/wiki/Hotaru_Yamaguchi",
+            "pos": "MF",
+            "dob": "(1990-10-06) 6 October 1990 (age 27)",
+            "caps": "37",
+            "goals": "2",
+            "club": " Cerezo Osaka"
+        },
+        {
+            "name": "Wataru Endo",
+            "wiki_url": "/wiki/Wataru_Endo",
+            "pos": "MF",
+            "dob": "(1993-02-09) 9 February 1993 (age 24)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Urawa Red Diamonds"
+        },
+        {
+            "name": "Ryota Morioka",
+            "wiki_url": "/wiki/Ryota_Morioka",
+            "pos": "MF",
+            "dob": "(1991-04-12) 12 April 1991 (age 26)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Waasland-Beveren"
+        },
+        {
+            "name": "Kazuki Nagasawa",
+            "wiki_url": "/wiki/Kazuki_Nagasawa",
+            "pos": "MF",
+            "dob": "(1991-12-16) 16 December 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Urawa Red Diamonds"
+        },
+        {
+            "name": "Shinji Kagawa",
+            "wiki_url": "/wiki/Shinji_Kagawa",
+            "pos": "MF",
+            "dob": "(1989-03-17) 17 March 1989 (age 28)",
+            "caps": "89",
+            "goals": "29",
+            "club": " Borussia Dortmund"
+        },
+        {
+            "name": "Yūki Kobayashi",
+            "wiki_url": "/wiki/Yuki_Kobayashi_(footballer,_born_1992)",
+            "pos": "MF",
+            "dob": "(1992-04-24) 24 April 1992 (age 25)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Heerenveen"
+        },
+        {
+            "name": "Keisuke Honda",
+            "wiki_url": "/wiki/Keisuke_Honda",
+            "pos": "MF",
+            "dob": "(1986-06-13) 13 June 1986 (age 31)",
+            "caps": "90",
+            "goals": "36",
+            "club": " Pachuca"
+        },
+        {
+            "name": "Gaku Shibasaki",
+            "wiki_url": "/wiki/Gaku_Shibasaki",
+            "pos": "MF",
+            "dob": "(1992-05-28) 28 May 1992 (age 25)",
+            "caps": "11",
+            "goals": "3",
+            "club": " Getafe"
+        },
+        {
+            "name": "Kohei Kato",
+            "wiki_url": "/wiki/Kohei_Kato",
+            "pos": "MF",
+            "dob": "(1989-06-14) 14 June 1989 (age 28)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Beroe Stara Zagora"
+        },
+        {
+            "name": "Ken'yū Sugimoto",
+            "wiki_url": "/wiki/Kenyu_Sugimoto",
+            "pos": "FW",
+            "dob": "(1992-11-18) 18 November 1992 (age 25)",
+            "caps": "5",
+            "goals": "1",
+            "club": " Cerezo Osaka"
+        },
+        {
+            "name": "Genki Haraguchi",
+            "wiki_url": "/wiki/Genki_Haraguchi",
+            "pos": "FW",
+            "dob": "(1991-05-09) 9 May 1991 (age 26)",
+            "caps": "28",
+            "goals": "6",
+            "club": " Hertha Berlin"
+        },
+        {
+            "name": "Yūya Ōsako",
+            "wiki_url": "/wiki/Yuya_Osako",
+            "pos": "FW",
+            "dob": "(1990-05-18) 18 May 1990 (age 27)",
+            "caps": "25",
+            "goals": "7",
+            "club": " Köln"
+        },
+        {
+            "name": "Takashi Inui",
+            "wiki_url": "/wiki/Takashi_Inui",
+            "pos": "FW",
+            "dob": "(1988-06-02) 2 June 1988 (age 29)",
+            "caps": "25",
+            "goals": "2",
+            "club": " Eibar"
+        },
+        {
+            "name": "Takuma Asano",
+            "wiki_url": "/wiki/Takuma_Asano",
+            "pos": "FW",
+            "dob": "(1994-11-10) 10 November 1994 (age 23)",
+            "caps": "16",
+            "goals": "3",
+            "club": " Stuttgart"
+        },
+        {
+            "name": "Shinzō Kōroki",
+            "wiki_url": "/wiki/Shinzo_Koroki",
+            "pos": "FW",
+            "dob": "(1986-07-31) 31 July 1986 (age 31)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Urawa Red Diamonds"
+        },
+        {
+            "name": "Yūya Kubo",
+            "wiki_url": "/wiki/Yuya_Kubo_(footballer)",
+            "pos": "FW",
+            "dob": "(1993-12-24) 24 December 1993 (age 24)",
+            "caps": "11",
+            "goals": "2",
+            "club": " Gent"
+        },
+        {
+            "name": "Yoshinori Mutō",
+            "wiki_url": "/wiki/Yoshinori_Mut%C5%8D",
+            "pos": "FW",
+            "dob": "(1992-07-15) 15 July 1992 (age 25)",
+            "caps": "21",
+            "goals": "2",
+            "club": " Mainz 05"
+        },
+        {
+            "name": "Shinji Okazaki",
+            "wiki_url": "/wiki/Shinji_Okazaki",
+            "pos": "FW",
+            "dob": "(1986-04-16) 16 April 1986 (age 31)",
+            "caps": "110",
+            "goals": "50",
+            "club": " Leicester City"
+        },
+        {
+            "name": "Takashi Usami",
+            "wiki_url": "/wiki/Takashi_Usami",
+            "pos": "FW",
+            "dob": "(1992-05-06) 6 May 1992 (age 25)",
+            "caps": "19",
+            "goals": "3",
+            "club": " Fortuna Düsseldorf"
+        }
+    ],
+    "captain": "Makoto Hasebe",
+    "coach": "Vahid Halilhodžić"
+}

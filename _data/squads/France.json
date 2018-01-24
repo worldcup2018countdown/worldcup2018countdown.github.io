@@ -1,0 +1,390 @@
+{
+    "name": "France",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Alphonse Areola",
+            "wiki_url": "/wiki/Alphonse_Areola",
+            "pos": "GK",
+            "dob": "(1993-02-27) 27 February 1993 (age 24)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Steve Mandanda",
+            "wiki_url": "/wiki/Steve_Mandanda",
+            "pos": "GK",
+            "dob": "(1985-03-28) 28 March 1985 (age 32)",
+            "caps": "26",
+            "goals": "0",
+            "club": " Marseille"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Benoît Costil",
+            "wiki_url": "/wiki/Beno%C3%AEt_Costil",
+            "pos": "GK",
+            "dob": "(1987-07-03) 3 July 1987 (age 30)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Bordeaux"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Christophe Jallet",
+            "wiki_url": "/wiki/Christophe_Jallet",
+            "pos": "DF",
+            "dob": "(1983-10-31) 31 October 1983 (age 34)",
+            "caps": "16",
+            "goals": "1",
+            "club": " Nice"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Layvin Kurzawa",
+            "wiki_url": "/wiki/Layvin_Kurzawa",
+            "pos": "DF",
+            "dob": "(1992-09-04) 4 September 1992 (age 25)",
+            "caps": "11",
+            "goals": "1",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Raphaël Varane",
+            "wiki_url": "/wiki/Rapha%C3%ABl_Varane",
+            "pos": "DF",
+            "dob": "(1993-04-25) 25 April 1993 (age 24)",
+            "caps": "40",
+            "goals": "2",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Samuel Umtiti",
+            "wiki_url": "/wiki/Samuel_Umtiti",
+            "pos": "DF",
+            "dob": "(1993-11-14) 14 November 1993 (age 24)",
+            "caps": "14",
+            "goals": "1",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Lucas Digne",
+            "wiki_url": "/wiki/Lucas_Digne",
+            "pos": "DF",
+            "dob": "(1993-07-20) 20 July 1993 (age 24)",
+            "caps": "20",
+            "goals": "0",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Benjamin Pavard",
+            "wiki_url": "/wiki/Benjamin_Pavard",
+            "pos": "DF",
+            "dob": "(1996-03-28) 28 March 1996 (age 21)",
+            "caps": "2",
+            "goals": "0",
+            "club": " VfB Stuttgart"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Laurent Koscielny",
+            "wiki_url": "/wiki/Laurent_Koscielny",
+            "pos": "DF",
+            "dob": "(1985-09-10) 10 September 1985 (age 32)",
+            "caps": "50",
+            "goals": "1",
+            "club": " Arsenal"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Presnel Kimpembe",
+            "wiki_url": "/wiki/Presnel_Kimpembe",
+            "pos": "DF",
+            "dob": "(1995-08-13) 13 August 1995 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Corentin Tolisso",
+            "wiki_url": "/wiki/Corentin_Tolisso",
+            "pos": "MF",
+            "dob": "(1994-08-03) 3 August 1994 (age 23)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Blaise Matuidi",
+            "wiki_url": "/wiki/Blaise_Matuidi",
+            "pos": "MF",
+            "dob": "(1987-04-09) 9 April 1987 (age 30)",
+            "caps": "62",
+            "goals": "9",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Adrien Rabiot",
+            "wiki_url": "/wiki/Adrien_Rabiot",
+            "pos": "MF",
+            "dob": "(1995-04-03) 3 April 1995 (age 22)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Moussa Sissoko",
+            "wiki_url": "/wiki/Moussa_Sissoko",
+            "pos": "MF",
+            "dob": "(1989-08-16) 16 August 1989 (age 28)",
+            "caps": "53",
+            "goals": "2",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Steven N'Zonzi",
+            "wiki_url": "/wiki/Steven_N%27Zonzi",
+            "pos": "MF",
+            "dob": "(1988-12-15) 15 December 1988 (age 29)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Sevilla"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Antoine Griezmann",
+            "wiki_url": "/wiki/Antoine_Griezmann",
+            "pos": "FW",
+            "dob": "(1991-03-21) 21 March 1991 (age 26)",
+            "caps": "49",
+            "goals": "19",
+            "club": " Atlético Madrid"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Nabil Fekir",
+            "wiki_url": "/wiki/Nabil_Fekir",
+            "pos": "FW",
+            "dob": "(1993-07-18) 18 July 1993 (age 24)",
+            "caps": "10",
+            "goals": "1",
+            "club": " Lyon"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Alexandre Lacazette",
+            "wiki_url": "/wiki/Alexandre_Lacazette",
+            "pos": "FW",
+            "dob": "(1991-05-28) 28 May 1991 (age 26)",
+            "caps": "16",
+            "goals": "3",
+            "club": " Arsenal"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Kingsley Coman",
+            "wiki_url": "/wiki/Kingsley_Coman",
+            "pos": "FW",
+            "dob": "(1996-06-13) 13 June 1996 (age 21)",
+            "caps": "15",
+            "goals": "1",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Kylian Mbappé",
+            "wiki_url": "/wiki/Kylian_Mbapp%C3%A9",
+            "pos": "FW",
+            "dob": "(1998-12-20) 20 December 1998 (age 19)",
+            "caps": "10",
+            "goals": "1",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Florian Thauvin",
+            "wiki_url": "/wiki/Florian_Thauvin",
+            "pos": "FW",
+            "dob": "(1993-01-26) 26 January 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Marseille"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Anthony Martial",
+            "wiki_url": "/wiki/Anthony_Martial",
+            "pos": "FW",
+            "dob": "(1995-12-05) 5 December 1995 (age 22)",
+            "caps": "17",
+            "goals": "1",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Hugo Lloris (Captain)",
+            "wiki_url": "/wiki/Hugo_Lloris",
+            "pos": "GK",
+            "dob": "(1986-12-26) 26 December 1986 (age 31)",
+            "caps": "94",
+            "goals": "0",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "name": "Adil Rami",
+            "wiki_url": "/wiki/Adil_Rami",
+            "pos": "DF",
+            "dob": "(1985-12-27) 27 December 1985 (age 32)",
+            "caps": "33",
+            "goals": "1",
+            "club": " Marseille"
+        },
+        {
+            "name": "Djibril Sidibé",
+            "wiki_url": "/wiki/Djibril_Sidib%C3%A9_(footballer,_born_1992)",
+            "pos": "DF",
+            "dob": "(1992-07-29) 29 July 1992 (age 25)",
+            "caps": "14",
+            "goals": "1",
+            "club": " Monaco"
+        },
+        {
+            "name": "Jordan Amavi",
+            "wiki_url": "/wiki/Jordan_Amavi",
+            "pos": "DF",
+            "dob": "(1994-03-09) 9 March 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Marseille"
+        },
+        {
+            "name": "Kurt Zouma",
+            "wiki_url": "/wiki/Kurt_Zouma",
+            "pos": "DF",
+            "dob": "(1994-10-27) 27 October 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Stoke City"
+        },
+        {
+            "name": "Benjamin Mendy",
+            "wiki_url": "/wiki/Benjamin_Mendy",
+            "pos": "DF",
+            "dob": "(1994-07-17) 17 July 1994 (age 23)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Manchester City"
+        },
+        {
+            "name": "Sébastien Corchia",
+            "wiki_url": "/wiki/S%C3%A9bastien_Corchia",
+            "pos": "DF",
+            "dob": "(1990-11-01) 1 November 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Sevilla"
+        },
+        {
+            "name": "Aymeric Laporte",
+            "wiki_url": "/wiki/Aymeric_Laporte",
+            "pos": "DF",
+            "dob": "(1994-05-27) 27 May 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Athletic Bilbao"
+        },
+        {
+            "name": "Bacary Sagna",
+            "wiki_url": "/wiki/Bacary_Sagna",
+            "pos": "DF",
+            "dob": "(1983-02-14) 14 February 1983 (age 34)",
+            "caps": "65",
+            "goals": "0",
+            "club": "Free agent"
+        },
+        {
+            "name": "Thomas Lemar",
+            "wiki_url": "/wiki/Thomas_Lemar",
+            "pos": "MF",
+            "dob": "(1995-11-12) 12 November 1995 (age 22)",
+            "caps": "8",
+            "goals": "2",
+            "club": " Monaco"
+        },
+        {
+            "name": "N'Golo Kanté",
+            "wiki_url": "/wiki/N%27Golo_Kant%C3%A9",
+            "pos": "MF",
+            "dob": "(1991-03-29) 29 March 1991 (age 26)",
+            "caps": "20",
+            "goals": "1",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Paul Pogba",
+            "wiki_url": "/wiki/Paul_Pogba",
+            "pos": "MF",
+            "dob": "(1993-03-15) 15 March 1993 (age 24)",
+            "caps": "49",
+            "goals": "8",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Tiémoué Bakayoko",
+            "wiki_url": "/wiki/Ti%C3%A9mou%C3%A9_Bakayoko",
+            "pos": "MF",
+            "dob": "(1994-08-17) 17 August 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Olivier Giroud",
+            "wiki_url": "/wiki/Olivier_Giroud",
+            "pos": "FW",
+            "dob": "(1986-09-30) 30 September 1986 (age 31)",
+            "caps": "69",
+            "goals": "29",
+            "club": " Arsenal"
+        },
+        {
+            "name": "Dimitri Payet",
+            "wiki_url": "/wiki/Dimitri_Payet",
+            "pos": "FW",
+            "dob": "(1987-03-29) 29 March 1987 (age 30)",
+            "caps": "37",
+            "goals": "8",
+            "club": " Marseille"
+        },
+        {
+            "name": "Ousmane Dembélé",
+            "wiki_url": "/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+            "pos": "FW",
+            "dob": "(1997-05-15) 15 May 1997 (age 20)",
+            "caps": "7",
+            "goals": "1",
+            "club": " Barcelona"
+        },
+        {
+            "name": "Kevin Gameiro",
+            "wiki_url": "/wiki/Kevin_Gameiro",
+            "pos": "FW",
+            "dob": "(1987-05-09) 9 May 1987 (age 30)",
+            "caps": "13",
+            "goals": "3",
+            "club": " Atlético Madrid"
+        }
+    ],
+    "captain": "Hugo Lloris",
+    "coach": "Didier Deschamps"
+}

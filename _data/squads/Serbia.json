@@ -1,0 +1,552 @@
+{
+    "name": "Serbia",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Vladimir Stojković",
+            "wiki_url": "/wiki/Vladimir_Stojkovi%C4%87",
+            "pos": "GK",
+            "dob": "(1983-07-28) 28 July 1983 (age 34)",
+            "caps": "78",
+            "goals": "0",
+            "club": " Partizan"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Predrag Rajković",
+            "wiki_url": "/wiki/Predrag_Rajkovi%C4%87",
+            "pos": "GK",
+            "dob": "(1995-10-31) 31 October 1995 (age 22)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Maccabi Tel Aviv"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Marko Dmitrović",
+            "wiki_url": "/wiki/Marko_Dmitrovi%C4%87",
+            "pos": "GK",
+            "dob": "(1992-01-24) 24 January 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Eibar"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Branislav Ivanović ",
+            "wiki_url": "/wiki/Branislav_Ivanovi%C4%87",
+            "pos": "DF",
+            "dob": "(1984-02-22) 22 February 1984 (age 33)",
+            "caps": "100",
+            "goals": "12",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Antonio Rukavina",
+            "wiki_url": "/wiki/Antonio_Rukavina",
+            "pos": "DF",
+            "dob": "(1984-01-26) 26 January 1984 (age 33)",
+            "caps": "44",
+            "goals": "0",
+            "club": " Villarreal"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Ivan Obradović",
+            "wiki_url": "/wiki/Ivan_Obradovi%C4%87",
+            "pos": "DF",
+            "dob": "(1988-07-25) 25 July 1988 (age 29)",
+            "caps": "26",
+            "goals": "1",
+            "club": " Anderlecht"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Jagoš Vuković",
+            "wiki_url": "/wiki/Jago%C5%A1_Vukovi%C4%87",
+            "pos": "DF",
+            "dob": "(1988-06-10) 10 June 1988 (age 29)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Olympiacos"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Miloš Veljković",
+            "wiki_url": "/wiki/Milo%C5%A1_Veljkovi%C4%87",
+            "pos": "DF",
+            "dob": "(1995-09-26) 26 September 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Werder Bremen"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Nikola Aksentijević",
+            "wiki_url": "/wiki/Nikola_Aksentijevi%C4%87",
+            "pos": "DF",
+            "dob": "(1993-03-09) 9 March 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Radnički Niš"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Miloš Simonović",
+            "wiki_url": "/wiki/Milo%C5%A1_Simonovi%C4%87",
+            "pos": "DF",
+            "dob": "(1990-05-28) 28 May 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Napredak Kruševac"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Aleksandar Filipović",
+            "wiki_url": "/wiki/Aleksandar_Filipovi%C4%87_(footballer)",
+            "pos": "DF",
+            "dob": "(1994-12-20) 20 December 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Voždovac"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Adem Ljajić",
+            "wiki_url": "/wiki/Adem_Ljaji%C4%87",
+            "pos": "MF",
+            "dob": "(1991-09-29) 29 September 1991 (age 26)",
+            "caps": "25",
+            "goals": "5",
+            "club": " Torino"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Nemanja Gudelj",
+            "wiki_url": "/wiki/Nemanja_Gudelj",
+            "pos": "MF",
+            "dob": "(1991-11-16) 16 November 1991 (age 26)",
+            "caps": "22",
+            "goals": "1",
+            "club": " Tianjin Teda"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Andrija Živković",
+            "wiki_url": "/wiki/Andrija_%C5%BDivkovi%C4%87",
+            "pos": "MF",
+            "dob": "(1996-07-11) 11 July 1996 (age 21)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Benfica"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Mijat Gaćinović",
+            "wiki_url": "/wiki/Mijat_Ga%C4%87inovi%C4%87",
+            "pos": "MF",
+            "dob": "(1995-02-08) 8 February 1995 (age 22)",
+            "caps": "5",
+            "goals": "2",
+            "club": " Eintracht Frankfurt"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Marko Grujić",
+            "wiki_url": "/wiki/Marko_Gruji%C4%87",
+            "pos": "MF",
+            "dob": "(1996-04-13) 13 April 1996 (age 21)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Cardiff City"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Nenad Krstičić",
+            "wiki_url": "/wiki/Nenad_Krsti%C4%8Di%C4%87",
+            "pos": "MF",
+            "dob": "(1990-07-03) 3 July 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Red Star Belgrade"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Nemanja Maksimović",
+            "wiki_url": "/wiki/Nemanja_Maksimovi%C4%87",
+            "pos": "MF",
+            "dob": "(1995-01-26) 26 January 1995 (age 22)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Valencia"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Sergej Milinković-Savić",
+            "wiki_url": "/wiki/Sergej_Milinkovi%C4%87-Savi%C4%87",
+            "pos": "MF",
+            "dob": "(1995-02-27) 27 February 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Lazio"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Nemanja Radonjić",
+            "wiki_url": "/wiki/Nemanja_Radonji%C4%87",
+            "pos": "MF",
+            "dob": "(1996-02-15) 15 February 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Red Star Belgrade"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Aleksandar Mitrović",
+            "wiki_url": "/wiki/Aleksandar_Mitrovi%C4%87_(footballer)",
+            "pos": "FW",
+            "dob": "(1994-09-16) 16 September 1994 (age 23)",
+            "caps": "33",
+            "goals": "11",
+            "club": " Newcastle United"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Aleksandar Prijović",
+            "wiki_url": "/wiki/Aleksandar_Prijovi%C4%87",
+            "pos": "FW",
+            "dob": "(1990-04-21) 21 April 1990 (age 27)",
+            "caps": "7",
+            "goals": "1",
+            "club": " PAOK"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Đorđe Ivanović",
+            "wiki_url": "/wiki/%C4%90or%C4%91e_Ivanovi%C4%87",
+            "pos": "FW",
+            "dob": "(1995-11-20) 20 November 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Spartak Subotica"
+        },
+        {
+            "name": "Aleksandar Jovanović",
+            "wiki_url": "/wiki/Aleksandar_Jovanovi%C4%87_(footballer,_born_1992_in_Ni%C5%A1)",
+            "pos": "GK",
+            "dob": "(1992-12-06) 6 December 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " AGF"
+        },
+        {
+            "name": "Filip Manojlović",
+            "wiki_url": "/wiki/Filip_Manojlovi%C4%87",
+            "pos": "GK",
+            "dob": "(1996-04-25) 25 April 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Getafe"
+        },
+        {
+            "name": "Aleksandar Kolarov",
+            "wiki_url": "/wiki/Aleksandar_Kolarov",
+            "pos": "DF",
+            "dob": "(1985-11-10) 10 November 1985 (age 32)",
+            "caps": "72",
+            "goals": "10",
+            "club": " Roma"
+        },
+        {
+            "name": "Matija Nastasić",
+            "wiki_url": "/wiki/Matija_Nastasi%C4%87",
+            "pos": "DF",
+            "dob": "(1993-03-28) 28 March 1993 (age 24)",
+            "caps": "26",
+            "goals": "0",
+            "club": " Schalke 04"
+        },
+        {
+            "name": "Duško Tošić",
+            "wiki_url": "/wiki/Du%C5%A1ko_To%C5%A1i%C4%87",
+            "pos": "DF",
+            "dob": "(1985-01-19) 19 January 1985 (age 33)",
+            "caps": "21",
+            "goals": "1",
+            "club": " Beşiktaş"
+        },
+        {
+            "name": "Nikola Maksimović",
+            "wiki_url": "/wiki/Nikola_Maksimovi%C4%87",
+            "pos": "DF",
+            "dob": "(1991-11-25) 25 November 1991 (age 26)",
+            "caps": "19",
+            "goals": "0",
+            "club": " Napoli"
+        },
+        {
+            "name": "Stefan Mitrović",
+            "wiki_url": "/wiki/Stefan_Mitrovi%C4%87_(footballer)",
+            "pos": "DF",
+            "dob": "(1990-05-22) 22 May 1990 (age 27)",
+            "caps": "13",
+            "goals": "0",
+            "club": " Gent"
+        },
+        {
+            "name": "Nemanja Milunović",
+            "wiki_url": "/wiki/Nemanja_Milunovi%C4%87",
+            "pos": "DF",
+            "dob": "(1989-05-31) 31 May 1989 (age 28)",
+            "caps": "3",
+            "goals": "1",
+            "club": " BATE Borisov"
+        },
+        {
+            "name": "Uroš Spajić",
+            "wiki_url": "/wiki/Uro%C5%A1_Spaji%C4%87",
+            "pos": "DF",
+            "dob": "(1993-02-13) 13 February 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Anderlecht"
+        },
+        {
+            "name": "Miloš Kosanović",
+            "wiki_url": "/wiki/Milo%C5%A1_Kosanovi%C4%87",
+            "pos": "DF",
+            "dob": "(1990-05-28) 28 May 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Göztepe"
+        },
+        {
+            "name": "Nikola Maraš",
+            "wiki_url": "/wiki/Nikola_Mara%C5%A1",
+            "pos": "DF",
+            "dob": "(1995-12-19) 19 December 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Chaves"
+        },
+        {
+            "name": "Nemanja Miletić",
+            "wiki_url": "/wiki/Nemanja_Mileti%C4%87_(footballer,_born_July_1991)",
+            "pos": "DF",
+            "dob": "(1991-07-26) 26 July 1991 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Partizan"
+        },
+        {
+            "name": "Nemanja Ćalasan",
+            "wiki_url": "/wiki/Nemanja_%C4%86alasan",
+            "pos": "DF",
+            "dob": "(1996-03-17) 17 March 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Spartak Subotica"
+        },
+        {
+            "name": "Marko Klisura",
+            "wiki_url": "/wiki/Marko_Klisura",
+            "pos": "DF",
+            "dob": "(1992-10-15) 15 October 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": "Free agent"
+        },
+        {
+            "name": "Dušan Tadić",
+            "wiki_url": "/wiki/Du%C5%A1an_Tadi%C4%87",
+            "pos": "MF",
+            "dob": "(1988-11-20) 20 November 1988 (age 29)",
+            "caps": "49",
+            "goals": "12",
+            "club": " Southampton"
+        },
+        {
+            "name": "Nemanja Matić",
+            "wiki_url": "/wiki/Nemanja_Mati%C4%87",
+            "pos": "MF",
+            "dob": "(1988-08-01) 1 August 1988 (age 29)",
+            "caps": "36",
+            "goals": "2",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Luka Milivojević",
+            "wiki_url": "/wiki/Luka_Milivojevi%C4%87",
+            "pos": "MF",
+            "dob": "(1991-04-07) 7 April 1991 (age 26)",
+            "caps": "24",
+            "goals": "1",
+            "club": " Crystal Palace"
+        },
+        {
+            "name": "Ljubomir Fejsa",
+            "wiki_url": "/wiki/Ljubomir_Fejsa",
+            "pos": "MF",
+            "dob": "(1988-08-14) 14 August 1988 (age 29)",
+            "caps": "23",
+            "goals": "0",
+            "club": " Benfica"
+        },
+        {
+            "name": "Filip Kostić",
+            "wiki_url": "/wiki/Filip_Kosti%C4%87",
+            "pos": "MF",
+            "dob": "(1992-11-01) 1 November 1992 (age 25)",
+            "caps": "19",
+            "goals": "2",
+            "club": " Hamburger SV"
+        },
+        {
+            "name": "Zoran Tošić",
+            "wiki_url": "/wiki/Zoran_To%C5%A1i%C4%87",
+            "pos": "MF",
+            "dob": "(1987-04-28) 28 April 1987 (age 30)",
+            "caps": "76",
+            "goals": "11",
+            "club": " Partizan"
+        },
+        {
+            "name": "Nemanja Radoja",
+            "wiki_url": "/wiki/Nemanja_Radoja",
+            "pos": "MF",
+            "dob": "(1993-02-06) 6 February 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Celta"
+        },
+        {
+            "name": "Aleksandar Katai",
+            "wiki_url": "/wiki/Aleksandar_Katai",
+            "pos": "MF",
+            "dob": "(1991-02-06) 6 February 1991 (age 26)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Alavés"
+        },
+        {
+            "name": "Uroš Matić",
+            "wiki_url": "/wiki/Uro%C5%A1_Mati%C4%87",
+            "pos": "MF",
+            "dob": "(1990-05-23) 23 May 1990 (age 27)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Copenhagen"
+        },
+        {
+            "name": "Nikola Ćirković",
+            "wiki_url": "/wiki/Nikola_%C4%86irkovi%C4%87",
+            "pos": "MF",
+            "dob": "(1991-12-04) 4 December 1991 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Voždovac"
+        },
+        {
+            "name": "Marko Gobeljić",
+            "wiki_url": "/wiki/Marko_Gobelji%C4%87",
+            "pos": "MF",
+            "dob": "(1992-09-13) 13 September 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Red Star Belgrade"
+        },
+        {
+            "name": "Srđan Plavšić",
+            "wiki_url": "/wiki/Sr%C4%91an_Plav%C5%A1i%C4%87",
+            "pos": "MF",
+            "dob": "(1995-12-03) 3 December 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Sparta Prague"
+        },
+        {
+            "name": "Enver Alivodić",
+            "wiki_url": "/wiki/Enver_Alivodi%C4%87",
+            "pos": "MF",
+            "dob": "(1984-12-27) 27 December 1984 (age 33)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Apollon Smyrni"
+        },
+        {
+            "name": "Jovan Đokić",
+            "wiki_url": "/wiki/Jovan_%C4%90oki%C4%87",
+            "pos": "MF",
+            "dob": "(1992-08-13) 13 August 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Olmaliq"
+        },
+        {
+            "name": "Marko Jevtović",
+            "wiki_url": "/wiki/Marko_Jevtovi%C4%87_(footballer)",
+            "pos": "MF",
+            "dob": "(1993-07-24) 24 July 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Partizan"
+        },
+        {
+            "name": "Aleksandar Paločević",
+            "wiki_url": "/wiki/Aleksandar_Palo%C4%8Devi%C4%87",
+            "pos": "MF",
+            "dob": "(1993-08-22) 22 August 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Arouca"
+        },
+        {
+            "name": "Stefan Panić",
+            "wiki_url": "/wiki/Stefan_Pani%C4%87",
+            "pos": "MF",
+            "dob": "(1992-09-20) 20 September 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": "Free agent"
+        },
+        {
+            "name": "Andrija Pavlović",
+            "wiki_url": "/wiki/Andrija_Pavlovi%C4%87",
+            "pos": "FW",
+            "dob": "(1993-11-16) 16 November 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Copenhagen"
+        },
+        {
+            "name": "Saša Jovanović",
+            "wiki_url": "/wiki/Sa%C5%A1a_Jovanovi%C4%87_(footballer,_born_1991)",
+            "pos": "FW",
+            "dob": "(1991-12-15) 15 December 1991 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Córdoba"
+        },
+        {
+            "name": "Lazar Jovanović",
+            "wiki_url": "/wiki/Lazar_Jovanovi%C4%87_(footballer)",
+            "pos": "FW",
+            "dob": "(1993-07-13) 13 July 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Borac Čačak"
+        },
+        {
+            "name": "Marko Mrkić",
+            "wiki_url": "/wiki/Marko_Mrki%C4%87",
+            "pos": "FW",
+            "dob": "(1996-08-20) 20 August 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Radnički Niš"
+        }
+    ],
+    "captain": "Branislav Ivanović",
+    "coach": "Mladen Krstajić"
+}

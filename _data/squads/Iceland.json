@@ -1,0 +1,551 @@
+{
+    "name": "Iceland",
+    "squad": [
+        {
+            "jerseyNumber": "12",
+            "name": "Frederik Schram",
+            "wiki_url": "/wiki/Frederik_Schram",
+            "pos": "GK",
+            "dob": "(1995-01-19) 19 January 1995 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Roskilde"
+        },
+        {
+            "jerseyNumber": "1",
+            "name": "Rúnar Alex Rúnarsson",
+            "wiki_url": "/wiki/R%C3%BAnar_Alex_R%C3%BAnarsson",
+            "pos": "GK",
+            "dob": "(1995-02-18) 18 February 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Nordsjælland"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Anton Ari Einarsson",
+            "wiki_url": "/w/index.php?title=Anton_Ari_Einarsson&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1994-08-25) 25 August 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Valur"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Jón Guðni Fjóluson",
+            "wiki_url": "/wiki/J%C3%B3n_Gu%C3%B0ni_Fj%C3%B3luson",
+            "pos": "DF",
+            "dob": "(1989-04-10) 10 April 1989 (age 28)",
+            "caps": "12",
+            "goals": "0",
+            "club": " IFK Norrköping"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Hólmar Örn Eyjólfsson",
+            "wiki_url": "/wiki/H%C3%B3lmar_%C3%96rn_Eyj%C3%B3lfsson",
+            "pos": "DF",
+            "dob": "(1990-08-06) 6 August 1990 (age 27)",
+            "caps": "8",
+            "goals": "1",
+            "club": " Levski Sofia"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Haukur Hauksson",
+            "wiki_url": "/wiki/Haukur_Hei%C3%B0ar_Hauksson",
+            "pos": "DF",
+            "dob": "(1991-09-01) 1 September 1991 (age 26)",
+            "caps": "7",
+            "goals": "0",
+            "club": " AIK"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Viðar Ari Jónsson",
+            "wiki_url": "/wiki/Vi%C3%B0ar_Ari_J%C3%B3nsson",
+            "pos": "DF",
+            "dob": "(1994-03-10) 10 March 1994 (age 23)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Brann"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Böðvar Böðvarsson",
+            "wiki_url": "/wiki/B%C3%B6%C3%B0var_B%C3%B6%C3%B0varsson",
+            "pos": "DF",
+            "dob": "(1995-04-09) 9 April 1995 (age 22)",
+            "caps": "4",
+            "goals": "0",
+            "club": " FH"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Orri Sigurður Ómarsson",
+            "wiki_url": "/wiki/Orri_Sigur%C3%B0ur_%C3%93marsson",
+            "pos": "DF",
+            "dob": "(1995-02-18) 18 February 1995 (age 22)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Valur"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Felix Örn Friðriksson",
+            "wiki_url": "/wiki/Felix_%C3%96rn_Fri%C3%B0riksson",
+            "pos": "DF",
+            "dob": "(1999-03-16) 16 March 1999 (age 18)",
+            "caps": "2",
+            "goals": "0",
+            "club": " ÍBV"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Ólafur Skúlason",
+            "wiki_url": "/wiki/%C3%93lafur_Ingi_Sk%C3%BAlason",
+            "pos": "MF",
+            "dob": "(1983-04-01) 1 April 1983 (age 34)",
+            "caps": "34",
+            "goals": "1",
+            "club": " Kardemir Karabükspor"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Arnór Smárason",
+            "wiki_url": "/wiki/Arn%C3%B3r_Sm%C3%A1rason",
+            "pos": "MF",
+            "dob": "(1988-09-07) 7 September 1988 (age 29)",
+            "caps": "24",
+            "goals": "3",
+            "club": " Hammarby IF"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Arnór Ingvi Traustason",
+            "wiki_url": "/wiki/Arn%C3%B3r_Ingvi_Traustason",
+            "pos": "MF",
+            "dob": "(1993-04-30) 30 April 1993 (age 24)",
+            "caps": "17",
+            "goals": "5",
+            "club": " Malmö"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Aron Sigurðarson",
+            "wiki_url": "/wiki/Aron_Sigur%C3%B0arson",
+            "pos": "MF",
+            "dob": "(1993-10-08) 8 October 1993 (age 24)",
+            "caps": "6",
+            "goals": "2",
+            "club": " Tromsø"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Samúel Friðjónsson",
+            "wiki_url": "/wiki/Sam%C3%BAel_Fri%C3%B0j%C3%B3nsson",
+            "pos": "MF",
+            "dob": "(1996-02-22) 22 February 1996 (age 21)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Vålerenga"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Hilmar Árni Halldórsson",
+            "wiki_url": "/wiki/Hilmar_%C3%81rni_Halld%C3%B3rsson",
+            "pos": "MF",
+            "dob": "(1992-02-14) 14 February 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Stjarnan"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Mikael Anderson",
+            "wiki_url": "/wiki/Mikael_Anderson",
+            "pos": "MF",
+            "dob": "(1998-07-01) 1 July 1998 (age 19)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Vendsyssel"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Óttar Magnús Karlsson",
+            "wiki_url": "/wiki/%C3%93ttar_Magn%C3%BAs_Karlsson",
+            "pos": "FW",
+            "dob": "(1997-02-21) 21 February 1997 (age 20)",
+            "caps": "5",
+            "goals": "1",
+            "club": " Molde"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Kristján Flóki Finnbogason",
+            "wiki_url": "/wiki/Kristj%C3%A1n_Fl%C3%B3ki_Finnbogason",
+            "pos": "FW",
+            "dob": "(1995-01-12) 12 January 1995 (age 23)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Start"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Albert Guðmundsson",
+            "wiki_url": "/wiki/Albert_Gu%C3%B0mundsson_(footballer,_born_1997)",
+            "pos": "FW",
+            "dob": "(1997-06-15) 15 June 1997 (age 20)",
+            "caps": "3",
+            "goals": "3",
+            "club": " PSV"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Tryggvi Haraldsson",
+            "wiki_url": "/wiki/Tryggvi_Hrafn_Haraldsson",
+            "pos": "FW",
+            "dob": "(1996-09-30) 30 September 1996 (age 21)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Halmstad"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Andri Rúnar Bjarnason",
+            "wiki_url": "/wiki/Andri_R%C3%BAnar_Bjarnason",
+            "pos": "FW",
+            "dob": "(1990-11-12) 12 November 1990 (age 27)",
+            "caps": "2",
+            "goals": "1",
+            "club": " Helsingborg"
+        },
+        {
+            "name": "Hannes Halldórsson",
+            "wiki_url": "/wiki/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson",
+            "pos": "GK",
+            "dob": "(1984-04-27) 27 April 1984 (age 33)",
+            "caps": "48",
+            "goals": "0",
+            "club": " Randers"
+        },
+        {
+            "name": "Ögmundur Kristinsson",
+            "wiki_url": "/wiki/%C3%96gmundur_Kristinsson_(footballer,_born_1989)",
+            "pos": "GK",
+            "dob": "(1989-06-19) 19 June 1989 (age 28)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Excelsior"
+        },
+        {
+            "name": "Ingvar Jónsson",
+            "wiki_url": "/wiki/Ingvar_J%C3%B3nsson",
+            "pos": "GK",
+            "dob": "(1989-10-18) 18 October 1989 (age 28)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Sandefjord"
+        },
+        {
+            "name": "Hjörtur Hermannsson",
+            "wiki_url": "/wiki/Hj%C3%B6rtur_Hermannsson",
+            "pos": "DF",
+            "dob": "(1995-02-08) 8 February 1995 (age 22)",
+            "caps": "6",
+            "goals": "1",
+            "club": " Brøndby"
+        },
+        {
+            "name": "Ragnar Sigurðsson",
+            "wiki_url": "/wiki/Ragnar_Sigur%C3%B0sson",
+            "pos": "DF",
+            "dob": "(1986-06-19) 19 June 1986 (age 31)",
+            "caps": "74",
+            "goals": "3",
+            "club": " Rostov"
+        },
+        {
+            "name": "Sverrir Ingi Ingason",
+            "wiki_url": "/wiki/Sverrir_Ingi_Ingason",
+            "pos": "DF",
+            "dob": "(1993-08-05) 5 August 1993 (age 24)",
+            "caps": "16",
+            "goals": "3",
+            "club": " Rostov"
+        },
+        {
+            "name": "Birkir Sævarsson",
+            "wiki_url": "/wiki/Birkir_M%C3%A1r_S%C3%A6varsson",
+            "pos": "DF",
+            "dob": "(1984-11-11) 11 November 1984 (age 33)",
+            "caps": "76",
+            "goals": "1",
+            "club": " Valur"
+        },
+        {
+            "name": "Kári Árnason",
+            "wiki_url": "/wiki/K%C3%A1ri_%C3%81rnason_(footballer,_born_1982)",
+            "pos": "DF",
+            "dob": "(1982-10-13) 13 October 1982 (age 35)",
+            "caps": "64",
+            "goals": "4",
+            "club": " Aberdeen"
+        },
+        {
+            "name": "Ari Skúlason",
+            "wiki_url": "/wiki/Ari_Freyr_Sk%C3%BAlason",
+            "pos": "DF",
+            "dob": "(1987-05-14) 14 May 1987 (age 30)",
+            "caps": "52",
+            "goals": "0",
+            "club": " Lokeren"
+        },
+        {
+            "name": "Hörður Magnússon",
+            "wiki_url": "/wiki/H%C3%B6r%C3%B0ur_Bj%C3%B6rgvin_Magn%C3%BAsson",
+            "pos": "DF",
+            "dob": "(1993-02-11) 11 February 1993 (age 24)",
+            "caps": "15",
+            "goals": "2",
+            "club": " Bristol City"
+        },
+        {
+            "name": "Diego Johannesson",
+            "wiki_url": "/wiki/Diego_Johannesson",
+            "pos": "DF",
+            "dob": "(1993-10-03) 3 October 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Oviedo"
+        },
+        {
+            "name": "Hallgrímur Jónasson",
+            "wiki_url": "/wiki/Hallgr%C3%ADmur_J%C3%B3nasson",
+            "pos": "DF",
+            "dob": "(1986-05-04) 4 May 1986 (age 31)",
+            "caps": "16",
+            "goals": "3",
+            "club": " KA"
+        },
+        {
+            "name": "Kristinn Jónsson",
+            "wiki_url": "/wiki/Kristinn_J%C3%B3nsson",
+            "pos": "DF",
+            "dob": "(1990-08-04) 4 August 1990 (age 27)",
+            "caps": "8",
+            "goals": "0",
+            "club": " KR"
+        },
+        {
+            "name": "Adam Arnarson",
+            "wiki_url": "/wiki/Adam_%C3%96rn_Arnarson",
+            "pos": "DF",
+            "dob": "(1995-08-27) 27 August 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Aalesund"
+        },
+        {
+            "name": "Daníel Leó Grétarsson",
+            "wiki_url": "/wiki/Dan%C3%ADel_Le%C3%B3_Gr%C3%A9tarsson",
+            "pos": "DF",
+            "dob": "(1995-10-02) 2 October 1995 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Aalesund"
+        },
+        {
+            "name": "Aron Gunnarsson (Captain)",
+            "wiki_url": "/wiki/Aron_Gunnarsson",
+            "pos": "MF",
+            "dob": "(1989-04-22) 22 April 1989 (age 28)",
+            "caps": "76",
+            "goals": "2",
+            "club": " Cardiff City"
+        },
+        {
+            "name": "Birkir Bjarnason",
+            "wiki_url": "/wiki/Birkir_Bjarnason",
+            "pos": "MF",
+            "dob": "(1988-05-27) 27 May 1988 (age 29)",
+            "caps": "63",
+            "goals": "9",
+            "club": " Aston Villa"
+        },
+        {
+            "name": "Jóhann Berg Guðmundsson",
+            "wiki_url": "/wiki/J%C3%B3hann_Berg_Gu%C3%B0mundsson",
+            "pos": "MF",
+            "dob": "(1990-10-27) 27 October 1990 (age 27)",
+            "caps": "63",
+            "goals": "7",
+            "club": " Burnley"
+        },
+        {
+            "name": "Gylfi Sigurðsson",
+            "wiki_url": "/wiki/Gylfi_Sigur%C3%B0sson",
+            "pos": "MF",
+            "dob": "(1989-09-08) 8 September 1989 (age 28)",
+            "caps": "55",
+            "goals": "18",
+            "club": " Everton"
+        },
+        {
+            "name": "Rúrik Gíslason",
+            "wiki_url": "/wiki/R%C3%BArik_G%C3%ADslason",
+            "pos": "MF",
+            "dob": "(1988-02-25) 25 February 1988 (age 29)",
+            "caps": "43",
+            "goals": "3",
+            "club": " Sandhausen"
+        },
+        {
+            "name": "Elmar Bjarnason",
+            "wiki_url": "/wiki/The%C3%B3d%C3%B3r_Elmar_Bjarnason",
+            "pos": "MF",
+            "dob": "(1987-03-04) 4 March 1987 (age 30)",
+            "caps": "38",
+            "goals": "1",
+            "club": " Elazığspor"
+        },
+        {
+            "name": "Rúnar Már Sigurjónsson",
+            "wiki_url": "/wiki/R%C3%BAnar_M%C3%A1r_Sigurj%C3%B3nsson",
+            "pos": "MF",
+            "dob": "(1990-06-18) 18 June 1990 (age 27)",
+            "caps": "15",
+            "goals": "1",
+            "club": " St. Gallen"
+        },
+        {
+            "name": "Emil Hallfreðsson",
+            "wiki_url": "/wiki/Emil_Hallfre%C3%B0sson",
+            "pos": "MF",
+            "dob": "(1984-06-29) 29 June 1984 (age 33)",
+            "caps": "61",
+            "goals": "1",
+            "club": " Udinese"
+        },
+        {
+            "name": "Elías Már Ómarsson",
+            "wiki_url": "/wiki/El%C3%ADas_M%C3%A1r_%C3%93marsson",
+            "pos": "MF",
+            "dob": "(1995-01-18) 18 January 1995 (age 23)",
+            "caps": "9",
+            "goals": "0",
+            "club": " IFK Göteborg"
+        },
+        {
+            "name": "Davíð Viðarsson",
+            "wiki_url": "/wiki/Dav%C3%AD%C3%B0_Vi%C3%B0arsson",
+            "pos": "MF",
+            "dob": "(1984-04-24) 24 April 1984 (age 33)",
+            "caps": "9",
+            "goals": "0",
+            "club": " FH"
+        },
+        {
+            "name": "Kristinn Steindórsson",
+            "wiki_url": "/wiki/Kristinn_Steind%C3%B3rsson",
+            "pos": "MF",
+            "dob": "(1990-04-29) 29 April 1990 (age 27)",
+            "caps": "3",
+            "goals": "2",
+            "club": " GIF Sundsvall"
+        },
+        {
+            "name": "Sigurður Lárusson",
+            "wiki_url": "/wiki/Sigur%C3%B0ur_Egill_L%C3%A1russon",
+            "pos": "MF",
+            "dob": "(1992-01-22) 22 January 1992 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Valur"
+        },
+        {
+            "name": "Oliver Sigurjónsson",
+            "wiki_url": "/wiki/Oliver_Sigurj%C3%B3nsson",
+            "pos": "MF",
+            "dob": "(1995-05-05) 5 May 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Bodø/Glimt"
+        },
+        {
+            "name": "Kristinn Freyr Sigurðsson",
+            "wiki_url": "/wiki/Kristinn_Freyr_Sigur%C3%B0sson",
+            "pos": "MF",
+            "dob": "(1991-12-25) 25 December 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " GIF Sundsvall"
+        },
+        {
+            "name": "Björn Bergmann Sigurðarson",
+            "wiki_url": "/wiki/Bj%C3%B6rn_Bergmann_Sigur%C3%B0arson",
+            "pos": "FW",
+            "dob": "(1991-02-26) 26 February 1991 (age 26)",
+            "caps": "9",
+            "goals": "1",
+            "club": " Rostov"
+        },
+        {
+            "name": "Alfreð Finnbogason",
+            "wiki_url": "/wiki/Alfre%C3%B0_Finnbogason",
+            "pos": "FW",
+            "dob": "(1989-02-01) 1 February 1989 (age 28)",
+            "caps": "45",
+            "goals": "11",
+            "club": " Augsburg"
+        },
+        {
+            "name": "Viðar Kjartansson",
+            "wiki_url": "/wiki/Vi%C3%B0ar_%C3%96rn_Kjartansson",
+            "pos": "FW",
+            "dob": "(1990-03-11) 11 March 1990 (age 27)",
+            "caps": "16",
+            "goals": "2",
+            "club": " Maccabi Tel Aviv"
+        },
+        {
+            "name": "Kjartan Finnbogason",
+            "wiki_url": "/wiki/Kjartan_Finnbogason",
+            "pos": "FW",
+            "dob": "(1986-07-09) 9 July 1986 (age 31)",
+            "caps": "9",
+            "goals": "2",
+            "club": " Horsens"
+        },
+        {
+            "name": "Jón Daði Böðvarsson",
+            "wiki_url": "/wiki/J%C3%B3n_Da%C3%B0i_B%C3%B6%C3%B0varsson",
+            "pos": "FW",
+            "dob": "(1992-05-25) 25 May 1992 (age 25)",
+            "caps": "36",
+            "goals": "2",
+            "club": " Reading"
+        },
+        {
+            "name": "Aron Elís Þrándarson",
+            "wiki_url": "/wiki/Aron_El%C3%ADs_%C3%9Er%C3%A1ndarson",
+            "pos": "FW",
+            "dob": "(1994-11-10) 10 November 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Aalesund"
+        },
+        {
+            "name": "Árni Vilhjálmsson",
+            "wiki_url": "/wiki/%C3%81rni_Vilhj%C3%A1lmsson",
+            "pos": "FW",
+            "dob": "(1994-05-09) 9 May 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Jönköping"
+        }
+    ],
+    "captain": "Aron Gunnarsson",
+    "coach": "Heimir Hallgrímsson"
+}

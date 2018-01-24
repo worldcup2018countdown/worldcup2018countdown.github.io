@@ -1,0 +1,394 @@
+{
+    "name": "Russia",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Igor Akinfeev (Captain)",
+            "wiki_url": "/wiki/Igor_Akinfeev",
+            "pos": "GK",
+            "dob": "(1986-04-08) 8 April 1986 (age 31)",
+            "caps": "103",
+            "goals": "0",
+            "club": " CSKA Moscow"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Vladimir Gabulov",
+            "wiki_url": "/wiki/Vladimir_Gabulov",
+            "pos": "GK",
+            "dob": "(1983-10-19) 19 October 1983 (age 34)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Club Brugge"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Andrey Lunyov",
+            "wiki_url": "/wiki/Andrey_Lunyov",
+            "pos": "GK",
+            "dob": "(1991-11-13) 13 November 1991 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "28",
+            "name": "Igor Smolnikov",
+            "wiki_url": "/wiki/Igor_Smolnikov",
+            "pos": "DF",
+            "dob": "(1988-08-08) 8 August 1988 (age 29)",
+            "caps": "23",
+            "goals": "0",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "30",
+            "name": "Fyodor Kudryashov",
+            "wiki_url": "/wiki/Fyodor_Kudryashov",
+            "pos": "DF",
+            "dob": "(1987-04-05) 5 April 1987 (age 30)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Rubin Kazan"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Viktor Vasin",
+            "wiki_url": "/wiki/Viktor_Vasin",
+            "pos": "DF",
+            "dob": "(1988-10-06) 6 October 1988 (age 29)",
+            "caps": "13",
+            "goals": "2",
+            "club": " CSKA Moscow"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Georgi Dzhikiya",
+            "wiki_url": "/wiki/Georgi_Dzhikiya",
+            "pos": "DF",
+            "dob": "(1993-11-21) 21 November 1993 (age 24)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Spartak Moscow"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Ilya Kutepov",
+            "wiki_url": "/wiki/Ilya_Kutepov",
+            "pos": "DF",
+            "dob": "(1993-07-29) 29 July 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Spartak Moscow"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Roman Neustädter",
+            "wiki_url": "/wiki/Roman_Neust%C3%A4dter",
+            "pos": "DF",
+            "dob": "(1988-02-18) 18 February 1988 (age 29)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Fenerbahçe"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Konstantin Rausch",
+            "wiki_url": "/wiki/Konstantin_Rausch",
+            "pos": "DF",
+            "dob": "(1990-03-15) 15 March 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Köln"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Mário Fernandes",
+            "wiki_url": "/wiki/M%C3%A1rio_Figueira_Fernandes",
+            "pos": "DF",
+            "dob": "(1990-09-19) 19 September 1990 (age 27)",
+            "caps": "3",
+            "goals": "0",
+            "club": " CSKA Moscow"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Yuri Zhirkov",
+            "wiki_url": "/wiki/Yuri_Zhirkov",
+            "pos": "MF",
+            "dob": "(1983-08-20) 20 August 1983 (age 34)",
+            "caps": "80",
+            "goals": "2",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Denis Glushakov",
+            "wiki_url": "/wiki/Denis_Glushakov",
+            "pos": "MF",
+            "dob": "(1987-01-27) 27 January 1987 (age 30)",
+            "caps": "56",
+            "goals": "5",
+            "club": " Spartak Moscow"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Alan Dzagoev",
+            "wiki_url": "/wiki/Alan_Dzagoev",
+            "pos": "MF",
+            "dob": "(1990-06-17) 17 June 1990 (age 27)",
+            "caps": "53",
+            "goals": "9",
+            "club": " CSKA Moscow"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Dmitri Kombarov",
+            "wiki_url": "/wiki/Dmitri_Kombarov",
+            "pos": "DF",
+            "dob": "(1987-01-22) 22 January 1987 (age 30)",
+            "caps": "46",
+            "goals": "2",
+            "club": " Spartak Moscow"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Aleksandr Golovin",
+            "wiki_url": "/wiki/Aleksandr_Golovin_(footballer)",
+            "pos": "MF",
+            "dob": "(1996-05-30) 30 May 1996 (age 21)",
+            "caps": "15",
+            "goals": "2",
+            "club": " CSKA Moscow"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Aleksandr Yerokhin",
+            "wiki_url": "/wiki/Aleksandr_Yerokhin",
+            "pos": "MF",
+            "dob": "(1989-10-13) 13 October 1989 (age 28)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Aleksei Miranchuk",
+            "wiki_url": "/wiki/Aleksei_Miranchuk",
+            "pos": "MF",
+            "dob": "(1995-10-17) 17 October 1995 (age 22)",
+            "caps": "14",
+            "goals": "4",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Roman Zobnin",
+            "wiki_url": "/wiki/Roman_Zobnin",
+            "pos": "MF",
+            "dob": "(1994-02-11) 11 February 1994 (age 23)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Spartak Moscow"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Daler Kuzyayev",
+            "wiki_url": "/wiki/Daler_Kuzyayev",
+            "pos": "MF",
+            "dob": "(1993-01-15) 15 January 1993 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Vladislav Ignatyev",
+            "wiki_url": "/wiki/Vladislav_Ignatyev",
+            "pos": "MF",
+            "dob": "(1987-01-20) 20 January 1987 (age 30)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Anton Miranchuk",
+            "wiki_url": "/wiki/Anton_Miranchuk",
+            "pos": "MF",
+            "dob": "(1995-10-17) 17 October 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Anton Shvets",
+            "wiki_url": "/wiki/Anton_Shvets",
+            "pos": "MF",
+            "dob": "(1993-04-26) 26 April 1993 (age 24)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Akhmat Grozny"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Aleksandr Kokorin",
+            "wiki_url": "/wiki/Aleksandr_Kokorin",
+            "pos": "FW",
+            "dob": "(1991-03-19) 19 March 1991 (age 26)",
+            "caps": "48",
+            "goals": "12",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Fyodor Smolov",
+            "wiki_url": "/wiki/Fyodor_Smolov",
+            "pos": "FW",
+            "dob": "(1990-02-05) 5 February 1990 (age 27)",
+            "caps": "28",
+            "goals": "11",
+            "club": " Krasnodar"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Dmitry Poloz",
+            "wiki_url": "/wiki/Dmitry_Poloz",
+            "pos": "FW",
+            "dob": "(1991-07-12) 12 July 1991 (age 26)",
+            "caps": "15",
+            "goals": "2",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Anton Zabolotny",
+            "wiki_url": "/wiki/Anton_Zabolotny",
+            "pos": "FW",
+            "dob": "(1991-06-13) 13 June 1991 (age 26)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Tosno"
+        },
+        {
+            "name": "Guilherme",
+            "wiki_url": "/wiki/Guilherme_Marinato",
+            "pos": "GK",
+            "dob": "(1985-12-12) 12 December 1985 (age 32)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "name": "Aleksandr Belenov",
+            "wiki_url": "/wiki/Aleksandr_Belenov",
+            "pos": "GK",
+            "dob": "(1986-09-13) 13 September 1986 (age 31)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Ufa"
+        },
+        {
+            "name": "Stanislav Kritsyuk",
+            "wiki_url": "/wiki/Stanislav_Kritsyuk",
+            "pos": "GK",
+            "dob": "(1990-12-01) 1 December 1990 (age 27)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Krasnodar"
+        },
+        {
+            "name": "Vladimir Granat",
+            "wiki_url": "/wiki/Vladimir_Granat",
+            "pos": "DF",
+            "dob": "(1987-05-22) 22 May 1987 (age 30)",
+            "caps": "9",
+            "goals": "1",
+            "club": " Rubin Kazan"
+        },
+        {
+            "name": "Yevgeni Chernov",
+            "wiki_url": "/wiki/Yevgeni_Chernov",
+            "pos": "DF",
+            "dob": "(1992-10-23) 23 October 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Tosno"
+        },
+        {
+            "name": "Roman Shishkin",
+            "wiki_url": "/wiki/Roman_Shishkin",
+            "pos": "DF",
+            "dob": "(1987-01-27) 27 January 1987 (age 30)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Krasnodar"
+        },
+        {
+            "name": "Andrei Semyonov",
+            "wiki_url": "/wiki/Andrei_Sergeyevich_Semyonov",
+            "pos": "DF",
+            "dob": "(1989-03-24) 24 March 1989 (age 28)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Akhmat Grozny"
+        },
+        {
+            "name": "Aleksandr Samedov",
+            "wiki_url": "/wiki/Aleksandr_Samedov",
+            "pos": "MF",
+            "dob": "(1984-07-19) 19 July 1984 (age 33)",
+            "caps": "44",
+            "goals": "6",
+            "club": " Spartak Moscow"
+        },
+        {
+            "name": "Magomed Ozdoyev",
+            "wiki_url": "/wiki/Magomed_Ozdoyev",
+            "pos": "MF",
+            "dob": "(1992-11-05) 5 November 1992 (age 25)",
+            "caps": "12",
+            "goals": "1",
+            "club": " Rubin Kazan"
+        },
+        {
+            "name": "Dmitri Tarasov",
+            "wiki_url": "/wiki/Dmitri_Tarasov_(footballer)",
+            "pos": "MF",
+            "dob": "(1987-03-18) 18 March 1987 (age 30)",
+            "caps": "8",
+            "goals": "1",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "name": "Yury Gazinsky",
+            "wiki_url": "/wiki/Yury_Gazinsky",
+            "pos": "MF",
+            "dob": "(1989-07-20) 20 July 1989 (age 28)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Krasnodar"
+        },
+        {
+            "name": "Aleksandr Bukharov",
+            "wiki_url": "/wiki/Aleksandr_Bukharov",
+            "pos": "FW",
+            "dob": "(1985-03-12) 12 March 1985 (age 32)",
+            "caps": "9",
+            "goals": "1",
+            "club": " Rostov"
+        },
+        {
+            "name": "Artem Dzyuba",
+            "wiki_url": "/wiki/Artem_Dzyuba",
+            "pos": "FW",
+            "dob": "(1988-08-22) 22 August 1988 (age 29)",
+            "caps": "22",
+            "goals": "11",
+            "club": " Zenit Saint Petersburg"
+        }
+    ],
+    "captain": "Fedor Smolov",
+    "coach": "Stanislav Cherchesov"
+}

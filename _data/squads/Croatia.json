@@ -1,0 +1,435 @@
+{
+    "name": "Croatia",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Dominik Livaković",
+            "wiki_url": "/wiki/Dominik_Livakovi%C4%87",
+            "pos": "GK",
+            "dob": "(1995-01-09) 9 January 1995 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Dinamo Zagreb"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Lovre Kalinić",
+            "wiki_url": "/wiki/Lovre_Kalini%C4%87",
+            "pos": "GK",
+            "dob": "(1990-04-03) 3 April 1990 (age 27)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Gent"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Danijel Subašić",
+            "wiki_url": "/wiki/Danijel_Suba%C5%A1i%C4%87",
+            "pos": "GK",
+            "dob": "(1984-10-27) 27 October 1984 (age 33)",
+            "caps": "35",
+            "goals": "0",
+            "club": " Monaco"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Šime Vrsaljko",
+            "wiki_url": "/wiki/%C5%A0ime_Vrsaljko",
+            "pos": "DF",
+            "dob": "(1992-01-10) 10 January 1992 (age 26)",
+            "caps": "32",
+            "goals": "0",
+            "club": " Atlético Madrid"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Ivan Strinić",
+            "wiki_url": "/wiki/Ivan_Strini%C4%87",
+            "pos": "DF",
+            "dob": "(1987-07-17) 17 July 1987 (age 30)",
+            "caps": "41",
+            "goals": "0",
+            "club": " Sampdoria"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Matej Mitrović",
+            "wiki_url": "/wiki/Matej_Mitrovi%C4%87",
+            "pos": "DF",
+            "dob": "(1993-11-10) 10 November 1993 (age 24)",
+            "caps": "9",
+            "goals": "1",
+            "club": " Beşiktaş"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Dejan Lovren",
+            "wiki_url": "/wiki/Dejan_Lovren",
+            "pos": "DF",
+            "dob": "(1989-07-05) 5 July 1989 (age 28)",
+            "caps": "37",
+            "goals": "2",
+            "club": " Liverpool"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Zoran Nižić",
+            "wiki_url": "/wiki/Zoran_Ni%C5%BEi%C4%87",
+            "pos": "DF",
+            "dob": "(1989-10-11) 11 October 1989 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Hajduk Split"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Marin Leovac",
+            "wiki_url": "/wiki/Marin_Leovac",
+            "pos": "DF",
+            "dob": "(1988-08-07) 7 August 1988 (age 29)",
+            "caps": "5",
+            "goals": "0",
+            "club": " PAOK"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Domagoj Vida",
+            "wiki_url": "/wiki/Domagoj_Vida",
+            "pos": "DF",
+            "dob": "(1989-04-29) 29 April 1989 (age 28)",
+            "caps": "55",
+            "goals": "2",
+            "club": " Beşiktaş"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Josip Pivarić",
+            "wiki_url": "/wiki/Josip_Pivari%C4%87",
+            "pos": "DF",
+            "dob": "(1989-01-30) 30 January 1989 (age 28)",
+            "caps": "19",
+            "goals": "0",
+            "club": " Dynamo Kyiv"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Ivan Perišić",
+            "wiki_url": "/wiki/Ivan_Peri%C5%A1i%C4%87",
+            "pos": "MF",
+            "dob": "(1989-02-02) 2 February 1989 (age 28)",
+            "caps": "63",
+            "goals": "17",
+            "club": " Internazionale"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Ivan Rakitić",
+            "wiki_url": "/wiki/Ivan_Rakiti%C4%87",
+            "pos": "MF",
+            "dob": "(1988-03-10) 10 March 1988 (age 29)",
+            "caps": "88",
+            "goals": "13",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Luka Modrić (Captain)",
+            "wiki_url": "/wiki/Luka_Modri%C4%87",
+            "pos": "MF",
+            "dob": "(1985-09-09) 9 September 1985 (age 32)",
+            "caps": "103",
+            "goals": "12",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Marcelo Brozović",
+            "wiki_url": "/wiki/Marcelo_Brozovi%C4%87",
+            "pos": "MF",
+            "dob": "(1992-11-16) 16 November 1992 (age 25)",
+            "caps": "32",
+            "goals": "6",
+            "club": " Internazionale"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Marko Rog",
+            "wiki_url": "/wiki/Marko_Rog",
+            "pos": "MF",
+            "dob": "(1995-07-19) 19 July 1995 (age 22)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Napoli"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Filip Bradarić",
+            "wiki_url": "/wiki/Filip_Bradari%C4%87",
+            "pos": "MF",
+            "dob": "(1992-01-11) 11 January 1992 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Rijeka"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Nikola Vlašić",
+            "wiki_url": "/wiki/Nikola_Vla%C5%A1i%C4%87",
+            "pos": "MF",
+            "dob": "(1997-10-04) 4 October 1997 (age 20)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Everton"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Mario Pašalić",
+            "wiki_url": "/wiki/Mario_Pa%C5%A1ali%C4%87",
+            "pos": "MF",
+            "dob": "(1995-02-09) 9 February 1995 (age 22)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Spartak Moscow"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Ante Rebić",
+            "wiki_url": "/wiki/Ante_Rebi%C4%87",
+            "pos": "FW",
+            "dob": "(1993-09-21) 21 September 1993 (age 24)",
+            "caps": "12",
+            "goals": "1",
+            "club": " Eintracht Frankfurt"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Andrej Kramarić",
+            "wiki_url": "/wiki/Andrej_Kramari%C4%87",
+            "pos": "FW",
+            "dob": "(1991-06-19) 19 June 1991 (age 26)",
+            "caps": "27",
+            "goals": "8",
+            "club": " 1899 Hoffenheim"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Nikola Kalinić",
+            "wiki_url": "/wiki/Nikola_Kalini%C4%87",
+            "pos": "FW",
+            "dob": "(1988-01-05) 5 January 1988 (age 30)",
+            "caps": "40",
+            "goals": "15",
+            "club": " Milan"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Mario Mandžukić",
+            "wiki_url": "/wiki/Mario_Mand%C5%BEuki%C4%87",
+            "pos": "FW",
+            "dob": "(1986-05-21) 21 May 1986 (age 31)",
+            "caps": "81",
+            "goals": "30",
+            "club": " Juventus"
+        },
+        {
+            "name": "Antun Marković",
+            "wiki_url": "/wiki/Antun_Markovi%C4%87",
+            "pos": "GK",
+            "dob": "(1992-06-04) 4 June 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Slaven Belupo"
+        },
+        {
+            "name": "Tin JedvajINJ",
+            "wiki_url": "/wiki/Tin_Jedvaj",
+            "pos": "DF",
+            "dob": "(1995-11-28) 28 November 1995 (age 22)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Bayer Leverkusen"
+        },
+        {
+            "name": "Antonio Milić",
+            "wiki_url": "/wiki/Antonio_Mili%C4%87",
+            "pos": "DF",
+            "dob": "(1994-03-10) 10 March 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Oostende"
+        },
+        {
+            "name": "Duje Ćaleta-CarU21",
+            "wiki_url": "/wiki/Duje_%C4%86aleta-Car",
+            "pos": "DF",
+            "dob": "(1996-09-17) 17 September 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Red Bull Salzburg"
+        },
+        {
+            "name": "Borna BarišićINJ",
+            "wiki_url": "/wiki/Borna_Bari%C5%A1i%C4%87",
+            "pos": "DF",
+            "dob": "(1992-11-10) 10 November 1992 (age 25)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Osijek"
+        },
+        {
+            "name": "Marko Lešković",
+            "wiki_url": "/wiki/Marko_Le%C5%A1kovi%C4%87",
+            "pos": "DF",
+            "dob": "(1991-04-27) 27 April 1991 (age 26)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Dinamo Zagreb"
+        },
+        {
+            "name": "Jakov Filipović",
+            "wiki_url": "/wiki/Jakov_Filipovi%C4%87",
+            "pos": "DF",
+            "dob": "(1992-10-17) 17 October 1992 (age 25)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Lokeren"
+        },
+        {
+            "name": "Nikola KatićU21",
+            "wiki_url": "/wiki/Nikola_Kati%C4%87",
+            "pos": "DF",
+            "dob": "(1996-06-04) 4 June 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Slaven Belupo"
+        },
+        {
+            "name": "Denis Kolinger",
+            "wiki_url": "/wiki/Denis_Kolinger",
+            "pos": "DF",
+            "dob": "(1994-01-24) 24 January 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Lokomotiva"
+        },
+        {
+            "name": "Mato Miloš",
+            "wiki_url": "/wiki/Mato_Milo%C5%A1",
+            "pos": "DF",
+            "dob": "(1993-06-30) 30 June 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Lechia Gdańsk"
+        },
+        {
+            "name": "Vedran ĆorlukaINJ",
+            "wiki_url": "/wiki/Vedran_%C4%86orluka",
+            "pos": "DF",
+            "dob": "(1986-02-05) 5 February 1986 (age 31)",
+            "caps": "95",
+            "goals": "4",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "name": "Milan BadeljWD",
+            "wiki_url": "/wiki/Milan_Badelj",
+            "pos": "MF",
+            "dob": "(1989-02-25) 25 February 1989 (age 28)",
+            "caps": "35",
+            "goals": "1",
+            "club": " Fiorentina"
+        },
+        {
+            "name": "Mateo KovačićINJ",
+            "wiki_url": "/wiki/Mateo_Kova%C4%8Di%C4%87",
+            "pos": "MF",
+            "dob": "(1994-05-06) 6 May 1994 (age 23)",
+            "caps": "37",
+            "goals": "1",
+            "club": " Real Madrid"
+        },
+        {
+            "name": "Franko Andrijašević",
+            "wiki_url": "/wiki/Franko_Andrija%C5%A1evi%C4%87",
+            "pos": "MF",
+            "dob": "(1991-06-22) 22 June 1991 (age 26)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Gent"
+        },
+        {
+            "name": "Fran Tudor",
+            "wiki_url": "/wiki/Fran_Tudor",
+            "pos": "MF",
+            "dob": "(1995-09-27) 27 September 1995 (age 22)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Hajduk Split"
+        },
+        {
+            "name": "Lovro MajerU21",
+            "wiki_url": "/wiki/Lovro_Majer",
+            "pos": "MF",
+            "dob": "(1998-01-17) 17 January 1998 (age 20)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Lokomotiva"
+        },
+        {
+            "name": "Mile Škorić",
+            "wiki_url": "/wiki/Mile_%C5%A0kori%C4%87",
+            "pos": "MF",
+            "dob": "(1991-06-19) 19 June 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Osijek"
+        },
+        {
+            "name": "Ivan ŠunjićU21",
+            "wiki_url": "/wiki/Ivan_%C5%A0unji%C4%87",
+            "pos": "MF",
+            "dob": "(1996-10-09) 9 October 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Lokomotiva"
+        },
+        {
+            "name": "Ante Ćorić",
+            "wiki_url": "/wiki/Ante_%C4%86ori%C4%87",
+            "pos": "MF",
+            "dob": "(1997-04-14) 14 April 1997 (age 20)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Dinamo Zagreb"
+        },
+        {
+            "name": "Marko Pjaca",
+            "wiki_url": "/wiki/Marko_Pjaca",
+            "pos": "FW",
+            "dob": "(1995-05-06) 6 May 1995 (age 22)",
+            "caps": "13",
+            "goals": "1",
+            "club": " Schalke 04"
+        },
+        {
+            "name": "Duje Čop",
+            "wiki_url": "/wiki/Duje_%C4%8Cop",
+            "pos": "FW",
+            "dob": "(1990-02-01) 1 February 1990 (age 27)",
+            "caps": "12",
+            "goals": "2",
+            "club": " Standard Liège"
+        },
+        {
+            "name": "Ivan Santini",
+            "wiki_url": "/wiki/Ivan_Santini",
+            "pos": "FW",
+            "dob": "(1989-05-21) 21 May 1989 (age 28)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Caen"
+        }
+    ],
+    "captain": "Luka Modrić",
+    "coach": "Zlatko Dalić"
+}

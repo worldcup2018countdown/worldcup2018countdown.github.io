@@ -1,0 +1,336 @@
+{
+    "name": "Denmark",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Kasper Schmeichel",
+            "wiki_url": "/wiki/Kasper_Schmeichel",
+            "pos": "GK",
+            "dob": "(1986-11-05) 5 November 1986 (age 31)",
+            "caps": "31",
+            "goals": "0",
+            "club": " Leicester City"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Jonas Lössl",
+            "wiki_url": "/wiki/Jonas_L%C3%B6ssl",
+            "pos": "GK",
+            "dob": "(1989-02-01) 1 February 1989 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Huddersfield Town"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Frederik Rønnow",
+            "wiki_url": "/wiki/Frederik_R%C3%B8nnow",
+            "pos": "GK",
+            "dob": "(1992-08-04) 4 August 1992 (age 25)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Brøndby"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Jannik Vestergaard",
+            "wiki_url": "/wiki/Jannik_Vestergaard",
+            "pos": "DF",
+            "dob": "(1992-08-03) 3 August 1992 (age 25)",
+            "caps": "15",
+            "goals": "1",
+            "club": " Borussia Mönchengladbach"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Simon Kjær (Captain)",
+            "wiki_url": "/wiki/Simon_Kj%C3%A6r",
+            "pos": "DF",
+            "dob": "(1989-03-26) 26 March 1989 (age 28)",
+            "caps": "74",
+            "goals": "3",
+            "club": " Sevilla"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Peter Ankersen",
+            "wiki_url": "/wiki/Peter_Ankersen",
+            "pos": "DF",
+            "dob": "(1990-09-22) 22 September 1990 (age 27)",
+            "caps": "21",
+            "goals": "1",
+            "club": " Copenhagen"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Andreas Christensen",
+            "wiki_url": "/wiki/Andreas_Christensen",
+            "pos": "DF",
+            "dob": "(1996-04-10) 10 April 1996 (age 21)",
+            "caps": "14",
+            "goals": "1",
+            "club": " Chelsea"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Andreas Bjelland",
+            "wiki_url": "/wiki/Andreas_Bjelland",
+            "pos": "DF",
+            "dob": "(1988-07-11) 11 July 1988 (age 29)",
+            "caps": "28",
+            "goals": "2",
+            "club": " Brentford"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Mathias Jørgensen",
+            "wiki_url": "/wiki/Mathias_J%C3%B8rgensen",
+            "pos": "DF",
+            "dob": "(1990-04-23) 23 April 1990 (age 27)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Huddersfield Town"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Jonas Knudsen",
+            "wiki_url": "/wiki/Jonas_Knudsen",
+            "pos": "DF",
+            "dob": "(1992-09-16) 16 September 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Ipswich Town"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Jens Larsen",
+            "wiki_url": "/wiki/Jens_Stryger_Larsen",
+            "pos": "DF",
+            "dob": "(1991-02-21) 21 February 1991 (age 26)",
+            "caps": "9",
+            "goals": "1",
+            "club": " Udinese"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Mike Jensen",
+            "wiki_url": "/wiki/Mike_Jensen",
+            "pos": "MF",
+            "dob": "(1988-02-19) 19 February 1988 (age 29)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Rosenborg"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "William Kvist (Vice-Captain)",
+            "wiki_url": "/wiki/William_Kvist",
+            "pos": "MF",
+            "dob": "(1985-02-24) 24 February 1985 (age 32)",
+            "caps": "77",
+            "goals": "2",
+            "club": " Copenhagen"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Thomas Delaney",
+            "wiki_url": "/wiki/Thomas_Delaney",
+            "pos": "MF",
+            "dob": "(1991-09-03) 3 September 1991 (age 26)",
+            "caps": "23",
+            "goals": "4",
+            "club": " Werder Bremen"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Christian Eriksen",
+            "wiki_url": "/wiki/Christian_Eriksen",
+            "pos": "MF",
+            "dob": "(1992-02-14) 14 February 1992 (age 25)",
+            "caps": "75",
+            "goals": "21",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Lukas Lerager",
+            "wiki_url": "/wiki/Lukas_Lerager",
+            "pos": "MF",
+            "dob": "(1993-07-12) 12 July 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Bordeaux"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Lasse Schöne",
+            "wiki_url": "/wiki/Lasse_Sch%C3%B6ne",
+            "pos": "MF",
+            "dob": "(1986-05-27) 27 May 1986 (age 31)",
+            "caps": "32",
+            "goals": "3",
+            "club": " Ajax"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Pione Sisto",
+            "wiki_url": "/wiki/Pione_Sisto",
+            "pos": "MF",
+            "dob": "(1995-02-04) 4 February 1995 (age 22)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Celta Vigo"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Nicolai Jørgensen",
+            "wiki_url": "/wiki/Nicolai_J%C3%B8rgensen",
+            "pos": "FW",
+            "dob": "(1991-01-15) 15 January 1991 (age 27)",
+            "caps": "28",
+            "goals": "8",
+            "club": " Feyenoord"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Nicklas Bendtner",
+            "wiki_url": "/wiki/Nicklas_Bendtner",
+            "pos": "FW",
+            "dob": "(1988-01-16) 16 January 1988 (age 30)",
+            "caps": "79",
+            "goals": "30",
+            "club": " Rosenborg"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Martin Braithwaite",
+            "wiki_url": "/wiki/Martin_Braithwaite",
+            "pos": "FW",
+            "dob": "(1991-06-05) 5 June 1991 (age 26)",
+            "caps": "17",
+            "goals": "1",
+            "club": " Middlesbrough"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Yussuf Poulsen",
+            "wiki_url": "/wiki/Yussuf_Poulsen",
+            "pos": "FW",
+            "dob": "(1994-06-15) 15 June 1994 (age 23)",
+            "caps": "24",
+            "goals": "3",
+            "club": " RB Leipzig"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Andreas Cornelius",
+            "wiki_url": "/wiki/Andreas_Cornelius",
+            "pos": "FW",
+            "dob": "(1993-03-16) 16 March 1993 (age 24)",
+            "caps": "17",
+            "goals": "4",
+            "club": " Atalanta"
+        },
+        {
+            "name": "Jesper Hansen",
+            "wiki_url": "/wiki/Jesper_Hansen",
+            "pos": "GK",
+            "dob": "(1985-03-31) 31 March 1985 (age 32)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Midtjylland"
+        },
+        {
+            "name": "David Jensen",
+            "wiki_url": "/wiki/David_Jensen_(footballer)",
+            "pos": "GK",
+            "dob": "(1992-03-25) 25 March 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Utrecht"
+        },
+        {
+            "name": "Henrik Dalsgaard",
+            "wiki_url": "/wiki/Henrik_Dalsgaard",
+            "pos": "DF",
+            "dob": "(1989-07-27) 27 July 1989 (age 28)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Brentford"
+        },
+        {
+            "name": "Riza Durmisi",
+            "wiki_url": "/wiki/Riza_Durmisi",
+            "pos": "DF",
+            "dob": "(1994-01-08) 8 January 1994 (age 24)",
+            "caps": "22",
+            "goals": "0",
+            "club": " Betis"
+        },
+        {
+            "name": "Frederik Sørensen",
+            "wiki_url": "/wiki/Frederik_S%C3%B8rensen",
+            "pos": "DF",
+            "dob": "(1992-04-14) 14 April 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " 1. FC Köln"
+        },
+        {
+            "name": "Andrew Hjulsager",
+            "wiki_url": "/wiki/Andrew_Hjulsager",
+            "pos": "MF",
+            "dob": "(1995-01-15) 15 January 1995 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Celta Vigo"
+        },
+        {
+            "name": "Daniel Wass",
+            "wiki_url": "/wiki/Daniel_Wass",
+            "pos": "MF",
+            "dob": "(1989-05-31) 31 May 1989 (age 28)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Celta Vigo"
+        },
+        {
+            "name": "Viktor Fischer",
+            "wiki_url": "/wiki/Viktor_Fischer",
+            "pos": "FW",
+            "dob": "(1994-06-09) 9 June 1994 (age 23)",
+            "caps": "16",
+            "goals": "3",
+            "club": " Mainz 05"
+        },
+        {
+            "name": "Kasper Dolberg",
+            "wiki_url": "/wiki/Kasper_Dolberg",
+            "pos": "FW",
+            "dob": "(1997-10-06) 6 October 1997 (age 20)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Ajax"
+        },
+        {
+            "name": "Lasse Vibe",
+            "wiki_url": "/wiki/Lasse_Vibe",
+            "pos": "FW",
+            "dob": "(1987-02-22) 22 February 1987 (age 30)",
+            "caps": "11",
+            "goals": "1",
+            "club": " Brentford"
+        },
+        {
+            "name": "Marcus Ingvartsen",
+            "wiki_url": "/wiki/Marcus_Ingvartsen",
+            "pos": "FW",
+            "dob": "(1996-01-04) 4 January 1996 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Genk"
+        }
+    ],
+    "captain": "Simon Kjær",
+    "coach": "Åge Hareide"
+}

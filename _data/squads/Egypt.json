@@ -1,0 +1,381 @@
+{
+    "name": "Egypt",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Mohamed Awad",
+            "wiki_url": "/wiki/Mohamed_Awad",
+            "pos": "GK",
+            "dob": "(1992-07-06) 6 July 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Ismaily"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Sherif Ekramy (Captain)",
+            "wiki_url": "/wiki/Sherif_Ekramy",
+            "pos": "GK",
+            "dob": "(1983-07-01) 1 July 1983 (age 34)",
+            "caps": "22",
+            "goals": "0",
+            "club": " Al Ahly"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Ahmed El Shenawy",
+            "wiki_url": "/wiki/Ahmed_El-Shenawy",
+            "pos": "GK",
+            "dob": "(1991-05-14) 14 May 1991 (age 26)",
+            "caps": "29",
+            "goals": "0",
+            "club": " Zamalek"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Ali Gabr",
+            "wiki_url": "/wiki/Ali_Gabr",
+            "pos": "DF",
+            "dob": "(1989-01-10) 10 January 1989 (age 29)",
+            "caps": "18",
+            "goals": "1",
+            "club": " Zamalek"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Ahmed El Mohamady",
+            "wiki_url": "/wiki/Ahmed_Elmohamady",
+            "pos": "DF",
+            "dob": "(1987-09-09) 9 September 1987 (age 30)",
+            "caps": "75",
+            "goals": "2",
+            "club": " Aston Villa"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Omar Gaber",
+            "wiki_url": "/wiki/Omar_Gaber",
+            "pos": "DF",
+            "dob": "(1992-01-30) 30 January 1992 (age 25)",
+            "caps": "22",
+            "goals": "0",
+            "club": " Los Angeles FC"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Ramy Rabia",
+            "wiki_url": "/wiki/Ramy_Rabia",
+            "pos": "DF",
+            "dob": "(1993-05-20) 20 May 1993 (age 24)",
+            "caps": "21",
+            "goals": "3",
+            "club": " Al Ahly"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Ahmed Fathy (Vice-captain)",
+            "wiki_url": "/wiki/Ahmed_Fathy",
+            "pos": "DF",
+            "dob": "(1984-11-10) 10 November 1984 (age 33)",
+            "caps": "123",
+            "goals": "3",
+            "club": " Al Ahly"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Karim Hafez",
+            "wiki_url": "/wiki/Karim_Hafez",
+            "pos": "DF",
+            "dob": "(1996-03-12) 12 March 1996 (age 21)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Lens"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Saad Samir",
+            "wiki_url": "/wiki/Saad_Samir",
+            "pos": "DF",
+            "dob": "(1989-04-01) 1 April 1989 (age 28)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Al Ahly"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Sam Morsy",
+            "wiki_url": "/wiki/Sam_Morsy",
+            "pos": "MF",
+            "dob": "(1991-09-10) 10 September 1991 (age 26)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Wigan Athletic"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Tarek Hamed",
+            "wiki_url": "/wiki/Tarek_Hamed",
+            "pos": "MF",
+            "dob": "(1988-10-24) 24 October 1988 (age 29)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Zamalek"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Mahmoud Shikabala",
+            "wiki_url": "/wiki/Shikabala",
+            "pos": "MF",
+            "dob": "(1986-03-05) 5 March 1986 (age 31)",
+            "caps": "26",
+            "goals": "2",
+            "club": " Al Raed"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Mahmoud Kahraba",
+            "wiki_url": "/wiki/Kahraba_(footballer)",
+            "pos": "MF",
+            "dob": "(1994-04-13) 13 April 1994 (age 23)",
+            "caps": "16",
+            "goals": "3",
+            "club": " Al Ittihad"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Moamen Zakaria",
+            "wiki_url": "/wiki/Moamen_Zakaria",
+            "pos": "MF",
+            "dob": "(1988-04-12) 12 April 1988 (age 29)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Al Ahli"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Ramadan Sobhi",
+            "wiki_url": "/wiki/Ramadan_Sobhi",
+            "pos": "MF",
+            "dob": "(1997-01-23) 23 January 1997 (age 20)",
+            "caps": "20",
+            "goals": "1",
+            "club": " Stoke City"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Mohamed El Neny",
+            "wiki_url": "/wiki/Mohamed_Elneny",
+            "pos": "MF",
+            "dob": "(1992-07-11) 11 July 1992 (age 25)",
+            "caps": "58",
+            "goals": "5",
+            "club": " Arsenal"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Abdallah Said",
+            "wiki_url": "/wiki/Abdallah_Said",
+            "pos": "MF",
+            "dob": "(1985-07-13) 13 July 1985 (age 32)",
+            "caps": "32",
+            "goals": "6",
+            "club": " Al Ahly"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Mahmoud Trézéguet",
+            "wiki_url": "/wiki/Mahmoud_Hassan_(footballer)",
+            "pos": "MF",
+            "dob": "(1994-10-01) 1 October 1994 (age 23)",
+            "caps": "21",
+            "goals": "2",
+            "club": " Kasımpaşa"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Amr Warda",
+            "wiki_url": "/wiki/Amr_Warda",
+            "pos": "MF",
+            "dob": "(1993-09-13) 13 September 1993 (age 24)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Atromitos"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Ahmed Hassan Kouka",
+            "wiki_url": "/wiki/Ahmed_Hassan_Mahgoub",
+            "pos": "FW",
+            "dob": "(1993-03-05) 5 March 1993 (age 24)",
+            "caps": "14",
+            "goals": "5",
+            "club": " Braga"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Amr Marey",
+            "wiki_url": "/wiki/Amr_Marey",
+            "pos": "FW",
+            "dob": "(1992-04-01) 1 April 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Amr Gamal",
+            "wiki_url": "/wiki/Amr_Gamal",
+            "pos": "FW",
+            "dob": "(1991-08-03) 3 August 1991 (age 26)",
+            "caps": "17",
+            "goals": "3",
+            "club": " Bidvest Wits"
+        },
+        {
+            "name": "Essam El Hadary",
+            "wiki_url": "/wiki/Essam_El-Hadary",
+            "pos": "GK",
+            "dob": "(1973-01-15) 15 January 1973 (age 45)",
+            "caps": "156",
+            "goals": "0",
+            "club": " Al Taawoun"
+        },
+        {
+            "name": "Mahmoud Genesh",
+            "wiki_url": "/wiki/Mahmoud_Abdel_Rahim",
+            "pos": "GK",
+            "dob": "(1987-07-10) 10 July 1987 (age 30)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Zamalek"
+        },
+        {
+            "name": "Mohamed Abdel Shafy",
+            "wiki_url": "/wiki/Mohamed_Abdel-Shafy",
+            "pos": "DF",
+            "dob": "(1985-07-01) 1 July 1985 (age 32)",
+            "caps": "48",
+            "goals": "1",
+            "club": " Al Fateh"
+        },
+        {
+            "name": "Ahmed Hegazi",
+            "wiki_url": "/wiki/Ahmed_Hegazi_(footballer)",
+            "pos": "DF",
+            "dob": "(1991-01-25) 25 January 1991 (age 26)",
+            "caps": "42",
+            "goals": "1",
+            "club": " West Bromwich Albion"
+        },
+        {
+            "name": "Ayman Ashraf",
+            "wiki_url": "/wiki/Ayman_Ashraf",
+            "pos": "DF",
+            "dob": "(1991-04-09) 9 April 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Al Ahly"
+        },
+        {
+            "name": "Mahmoud Ezzat",
+            "wiki_url": "/wiki/Mahmoud_Ezzat_(footballer)",
+            "pos": "DF",
+            "dob": "(1992-05-05) 5 May 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Smouha"
+        },
+        {
+            "name": "Amro Tarek",
+            "wiki_url": "/wiki/Amro_Tarek",
+            "pos": "DF",
+            "dob": "(1992-05-17) 17 May 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Wadi Degla"
+        },
+        {
+            "name": "Saleh Gomaa",
+            "wiki_url": "/wiki/Saleh_Gomaa",
+            "pos": "MF",
+            "dob": "(1993-08-01) 1 August 1993 (age 24)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Al Ahly"
+        },
+        {
+            "name": "Hossam Ashour",
+            "wiki_url": "/wiki/Hossam_Ashour",
+            "pos": "MF",
+            "dob": "(1986-03-09) 9 March 1986 (age 31)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Al Ahly"
+        },
+        {
+            "name": "Mostafa Fathi",
+            "wiki_url": "/wiki/Mostafa_Fathi",
+            "pos": "MF",
+            "dob": "(1994-05-12) 12 May 1994 (age 23)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Al Taawoun"
+        },
+        {
+            "name": "Mohamed Fathi",
+            "wiki_url": "/wiki/Mohamed_Fathi",
+            "pos": "MF",
+            "dob": "(1994-02-02) 2 February 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Ismaily"
+        },
+        {
+            "name": "Ahmed El Sheikh",
+            "wiki_url": "/wiki/Ahmed_El_Sheikh",
+            "pos": "MF",
+            "dob": "(1992-09-09) 9 September 1992 (age 25)",
+            "caps": "1",
+            "goals": "1",
+            "club": " Al Ettifaq"
+        },
+        {
+            "name": "Alexander Jakobsen",
+            "wiki_url": "/wiki/Alexander_Jakobsen",
+            "pos": "MF",
+            "dob": "(1994-03-18) 18 March 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " IFK Norrköping"
+        },
+        {
+            "name": "Mohamed Salah",
+            "wiki_url": "/wiki/Mohamed_Salah",
+            "pos": "FW",
+            "dob": "(1992-06-15) 15 June 1992 (age 25)",
+            "caps": "56",
+            "goals": "32",
+            "club": " Liverpool"
+        },
+        {
+            "name": "Hossam Hassan",
+            "wiki_url": "/w/index.php?title=Hossam_Hassan_(footballer,_born_1993)&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1993-09-02) 2 September 1993 (age 24)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Smouha"
+        },
+        {
+            "name": "Arafa El Sayed",
+            "wiki_url": "/wiki/Arafa_El_Sayed",
+            "pos": "FW",
+            "dob": "(1988-10-23) 23 October 1988 (age 29)",
+            "caps": "1",
+            "goals": "0",
+            "club": " ENPPI"
+        }
+    ],
+    "captain": "Essam El-Hadary",
+    "coach": "Héctor Cúper"
+}

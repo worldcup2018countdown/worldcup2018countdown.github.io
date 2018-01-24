@@ -1,0 +1,465 @@
+{
+    "name": "Iran",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Alireza Beiranvand",
+            "wiki_url": "/wiki/Alireza_Beiranvand",
+            "pos": "GK",
+            "dob": "(1992-09-21) 21 September 1992 (age 25)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Persepolis"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Mohammad Rashid Mazaheri",
+            "wiki_url": "/wiki/Mohammad_Rashid_Mazaheri",
+            "pos": "GK",
+            "dob": "(1989-05-18) 18 May 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Zob Ahan"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Amir Abedzadeh",
+            "wiki_url": "/wiki/Amir_Abedzadeh",
+            "pos": "GK",
+            "dob": "(1993-04-26) 26 April 1993 (age 24)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Marítimo"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Vouria Ghafouri",
+            "wiki_url": "/wiki/Vouria_Ghafouri",
+            "pos": "DF",
+            "dob": "(1987-09-20) 20 September 1987 (age 30)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Jalal Hosseini",
+            "wiki_url": "/wiki/Jalal_Hosseini",
+            "pos": "DF",
+            "dob": "(1982-02-03) 3 February 1982 (age 35)",
+            "caps": "114",
+            "goals": "8",
+            "club": " Persepolis"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Milad Mohammadi",
+            "wiki_url": "/wiki/Milad_Mohammadi",
+            "pos": "DF",
+            "dob": "(1993-09-29) 29 September 1993 (age 24)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Akhmat Grozny"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Morteza Pouraliganji",
+            "wiki_url": "/wiki/Morteza_Pouraliganji",
+            "pos": "DF",
+            "dob": "(1992-04-19) 19 April 1992 (age 25)",
+            "caps": "25",
+            "goals": "2",
+            "club": " Al-Sadd"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Rouzbeh Cheshmi",
+            "wiki_url": "/wiki/Rouzbeh_Cheshmi",
+            "pos": "DF",
+            "dob": "(1993-07-24) 24 July 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Ramin Rezaeian",
+            "wiki_url": "/wiki/Ramin_Rezaeian",
+            "pos": "DF",
+            "dob": "(1990-03-21) 21 March 1990 (age 27)",
+            "caps": "24",
+            "goals": "2",
+            "club": " Oostende"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Saeid Aghaei",
+            "wiki_url": "/wiki/Saeid_Aghaei",
+            "pos": "DF",
+            "dob": "(1995-02-09) 9 February 1995 (age 22)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Sepahan"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Ehsan Hajsafi",
+            "wiki_url": "/wiki/Ehsan_Hajsafi",
+            "pos": "MF",
+            "dob": "(1990-02-25) 25 February 1990 (age 27)",
+            "caps": "89",
+            "goals": "6",
+            "club": " Olympiacos"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Saeid Ezatolahi",
+            "wiki_url": "/wiki/Saeid_Ezatolahi",
+            "pos": "MF",
+            "dob": "(1996-10-01) 1 October 1996 (age 21)",
+            "caps": "23",
+            "goals": "1",
+            "club": " Amkar Perm"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Saman Ghoddos",
+            "wiki_url": "/wiki/Saman_Ghoddos",
+            "pos": "MF",
+            "dob": "(1993-09-06) 6 September 1993 (age 24)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Östersund"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Omid Ebrahimi",
+            "wiki_url": "/wiki/Omid_Ebrahimi",
+            "pos": "MF",
+            "dob": "(1987-09-16) 16 September 1987 (age 30)",
+            "caps": "25",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Vahid Amiri",
+            "wiki_url": "/wiki/Vahid_Amiri",
+            "pos": "MF",
+            "dob": "(1988-04-02) 2 April 1988 (age 29)",
+            "caps": "31",
+            "goals": "1",
+            "club": " Persepolis"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Ali Karimi",
+            "wiki_url": "/wiki/Ali_Karimi_(footballer,_born_1994)",
+            "pos": "MF",
+            "dob": "(1994-02-11) 11 February 1994 (age 23)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Sepahan"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Akbar Imani",
+            "wiki_url": "/wiki/Akbar_Imani",
+            "pos": "MF",
+            "dob": "(1992-03-21) 21 March 1992 (age 25)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Zob Ahan"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Alireza Jahanbakhsh",
+            "wiki_url": "/wiki/Alireza_Jahanbakhsh",
+            "pos": "MF",
+            "dob": "(1993-08-11) 11 August 1993 (age 24)",
+            "caps": "34",
+            "goals": "4",
+            "club": " AZ"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Ashkan Dejagah ",
+            "wiki_url": "/wiki/Ashkan_Dejagah",
+            "pos": "MF",
+            "dob": "(1986-06-05) 5 June 1986 (age 31)",
+            "caps": "44",
+            "goals": "8",
+            "club": "Unattached"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Ahmad Abdollahzadeh",
+            "wiki_url": "/wiki/Ahmad_Abdollahzadeh",
+            "pos": "MF",
+            "dob": "(1993-05-06) 6 May 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Foolad"
+        },
+        {
+            "jerseyNumber": "26",
+            "name": "Mehdi Torabi",
+            "wiki_url": "/wiki/Mehdi_Torabi",
+            "pos": "MF",
+            "dob": "(1994-09-10) 10 September 1994 (age 23)",
+            "caps": "13",
+            "goals": "4",
+            "club": " Saipa"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Karim Ansarifard",
+            "wiki_url": "/wiki/Karim_Ansarifard",
+            "pos": "FW",
+            "dob": "(1990-04-03) 3 April 1990 (age 27)",
+            "caps": "59",
+            "goals": "16",
+            "club": " Olympiacos"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Reza Ghoochannejhad",
+            "wiki_url": "/wiki/Reza_Ghoochannejhad",
+            "pos": "FW",
+            "dob": "(1987-09-20) 20 September 1987 (age 30)",
+            "caps": "39",
+            "goals": "17",
+            "club": " Heerenveen"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Mehdi Taremi",
+            "wiki_url": "/wiki/Mehdi_Taremi",
+            "pos": "FW",
+            "dob": "(1992-07-18) 18 July 1992 (age 25)",
+            "caps": "22",
+            "goals": "10",
+            "club": " Al-Gharafa"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Kaveh Rezaei",
+            "wiki_url": "/wiki/Kaveh_Rezaei",
+            "pos": "FW",
+            "dob": "(1992-04-05) 5 April 1992 (age 25)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Charleroi"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Sardar Azmoun",
+            "wiki_url": "/wiki/Sardar_Azmoun",
+            "pos": "FW",
+            "dob": "(1995-01-01) 1 January 1995 (age 23)",
+            "caps": "30",
+            "goals": "22",
+            "club": " Rubin Kazan"
+        },
+        {
+            "name": "Mohammadreza Akhbari",
+            "wiki_url": "/wiki/Mohammadreza_Akhbari",
+            "pos": "GK",
+            "dob": "(1993-02-15) 15 February 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Saipa"
+        },
+        {
+            "name": "Hossein Hosseini",
+            "wiki_url": "/wiki/Hossein_Hosseini_(footballer,_born_1992)",
+            "pos": "GK",
+            "dob": "(1992-06-30) 30 June 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "name": "Alireza Haghighi",
+            "wiki_url": "/wiki/Alireza_Haghighi",
+            "pos": "GK",
+            "dob": "(1988-05-02) 2 May 1988 (age 29)",
+            "caps": "23",
+            "goals": "0",
+            "club": "Unattached"
+        },
+        {
+            "name": "Hamed Lak Inj",
+            "wiki_url": "/wiki/Hamed_Lak",
+            "pos": "GK",
+            "dob": "(1990-11-24) 24 November 1990 (age 27)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Foolad"
+        },
+        {
+            "name": "Pejman Montazeri Inj",
+            "wiki_url": "/wiki/Pejman_Montazeri",
+            "pos": "DF",
+            "dob": "(1983-09-06) 6 September 1983 (age 34)",
+            "caps": "43",
+            "goals": "1",
+            "club": " Esteghlal"
+        },
+        {
+            "name": "Mohammad Ansari",
+            "wiki_url": "/wiki/Mohammad_Ansari_(footballer)",
+            "pos": "DF",
+            "dob": "(1991-09-23) 23 September 1991 (age 26)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Persepolis"
+        },
+        {
+            "name": "Hossein Kanaanizadegan",
+            "wiki_url": "/wiki/Hossein_Kanaanizadegan",
+            "pos": "DF",
+            "dob": "(1994-03-23) 23 March 1994 (age 23)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Saipa"
+        },
+        {
+            "name": "Danial Mahini",
+            "wiki_url": "/wiki/Danial_Mahini",
+            "pos": "DF",
+            "dob": "(1993-09-25) 25 September 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Saipa"
+        },
+        {
+            "name": "Majid Hosseini",
+            "wiki_url": "/wiki/Majid_Hosseini",
+            "pos": "DF",
+            "dob": "(1996-06-20) 20 June 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "name": "Milad Zakipour",
+            "wiki_url": "/wiki/Milad_Zakipour",
+            "pos": "DF",
+            "dob": "(1995-11-23) 23 November 1995 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "name": "Ezzatollah Pourghaz",
+            "wiki_url": "/wiki/Ezzatollah_Pourghaz",
+            "pos": "DF",
+            "dob": "(1987-03-21) 21 March 1987 (age 30)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Sepahan"
+        },
+        {
+            "name": "Hossein Mahini",
+            "wiki_url": "/wiki/Hossein_Mahini",
+            "pos": "DF",
+            "dob": "(1986-09-16) 16 September 1986 (age 31)",
+            "caps": "23",
+            "goals": "0",
+            "club": " Persepolis"
+        },
+        {
+            "name": "Vahid Mohammadzadeh",
+            "wiki_url": "/wiki/Vahid_Mohammadzadeh",
+            "pos": "DF",
+            "dob": "(1989-05-16) 16 May 1989 (age 28)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Zob Ahan"
+        },
+        {
+            "name": "Kamal Kamyabinia",
+            "wiki_url": "/wiki/Kamal_Kamyabinia",
+            "pos": "MF",
+            "dob": "(1989-01-18) 18 January 1989 (age 29)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Persepolis"
+        },
+        {
+            "name": "Farshid Esmaeili",
+            "wiki_url": "/wiki/Farshid_Esmaeili",
+            "pos": "MF",
+            "dob": "(1994-02-23) 23 February 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "name": "Morteza Tabrizi",
+            "wiki_url": "/wiki/Morteza_Tabrizi",
+            "pos": "MF",
+            "dob": "(1991-01-06) 6 January 1991 (age 27)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Zob Ahan"
+        },
+        {
+            "name": "Omid Noorafkan",
+            "wiki_url": "/wiki/Omid_Noorafkan",
+            "pos": "MF",
+            "dob": "(1997-04-09) 9 April 1997 (age 20)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Esteghlal"
+        },
+        {
+            "name": "Masoud Shojaei",
+            "wiki_url": "/wiki/Masoud_Shojaei",
+            "pos": "MF",
+            "dob": "(1984-06-09) 9 June 1984 (age 33)",
+            "caps": "70",
+            "goals": "8",
+            "club": " AEK Athens"
+        },
+        {
+            "name": "Ehsan Pahlavan",
+            "wiki_url": "/wiki/Ehsan_Pahlavan",
+            "pos": "MF",
+            "dob": "(1993-07-25) 25 July 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Tractor Sazi"
+        },
+        {
+            "name": "Masoud Ebrahimzadeh",
+            "wiki_url": "/wiki/Masoud_Ebrahimzadeh",
+            "pos": "MF",
+            "dob": "(1989-01-16) 16 January 1989 (age 29)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Sanat Naft Abadan"
+        },
+        {
+            "name": "Sasan Ansari",
+            "wiki_url": "/wiki/Sasan_Ansari",
+            "pos": "FW",
+            "dob": "(1991-05-04) 4 May 1991 (age 26)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Sepahan"
+        },
+        {
+            "name": "Ali Gholizadeh",
+            "wiki_url": "/wiki/Ali_Gholizadeh",
+            "pos": "FW",
+            "dob": "(1996-03-10) 10 March 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Saipa"
+        }
+    ],
+    "captain": "Various",
+    "coach": "Carlos Queiroz"
+}

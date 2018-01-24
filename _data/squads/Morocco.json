@@ -1,0 +1,462 @@
+{
+    "name": "Morocco",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Yassine Bounou",
+            "wiki_url": "/wiki/Yassine_Bounou",
+            "pos": "GK",
+            "dob": "(1991-04-05) 5 April 1991 (age 26)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Girona"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Munir Mohamedi",
+            "wiki_url": "/wiki/Munir_Mohand_Mohamedi",
+            "pos": "GK",
+            "dob": "(1989-05-10) 10 May 1989 (age 28)",
+            "caps": "23",
+            "goals": "0",
+            "club": " Numancia"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Ahmed Reda Tagnaouti",
+            "wiki_url": "/wiki/Ahmed_Reda_Tagnaouti",
+            "pos": "GK",
+            "dob": "(1996-04-05) 5 April 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " IR Tanger"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Achraf Hakimi",
+            "wiki_url": "/wiki/Achraf_Hakimi",
+            "pos": "DF",
+            "dob": "(1998-11-04) 4 November 1998 (age 19)",
+            "caps": "6",
+            "goals": "1",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Fouad Chafik",
+            "wiki_url": "/wiki/Fouad_Chafik",
+            "pos": "DF",
+            "dob": "(1986-10-16) 16 October 1986 (age 31)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Dijon"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Badr Banoun",
+            "wiki_url": "/wiki/Badr_Banoun",
+            "pos": "DF",
+            "dob": "(1993-09-30) 30 September 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Raja Casablanca"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Medhi Benatia (Captain)",
+            "wiki_url": "/wiki/Medhi_Benatia",
+            "pos": "DF",
+            "dob": "(1987-04-17) 17 April 1987 (age 30)",
+            "caps": "53",
+            "goals": "2",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Romain Saïss",
+            "wiki_url": "/wiki/Romain_Sa%C3%AFss",
+            "pos": "DF",
+            "dob": "(1990-03-26) 26 March 1990 (age 27)",
+            "caps": "20",
+            "goals": "1",
+            "club": " Wolverhampton Wanderers"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Nabil Dirar",
+            "wiki_url": "/wiki/Nabil_Dirar",
+            "pos": "DF",
+            "dob": "(1986-02-25) 25 February 1986 (age 31)",
+            "caps": "33",
+            "goals": "3",
+            "club": " Fenerbahçe"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Hamza Mendyl",
+            "wiki_url": "/wiki/Hamza_Mendyl",
+            "pos": "DF",
+            "dob": "(1997-10-21) 21 October 1997 (age 20)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Lille"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Hakim Ziyech",
+            "wiki_url": "/wiki/Hakim_Ziyech",
+            "pos": "MF",
+            "dob": "(1993-03-19) 19 March 1993 (age 24)",
+            "caps": "13",
+            "goals": "7",
+            "club": " Ajax"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Karim El Ahmadi",
+            "wiki_url": "/wiki/Karim_El_Ahmadi",
+            "pos": "MF",
+            "dob": "(1985-01-27) 27 January 1985 (age 32)",
+            "caps": "47",
+            "goals": "1",
+            "club": " Feyenoord"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Sofiane Boufal",
+            "wiki_url": "/wiki/Sofiane_Boufal",
+            "pos": "MF",
+            "dob": "(1993-09-17) 17 September 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Southampton"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Younès Belhanda",
+            "wiki_url": "/wiki/Youn%C3%A8s_Belhanda",
+            "pos": "MF",
+            "dob": "(1990-02-25) 25 February 1990 (age 27)",
+            "caps": "43",
+            "goals": "3",
+            "club": " Galatasaray"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Fayçal Fajr",
+            "wiki_url": "/wiki/Fay%C3%A7al_Fajr",
+            "pos": "MF",
+            "dob": "(1988-08-01) 1 August 1988 (age 29)",
+            "caps": "20",
+            "goals": "2",
+            "club": " Getafe"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Mbark Boussoufa (Vice-captain)",
+            "wiki_url": "/wiki/Mbark_Boussoufa",
+            "pos": "MF",
+            "dob": "(1984-08-15) 15 August 1984 (age 33)",
+            "caps": "55",
+            "goals": "7",
+            "club": " Al-Jazira"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Mimoun Mahi",
+            "wiki_url": "/wiki/Mimoun_Mahi",
+            "pos": "MF",
+            "dob": "(1994-03-13) 13 March 1994 (age 23)",
+            "caps": "2",
+            "goals": "1",
+            "club": " Groningen"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Nordin Amrabat",
+            "wiki_url": "/wiki/Nordin_Amrabat",
+            "pos": "MF",
+            "dob": "(1987-03-31) 31 March 1987 (age 30)",
+            "caps": "40",
+            "goals": "4",
+            "club": " Leganés"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Amine Harit",
+            "wiki_url": "/wiki/Amine_Harit",
+            "pos": "MF",
+            "dob": "(1997-06-18) 18 June 1997 (age 20)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Schalke 04"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Sofyan Amrabat",
+            "wiki_url": "/wiki/Sofyan_Amrabat",
+            "pos": "MF",
+            "dob": "(1996-08-21) 21 August 1996 (age 21)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Feyenoord"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Khalid Boutaïb",
+            "wiki_url": "/wiki/Khalid_Bouta%C3%AFb",
+            "pos": "FW",
+            "dob": "(1987-04-24) 24 April 1987 (age 30)",
+            "caps": "14",
+            "goals": "6",
+            "club": " Yeni Malatyaspor"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Achraf Bencharki",
+            "wiki_url": "/wiki/Achraf_Bencharki",
+            "pos": "FW",
+            "dob": "(1994-09-24) 24 September 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Al-Hilal"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Rachid Alioui",
+            "wiki_url": "/wiki/Rachid_Alioui",
+            "pos": "FW",
+            "dob": "(1992-06-28) 28 June 1992 (age 25)",
+            "caps": "9",
+            "goals": "2",
+            "club": " Nîmes"
+        },
+        {
+            "name": "Yassine El Kharroubi",
+            "wiki_url": "/wiki/Yassine_El_Kharroubi",
+            "pos": "GK",
+            "dob": "(1990-03-29) 29 March 1990 (age 27)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Wydad Casablanca"
+        },
+        {
+            "name": "Jawad El Yamiq",
+            "wiki_url": "/wiki/Jawad_El_Yamiq",
+            "pos": "DF",
+            "dob": "(1992-02-29) 29 February 1992 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Raja Casablanca"
+        },
+        {
+            "name": "Oualid El Hajjam",
+            "wiki_url": "/wiki/Oualid_El_Hajjam",
+            "pos": "DF",
+            "dob": "(1991-02-19) 19 February 1991 (age 26)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Amiens"
+        },
+        {
+            "name": "Mohamed Nahiri",
+            "wiki_url": "/wiki/Mohamed_Nahiri",
+            "pos": "DF",
+            "dob": "(1990-10-29) 29 October 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Wydad Casablanca"
+        },
+        {
+            "name": "Manuel da Costa",
+            "wiki_url": "/wiki/Manuel_da_Costa_(footballer)",
+            "pos": "DF",
+            "dob": "(1986-05-06) 6 May 1986 (age 31)",
+            "caps": "23",
+            "goals": "0",
+            "club": " İstanbul Başakşehir"
+        },
+        {
+            "name": "Sofiane Alakouch",
+            "wiki_url": "/wiki/Sofiane_Alakouch",
+            "pos": "DF",
+            "dob": "(1998-07-29) 29 July 1998 (age 19)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Nîmes"
+        },
+        {
+            "name": "Amine Khammas",
+            "wiki_url": "/wiki/Amine_Khammas",
+            "pos": "DF",
+            "dob": "(1999-04-06) 6 April 1999 (age 18)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Genk"
+        },
+        {
+            "name": "Zouhair Feddal",
+            "wiki_url": "/wiki/Zouhair_Feddal",
+            "pos": "DF",
+            "dob": "(1989-01-01) 1 January 1989 (age 29)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Betis"
+        },
+        {
+            "name": "Abdelhamid El Kaoutari",
+            "wiki_url": "/wiki/Abdelhamid_El_Kaoutari",
+            "pos": "DF",
+            "dob": "(1990-03-17) 17 March 1990 (age 27)",
+            "caps": "13",
+            "goals": "0",
+            "club": " Bastia"
+        },
+        {
+            "name": "Amine Atouchi",
+            "wiki_url": "/wiki/Amine_Atouchi",
+            "pos": "DF",
+            "dob": "(1992-07-01) 1 July 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Wydad Casablanca"
+        },
+        {
+            "name": "Ismail Haddad",
+            "wiki_url": "/wiki/Ismail_Haddad",
+            "pos": "MF",
+            "dob": "(1992-08-03) 3 August 1992 (age 25)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Wydad Casablanca"
+        },
+        {
+            "name": "Youssef Aït Bennasser",
+            "wiki_url": "/wiki/Youssef_A%C3%AFt_Bennasser",
+            "pos": "MF",
+            "dob": "(1996-07-07) 7 July 1996 (age 21)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Caen"
+        },
+        {
+            "name": "Oussama Tannane",
+            "wiki_url": "/wiki/Oussama_Tannane",
+            "pos": "MF",
+            "dob": "(1994-03-23) 23 March 1994 (age 23)",
+            "caps": "9",
+            "goals": "2",
+            "club": " Las Palmas"
+        },
+        {
+            "name": "Badr Boulhroud",
+            "wiki_url": "/wiki/Badr_Boulhroud",
+            "pos": "MF",
+            "dob": "(1993-04-21) 21 April 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " FUS Rabat"
+        },
+        {
+            "name": "Mohamed Ounajem",
+            "wiki_url": "/wiki/Mohamed_Ounajem",
+            "pos": "MF",
+            "dob": "(1992-01-04) 4 January 1992 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Wydad Casablanca"
+        },
+        {
+            "name": "Mehdi Carcela-González",
+            "wiki_url": "/wiki/Mehdi_Carcela-Gonz%C3%A1lez",
+            "pos": "MF",
+            "dob": "(1989-07-01) 1 July 1989 (age 28)",
+            "caps": "19",
+            "goals": "1",
+            "club": " Olympiacos"
+        },
+        {
+            "name": "Mohamed Fouzair",
+            "wiki_url": "/wiki/Mohamed_Fouzair",
+            "pos": "MF",
+            "dob": "(1991-12-24) 24 December 1991 (age 26)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Al-Nassr"
+        },
+        {
+            "name": "Yassin Ayoub",
+            "wiki_url": "/wiki/Yassin_Ayoub",
+            "pos": "MF",
+            "dob": "(1994-03-06) 6 March 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Utrecht"
+        },
+        {
+            "name": "Mounir Obbadi",
+            "wiki_url": "/wiki/Mounir_Obbadi",
+            "pos": "MF",
+            "dob": "(1983-04-04) 4 April 1983 (age 34)",
+            "caps": "20",
+            "goals": "0",
+            "club": " Nice"
+        },
+        {
+            "name": "Omar El Kaddouri",
+            "wiki_url": "/wiki/Omar_El_Kaddouri",
+            "pos": "MF",
+            "dob": "(1990-08-21) 21 August 1990 (age 27)",
+            "caps": "26",
+            "goals": "5",
+            "club": " PAOK"
+        },
+        {
+            "name": "Aziz Bouhaddouz",
+            "wiki_url": "/wiki/Aziz_Bouhaddouz",
+            "pos": "FW",
+            "dob": "(1987-01-29) 29 January 1987 (age 30)",
+            "caps": "12",
+            "goals": "3",
+            "club": " St. Pauli"
+        },
+        {
+            "name": "Walid Azaro",
+            "wiki_url": "/wiki/Walid_Azaro",
+            "pos": "FW",
+            "dob": "(1995-10-06) 6 October 1995 (age 22)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Al Ahly"
+        },
+        {
+            "name": "Youssef En-Nesyri",
+            "wiki_url": "/wiki/Youssef_En-Nesyri",
+            "pos": "FW",
+            "dob": "(1997-06-01) 1 June 1997 (age 20)",
+            "caps": "15",
+            "goals": "1",
+            "club": " Málaga"
+        },
+        {
+            "name": "Yacine Bammou",
+            "wiki_url": "/wiki/Yacine_Bammou",
+            "pos": "FW",
+            "dob": "(1991-09-11) 11 September 1991 (age 26)",
+            "caps": "6",
+            "goals": "1",
+            "club": " Nantes"
+        },
+        {
+            "name": "Youssef El-Arabi",
+            "wiki_url": "/wiki/Youssef_El-Arabi",
+            "pos": "FW",
+            "dob": "(1987-02-03) 3 February 1987 (age 30)",
+            "caps": "41",
+            "goals": "15",
+            "club": " Al-Duhail"
+        }
+    ],
+    "captain": "Medhi Benatia",
+    "coach": "Hervé Renard"
+}

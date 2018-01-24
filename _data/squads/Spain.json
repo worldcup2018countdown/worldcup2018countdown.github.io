@@ -1,0 +1,382 @@
+{
+    "name": "Spain",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "David de Gea",
+            "wiki_url": "/wiki/David_de_Gea",
+            "pos": "GK",
+            "dob": "(1990-11-07) 7 November 1990 (age 27)",
+            "caps": "25",
+            "goals": "0",
+            "club": " Manchester United"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Kepa Arrizabalaga",
+            "wiki_url": "/wiki/Kepa_Arrizabalaga",
+            "pos": "GK",
+            "dob": "(1994-10-03) 3 October 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Athletic Bilbao"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Pepe Reina",
+            "wiki_url": "/wiki/Pepe_Reina",
+            "pos": "GK",
+            "dob": "(1982-08-31) 31 August 1982 (age 35)",
+            "caps": "36",
+            "goals": "0",
+            "club": " Napoli"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Álvaro Odriozola",
+            "wiki_url": "/wiki/%C3%81lvaro_Odriozola",
+            "pos": "DF",
+            "dob": "(1995-12-14) 14 December 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Real Sociedad"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Gerard Piqué",
+            "wiki_url": "/wiki/Gerard_Piqu%C3%A9",
+            "pos": "DF",
+            "dob": "(1987-02-02) 2 February 1987 (age 30)",
+            "caps": "94",
+            "goals": "5",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Marc Bartra",
+            "wiki_url": "/wiki/Marc_Bartra",
+            "pos": "DF",
+            "dob": "(1991-01-15) 15 January 1991 (age 27)",
+            "caps": "13",
+            "goals": "0",
+            "club": " Borussia Dortmund"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Nacho",
+            "wiki_url": "/wiki/Nacho_(footballer,_born_1990)",
+            "pos": "DF",
+            "dob": "(1990-01-18) 18 January 1990 (age 28)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Sergio Ramos (captain)",
+            "wiki_url": "/wiki/Sergio_Ramos",
+            "pos": "DF",
+            "dob": "(1986-03-30) 30 March 1986 (age 31)",
+            "caps": "149",
+            "goals": "13",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Alberto Moreno",
+            "wiki_url": "/wiki/Alberto_Moreno",
+            "pos": "DF",
+            "dob": "(1992-07-05) 5 July 1992 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Liverpool"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Jordi Alba",
+            "wiki_url": "/wiki/Jordi_Alba",
+            "pos": "DF",
+            "dob": "(1989-03-21) 21 March 1989 (age 28)",
+            "caps": "58",
+            "goals": "8",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Sergio Busquets",
+            "wiki_url": "/wiki/Sergio_Busquets",
+            "pos": "MF",
+            "dob": "(1988-07-16) 16 July 1988 (age 29)",
+            "caps": "102",
+            "goals": "2",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Andrés Iniesta",
+            "wiki_url": "/wiki/Andr%C3%A9s_Iniesta",
+            "pos": "MF",
+            "dob": "(1984-05-11) 11 May 1984 (age 33)",
+            "caps": "123",
+            "goals": "14",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Saúl",
+            "wiki_url": "/wiki/Sa%C3%BAl_%C3%91%C3%ADguez",
+            "pos": "MF",
+            "dob": "(1994-11-21) 21 November 1994 (age 23)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Atlético Madrid"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Thiago",
+            "wiki_url": "/wiki/Thiago_Alc%C3%A2ntara",
+            "pos": "MF",
+            "dob": "(1991-04-11) 11 April 1991 (age 26)",
+            "caps": "25",
+            "goals": "1",
+            "club": " Bayern Munich"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Luis Alberto",
+            "wiki_url": "/wiki/Luis_Alberto_(footballer,_born_1992)",
+            "pos": "MF",
+            "dob": "(1992-09-28) 28 September 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Lazio"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Marco Asensio",
+            "wiki_url": "/wiki/Marco_Asensio",
+            "pos": "MF",
+            "dob": "(1996-01-21) 21 January 1996 (age 22)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "David Silva",
+            "wiki_url": "/wiki/David_Silva",
+            "pos": "MF",
+            "dob": "(1986-01-08) 8 January 1986 (age 32)",
+            "caps": "118",
+            "goals": "35",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Suso",
+            "wiki_url": "/wiki/Suso_(footballer)",
+            "pos": "MF",
+            "dob": "(1993-11-19) 19 November 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Milan"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Asier Illarramendi",
+            "wiki_url": "/wiki/Asier_Illarramendi",
+            "pos": "MF",
+            "dob": "(1990-03-08) 8 March 1990 (age 27)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Real Sociedad"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Álvaro Morata",
+            "wiki_url": "/wiki/%C3%81lvaro_Morata",
+            "pos": "FW",
+            "dob": "(1992-10-23) 23 October 1992 (age 25)",
+            "caps": "23",
+            "goals": "13",
+            "club": " Chelsea"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "José Callejón",
+            "wiki_url": "/wiki/Jos%C3%A9_Callej%C3%B3n",
+            "pos": "FW",
+            "dob": "(1987-02-11) 11 February 1987 (age 30)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Napoli"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Vitolo",
+            "wiki_url": "/wiki/Vitolo_(footballer,_born_1989)",
+            "pos": "FW",
+            "dob": "(1989-11-02) 2 November 1989 (age 28)",
+            "caps": "12",
+            "goals": "4",
+            "club": " Atlético Madrid"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Iago Aspas",
+            "wiki_url": "/wiki/Iago_Aspas",
+            "pos": "FW",
+            "dob": "(1987-08-01) 1 August 1987 (age 30)",
+            "caps": "7",
+            "goals": "3",
+            "club": " Celta Vigo"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Rodrigo",
+            "wiki_url": "/wiki/Rodrigo_(footballer,_born_1991)",
+            "pos": "FW",
+            "dob": "(1991-03-06) 6 March 1991 (age 26)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Valencia"
+        },
+        {
+            "name": "Sergio Rico",
+            "wiki_url": "/wiki/Sergio_Rico",
+            "pos": "GK",
+            "dob": "(1993-09-01) 1 September 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Sevilla"
+        },
+        {
+            "name": "Nacho Monreal",
+            "wiki_url": "/wiki/Nacho_Monreal",
+            "pos": "DF",
+            "dob": "(1986-02-26) 26 February 1986 (age 31)",
+            "caps": "21",
+            "goals": "1",
+            "club": " Arsenal"
+        },
+        {
+            "name": "César Azpilicueta",
+            "wiki_url": "/wiki/C%C3%A9sar_Azpilicueta",
+            "pos": "DF",
+            "dob": "(1989-08-28) 28 August 1989 (age 28)",
+            "caps": "20",
+            "goals": "0",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Dani Carvajal",
+            "wiki_url": "/wiki/Dani_Carvajal",
+            "pos": "DF",
+            "dob": "(1992-01-11) 11 January 1992 (age 26)",
+            "caps": "13",
+            "goals": "0",
+            "club": " Real Madrid"
+        },
+        {
+            "name": "Javi Martínez",
+            "wiki_url": "/wiki/Javi_Mart%C3%ADnez",
+            "pos": "DF",
+            "dob": "(1988-09-02) 2 September 1988 (age 29)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Bayern Munich"
+        },
+        {
+            "name": "Isco",
+            "wiki_url": "/wiki/Isco",
+            "pos": "MF",
+            "dob": "(1992-04-21) 21 April 1992 (age 25)",
+            "caps": "25",
+            "goals": "7",
+            "club": " Real Madrid"
+        },
+        {
+            "name": "Koke",
+            "wiki_url": "/wiki/Koke_(footballer,_born_1992)",
+            "pos": "MF",
+            "dob": "(1992-01-08) 8 January 1992 (age 26)",
+            "caps": "36",
+            "goals": "0",
+            "club": " Atlético Madrid"
+        },
+        {
+            "name": "Jonathan Viera",
+            "wiki_url": "/wiki/Jonathan_Viera",
+            "pos": "MF",
+            "dob": "(1989-10-21) 21 October 1989 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Las Palmas"
+        },
+        {
+            "name": "Ander Herrera",
+            "wiki_url": "/wiki/Ander_Herrera",
+            "pos": "MF",
+            "dob": "(1989-08-14) 14 August 1989 (age 28)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Pedro",
+            "wiki_url": "/wiki/Pedro_(footballer,_born_July_1987)",
+            "pos": "FW",
+            "dob": "(1987-07-28) 28 July 1987 (age 30)",
+            "caps": "65",
+            "goals": "17",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Aritz Aduriz",
+            "wiki_url": "/wiki/Aritz_Aduriz",
+            "pos": "FW",
+            "dob": "(1981-02-11) 11 February 1981 (age 36)",
+            "caps": "13",
+            "goals": "2",
+            "club": " Athletic Bilbao"
+        },
+        {
+            "name": "Gerard Deulofeu",
+            "wiki_url": "/wiki/Gerard_Deulofeu",
+            "pos": "FW",
+            "dob": "(1994-03-13) 13 March 1994 (age 23)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Barcelona"
+        },
+        {
+            "name": "Lucas Vázquez",
+            "wiki_url": "/wiki/Lucas_V%C3%A1zquez",
+            "pos": "FW",
+            "dob": "(1991-07-01) 1 July 1991 (age 26)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Real Madrid"
+        },
+        {
+            "name": "David Villa",
+            "wiki_url": "/wiki/David_Villa",
+            "pos": "FW",
+            "dob": "(1981-12-03) 3 December 1981 (age 36)",
+            "caps": "98",
+            "goals": "59",
+            "club": " New York City"
+        },
+        {
+            "name": "Diego Costa",
+            "wiki_url": "/wiki/Diego_Costa",
+            "pos": "FW",
+            "dob": "(1988-10-07) 7 October 1988 (age 29)",
+            "caps": "16",
+            "goals": "6",
+            "club": " Atlético Madrid"
+        }
+    ],
+    "captain": "Sergio Ramos",
+    "coach": "Julen Lopetegui"
+}

@@ -1,0 +1,427 @@
+{
+    "name": "Portugal",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "José Sá",
+            "wiki_url": "/wiki/Jos%C3%A9_S%C3%A1",
+            "pos": "GK",
+            "dob": "(1993-01-17) 17 January 1993 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Porto"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Anthony Lopes",
+            "wiki_url": "/wiki/Anthony_Lopes",
+            "pos": "GK",
+            "dob": "(1990-10-01) 1 October 1990 (age 27)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Lyon"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Beto",
+            "wiki_url": "/wiki/Beto_(footballer,_born_1982)",
+            "pos": "GK",
+            "dob": "(1982-05-01) 1 May 1982 (age 35)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Göztepe"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Nélson Semedo",
+            "wiki_url": "/wiki/N%C3%A9lson_Semedo",
+            "pos": "DF",
+            "dob": "(1993-11-16) 16 November 1993 (age 24)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Pepe",
+            "wiki_url": "/wiki/Pepe_(footballer,_born_1983)",
+            "pos": "DF",
+            "dob": "(1983-02-26) 26 February 1983 (age 34)",
+            "caps": "92",
+            "goals": "5",
+            "club": " Beşiktaş"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Luís Neto",
+            "wiki_url": "/wiki/Lu%C3%ADs_Neto",
+            "pos": "DF",
+            "dob": "(1988-05-26) 26 May 1988 (age 29)",
+            "caps": "17",
+            "goals": "0",
+            "club": " Fenerbahçe"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Vitorino Antunes",
+            "wiki_url": "/wiki/Vitorino_Antunes",
+            "pos": "DF",
+            "dob": "(1987-04-01) 1 April 1987 (age 30)",
+            "caps": "13",
+            "goals": "1",
+            "club": " Getafe"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Edgar Ié",
+            "wiki_url": "/wiki/Edgar_I%C3%A9",
+            "pos": "DF",
+            "dob": "(1994-05-01) 1 May 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Lille"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Kévin Rodrigues",
+            "wiki_url": "/wiki/K%C3%A9vin_Rodrigues",
+            "pos": "DF",
+            "dob": "(1994-03-05) 5 March 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Real Sociedad"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Ricardo Pereira",
+            "wiki_url": "/wiki/Ricardo_Domingos_Barbosa_Pereira",
+            "pos": "DF",
+            "dob": "(1993-10-06) 6 October 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Porto"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "João Cancelo",
+            "wiki_url": "/wiki/Jo%C3%A3o_Cancelo",
+            "pos": "DF",
+            "dob": "(1994-05-27) 27 May 1994 (age 23)",
+            "caps": "6",
+            "goals": "3",
+            "club": " Internazionale"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Ricardo Ferreira",
+            "wiki_url": "/wiki/Ricardo_Ferreira_(Portuguese_footballer)",
+            "pos": "DF",
+            "dob": "(1992-11-25) 25 November 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Braga"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Rúben Neves",
+            "wiki_url": "/wiki/R%C3%BAben_Neves",
+            "pos": "MF",
+            "dob": "(1997-03-13) 13 March 1997 (age 20)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Wolverhampton Wanderers"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Bruno Fernandes",
+            "wiki_url": "/wiki/Bruno_Fernandes_(footballer,_born_1994)",
+            "pos": "MF",
+            "dob": "(1994-09-08) 8 September 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Sporting CP"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "João Mário",
+            "wiki_url": "/wiki/Jo%C3%A3o_M%C3%A1rio_(Portuguese_footballer)",
+            "pos": "MF",
+            "dob": "(1993-01-19) 19 January 1993 (age 25)",
+            "caps": "31",
+            "goals": "1",
+            "club": " Internazionale"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Bernardo Silva",
+            "wiki_url": "/wiki/Bernardo_Silva",
+            "pos": "MF",
+            "dob": "(1994-08-10) 10 August 1994 (age 23)",
+            "caps": "21",
+            "goals": "2",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Danilo Pereira",
+            "wiki_url": "/wiki/Danilo_Pereira_(Portuguese_footballer)",
+            "pos": "MF",
+            "dob": "(1991-09-09) 9 September 1991 (age 26)",
+            "caps": "27",
+            "goals": "1",
+            "club": " Porto"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Manuel Fernandes",
+            "wiki_url": "/wiki/Manuel_Fernandes_(footballer,_born_1986)",
+            "pos": "MF",
+            "dob": "(1986-02-05) 5 February 1986 (age 31)",
+            "caps": "11",
+            "goals": "3",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Gonçalo Guedes",
+            "wiki_url": "/wiki/Gon%C3%A7alo_Guedes",
+            "pos": "FW",
+            "dob": "(1996-11-29) 29 November 1996 (age 21)",
+            "caps": "5",
+            "goals": "1",
+            "club": " Valencia"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "André Silva",
+            "wiki_url": "/wiki/Andr%C3%A9_Silva_(footballer)",
+            "pos": "FW",
+            "dob": "(1995-11-06) 6 November 1995 (age 22)",
+            "caps": "18",
+            "goals": "11",
+            "club": " Milan"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Rony Lopes",
+            "wiki_url": "/wiki/Rony_Lopes",
+            "pos": "FW",
+            "dob": "(1995-12-28) 28 December 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Monaco"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Bruma",
+            "wiki_url": "/wiki/Bruma_(footballer)",
+            "pos": "FW",
+            "dob": "(1994-10-24) 24 October 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " RB Leipzig"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Gelson Martins",
+            "wiki_url": "/wiki/Gelson_Martins",
+            "pos": "FW",
+            "dob": "(1995-05-11) 11 May 1995 (age 22)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Sporting CP"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Gonçalo Paciência",
+            "wiki_url": "/wiki/Gon%C3%A7alo_Paci%C3%AAncia",
+            "pos": "FW",
+            "dob": "(1994-08-01) 1 August 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Vitória Setúbal"
+        },
+        {
+            "name": "Rui Patrício",
+            "wiki_url": "/wiki/Rui_Patr%C3%ADcio",
+            "pos": "GK",
+            "dob": "(1988-02-15) 15 February 1988 (age 29)",
+            "caps": "68",
+            "goals": "0",
+            "club": " Sporting CP"
+        },
+        {
+            "name": "Bruno Varela",
+            "wiki_url": "/wiki/Bruno_Varela",
+            "pos": "GK",
+            "dob": "(1994-11-04) 4 November 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Benfica"
+        },
+        {
+            "name": "Marafona",
+            "wiki_url": "/wiki/Jos%C3%A9_Carlos_Coentr%C3%A3o_Marafona",
+            "pos": "GK",
+            "dob": "(1987-05-08) 8 May 1987 (age 30)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Braga"
+        },
+        {
+            "name": "Bruno Alves",
+            "wiki_url": "/wiki/Bruno_Alves",
+            "pos": "DF",
+            "dob": "(1981-11-27) 27 November 1981 (age 36)",
+            "caps": "94",
+            "goals": "11",
+            "club": " Rangers"
+        },
+        {
+            "name": "Eliseu",
+            "wiki_url": "/wiki/Eliseu",
+            "pos": "DF",
+            "dob": "(1983-10-01) 1 October 1983 (age 34)",
+            "caps": "29",
+            "goals": "1",
+            "club": " Benfica"
+        },
+        {
+            "name": "José Fonte",
+            "wiki_url": "/wiki/Jos%C3%A9_Fonte",
+            "pos": "DF",
+            "dob": "(1983-12-22) 22 December 1983 (age 34)",
+            "caps": "27",
+            "goals": "0",
+            "club": " West Ham United"
+        },
+        {
+            "name": "Cédric Soares",
+            "wiki_url": "/wiki/C%C3%A9dric_Soares",
+            "pos": "DF",
+            "dob": "(1991-08-31) 31 August 1991 (age 26)",
+            "caps": "25",
+            "goals": "1",
+            "club": " Southampton"
+        },
+        {
+            "name": "Fábio Coentrão",
+            "wiki_url": "/wiki/F%C3%A1bio_Coentr%C3%A3o",
+            "pos": "DF",
+            "dob": "(1988-03-11) 11 March 1988 (age 29)",
+            "caps": "52",
+            "goals": "5",
+            "club": " Sporting CP"
+        },
+        {
+            "name": "Raphaël Guerreiro",
+            "wiki_url": "/wiki/Rapha%C3%ABl_Guerreiro",
+            "pos": "DF",
+            "dob": "(1993-12-22) 22 December 1993 (age 24)",
+            "caps": "20",
+            "goals": "2",
+            "club": " Borussia Dortmund"
+        },
+        {
+            "name": "João Moutinho",
+            "wiki_url": "/wiki/Jo%C3%A3o_Moutinho",
+            "pos": "MF",
+            "dob": "(1986-09-08) 8 September 1986 (age 31)",
+            "caps": "105",
+            "goals": "7",
+            "club": " Monaco"
+        },
+        {
+            "name": "William Carvalho",
+            "wiki_url": "/wiki/William_Carvalho",
+            "pos": "MF",
+            "dob": "(1992-04-07) 7 April 1992 (age 25)",
+            "caps": "40",
+            "goals": "2",
+            "club": " Sporting CP"
+        },
+        {
+            "name": "André Gomes",
+            "wiki_url": "/wiki/Andr%C3%A9_Gomes",
+            "pos": "MF",
+            "dob": "(1993-07-30) 30 July 1993 (age 24)",
+            "caps": "27",
+            "goals": "0",
+            "club": " Barcelona"
+        },
+        {
+            "name": "Renato Sanches",
+            "wiki_url": "/wiki/Renato_Sanches",
+            "pos": "MF",
+            "dob": "(1997-08-18) 18 August 1997 (age 20)",
+            "caps": "13",
+            "goals": "1",
+            "club": " Swansea City"
+        },
+        {
+            "name": "Adrien Silva",
+            "wiki_url": "/wiki/Adrien_Silva",
+            "pos": "MF",
+            "dob": "(1989-03-15) 15 March 1989 (age 28)",
+            "caps": "20",
+            "goals": "1",
+            "club": " Leicester City"
+        },
+        {
+            "name": "Pizzi",
+            "wiki_url": "/wiki/Pizzi_(Portuguese_footballer)",
+            "pos": "MF",
+            "dob": "(1989-10-06) 6 October 1989 (age 28)",
+            "caps": "9",
+            "goals": "2",
+            "club": " Benfica"
+        },
+        {
+            "name": "Eder",
+            "wiki_url": "/wiki/Eder_(Portuguese_footballer)",
+            "pos": "FW",
+            "dob": "(1987-12-22) 22 December 1987 (age 30)",
+            "caps": "33",
+            "goals": "4",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "name": "Cristiano Ronaldo (captain)",
+            "wiki_url": "/wiki/Cristiano_Ronaldo",
+            "pos": "FW",
+            "dob": "(1985-02-05) 5 February 1985 (age 32)",
+            "caps": "147",
+            "goals": "79",
+            "club": " Real Madrid"
+        },
+        {
+            "name": "Ricardo Quaresma",
+            "wiki_url": "/wiki/Ricardo_Quaresma",
+            "pos": "FW",
+            "dob": "(1983-09-26) 26 September 1983 (age 34)",
+            "caps": "72",
+            "goals": "9",
+            "club": " Beşiktaş"
+        },
+        {
+            "name": "Nélson Oliveira",
+            "wiki_url": "/wiki/N%C3%A9lson_Oliveira",
+            "pos": "FW",
+            "dob": "(1991-08-08) 8 August 1991 (age 26)",
+            "caps": "17",
+            "goals": "2",
+            "club": " Norwich City"
+        },
+        {
+            "name": "Nani",
+            "wiki_url": "/wiki/Nani",
+            "pos": "FW",
+            "dob": "(1986-11-17) 17 November 1986 (age 31)",
+            "caps": "112",
+            "goals": "24",
+            "club": " Lazio"
+        }
+    ],
+    "captain": "Cristiano Ronaldo",
+    "coach": "Fernando Santos"
+}

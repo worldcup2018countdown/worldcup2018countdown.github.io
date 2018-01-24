@@ -1,0 +1,561 @@
+{
+    "name": "Sweden",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Peter Abrahamsson",
+            "wiki_url": "/wiki/Peter_Abrahamsson",
+            "pos": "GK",
+            "dob": "(1988-07-18) 18 July 1988 (age 29)",
+            "caps": "1",
+            "goals": "0",
+            "club": " BK Häcken"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Pontus Dahlberg",
+            "wiki_url": "/wiki/Pontus_Dahlberg",
+            "pos": "GK",
+            "dob": "(1999-01-21) 21 January 1999 (age 19)",
+            "caps": "1",
+            "goals": "0",
+            "club": " IFK Göteborg"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Jacob Rinne",
+            "wiki_url": "/wiki/Jacob_Rinne",
+            "pos": "GK",
+            "dob": "(1993-06-20) 20 June 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " AaB"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Anton Tinnerholm",
+            "wiki_url": "/wiki/Anton_Tinnerholm",
+            "pos": "DF",
+            "dob": "(1991-02-26) 26 February 1991 (age 26)",
+            "caps": "9",
+            "goals": "0",
+            "club": " New York City FC"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Franz Brorsson",
+            "wiki_url": "/wiki/Franz_Brorsson",
+            "pos": "DF",
+            "dob": "(1996-01-30) 30 January 1996 (age 21)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Malmö FF"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Linus Wahlqvist",
+            "wiki_url": "/wiki/Linus_Wahlqvist",
+            "pos": "DF",
+            "dob": "(1996-11-11) 11 November 1996 (age 21)",
+            "caps": "6",
+            "goals": "0",
+            "club": " IFK Norrköping"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Johan Larsson",
+            "wiki_url": "/wiki/Johan_Larsson_(footballer)",
+            "pos": "DF",
+            "dob": "(1990-05-05) 5 May 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Brøndby IF"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Jacob Une Larsson",
+            "wiki_url": "/wiki/Jacob_Une_Larsson",
+            "pos": "DF",
+            "dob": "(1994-04-08) 8 April 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Djurgårdens IF"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Joel Andersson",
+            "wiki_url": "/wiki/Joel_Andersson",
+            "pos": "DF",
+            "dob": "(1996-11-11) 11 November 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " BK Häcken"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Rasmus Lindkvist",
+            "wiki_url": "/wiki/Rasmus_Lindkvist",
+            "pos": "DF",
+            "dob": "(1990-05-16) 16 May 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " AIK"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Joakim Nilsson",
+            "wiki_url": "/wiki/Joakim_Nilsson_(footballer,_born_1994)",
+            "pos": "DF",
+            "dob": "(1994-02-06) 6 February 1994 (age 23)",
+            "caps": "4",
+            "goals": "0",
+            "club": " IF Elfsborg"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Sotirios Papagiannopoulos",
+            "wiki_url": "/wiki/Sotirios_Papagiannopoulos",
+            "pos": "DF",
+            "dob": "(1990-09-05) 5 September 1990 (age 27)",
+            "caps": "2",
+            "goals": "0",
+            "club": "Unattached"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Jesper Karlström",
+            "wiki_url": "/wiki/Jesper_Karlstr%C3%B6m",
+            "pos": "MF",
+            "dob": "(1995-06-21) 21 June 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Djurgårdens IF"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Kerim Mrabti",
+            "wiki_url": "/wiki/Kerim_Mrabti",
+            "pos": "MF",
+            "dob": "(1994-05-20) 20 May 1994 (age 23)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Djurgårdens IF"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Kristoffer Olsson",
+            "wiki_url": "/wiki/Kristoffer_Olsson",
+            "pos": "MF",
+            "dob": "(1995-06-30) 30 June 1995 (age 22)",
+            "caps": "3",
+            "goals": "0",
+            "club": " AIK"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Oscar Lewicki",
+            "wiki_url": "/wiki/Oscar_Lewicki",
+            "pos": "MF",
+            "dob": "(1992-07-14) 14 July 1992 (age 25)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Malmö FF"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Ken Sema",
+            "wiki_url": "/wiki/Ken_Sema",
+            "pos": "MF",
+            "dob": "(1993-09-30) 30 September 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Östersunds FK"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Robert Gojani",
+            "wiki_url": "/wiki/Robert_Gojani",
+            "pos": "MF",
+            "dob": "(1992-10-19) 19 October 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Jönköpings Södra IF"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Jiloan Hamad",
+            "wiki_url": "/wiki/Jiloan_Hamad",
+            "pos": "MF",
+            "dob": "(1990-11-06) 6 November 1990 (age 27)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Hammarby IF"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Gustaf Nilsson",
+            "wiki_url": "/wiki/Gustaf_Nilsson_(footballer,_born_1997)",
+            "pos": "FW",
+            "dob": "(1997-05-23) 23 May 1997 (age 20)",
+            "caps": "2",
+            "goals": "1",
+            "club": " Silkeborg IF"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Jordan Larsson",
+            "wiki_url": "/wiki/Jordan_Larsson",
+            "pos": "FW",
+            "dob": "(1997-06-20) 20 June 1997 (age 20)",
+            "caps": "2",
+            "goals": "0",
+            "club": " IFK Norrköping"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Kalle Holmberg",
+            "wiki_url": "/wiki/Kalle_Holmberg",
+            "pos": "FW",
+            "dob": "(1993-03-03) 3 March 1993 (age 24)",
+            "caps": "2",
+            "goals": "1",
+            "club": " IFK Norrköping"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "David Moberg Karlsson",
+            "wiki_url": "/wiki/David_Moberg_Karlsson",
+            "pos": "FW",
+            "dob": "(1994-03-20) 20 March 1994 (age 23)",
+            "caps": "3",
+            "goals": "1",
+            "club": " IFK Norrköping"
+        },
+        {
+            "name": "Andreas Linde",
+            "wiki_url": "/wiki/Andreas_Linde",
+            "pos": "GK",
+            "dob": "(1993-07-24) 24 July 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Molde FK"
+        },
+        {
+            "name": "Robin Olsen",
+            "wiki_url": "/wiki/Robin_Olsen",
+            "pos": "GK",
+            "dob": "(1990-01-08) 8 January 1990 (age 28)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Copenhagen"
+        },
+        {
+            "name": "Kristoffer Nordfeldt",
+            "wiki_url": "/wiki/Kristoffer_Nordfeldt",
+            "pos": "GK",
+            "dob": "(1989-06-23) 23 June 1989 (age 28)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Swansea City"
+        },
+        {
+            "name": "Karl-Johan Johnsson",
+            "wiki_url": "/wiki/Karl-Johan_Johnsson",
+            "pos": "GK",
+            "dob": "(1990-01-28) 28 January 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Guingamp"
+        },
+        {
+            "name": "Andreas Granqvist (captain)",
+            "wiki_url": "/wiki/Andreas_Granqvist",
+            "pos": "DF",
+            "dob": "(1985-04-16) 16 April 1985 (age 32)",
+            "caps": "69",
+            "goals": "6",
+            "club": " Krasnodar"
+        },
+        {
+            "name": "Mikael Lustig",
+            "wiki_url": "/wiki/Mikael_Lustig",
+            "pos": "DF",
+            "dob": "(1986-12-13) 13 December 1986 (age 31)",
+            "caps": "63",
+            "goals": "6",
+            "club": " Celtic"
+        },
+        {
+            "name": "Martin Olsson",
+            "wiki_url": "/wiki/Martin_Olsson",
+            "pos": "DF",
+            "dob": "(1988-05-17) 17 May 1988 (age 29)",
+            "caps": "41",
+            "goals": "5",
+            "club": " Swansea City"
+        },
+        {
+            "name": "Victor Lindelöf",
+            "wiki_url": "/wiki/Victor_Lindel%C3%B6f",
+            "pos": "DF",
+            "dob": "(1994-07-17) 17 July 1994 (age 23)",
+            "caps": "18",
+            "goals": "1",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Ludwig Augustinsson",
+            "wiki_url": "/wiki/Ludwig_Augustinsson",
+            "pos": "DF",
+            "dob": "(1994-04-21) 21 April 1994 (age 23)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Werder Bremen"
+        },
+        {
+            "name": "Pontus Jansson",
+            "wiki_url": "/wiki/Pontus_Jansson",
+            "pos": "DF",
+            "dob": "(1991-02-13) 13 February 1991 (age 26)",
+            "caps": "13",
+            "goals": "0",
+            "club": " Leeds United"
+        },
+        {
+            "name": "Emil Krafth",
+            "wiki_url": "/wiki/Emil_Krafth",
+            "pos": "DF",
+            "dob": "(1994-08-02) 2 August 1994 (age 23)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Bologna"
+        },
+        {
+            "name": "Filip Helander",
+            "wiki_url": "/wiki/Filip_Helander",
+            "pos": "DF",
+            "dob": "(1993-04-22) 22 April 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Bologna"
+        },
+        {
+            "name": "Sebastian Holmén",
+            "wiki_url": "/wiki/Sebastian_Holm%C3%A9n",
+            "pos": "DF",
+            "dob": "(1992-04-29) 29 April 1992 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Dynamo Moscow"
+        },
+        {
+            "name": "Niklas Hult",
+            "wiki_url": "/wiki/Niklas_Hult",
+            "pos": "DF",
+            "dob": "(1990-02-13) 13 February 1990 (age 27)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Panathinaikos"
+        },
+        {
+            "name": "Oscar Wendt RET",
+            "wiki_url": "/wiki/Oscar_Wendt",
+            "pos": "DF",
+            "dob": "(1985-10-24) 24 October 1985 (age 32)",
+            "caps": "28",
+            "goals": "0",
+            "club": " Borussia Mönchengladbach"
+        },
+        {
+            "name": "Magnus Eriksson",
+            "wiki_url": "/wiki/Magnus_Eriksson_(footballer,_born_1990)",
+            "pos": "MF",
+            "dob": "(1990-04-08) 8 April 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " San Jose Earthquakes"
+        },
+        {
+            "name": "Erdal Rakip",
+            "wiki_url": "/wiki/Erdal_Rakip",
+            "pos": "MF",
+            "dob": "(1996-02-13) 13 February 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Crystal Palace"
+        },
+        {
+            "name": "Simon Tibbling",
+            "wiki_url": "/wiki/Simon_Tibbling",
+            "pos": "MF",
+            "dob": "(1994-09-07) 7 September 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Brøndby IF"
+        },
+        {
+            "name": "Sebastian Larsson",
+            "wiki_url": "/wiki/Seb_Larsson",
+            "pos": "MF",
+            "dob": "(1985-06-06) 6 June 1985 (age 32)",
+            "caps": "96",
+            "goals": "6",
+            "club": " Hull City"
+        },
+        {
+            "name": "Jimmy Durmaz",
+            "wiki_url": "/wiki/Jimmy_Durmaz",
+            "pos": "MF",
+            "dob": "(1989-03-22) 22 March 1989 (age 28)",
+            "caps": "43",
+            "goals": "3",
+            "club": " Toulouse"
+        },
+        {
+            "name": "Emil Forsberg",
+            "wiki_url": "/wiki/Emil_Forsberg",
+            "pos": "MF",
+            "dob": "(1991-10-23) 23 October 1991 (age 26)",
+            "caps": "33",
+            "goals": "6",
+            "club": " RB Leipzig"
+        },
+        {
+            "name": "Albin Ekdal",
+            "wiki_url": "/wiki/Albin_Ekdal",
+            "pos": "MF",
+            "dob": "(1989-07-28) 28 July 1989 (age 28)",
+            "caps": "32",
+            "goals": "0",
+            "club": " Hamburger SV"
+        },
+        {
+            "name": "Viktor Claesson",
+            "wiki_url": "/wiki/Viktor_Claesson",
+            "pos": "MF",
+            "dob": "(1992-01-02) 2 January 1992 (age 26)",
+            "caps": "19",
+            "goals": "3",
+            "club": " Krasnodar"
+        },
+        {
+            "name": "Jakob Johansson",
+            "wiki_url": "/wiki/Jakob_Johansson_(footballer)",
+            "pos": "MF",
+            "dob": "(1990-06-21) 21 June 1990 (age 27)",
+            "caps": "15",
+            "goals": "1",
+            "club": " AEK Athens"
+        },
+        {
+            "name": "Marcus Rohdén",
+            "wiki_url": "/wiki/Marcus_Rohd%C3%A9n",
+            "pos": "MF",
+            "dob": "(1991-05-11) 11 May 1991 (age 26)",
+            "caps": "10",
+            "goals": "1",
+            "club": " Crotone"
+        },
+        {
+            "name": "Gustav Svensson",
+            "wiki_url": "/wiki/Gustav_Svensson",
+            "pos": "MF",
+            "dob": "(1987-02-07) 7 February 1987 (age 30)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Seattle Sounders FC"
+        },
+        {
+            "name": "Oscar Hiljemark",
+            "wiki_url": "/wiki/Oscar_Hiljemark",
+            "pos": "MF",
+            "dob": "(1992-06-28) 28 June 1992 (age 25)",
+            "caps": "18",
+            "goals": "2",
+            "club": " Panathinaikos"
+        },
+        {
+            "name": "Alexander Fransson",
+            "wiki_url": "/wiki/Alexander_Fransson",
+            "pos": "MF",
+            "dob": "(1994-04-02) 2 April 1994 (age 23)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Lausanne-Sport"
+        },
+        {
+            "name": "Sam Larsson",
+            "wiki_url": "/wiki/Sam_Larsson",
+            "pos": "MF",
+            "dob": "(1993-04-10) 10 April 1993 (age 24)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Feyenoord"
+        },
+        {
+            "name": "Carlos Strandberg",
+            "wiki_url": "/wiki/Carlos_Strandberg",
+            "pos": "FW",
+            "dob": "(1996-04-14) 14 April 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Malmö FF"
+        },
+        {
+            "name": "Ola Toivonen",
+            "wiki_url": "/wiki/Ola_Toivonen",
+            "pos": "FW",
+            "dob": "(1986-07-03) 3 July 1986 (age 31)",
+            "caps": "55",
+            "goals": "12",
+            "club": " Toulouse"
+        },
+        {
+            "name": "Marcus Berg",
+            "wiki_url": "/wiki/Marcus_Berg",
+            "pos": "FW",
+            "dob": "(1986-08-17) 17 August 1986 (age 31)",
+            "caps": "53",
+            "goals": "18",
+            "club": " Al Ain"
+        },
+        {
+            "name": "John Guidetti",
+            "wiki_url": "/wiki/John_Guidetti",
+            "pos": "FW",
+            "dob": "(1992-04-15) 15 April 1992 (age 25)",
+            "caps": "19",
+            "goals": "1",
+            "club": " Alavés"
+        },
+        {
+            "name": "Isaac Kiese Thelin",
+            "wiki_url": "/wiki/Isaac_Kiese_Thelin",
+            "pos": "FW",
+            "dob": "(1992-06-24) 24 June 1992 (age 25)",
+            "caps": "17",
+            "goals": "2",
+            "club": " Waasland-Beveren"
+        },
+        {
+            "name": "Christoffer Nyman",
+            "wiki_url": "/wiki/Christoffer_Nyman",
+            "pos": "FW",
+            "dob": "(1992-10-05) 5 October 1992 (age 25)",
+            "caps": "10",
+            "goals": "1",
+            "club": " Eintracht Braunschweig"
+        },
+        {
+            "name": "Samuel Armenteros",
+            "wiki_url": "/wiki/Samuel_Armenteros",
+            "pos": "FW",
+            "dob": "(1990-05-27) 27 May 1990 (age 27)",
+            "caps": "2",
+            "goals": "1",
+            "club": " Benevento"
+        }
+    ],
+    "captain": "Andreas Granqvist",
+    "coach": "Janne Andersson"
+}

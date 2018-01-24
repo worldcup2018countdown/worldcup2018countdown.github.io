@@ -1,0 +1,480 @@
+{
+    "name": "Costa Rica",
+    "squad": [
+        {
+            "jerseyNumber": "",
+            "name": "Patrick Pemberton",
+            "wiki_url": "/wiki/Patrick_Pemberton",
+            "pos": "GK",
+            "dob": "(1982-05-24) 24 May 1982 (age 35)",
+            "caps": "39",
+            "goals": "0",
+            "club": " Alajuelense"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Leonel Moreira",
+            "wiki_url": "/wiki/Leonel_Moreira",
+            "pos": "GK",
+            "dob": "(1990-04-02) 2 April 1990 (age 27)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Herediano"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Danny Carvajal",
+            "wiki_url": "/wiki/Danny_Carvajal",
+            "pos": "GK",
+            "dob": "(1989-01-08) 8 January 1989 (age 29)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Albacete"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Giancarlo González",
+            "wiki_url": "/wiki/Giancarlo_Gonz%C3%A1lez",
+            "pos": "DF",
+            "dob": "(1988-02-08) 8 February 1988 (age 29)",
+            "caps": "66",
+            "goals": "2",
+            "club": " Bologna"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Cristian Gamboa",
+            "wiki_url": "/wiki/Cristian_Gamboa",
+            "pos": "DF",
+            "dob": "(1989-10-24) 24 October 1989 (age 28)",
+            "caps": "63",
+            "goals": "3",
+            "club": " Celtic"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Bryan Oviedo",
+            "wiki_url": "/wiki/Bryan_Oviedo",
+            "pos": "DF",
+            "dob": "(1990-02-18) 18 February 1990 (age 27)",
+            "caps": "39",
+            "goals": "1",
+            "club": " Sunderland"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "José Salvatierra",
+            "wiki_url": "/wiki/Jos%C3%A9_Salvatierra",
+            "pos": "DF",
+            "dob": "(1989-10-10) 10 October 1989 (age 28)",
+            "caps": "36",
+            "goals": "0",
+            "club": " Alajuelense"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Óscar Duarte",
+            "wiki_url": "/wiki/%C3%93scar_Duarte_(Costa_Rican_footballer)",
+            "pos": "DF",
+            "dob": "(1989-06-03) 3 June 1989 (age 28)",
+            "caps": "35",
+            "goals": "2",
+            "club": " Espanyol"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Francisco Calvo",
+            "wiki_url": "/wiki/Francisco_Calvo",
+            "pos": "DF",
+            "dob": "(1992-07-08) 8 July 1992 (age 25)",
+            "caps": "33",
+            "goals": "3",
+            "club": " Minnesota United"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kendall Waston",
+            "wiki_url": "/wiki/Kendall_Waston",
+            "pos": "DF",
+            "dob": "(1988-01-01) 1 January 1988 (age 30)",
+            "caps": "23",
+            "goals": "3",
+            "club": " Vancouver Whitecaps"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Rónald Matarrita",
+            "wiki_url": "/wiki/R%C3%B3nald_Matarrita",
+            "pos": "DF",
+            "dob": "(1994-07-09) 9 July 1994 (age 23)",
+            "caps": "21",
+            "goals": "2",
+            "club": " New York City"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Kenner Gutiérrez",
+            "wiki_url": "/wiki/Kenner_Guti%C3%A9rrez",
+            "pos": "DF",
+            "dob": "(1989-06-09) 9 June 1989 (age 28)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Alajuelense"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Celso Borges",
+            "wiki_url": "/wiki/Celso_Borges",
+            "pos": "MF",
+            "dob": "(1988-05-27) 27 May 1988 (age 29)",
+            "caps": "106",
+            "goals": "21",
+            "club": " Deportivo La Coruña"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Christian Bolaños",
+            "wiki_url": "/wiki/Christian_Bola%C3%B1os",
+            "pos": "MF",
+            "dob": "(1984-05-17) 17 May 1984 (age 33)",
+            "caps": "79",
+            "goals": "6",
+            "club": " Saprissa"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Yeltsin Tejeda",
+            "wiki_url": "/wiki/Yeltsin_Tejeda",
+            "pos": "MF",
+            "dob": "(1992-03-17) 17 March 1992 (age 25)",
+            "caps": "46",
+            "goals": "0",
+            "club": " Lausanne-Sport"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "David Guzmán",
+            "wiki_url": "/wiki/David_Guzm%C3%A1n",
+            "pos": "MF",
+            "dob": "(1990-02-18) 18 February 1990 (age 27)",
+            "caps": "39",
+            "goals": "0",
+            "club": " Portland Timbers"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Rodney Wallace",
+            "wiki_url": "/wiki/Rodney_Wallace_(footballer)",
+            "pos": "MF",
+            "dob": "(1988-06-17) 17 June 1988 (age 29)",
+            "caps": "29",
+            "goals": "4",
+            "club": " New York City"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Osvaldo Rodríguez",
+            "wiki_url": "/wiki/Osvaldo_Rodr%C3%ADguez_(footballer)",
+            "pos": "MF",
+            "dob": "(1990-12-17) 17 December 1990 (age 27)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Santos de Guápiles"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Daniel Colindres",
+            "wiki_url": "/wiki/Daniel_Colindres",
+            "pos": "MF",
+            "dob": "(1985-01-10) 10 January 1985 (age 33)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Saprissa"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Ulises Segura",
+            "wiki_url": "/wiki/Ulises_Segura",
+            "pos": "MF",
+            "dob": "(1993-06-26) 26 June 1993 (age 24)",
+            "caps": "6",
+            "goals": "0",
+            "club": " D.C. United"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Marco Ureña",
+            "wiki_url": "/wiki/Marco_Ure%C3%B1a",
+            "pos": "FW",
+            "dob": "(1990-03-05) 5 March 1990 (age 27)",
+            "caps": "60",
+            "goals": "14",
+            "club": " Los Angeles"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Johan Venegas",
+            "wiki_url": "/wiki/Johan_Venegas",
+            "pos": "FW",
+            "dob": "(1988-11-27) 27 November 1988 (age 29)",
+            "caps": "44",
+            "goals": "9",
+            "club": " Saprissa"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "José Guillermo Ortiz",
+            "wiki_url": "/wiki/Jos%C3%A9_Guillermo_Ortiz",
+            "pos": "FW",
+            "dob": "(1992-06-20) 20 June 1992 (age 25)",
+            "caps": "6",
+            "goals": "2",
+            "club": " Herediano"
+        },
+        {
+            "name": "Keylor Navas",
+            "wiki_url": "/wiki/Keylor_Navas",
+            "pos": "GK",
+            "dob": "(1986-12-15) 15 December 1986 (age 31)",
+            "caps": "76",
+            "goals": "0",
+            "club": " Real Madrid"
+        },
+        {
+            "name": "Aaron Cruz",
+            "wiki_url": "/w/index.php?title=Aaron_Cruz&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1991-05-25) 25 May 1991 (age 26)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Saprissa"
+        },
+        {
+            "name": "Michael Umaña",
+            "wiki_url": "/wiki/Michael_Uma%C3%B1a",
+            "pos": "DF",
+            "dob": "(1982-07-16) 16 July 1982 (age 35)",
+            "caps": "103",
+            "goals": "1",
+            "club": " Cartaginés"
+        },
+        {
+            "name": "Johnny Acosta",
+            "wiki_url": "/wiki/Johnny_Acosta",
+            "pos": "DF",
+            "dob": "(1983-07-21) 21 July 1983 (age 34)",
+            "caps": "65",
+            "goals": "2",
+            "club": " Rionegro Águilas"
+        },
+        {
+            "name": "Jhamir Ordain",
+            "wiki_url": "/w/index.php?title=Jhamir_Ordain&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1993-07-29) 29 July 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Herediano"
+        },
+        {
+            "name": "Juan Pablo Vargas",
+            "wiki_url": "/w/index.php?title=Juan_Pablo_Vargas&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1995-06-06) 6 June 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Herediano"
+        },
+        {
+            "name": "Roy Miller",
+            "wiki_url": "/wiki/Roy_Miller_(footballer)",
+            "pos": "DF",
+            "dob": "(1984-11-24) 24 November 1984 (age 33)",
+            "caps": "57",
+            "goals": "2",
+            "club": " Portland Timbers"
+        },
+        {
+            "name": "Heiner Mora",
+            "wiki_url": "/wiki/Heiner_Mora",
+            "pos": "DF",
+            "dob": "(1984-06-20) 20 June 1984 (age 33)",
+            "caps": "22",
+            "goals": "1",
+            "club": " Saprissa"
+        },
+        {
+            "name": "Christopher Meneses",
+            "wiki_url": "/wiki/Christopher_Meneses",
+            "pos": "DF",
+            "dob": "(1990-05-02) 2 May 1990 (age 27)",
+            "caps": "20",
+            "goals": "0",
+            "club": " Alajuelense"
+        },
+        {
+            "name": "Julio Cascante",
+            "wiki_url": "/wiki/Julio_Cascante",
+            "pos": "DF",
+            "dob": "(1993-10-03) 3 October 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Portland Timbers"
+        },
+        {
+            "name": "Pedro Leal",
+            "wiki_url": "/wiki/Pedro_Leal_(footballer)",
+            "pos": "DF",
+            "dob": "(1989-01-31) 31 January 1989 (age 28)",
+            "caps": "13",
+            "goals": "0",
+            "club": " Carmelita"
+        },
+        {
+            "name": "Állan Miranda",
+            "wiki_url": "/w/index.php?title=%C3%81llan_Miranda&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1987-05-28) 28 May 1987 (age 30)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Antigua GFC"
+        },
+        {
+            "name": "Pablo Salazar",
+            "wiki_url": "/wiki/Pablo_Salazar",
+            "pos": "DF",
+            "dob": "(1982-11-21) 21 November 1982 (age 35)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Herediano"
+        },
+        {
+            "name": "Randall Azofeifa",
+            "wiki_url": "/wiki/Randall_Azofeifa",
+            "pos": "MF",
+            "dob": "(1984-12-30) 30 December 1984 (age 33)",
+            "caps": "57",
+            "goals": "3",
+            "club": " Herediano"
+        },
+        {
+            "name": "José Leitón",
+            "wiki_url": "/wiki/Jos%C3%A9_Leit%C3%B3n",
+            "pos": "MF",
+            "dob": "(1993-08-06) 6 August 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Minnesota United"
+        },
+        {
+            "name": "Jimmy Marín",
+            "wiki_url": "/w/index.php?title=Jimmy_Mar%C3%ADn&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1997-10-08) 8 October 1997 (age 20)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Herediano"
+        },
+        {
+            "name": "Óscar Granados",
+            "wiki_url": "/wiki/%C3%93scar_Granados",
+            "pos": "MF",
+            "dob": "(1985-10-25) 25 October 1985 (age 32)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Herediano"
+        },
+        {
+            "name": "Randall Leal",
+            "wiki_url": "/wiki/Randall_Leal",
+            "pos": "MF",
+            "dob": "(1997-01-14) 14 January 1997 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Mechelen"
+        },
+        {
+            "name": "Elías Aguilar",
+            "wiki_url": "/wiki/El%C3%ADas_Aguilar",
+            "pos": "MF",
+            "dob": "(1991-11-07) 7 November 1991 (age 26)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Herediano"
+        },
+        {
+            "name": "John Jairo Ruiz",
+            "wiki_url": "/wiki/John_Jairo_Ruiz",
+            "pos": "MF",
+            "dob": "(1994-01-10) 10 January 1994 (age 24)",
+            "caps": "8",
+            "goals": "1",
+            "club": " Al-Fayha"
+        },
+        {
+            "name": "Marvin Angulo",
+            "wiki_url": "/wiki/Marvin_Angulo",
+            "pos": "MF",
+            "dob": "(1986-09-30) 30 September 1986 (age 31)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Saprissa"
+        },
+        {
+            "name": "Gerson Torres",
+            "wiki_url": "/wiki/Gerson_Torres",
+            "pos": "MF",
+            "dob": "(1997-08-28) 28 August 1997 (age 20)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Necaxa"
+        },
+        {
+            "name": "Bryan Ruiz (Captain)",
+            "wiki_url": "/wiki/Bryan_Ruiz",
+            "pos": "FW",
+            "dob": "(1985-08-18) 18 August 1985 (age 32)",
+            "caps": "107",
+            "goals": "23",
+            "club": " Sporting"
+        },
+        {
+            "name": "Ariel Rodríguez",
+            "wiki_url": "/wiki/Ariel_Francisco_Rodr%C3%ADguez",
+            "pos": "FW",
+            "dob": "(1989-09-27) 27 September 1989 (age 28)",
+            "caps": "12",
+            "goals": "2",
+            "club": " Saprissa"
+        },
+        {
+            "name": "David Ramírez",
+            "wiki_url": "/wiki/David_Ram%C3%ADrez_(footballer,_born_1993)",
+            "pos": "FW",
+            "dob": "(1993-05-28) 28 May 1993 (age 24)",
+            "caps": "17",
+            "goals": "4",
+            "club": " Saprissa"
+        },
+        {
+            "name": "Joel Campbell",
+            "wiki_url": "/wiki/Joel_Campbell",
+            "pos": "FW",
+            "dob": "(1992-06-26) 26 June 1992 (age 25)",
+            "caps": "76",
+            "goals": "14",
+            "club": " Betis"
+        },
+        {
+            "name": "Deyver Vega",
+            "wiki_url": "/wiki/Deyver_Vega",
+            "pos": "FW",
+            "dob": "(1992-09-19) 19 September 1992 (age 25)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Brann"
+        }
+    ],
+    "captain": "Bryan Ruiz",
+    "coach": "Óscar Ramírez"
+}

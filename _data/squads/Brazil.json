@@ -1,0 +1,410 @@
+{
+    "name": "Brazil",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Alisson",
+            "wiki_url": "/wiki/Alisson_Becker",
+            "pos": "GK",
+            "dob": "(1992-10-02) October 2, 1992 (age 25)",
+            "caps": "22",
+            "goals": "0",
+            "club": " Roma"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Cássio",
+            "wiki_url": "/wiki/C%C3%A1ssio_Ramos",
+            "pos": "GK",
+            "dob": "(1987-06-06) June 6, 1987 (age 30)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Corinthians"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Ederson",
+            "wiki_url": "/wiki/Ederson_Moraes",
+            "pos": "GK",
+            "dob": "(1993-08-17) August 17, 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Dani Alves ",
+            "wiki_url": "/wiki/Dani_Alves",
+            "pos": "DF",
+            "dob": "(1983-05-06) May 6, 1983 (age 34)",
+            "caps": "105",
+            "goals": "7",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Thiago Silva",
+            "wiki_url": "/wiki/Thiago_Silva",
+            "pos": "DF",
+            "dob": "(1984-09-22) September 22, 1984 (age 33)",
+            "caps": "67",
+            "goals": "5",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Marcelo",
+            "wiki_url": "/wiki/Marcelo_(footballer,_born_1988)",
+            "pos": "DF",
+            "dob": "(1988-05-12) May 12, 1988 (age 29)",
+            "caps": "50",
+            "goals": "6",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Miranda",
+            "wiki_url": "/wiki/Miranda_(footballer)",
+            "pos": "DF",
+            "dob": "(1984-09-07) September 7, 1984 (age 33)",
+            "caps": "43",
+            "goals": "1",
+            "club": " Internazionale"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Marquinhos",
+            "wiki_url": "/wiki/Marquinhos",
+            "pos": "DF",
+            "dob": "(1994-05-14) May 14, 1994 (age 23)",
+            "caps": "24",
+            "goals": "0",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Danilo",
+            "wiki_url": "/wiki/Danilo_(footballer,_born_1991)",
+            "pos": "DF",
+            "dob": "(1991-07-15) July 15, 1991 (age 26)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Alex Sandro",
+            "wiki_url": "/wiki/Alex_Sandro",
+            "pos": "DF",
+            "dob": "(1991-01-26) January 26, 1991 (age 26)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Jemerson",
+            "wiki_url": "/wiki/Jemerson",
+            "pos": "DF",
+            "dob": "(1992-08-24) August 24, 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Monaco"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Willian",
+            "wiki_url": "/wiki/Willian_(footballer)",
+            "pos": "MF",
+            "dob": "(1988-08-09) August 9, 1988 (age 29)",
+            "caps": "53",
+            "goals": "8",
+            "club": " Chelsea"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Paulinho",
+            "wiki_url": "/wiki/Paulinho_(footballer)",
+            "pos": "MF",
+            "dob": "(1988-07-25) July 25, 1988 (age 29)",
+            "caps": "46",
+            "goals": "11",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Fernandinho",
+            "wiki_url": "/wiki/Fernandinho_(footballer)",
+            "pos": "MF",
+            "dob": "(1985-05-04) May 4, 1985 (age 32)",
+            "caps": "41",
+            "goals": "2",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Diego",
+            "wiki_url": "/wiki/Diego_(footballer,_born_1985)",
+            "pos": "MF",
+            "dob": "(1985-02-28) February 28, 1985 (age 32)",
+            "caps": "34",
+            "goals": "4",
+            "club": " Flamengo"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Philippe Coutinho",
+            "wiki_url": "/wiki/Philippe_Coutinho",
+            "pos": "MF",
+            "dob": "(1992-06-12) June 12, 1992 (age 25)",
+            "caps": "32",
+            "goals": "8",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Renato Augusto",
+            "wiki_url": "/wiki/Renato_Augusto",
+            "pos": "MF",
+            "dob": "(1988-02-08) February 8, 1988 (age 29)",
+            "caps": "27",
+            "goals": "5",
+            "club": " Beijing Guoan"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Casemiro",
+            "wiki_url": "/wiki/Casemiro",
+            "pos": "MF",
+            "dob": "(1992-02-23) February 23, 1992 (age 25)",
+            "caps": "20",
+            "goals": "0",
+            "club": " Real Madrid"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Giuliano",
+            "wiki_url": "/wiki/Giuliano_de_Paula",
+            "pos": "MF",
+            "dob": "(1990-05-31) May 31, 1990 (age 27)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Fenerbahçe"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Neymar",
+            "wiki_url": "/wiki/Neymar",
+            "pos": "FW",
+            "dob": "(1992-02-05) February 5, 1992 (age 25)",
+            "caps": "83",
+            "goals": "53",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Douglas Costa",
+            "wiki_url": "/wiki/Douglas_Costa",
+            "pos": "FW",
+            "dob": "(1990-09-14) September 14, 1990 (age 27)",
+            "caps": "22",
+            "goals": "3",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Roberto Firmino",
+            "wiki_url": "/wiki/Roberto_Firmino",
+            "pos": "FW",
+            "dob": "(1991-10-02) October 2, 1991 (age 26)",
+            "caps": "18",
+            "goals": "5",
+            "club": " Liverpool"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Gabriel Jesus",
+            "wiki_url": "/wiki/Gabriel_Jesus",
+            "pos": "FW",
+            "dob": "(1997-04-03) April 3, 1997 (age 20)",
+            "caps": "13",
+            "goals": "7",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Diego Souza",
+            "wiki_url": "/wiki/Diego_Souza_(footballer,_born_1985)",
+            "pos": "FW",
+            "dob": "(1985-06-17) June 17, 1985 (age 32)",
+            "caps": "7",
+            "goals": "2",
+            "club": " São Paulo"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Taison",
+            "wiki_url": "/wiki/Taison",
+            "pos": "FW",
+            "dob": "(1988-01-13) January 13, 1988 (age 30)",
+            "caps": "5",
+            "goals": "1",
+            "club": " Shakhtar Donetsk"
+        },
+        {
+            "name": "Diego Alves",
+            "wiki_url": "/wiki/Diego_Alves",
+            "pos": "GK",
+            "dob": "(1985-06-24) June 24, 1985 (age 32)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Flamengo"
+        },
+        {
+            "name": "Weverton",
+            "wiki_url": "/wiki/Weverton_Pereira_da_Silva",
+            "pos": "GK",
+            "dob": "(1987-12-13) December 13, 1987 (age 30)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Palmeiras"
+        },
+        {
+            "name": "Rodrigo Caio",
+            "wiki_url": "/wiki/Rodrigo_Caio",
+            "pos": "DF",
+            "dob": "(1993-08-17) August 17, 1993 (age 24)",
+            "caps": "4",
+            "goals": "0",
+            "club": " São Paulo"
+        },
+        {
+            "name": "Jorge",
+            "wiki_url": "/wiki/Jorge_(footballer)",
+            "pos": "DF",
+            "dob": "(1996-03-28) March 28, 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Monaco"
+        },
+        {
+            "name": "Filipe Luís",
+            "wiki_url": "/wiki/Filipe_Lu%C3%ADs",
+            "pos": "DF",
+            "dob": "(1985-08-09) August 9, 1985 (age 32)",
+            "caps": "31",
+            "goals": "2",
+            "club": " Atlético Madrid"
+        },
+        {
+            "name": "Fagner",
+            "wiki_url": "/wiki/Fagner_Conserva_Lemos",
+            "pos": "DF",
+            "dob": "(1989-06-11) June 11, 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Corinthians"
+        },
+        {
+            "name": "David Luiz",
+            "wiki_url": "/wiki/David_Luiz",
+            "pos": "DF",
+            "dob": "(1987-04-22) April 22, 1987 (age 30)",
+            "caps": "56",
+            "goals": "3",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Gil",
+            "wiki_url": "/wiki/Gil_(footballer,_born_1987)",
+            "pos": "DF",
+            "dob": "(1987-06-12) June 12, 1987 (age 30)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Shandong Luneng Taishan"
+        },
+        {
+            "name": "Rafinha",
+            "wiki_url": "/wiki/Rafinha_(footballer,_born_1985)",
+            "pos": "DF",
+            "dob": "(1985-09-07) September 7, 1985 (age 32)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Bayern Munich"
+        },
+        {
+            "name": "Mariano",
+            "wiki_url": "/wiki/Mariano_(footballer)",
+            "pos": "DF",
+            "dob": "(1986-06-23) June 23, 1986 (age 31)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Galatasaray"
+        },
+        {
+            "name": "Fred",
+            "wiki_url": "/wiki/Frederico_Rodrigues_Santos",
+            "pos": "MF",
+            "dob": "(1993-03-05) March 5, 1993 (age 24)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Shakhtar Donetsk"
+        },
+        {
+            "name": "Arthur",
+            "wiki_url": "/wiki/Arthur_Melo",
+            "pos": "MF",
+            "dob": "(1996-08-12) August 12, 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Grêmio"
+        },
+        {
+            "name": "Rodriguinho",
+            "wiki_url": "/wiki/Rodriguinho_Marinho",
+            "pos": "MF",
+            "dob": "(1988-03-27) March 27, 1988 (age 29)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Corinthians"
+        },
+        {
+            "name": "Lucas Lima",
+            "wiki_url": "/wiki/Lucas_Lima",
+            "pos": "MF",
+            "dob": "(1990-07-09) July 9, 1990 (age 27)",
+            "caps": "14",
+            "goals": "2",
+            "club": " Palmeiras"
+        },
+        {
+            "name": "Diego Tardelli",
+            "wiki_url": "/wiki/Diego_Tardelli",
+            "pos": "FW",
+            "dob": "(1985-05-10) May 10, 1985 (age 32)",
+            "caps": "14",
+            "goals": "3",
+            "club": " Shandong Luneng Taishan"
+        },
+        {
+            "name": "Luan",
+            "wiki_url": "/wiki/Luan_Vieira",
+            "pos": "FW",
+            "dob": "(1993-03-27) March 27, 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Grêmio"
+        },
+        {
+            "name": "Dudu",
+            "wiki_url": "/wiki/Dudu_(footballer,_born_1992)",
+            "pos": "FW",
+            "dob": "(1992-01-07) January 7, 1992 (age 26)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Palmeiras"
+        }
+    ],
+    "captain": "Neymar",
+    "coach": "Tite"
+}

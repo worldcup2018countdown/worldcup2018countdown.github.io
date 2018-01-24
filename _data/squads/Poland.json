@@ -1,0 +1,390 @@
+{
+    "name": "Poland",
+    "squad": [
+        {
+            "jerseyNumber": "22",
+            "name": "Łukasz Fabiański",
+            "wiki_url": "/wiki/%C5%81ukasz_Fabia%C5%84ski",
+            "pos": "GK",
+            "dob": "(1985-04-18) 18 April 1985 (age 32)",
+            "caps": "42",
+            "goals": "0",
+            "club": " Swansea City"
+        },
+        {
+            "jerseyNumber": "1",
+            "name": "Wojciech Szczęsny",
+            "wiki_url": "/wiki/Wojciech_Szcz%C4%99sny",
+            "pos": "GK",
+            "dob": "(1990-04-18) 18 April 1990 (age 27)",
+            "caps": "32",
+            "goals": "0",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Łukasz Skorupski",
+            "wiki_url": "/wiki/%C5%81ukasz_Skorupski",
+            "pos": "GK",
+            "dob": "(1991-05-05) 5 May 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Roma"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Maciej Rybus",
+            "wiki_url": "/wiki/Maciej_Rybus",
+            "pos": "DF",
+            "dob": "(1989-08-19) 19 August 1989 (age 28)",
+            "caps": "48",
+            "goals": "2",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Artur Jędrzejczyk",
+            "wiki_url": "/wiki/Artur_J%C4%99drzejczyk",
+            "pos": "DF",
+            "dob": "(1987-11-04) 4 November 1987 (age 30)",
+            "caps": "33",
+            "goals": "3",
+            "club": " Legia Warsaw"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Thiago Cionek",
+            "wiki_url": "/wiki/Thiago_Cionek",
+            "pos": "DF",
+            "dob": "(1986-04-21) 21 April 1986 (age 31)",
+            "caps": "16",
+            "goals": "0",
+            "club": " SPAL 2013"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Bartosz Bereszyński",
+            "wiki_url": "/wiki/Bartosz_Bereszy%C5%84ski",
+            "pos": "DF",
+            "dob": "(1992-07-12) 12 July 1992 (age 25)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Sampdoria"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Jarosław Jach",
+            "wiki_url": "/wiki/Jaros%C5%82aw_Jach",
+            "pos": "DF",
+            "dob": "(1994-02-17) 17 February 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Crystal Palace"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Tomasz Kędziora",
+            "wiki_url": "/wiki/Tomasz_K%C4%99dziora",
+            "pos": "DF",
+            "dob": "(1994-06-11) 11 June 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Dynamo Kyiv"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Jakub Błaszczykowski",
+            "wiki_url": "/wiki/Jakub_B%C5%82aszczykowski",
+            "pos": "MF",
+            "dob": "(1985-12-14) 14 December 1985 (age 32)",
+            "caps": "97",
+            "goals": "19",
+            "club": " VfL Wolfsburg"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Krzysztof Mączyński",
+            "wiki_url": "/wiki/Krzysztof_M%C4%85czy%C5%84ski",
+            "pos": "MF",
+            "dob": "(1987-05-23) 23 May 1987 (age 30)",
+            "caps": "30",
+            "goals": "2",
+            "club": " Legia Warsaw"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Piotr Zieliński",
+            "wiki_url": "/wiki/Piotr_Zieli%C5%84ski",
+            "pos": "MF",
+            "dob": "(1994-05-20) 20 May 1994 (age 23)",
+            "caps": "29",
+            "goals": "3",
+            "club": " Napoli"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Karol Linetty",
+            "wiki_url": "/wiki/Karol_Linetty",
+            "pos": "MF",
+            "dob": "(1995-02-02) 2 February 1995 (age 22)",
+            "caps": "18",
+            "goals": "1",
+            "club": " Sampdoria"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Paweł Wszołek",
+            "wiki_url": "/wiki/Pawe%C5%82_Wszo%C5%82ek",
+            "pos": "MF",
+            "dob": "(1992-04-30) 30 April 1992 (age 25)",
+            "caps": "11",
+            "goals": "2",
+            "club": " Queens Park Rangers"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Rafał Wolski",
+            "wiki_url": "/wiki/Rafa%C5%82_Wolski",
+            "pos": "MF",
+            "dob": "(1992-11-10) 10 November 1992 (age 25)",
+            "caps": "7",
+            "goals": "1",
+            "club": " Lechia Gdańsk"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Maciej Makuszewski",
+            "wiki_url": "/wiki/Maciej_Makuszewski",
+            "pos": "MF",
+            "dob": "(1989-09-29) 29 September 1989 (age 28)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Lech Poznań"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Jacek Góralski",
+            "wiki_url": "/wiki/Jacek_G%C3%B3ralski",
+            "pos": "MF",
+            "dob": "(1992-09-21) 21 September 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Ludogorets Razgrad"
+        },
+        {
+            "jerseyNumber": "27",
+            "name": "Rafał Kurzawa",
+            "wiki_url": "/wiki/Rafa%C5%82_Kurzawa",
+            "pos": "MF",
+            "dob": "(1993-01-29) 29 January 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Górnik Zabrze"
+        },
+        {
+            "jerseyNumber": "26",
+            "name": "Przemysław Frankowski",
+            "wiki_url": "/wiki/Przemys%C5%82aw_Frankowski",
+            "pos": "MF",
+            "dob": "(1995-04-12) 12 April 1995 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Jagiellonia Białystok"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Damian Kądzior",
+            "wiki_url": "/wiki/Damian_K%C4%85dzior",
+            "pos": "MF",
+            "dob": "(1992-02-16) 16 February 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Górnik Zabrze"
+        },
+        {
+            "jerseyNumber": "29",
+            "name": "Mariusz Stępiński",
+            "wiki_url": "/wiki/Mariusz_St%C4%99pi%C5%84ski",
+            "pos": "FW",
+            "dob": "(1995-05-12) 12 May 1995 (age 22)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Chievo"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Kamil Wilczek",
+            "wiki_url": "/wiki/Kamil_Wilczek",
+            "pos": "FW",
+            "dob": "(1988-01-14) 14 January 1988 (age 30)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Brøndby"
+        },
+        {
+            "jerseyNumber": "28",
+            "name": "Jakub Świerczok",
+            "wiki_url": "/wiki/Jakub_%C5%9Awierczok",
+            "pos": "FW",
+            "dob": "(1992-12-28) 28 December 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Ludogorets Razgrad"
+        },
+        {
+            "name": "Artur Boruc",
+            "wiki_url": "/wiki/Artur_Boruc",
+            "pos": "GK",
+            "dob": "(1980-02-20) 20 February 1980 (age 37)",
+            "caps": "65",
+            "goals": "0",
+            "club": " Bournemouth"
+        },
+        {
+            "name": "Przemysław Tytoń",
+            "wiki_url": "/wiki/Przemys%C5%82aw_Tyto%C5%84",
+            "pos": "GK",
+            "dob": "(1987-01-04) 4 January 1987 (age 31)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Deportivo La Coruña"
+        },
+        {
+            "name": "Kamil Glik",
+            "wiki_url": "/wiki/Kamil_Glik",
+            "pos": "DF",
+            "dob": "(1988-02-03) 3 February 1988 (age 29)",
+            "caps": "56",
+            "goals": "4",
+            "club": " Monaco"
+        },
+        {
+            "name": "Michał Pazdan",
+            "wiki_url": "/wiki/Micha%C5%82_Pazdan",
+            "pos": "DF",
+            "dob": "(1987-09-21) 21 September 1987 (age 30)",
+            "caps": "30",
+            "goals": "0",
+            "club": " Legia Warsaw"
+        },
+        {
+            "name": "Łukasz Piszczek",
+            "wiki_url": "/wiki/%C5%81ukasz_Piszczek",
+            "pos": "DF",
+            "dob": "(1985-06-03) 3 June 1985 (age 32)",
+            "caps": "59",
+            "goals": "3",
+            "club": " Borussia Dortmund"
+        },
+        {
+            "name": "Marcin Kamiński",
+            "wiki_url": "/wiki/Marcin_Kami%C5%84ski",
+            "pos": "DF",
+            "dob": "(1992-01-15) 15 January 1992 (age 26)",
+            "caps": "4",
+            "goals": "0",
+            "club": " VfB Stuttgart"
+        },
+        {
+            "name": "Jan Bednarek",
+            "wiki_url": "/wiki/Jan_Bednarek_(footballer)",
+            "pos": "DF",
+            "dob": "(1996-04-12) 12 April 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Southampton"
+        },
+        {
+            "name": "Igor Lewczuk",
+            "wiki_url": "/wiki/Igor_Lewczuk",
+            "pos": "DF",
+            "dob": "(1985-05-30) 30 May 1985 (age 32)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Bordeaux"
+        },
+        {
+            "name": "Maciej Sadlok",
+            "wiki_url": "/wiki/Maciej_Sadlok",
+            "pos": "DF",
+            "dob": "(1989-06-29) 29 June 1989 (age 28)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Wisła Kraków"
+        },
+        {
+            "name": "Kamil Grosicki",
+            "wiki_url": "/wiki/Kamil_Grosicki",
+            "pos": "MF",
+            "dob": "(1988-06-08) 8 June 1988 (age 29)",
+            "caps": "55",
+            "goals": "11",
+            "club": " Hull City"
+        },
+        {
+            "name": "Grzegorz Krychowiak",
+            "wiki_url": "/wiki/Grzegorz_Krychowiak",
+            "pos": "MF",
+            "dob": "(1990-01-29) 29 January 1990 (age 27)",
+            "caps": "48",
+            "goals": "2",
+            "club": " West Bromwich Albion"
+        },
+        {
+            "name": "Filip Starzyński",
+            "wiki_url": "/wiki/Filip_Starzy%C5%84ski",
+            "pos": "MF",
+            "dob": "(1991-05-27) 27 May 1991 (age 26)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Zagłębie Lubin"
+        },
+        {
+            "name": "Sławomir Peszko",
+            "wiki_url": "/wiki/S%C5%82awomir_Peszko",
+            "pos": "MF",
+            "dob": "(1985-02-19) 19 February 1985 (age 32)",
+            "caps": "43",
+            "goals": "2",
+            "club": " Lechia Gdańsk"
+        },
+        {
+            "name": "Damian Dąbrowski",
+            "wiki_url": "/wiki/Damian_D%C4%85browski",
+            "pos": "MF",
+            "dob": "(1992-08-27) 27 August 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Cracovia"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "wiki_url": "/wiki/Robert_Lewandowski",
+            "pos": "FW",
+            "dob": "(1988-08-21) 21 August 1988 (age 29)",
+            "caps": "91",
+            "goals": "51",
+            "club": " Bayern Munich"
+        },
+        {
+            "name": "Łukasz Teodorczyk",
+            "wiki_url": "/wiki/%C5%81ukasz_Teodorczyk",
+            "pos": "FW",
+            "dob": "(1991-06-03) 3 June 1991 (age 26)",
+            "caps": "14",
+            "goals": "4",
+            "club": " Anderlecht"
+        },
+        {
+            "name": "Arkadiusz Milik",
+            "wiki_url": "/wiki/Arkadiusz_Milik",
+            "pos": "FW",
+            "dob": "(1994-02-28) 28 February 1994 (age 23)",
+            "caps": "36",
+            "goals": "12",
+            "club": " Napoli"
+        }
+    ],
+    "captain": "Robert Lewandowski",
+    "coach": "Adam Nawałka"
+}

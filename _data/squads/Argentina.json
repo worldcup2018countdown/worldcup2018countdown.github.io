@@ -1,0 +1,482 @@
+{
+    "name": "Argentina",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Sergio Romero",
+            "wiki_url": "/wiki/Sergio_Romero",
+            "pos": "GK",
+            "dob": "(1987-02-22) 22 February 1987 (age 30)",
+            "caps": "93",
+            "goals": "0",
+            "club": " Manchester United"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Nahuel Guzmán",
+            "wiki_url": "/wiki/Nahuel_Guzm%C3%A1n",
+            "pos": "GK",
+            "dob": "(1986-02-10) 10 February 1986 (age 31)",
+            "caps": "6",
+            "goals": "0",
+            "club": " UANL"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Agustín Marchesín",
+            "wiki_url": "/wiki/Agust%C3%ADn_Marches%C3%ADn",
+            "pos": "GK",
+            "dob": "(1988-03-16) 16 March 1988 (age 29)",
+            "caps": "3",
+            "goals": "0",
+            "club": " América"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Emanuel Mammana",
+            "wiki_url": "/wiki/Emanuel_Mammana",
+            "pos": "DF",
+            "dob": "(1996-02-10) 10 February 1996 (age 21)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Federico Fazio",
+            "wiki_url": "/wiki/Federico_Fazio",
+            "pos": "DF",
+            "dob": "(1987-03-17) 17 March 1987 (age 30)",
+            "caps": "7",
+            "goals": "1",
+            "club": " Roma"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Germán Pezzella",
+            "wiki_url": "/wiki/Germ%C3%A1n_Pezzella",
+            "pos": "DF",
+            "dob": "(1991-06-27) 27 June 1991 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Fiorentina"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Emiliano Insúa",
+            "wiki_url": "/wiki/Emiliano_Ins%C3%BAa",
+            "pos": "DF",
+            "dob": "(1989-01-07) 7 January 1989 (age 29)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Stuttgart"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Javier Mascherano",
+            "wiki_url": "/wiki/Javier_Mascherano",
+            "pos": "DF",
+            "dob": "(1984-06-08) 8 June 1984 (age 33)",
+            "caps": "141",
+            "goals": "3",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Nicolás Otamendi",
+            "wiki_url": "/wiki/Nicol%C3%A1s_Otamendi",
+            "pos": "DF",
+            "dob": "(1988-02-12) 12 February 1988 (age 29)",
+            "caps": "51",
+            "goals": "3",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Leandro Paredes",
+            "wiki_url": "/wiki/Leandro_Paredes",
+            "pos": "MF",
+            "dob": "(1994-06-29) 29 June 1994 (age 23)",
+            "caps": "2",
+            "goals": "1",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Enzo Pérez",
+            "wiki_url": "/wiki/Enzo_P%C3%A9rez",
+            "pos": "MF",
+            "dob": "(1986-02-22) 22 February 1986 (age 31)",
+            "caps": "23",
+            "goals": "1",
+            "club": " River Plate"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Matías Kranevitter",
+            "wiki_url": "/wiki/Mat%C3%ADas_Kranevitter",
+            "pos": "MF",
+            "dob": "(1993-05-21) 21 May 1993 (age 24)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Diego Perotti",
+            "wiki_url": "/wiki/Diego_Perotti",
+            "pos": "MF",
+            "dob": "(1988-07-26) 26 July 1988 (age 29)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Roma"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Eduardo Salvio",
+            "wiki_url": "/wiki/Eduardo_Salvio",
+            "pos": "MF",
+            "dob": "(1990-07-13) 13 July 1990 (age 27)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Benfica"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Éver Banega",
+            "wiki_url": "/wiki/%C3%89ver_Banega",
+            "pos": "MF",
+            "dob": "(1988-06-29) 29 June 1988 (age 29)",
+            "caps": "59",
+            "goals": "5",
+            "club": " Sevilla"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Giovani Lo Celso",
+            "wiki_url": "/wiki/Giovani_Lo_Celso",
+            "pos": "MF",
+            "dob": "(1996-04-09) 9 April 1996 (age 21)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Alejandro Gómez",
+            "wiki_url": "/wiki/Alejandro_Dar%C3%ADo_G%C3%B3mez",
+            "pos": "MF",
+            "dob": "(1988-02-15) 15 February 1988 (age 29)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Atalanta"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Emiliano Rigoni",
+            "wiki_url": "/wiki/Emiliano_Rigoni",
+            "pos": "MF",
+            "dob": "(1993-02-04) 4 February 1993 (age 24)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Zenit Saint Petersburg"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Fernando Belluschi",
+            "wiki_url": "/wiki/Fernando_Belluschi",
+            "pos": "MF",
+            "dob": "(1983-09-10) 10 September 1983 (age 34)",
+            "caps": "5",
+            "goals": "0",
+            "club": " San Lorenzo"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Darío Benedetto",
+            "wiki_url": "/wiki/Dar%C3%ADo_Benedetto",
+            "pos": "FW",
+            "dob": "(1990-05-17) 17 May 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Boca Juniors"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Sergio Agüero",
+            "wiki_url": "/wiki/Sergio_Ag%C3%BCero",
+            "pos": "FW",
+            "dob": "(1988-06-02) 2 June 1988 (age 29)",
+            "caps": "84",
+            "goals": "36",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Lionel Messi ",
+            "wiki_url": "/wiki/Lionel_Messi",
+            "pos": "FW",
+            "dob": "(1987-06-24) 24 June 1987 (age 30)",
+            "caps": "123",
+            "goals": "61",
+            "club": " Barcelona"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Ángel Di María",
+            "wiki_url": "/wiki/%C3%81ngel_Di_Mar%C3%ADa",
+            "pos": "FW",
+            "dob": "(1988-02-14) 14 February 1988 (age 29)",
+            "caps": "92",
+            "goals": "19",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Paulo Dybala",
+            "wiki_url": "/wiki/Paulo_Dybala",
+            "pos": "FW",
+            "dob": "(1993-11-15) 15 November 1993 (age 24)",
+            "caps": "12",
+            "goals": "0",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "26",
+            "name": "Cristian Pavón",
+            "wiki_url": "/wiki/Cristian_Pav%C3%B3n",
+            "pos": "FW",
+            "dob": "(1996-01-21) 21 January 1996 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Boca Juniors"
+        },
+        {
+            "name": "Gerónimo Rulli",
+            "wiki_url": "/wiki/Ger%C3%B3nimo_Rulli",
+            "pos": "GK",
+            "dob": "(1992-05-20) 20 May 1992 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Real Sociedad"
+        },
+        {
+            "name": "Gabriel Mercado",
+            "wiki_url": "/wiki/Gabriel_Mercado",
+            "pos": "DF",
+            "dob": "(1987-03-18) 18 March 1987 (age 30)",
+            "caps": "18",
+            "goals": "3",
+            "club": " Sevilla"
+        },
+        {
+            "name": "Cristian Ansaldi",
+            "wiki_url": "/wiki/Cristian_Ansaldi",
+            "pos": "DF",
+            "dob": "(1986-09-20) 20 September 1986 (age 31)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Torino"
+        },
+        {
+            "name": "Milton Casco",
+            "wiki_url": "/wiki/Milton_Casco",
+            "pos": "DF",
+            "dob": "(1988-04-11) 11 April 1988 (age 29)",
+            "caps": "2",
+            "goals": "0",
+            "club": " River Plate"
+        },
+        {
+            "name": "Nicolás Pareja",
+            "wiki_url": "/wiki/Nicol%C3%A1s_Pareja",
+            "pos": "DF",
+            "dob": "(1984-01-19) 19 January 1984 (age 34)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Sevilla"
+        },
+        {
+            "name": "Fabricio Bustos",
+            "wiki_url": "/wiki/Fabricio_Bustos",
+            "pos": "DF",
+            "dob": "(1996-04-28) 28 April 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Independiente"
+        },
+        {
+            "name": "Javier Pinola",
+            "wiki_url": "/wiki/Javier_Pinola",
+            "pos": "DF",
+            "dob": "(1983-02-24) 24 February 1983 (age 34)",
+            "caps": "2",
+            "goals": "0",
+            "club": " River Plate"
+        },
+        {
+            "name": "Jonatan Maidana",
+            "wiki_url": "/wiki/Jonatan_Maidana",
+            "pos": "DF",
+            "dob": "(1985-07-29) 29 July 1985 (age 32)",
+            "caps": "5",
+            "goals": "0",
+            "club": " River Plate"
+        },
+        {
+            "name": "José Luis Gómez",
+            "wiki_url": "/wiki/Jos%C3%A9_Luis_G%C3%B3mez_(footballer)",
+            "pos": "DF",
+            "dob": "(1993-09-10) 10 September 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Lanús"
+        },
+        {
+            "name": "Nicolás Tagliafico",
+            "wiki_url": "/wiki/Nicol%C3%A1s_Tagliafico",
+            "pos": "DF",
+            "dob": "(1992-08-31) 31 August 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Ajax"
+        },
+        {
+            "name": "Lucas Biglia",
+            "wiki_url": "/wiki/Lucas_Biglia",
+            "pos": "MF",
+            "dob": "(1986-01-30) 30 January 1986 (age 31)",
+            "caps": "55",
+            "goals": "1",
+            "club": " Milan"
+        },
+        {
+            "name": "Marcos Acuña",
+            "wiki_url": "/wiki/Marcos_Acu%C3%B1a",
+            "pos": "MF",
+            "dob": "(1991-10-28) 28 October 1991 (age 26)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Sporting CP"
+        },
+        {
+            "name": "Pablo Pérez",
+            "wiki_url": "/wiki/Pablo_P%C3%A9rez",
+            "pos": "MF",
+            "dob": "(1985-10-08) 8 October 1985 (age 32)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Boca Juniors"
+        },
+        {
+            "name": "Fernando Gago",
+            "wiki_url": "/wiki/Fernando_Gago",
+            "pos": "MF",
+            "dob": "(1986-04-10) 10 April 1986 (age 31)",
+            "caps": "61",
+            "goals": "0",
+            "club": " Boca Juniors"
+        },
+        {
+            "name": "Javier Pastore",
+            "wiki_url": "/wiki/Javier_Pastore",
+            "pos": "MF",
+            "dob": "(1989-06-20) 20 June 1989 (age 28)",
+            "caps": "29",
+            "goals": "2",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "name": "Guido Pizarro",
+            "wiki_url": "/wiki/Guido_Pizarro",
+            "pos": "MF",
+            "dob": "(1990-02-26) 26 February 1990 (age 27)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Sevilla"
+        },
+        {
+            "name": "Augusto Fernández",
+            "wiki_url": "/wiki/Augusto_Fern%C3%A1ndez",
+            "pos": "MF",
+            "dob": "(1986-04-10) 10 April 1986 (age 31)",
+            "caps": "16",
+            "goals": "1",
+            "club": " Atlético Madrid"
+        },
+        {
+            "name": "Manuel Lanzini",
+            "wiki_url": "/wiki/Manuel_Lanzini",
+            "pos": "MF",
+            "dob": "(1993-02-15) 15 February 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " West Ham United"
+        },
+        {
+            "name": "Ignacio Fernández",
+            "wiki_url": "/wiki/Ignacio_Fern%C3%A1ndez_(footballer)",
+            "pos": "MF",
+            "dob": "(1990-01-12) 12 January 1990 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " River Plate"
+        },
+        {
+            "name": "Guido Rodríguez",
+            "wiki_url": "/wiki/Guido_Rodr%C3%ADguez",
+            "pos": "MF",
+            "dob": "(1994-04-12) 12 April 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " América"
+        },
+        {
+            "name": "Mauro Icardi",
+            "wiki_url": "/wiki/Mauro_Icardi",
+            "pos": "FW",
+            "dob": "(1993-02-19) 19 February 1993 (age 24)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Internazionale"
+        },
+        {
+            "name": "Lautaro Acosta",
+            "wiki_url": "/wiki/Lautaro_Acosta",
+            "pos": "FW",
+            "dob": "(1988-03-14) 14 March 1988 (age 29)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Lanús"
+        },
+        {
+            "name": "Joaquín Correa",
+            "wiki_url": "/wiki/Joaqu%C3%ADn_Correa",
+            "pos": "FW",
+            "dob": "(1994-08-13) 13 August 1994 (age 23)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Sevilla"
+        },
+        {
+            "name": "Lucas Alario",
+            "wiki_url": "/wiki/Lucas_Alario",
+            "pos": "FW",
+            "dob": "(1992-10-08) 8 October 1992 (age 25)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Bayer Leverkusen"
+        },
+        {
+            "name": "Gonzalo Higuaín",
+            "wiki_url": "/wiki/Gonzalo_Higua%C3%ADn",
+            "pos": "FW",
+            "dob": "(1987-12-10) 10 December 1987 (age 30)",
+            "caps": "69",
+            "goals": "31",
+            "club": " Juventus"
+        }
+    ],
+    "captain": "Lionel Messi",
+    "coach": "Jorge Sampaoli"
+}

@@ -1,0 +1,336 @@
+{
+    "name": "Peru",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Pedro Gallese",
+            "wiki_url": "/wiki/Pedro_Gallese",
+            "pos": "GK",
+            "dob": "(1990-04-23) 23 April 1990 (age 27)",
+            "caps": "36",
+            "goals": "0",
+            "club": " Veracruz"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Carlos Cáceda",
+            "wiki_url": "/wiki/Carlos_C%C3%A1ceda",
+            "pos": "GK",
+            "dob": "(1991-09-27) 27 September 1991 (age 26)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Veracruz"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "José Carvallo",
+            "wiki_url": "/wiki/Jos%C3%A9_Carvallo",
+            "pos": "GK",
+            "dob": "(1986-03-01) 1 March 1986 (age 31)",
+            "caps": "5",
+            "goals": "0",
+            "club": " UTC"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Alberto Rodríguez (Captain)",
+            "wiki_url": "/wiki/Alberto_Junior_Rodr%C3%ADguez",
+            "pos": "DF",
+            "dob": "(1984-03-31) 31 March 1984 (age 33)",
+            "caps": "72",
+            "goals": "0",
+            "club": " Junior"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Aldo Corzo",
+            "wiki_url": "/wiki/Aldo_Corzo",
+            "pos": "DF",
+            "dob": "(1989-05-20) 20 May 1989 (age 28)",
+            "caps": "23",
+            "goals": "0",
+            "club": " Universitario de Deportes"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Anderson Santamaría",
+            "wiki_url": "/wiki/Anderson_Santamar%C3%ADa",
+            "pos": "DF",
+            "dob": "(1992-01-10) 10 January 1992 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Puebla"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Adrián Zela",
+            "wiki_url": "/wiki/Adri%C3%A1n_Zela",
+            "pos": "DF",
+            "dob": "(1989-03-20) 20 March 1989 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Deportivo Municipal"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Miguel Trauco",
+            "wiki_url": "/wiki/Miguel_Trauco",
+            "pos": "DF",
+            "dob": "(1992-08-25) 25 August 1992 (age 25)",
+            "caps": "22",
+            "goals": "0",
+            "club": " Flamengo"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Christian Ramos",
+            "wiki_url": "/wiki/Christian_Ramos",
+            "pos": "DF",
+            "dob": "(1988-11-04) 4 November 1988 (age 29)",
+            "caps": "63",
+            "goals": "3",
+            "club": " Veracruz"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Luis Advíncula",
+            "wiki_url": "/wiki/Luis_Adv%C3%ADncula",
+            "pos": "DF",
+            "dob": "(1990-03-02) 2 March 1990 (age 27)",
+            "caps": "62",
+            "goals": "0",
+            "club": " BUAP"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Nilson Loyola",
+            "wiki_url": "/wiki/Nilson_Loyola",
+            "pos": "DF",
+            "dob": "(1994-10-26) 26 October 1994 (age 23)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Melgar"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Paolo Hurtado",
+            "wiki_url": "/wiki/Paolo_Hurtado",
+            "pos": "MF",
+            "dob": "(1990-07-27) 27 July 1990 (age 27)",
+            "caps": "29",
+            "goals": "3",
+            "club": " Vitória de Guimarães"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Christian Cueva",
+            "wiki_url": "/wiki/Christian_Cueva",
+            "pos": "MF",
+            "dob": "(1991-11-23) 23 November 1991 (age 26)",
+            "caps": "41",
+            "goals": "7",
+            "club": " São Paulo"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Renato Tapia",
+            "wiki_url": "/wiki/Renato_Tapia",
+            "pos": "MF",
+            "dob": "(1995-07-28) 28 July 1995 (age 22)",
+            "caps": "28",
+            "goals": "2",
+            "club": " Feyenoord"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Andy Polo",
+            "wiki_url": "/wiki/Andy_Polo",
+            "pos": "MF",
+            "dob": "(1994-09-29) 29 September 1994 (age 23)",
+            "caps": "15",
+            "goals": "1",
+            "club": " Portland Timbers"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "André Carrillo",
+            "wiki_url": "/wiki/Andr%C3%A9_Carrillo",
+            "pos": "MF",
+            "dob": "(1991-06-14) 14 June 1991 (age 26)",
+            "caps": "41",
+            "goals": "3",
+            "club": " Watford"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Wilder Cartagena",
+            "wiki_url": "/wiki/Wilder_Cartagena",
+            "pos": "MF",
+            "dob": "(1994-09-23) 23 September 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Veracruz"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Yoshimar Yotún",
+            "wiki_url": "/wiki/Yoshimar_Yot%C3%BAn",
+            "pos": "MF",
+            "dob": "(1990-04-07) 7 April 1990 (age 27)",
+            "caps": "70",
+            "goals": "2",
+            "club": " Orlando City"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Edison Flores",
+            "wiki_url": "/wiki/Edison_Flores",
+            "pos": "MF",
+            "dob": "(1994-05-15) 15 May 1994 (age 23)",
+            "caps": "25",
+            "goals": "8",
+            "club": " AaB"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Pedro Aquino",
+            "wiki_url": "/wiki/Pedro_Aquino",
+            "pos": "MF",
+            "dob": "(1995-04-13) 13 April 1995 (age 22)",
+            "caps": "10",
+            "goals": "0",
+            "club": " BUAP"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Yordy Reyna",
+            "wiki_url": "/wiki/Yordy_Reyna",
+            "pos": "FW",
+            "dob": "(1993-09-17) 17 September 1993 (age 24)",
+            "caps": "6",
+            "goals": "2",
+            "club": " Vancouver Whitecaps"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Jefferson Farfán",
+            "wiki_url": "/wiki/Jefferson_Farf%C3%A1n",
+            "pos": "FW",
+            "dob": "(1984-10-26) 26 October 1984 (age 33)",
+            "caps": "79",
+            "goals": "23",
+            "club": " Lokomotiv Moscow"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Raúl Ruidíaz",
+            "wiki_url": "/wiki/Ra%C3%BAl_Ruid%C3%ADaz",
+            "pos": "FW",
+            "dob": "(1990-07-25) 25 July 1990 (age 27)",
+            "caps": "27",
+            "goals": "3",
+            "club": " Morelia"
+        },
+        {
+            "name": "Leao Butrón",
+            "wiki_url": "/wiki/Leao_Butr%C3%B3n",
+            "pos": "GK",
+            "dob": "(1977-03-06) 6 March 1977 (age 40)",
+            "caps": "39",
+            "goals": "0",
+            "club": " Alianza Lima"
+        },
+        {
+            "name": "Diego Penny",
+            "wiki_url": "/wiki/Diego_Penny",
+            "pos": "GK",
+            "dob": "(1984-04-22) 22 April 1984 (age 33)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Melgar"
+        },
+        {
+            "name": "Miguel Araujo",
+            "wiki_url": "/wiki/Miguel_Araujo",
+            "pos": "DF",
+            "dob": "(1994-10-24) 24 October 1994 (age 23)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Alianza Lima"
+        },
+        {
+            "name": "Luis Abram",
+            "wiki_url": "/wiki/Luis_Abram",
+            "pos": "DF",
+            "dob": "(1996-02-27) 27 February 1996 (age 21)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Vélez Sarsfield"
+        },
+        {
+            "name": "Alexi Gómez",
+            "wiki_url": "/wiki/Alexi_G%C3%B3mez",
+            "pos": "MF",
+            "dob": "(1993-06-11) 11 June 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Atlas"
+        },
+        {
+            "name": "Sergio Peña",
+            "wiki_url": "/wiki/Sergio_Pe%C3%B1a",
+            "pos": "MF",
+            "dob": "(1995-09-28) 28 September 1995 (age 22)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Granada"
+        },
+        {
+            "name": "Joel Sánchez",
+            "wiki_url": "/wiki/Joel_S%C3%A1nchez_(Peruvian_footballer)",
+            "pos": "MF",
+            "dob": "(1989-03-04) 4 March 1989 (age 28)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Querétaro"
+        },
+        {
+            "name": "Óscar Vílchez",
+            "wiki_url": "/wiki/%C3%93scar_V%C3%ADlchez",
+            "pos": "MF",
+            "dob": "(1986-01-21) 21 January 1986 (age 32)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Alianza Lima"
+        },
+        {
+            "name": "Paolo Guerrero",
+            "wiki_url": "/wiki/Paolo_Guerrero",
+            "pos": "FW",
+            "dob": "(1984-01-01) 1 January 1984 (age 34)",
+            "caps": "86",
+            "goals": "32",
+            "club": " Flamengo"
+        },
+        {
+            "name": "Iván Bulos",
+            "wiki_url": "/wiki/Iv%C3%A1n_Bulos",
+            "pos": "FW",
+            "dob": "(1993-05-20) 20 May 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Boavista"
+        },
+        {
+            "name": "Alexander Succar",
+            "wiki_url": "/wiki/Alexander_Succar",
+            "pos": "FW",
+            "dob": "(1995-08-12) 12 August 1995 (age 22)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Sion"
+        }
+    ],
+    "captain": "Paolo Guerrero",
+    "coach": "Ricardo Gareca"
+}

@@ -1,0 +1,365 @@
+{
+    "name": "Senegal",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Clément Diop",
+            "wiki_url": "/wiki/Cl%C3%A9ment_Diop",
+            "pos": "GK",
+            "dob": "(1993-10-12) 12 October 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Montreal Impact"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Khadim N'Diaye",
+            "wiki_url": "/wiki/Khadim_N%27Diaye",
+            "pos": "GK",
+            "dob": "(1984-11-30) 30 November 1984 (age 33)",
+            "caps": "24",
+            "goals": "0",
+            "club": " Horoya"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Alfred Gomis",
+            "wiki_url": "/wiki/Alfred_Gomis",
+            "pos": "GK",
+            "dob": "(1993-09-05) 5 September 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " SPAL"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Kara Mbodji (Vice-captain)",
+            "wiki_url": "/wiki/Kara_Mbodji",
+            "pos": "DF",
+            "dob": "(1989-11-11) 11 November 1989 (age 28)",
+            "caps": "51",
+            "goals": "5",
+            "club": " Anderlecht"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Kalidou Koulibaly",
+            "wiki_url": "/wiki/Kalidou_Koulibaly",
+            "pos": "DF",
+            "dob": "(1991-06-20) 20 June 1991 (age 26)",
+            "caps": "26",
+            "goals": "0",
+            "club": " Napoli"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Fallou Diagne",
+            "wiki_url": "/wiki/Fallou_Diagne",
+            "pos": "DF",
+            "dob": "(1989-08-14) 14 August 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Metz"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Youssouf Sabaly",
+            "wiki_url": "/wiki/Youssouf_Sabaly",
+            "pos": "DF",
+            "dob": "(1993-03-05) 5 March 1993 (age 24)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Bordeaux"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Salif Sané",
+            "wiki_url": "/wiki/Salif_San%C3%A9",
+            "pos": "DF",
+            "dob": "(1990-08-25) 25 August 1990 (age 27)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Hannover 96"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Adama Mbengue",
+            "wiki_url": "/wiki/Adama_Mbengue",
+            "pos": "DF",
+            "dob": "(1993-12-01) 1 December 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Caen"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Saliou Ciss",
+            "wiki_url": "/wiki/Saliou_Ciss",
+            "pos": "DF",
+            "dob": "(1989-09-15) 15 September 1989 (age 28)",
+            "caps": "17",
+            "goals": "0",
+            "club": " Angers"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Lamine Gassama",
+            "wiki_url": "/wiki/Lamine_Gassama",
+            "pos": "DF",
+            "dob": "(1989-10-20) 20 October 1989 (age 28)",
+            "caps": "38",
+            "goals": "0",
+            "club": " Alanyaspor"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Moussa Wagué",
+            "wiki_url": "/wiki/Moussa_Wagu%C3%A9",
+            "pos": "DF",
+            "dob": "(1998-10-04) 4 October 1998 (age 19)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Eupen"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Idrissa Gueye",
+            "wiki_url": "/wiki/Idrissa_Gueye",
+            "pos": "MF",
+            "dob": "(1989-09-26) 26 September 1989 (age 28)",
+            "caps": "58",
+            "goals": "1",
+            "club": " Everton"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Cheikhou Kouyaté (Captain)",
+            "wiki_url": "/wiki/Cheikhou_Kouyat%C3%A9",
+            "pos": "MF",
+            "dob": "(1989-12-21) 21 December 1989 (age 28)",
+            "caps": "46",
+            "goals": "2",
+            "club": " West Ham United"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Cheikh N'Doye",
+            "wiki_url": "/wiki/Cheikh_N%27Doye",
+            "pos": "MF",
+            "dob": "(1986-03-29) 29 March 1986 (age 31)",
+            "caps": "21",
+            "goals": "3",
+            "club": " Birmingham City"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Alfred N'Diaye",
+            "wiki_url": "/wiki/Alfred_N%27Diaye",
+            "pos": "MF",
+            "dob": "(1990-03-06) 6 March 1990 (age 27)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Wolverhampton Wanderers"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Papa N'Diaye",
+            "wiki_url": "/wiki/Papa_Alioune_Ndiaye",
+            "pos": "MF",
+            "dob": "(1990-10-27) 27 October 1990 (age 27)",
+            "caps": "16",
+            "goals": "1",
+            "club": " Galatasaray"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Assane Dioussé",
+            "wiki_url": "/wiki/Assane_Diouss%C3%A9",
+            "pos": "MF",
+            "dob": "(1997-09-20) 20 September 1997 (age 20)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Saint-Étienne"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Sadio Mané",
+            "wiki_url": "/wiki/Sadio_Man%C3%A9",
+            "pos": "FW",
+            "dob": "(1992-04-10) 10 April 1992 (age 25)",
+            "caps": "50",
+            "goals": "14",
+            "club": " Liverpool"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Moussa Sow",
+            "wiki_url": "/wiki/Moussa_Sow",
+            "pos": "FW",
+            "dob": "(1986-01-19) 19 January 1986 (age 32)",
+            "caps": "49",
+            "goals": "18",
+            "club": " Bursaspor"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Moussa Konaté",
+            "wiki_url": "/wiki/Moussa_Konat%C3%A9_(footballer)",
+            "pos": "FW",
+            "dob": "(1993-04-03) 3 April 1993 (age 24)",
+            "caps": "25",
+            "goals": "8",
+            "club": " Amiens"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Keita Baldé Diao",
+            "wiki_url": "/wiki/Keita_Bald%C3%A9_Diao",
+            "pos": "FW",
+            "dob": "(1995-03-08) 8 March 1995 (age 22)",
+            "caps": "16",
+            "goals": "3",
+            "club": " Monaco"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Diafra Sakho",
+            "wiki_url": "/wiki/Diafra_Sakho",
+            "pos": "FW",
+            "dob": "(1989-12-24) 24 December 1989 (age 28)",
+            "caps": "8",
+            "goals": "3",
+            "club": " West Ham United"
+        },
+        {
+            "jerseyNumber": "25",
+            "name": "Opa N'Guette",
+            "wiki_url": "/wiki/Opa_Nguette",
+            "pos": "FW",
+            "dob": "(1994-07-08) 8 July 1994 (age 23)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Metz"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "M'Baye Niang",
+            "wiki_url": "/wiki/M%27Baye_Niang",
+            "pos": "FW",
+            "dob": "(1994-12-19) 19 December 1994 (age 23)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Torino"
+        },
+        {
+            "name": "Pape Seydou N'Diaye",
+            "wiki_url": "/wiki/Pape_Seydou_N%27Diaye",
+            "pos": "GK",
+            "dob": "(1993-02-11) 11 February 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Niarry Tally"
+        },
+        {
+            "name": "Abdoulaye Diallo",
+            "wiki_url": "/wiki/Abdoulaye_Diallo",
+            "pos": "GK",
+            "dob": "(1992-03-30) 30 March 1992 (age 25)",
+            "caps": "15",
+            "goals": "0",
+            "club": " Rennes"
+        },
+        {
+            "name": "Papa Amadou Touré",
+            "wiki_url": "/w/index.php?title=Papa_Amadou_Tour%C3%A9&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1992-12-24) 24 December 1992 (age 25)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Horoya"
+        },
+        {
+            "name": "Arial Mendy",
+            "wiki_url": "/w/index.php?title=Arial_Mendy&action=edit&redlink=1",
+            "pos": "DF",
+            "dob": "(1994-11-07) 7 November 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Diambars"
+        },
+        {
+            "name": "Cheikh M'Bengue",
+            "wiki_url": "/wiki/Cheikh_M%27Bengue",
+            "pos": "DF",
+            "dob": "(1988-07-23) 23 July 1988 (age 29)",
+            "caps": "33",
+            "goals": "0",
+            "club": " Saint-Étienne"
+        },
+        {
+            "name": "Younousse Sankharé",
+            "wiki_url": "/wiki/Younousse_Sankhar%C3%A9",
+            "pos": "MF",
+            "dob": "(1989-09-10) 10 September 1989 (age 28)",
+            "caps": "8",
+            "goals": "1",
+            "club": " Bordeaux"
+        },
+        {
+            "name": "Henri Saivet",
+            "wiki_url": "/wiki/Henri_Saivet",
+            "pos": "MF",
+            "dob": "(1990-10-26) 26 October 1990 (age 27)",
+            "caps": "22",
+            "goals": "1",
+            "club": " Newcastle United"
+        },
+        {
+            "name": "Zargo Touré",
+            "wiki_url": "/wiki/Zargo_Tour%C3%A9",
+            "pos": "MF",
+            "dob": "(1989-11-11) 11 November 1989 (age 28)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Lorient"
+        },
+        {
+            "name": "Ismaïla Sarr",
+            "wiki_url": "/wiki/Isma%C3%AFla_Sarr",
+            "pos": "FW",
+            "dob": "(1998-02-25) 25 February 1998 (age 19)",
+            "caps": "11",
+            "goals": "2",
+            "club": " Rennes"
+        },
+        {
+            "name": "Mame Diouf",
+            "wiki_url": "/wiki/Mame_Biram_Diouf",
+            "pos": "FW",
+            "dob": "(1987-12-16) 16 December 1987 (age 30)",
+            "caps": "45",
+            "goals": "10",
+            "club": " Stoke City"
+        },
+        {
+            "name": "Famara Diédhiou",
+            "wiki_url": "/wiki/Famara_Di%C3%A9dhiou",
+            "pos": "FW",
+            "dob": "(1992-12-15) 15 December 1992 (age 25)",
+            "caps": "7",
+            "goals": "1",
+            "club": " Bristol City"
+        },
+        {
+            "name": "Khouma Babacar",
+            "wiki_url": "/wiki/Khouma_Babacar",
+            "pos": "FW",
+            "dob": "(1993-03-17) 17 March 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Fiorentina"
+        }
+    ],
+    "captain": "Cheikhou Kouyaté",
+    "coach": "Aliou Cissé"
+}

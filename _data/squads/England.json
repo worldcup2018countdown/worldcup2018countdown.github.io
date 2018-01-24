@@ -1,0 +1,462 @@
+{
+    "name": "England",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Joe Hart",
+            "wiki_url": "/wiki/Joe_Hart",
+            "pos": "GK",
+            "dob": "(1987-04-19) 19 April 1987 (age 30)",
+            "caps": "75",
+            "goals": "0",
+            "club": " West Ham United"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Jordan Pickford",
+            "wiki_url": "/wiki/Jordan_Pickford",
+            "pos": "GK",
+            "dob": "(1994-03-07) 7 March 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Everton"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Angus Gunn",
+            "wiki_url": "/wiki/Angus_Gunn",
+            "pos": "GK",
+            "dob": "(1996-01-22) 22 January 1996 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Norwich City"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Gary Cahill",
+            "wiki_url": "/wiki/Gary_Cahill",
+            "pos": "DF",
+            "dob": "(1985-12-19) 19 December 1985 (age 32)",
+            "caps": "58",
+            "goals": "4",
+            "club": " Chelsea"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Kyle Walker",
+            "wiki_url": "/wiki/Kyle_Walker",
+            "pos": "DF",
+            "dob": "(1990-05-28) 28 May 1990 (age 27)",
+            "caps": "32",
+            "goals": "0",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "John Stones",
+            "wiki_url": "/wiki/John_Stones",
+            "pos": "DF",
+            "dob": "(1994-05-28) 28 May 1994 (age 23)",
+            "caps": "22",
+            "goals": "0",
+            "club": " Manchester City"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Ryan Bertrand",
+            "wiki_url": "/wiki/Ryan_Bertrand",
+            "pos": "DF",
+            "dob": "(1989-08-05) 5 August 1989 (age 28)",
+            "caps": "19",
+            "goals": "1",
+            "club": " Southampton"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Danny Rose",
+            "wiki_url": "/wiki/Danny_Rose_(footballer,_born_1990)",
+            "pos": "DF",
+            "dob": "(1990-07-02) 2 July 1990 (age 27)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Michael Keane",
+            "wiki_url": "/wiki/Michael_Keane_(footballer,_born_1993)",
+            "pos": "DF",
+            "dob": "(1993-01-11) 11 January 1993 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Everton"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Harry Maguire",
+            "wiki_url": "/wiki/Harry_Maguire",
+            "pos": "DF",
+            "dob": "(1993-03-05) 5 March 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Leicester City"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Kieran Trippier",
+            "wiki_url": "/wiki/Kieran_Trippier",
+            "pos": "DF",
+            "dob": "(1990-09-19) 19 September 1990 (age 27)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Joe Gomez",
+            "wiki_url": "/wiki/Joe_Gomez_(footballer)",
+            "pos": "DF",
+            "dob": "(1997-05-23) 23 May 1997 (age 20)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Liverpool"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Ashley Young",
+            "wiki_url": "/wiki/Ashley_Young",
+            "pos": "MF",
+            "dob": "(1985-07-09) 9 July 1985 (age 32)",
+            "caps": "31",
+            "goals": "7",
+            "club": " Manchester United"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Eric Dier",
+            "wiki_url": "/wiki/Eric_Dier",
+            "pos": "MF",
+            "dob": "(1994-01-15) 15 January 1994 (age 24)",
+            "caps": "23",
+            "goals": "3",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Jesse Lingard",
+            "wiki_url": "/wiki/Jesse_Lingard",
+            "pos": "MF",
+            "dob": "(1992-12-15) 15 December 1992 (age 25)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Manchester United"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Jake Livermore",
+            "wiki_url": "/wiki/Jake_Livermore",
+            "pos": "MF",
+            "dob": "(1989-11-14) 14 November 1989 (age 28)",
+            "caps": "7",
+            "goals": "0",
+            "club": " West Bromwich Albion"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Ruben Loftus-Cheek",
+            "wiki_url": "/wiki/Ruben_Loftus-Cheek",
+            "pos": "MF",
+            "dob": "(1996-01-23) 23 January 1996 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Crystal Palace"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Jack Cork",
+            "wiki_url": "/wiki/Jack_Cork",
+            "pos": "MF",
+            "dob": "(1989-06-25) 25 June 1989 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Burnley"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Lewis Cook",
+            "wiki_url": "/wiki/Lewis_Cook_(footballer,_born_1997)",
+            "pos": "MF",
+            "dob": "(1997-02-03) 3 February 1997 (age 20)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Bournemouth"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Jamie Vardy",
+            "wiki_url": "/wiki/Jamie_Vardy",
+            "pos": "FW",
+            "dob": "(1987-01-11) 11 January 1987 (age 31)",
+            "caps": "19",
+            "goals": "6",
+            "club": " Leicester City"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Marcus Rashford",
+            "wiki_url": "/wiki/Marcus_Rashford",
+            "pos": "FW",
+            "dob": "(1997-10-31) 31 October 1997 (age 20)",
+            "caps": "15",
+            "goals": "2",
+            "club": " Manchester United"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Tammy Abraham",
+            "wiki_url": "/wiki/Tammy_Abraham",
+            "pos": "FW",
+            "dob": "(1997-10-02) 2 October 1997 (age 20)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Swansea City"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Dominic Solanke",
+            "wiki_url": "/wiki/Dominic_Solanke",
+            "pos": "FW",
+            "dob": "(1997-09-14) 14 September 1997 (age 20)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Liverpool"
+        },
+        {
+            "name": "Jack Butland",
+            "wiki_url": "/wiki/Jack_Butland",
+            "pos": "GK",
+            "dob": "(1993-03-10) 10 March 1993 (age 24)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Stoke City"
+        },
+        {
+            "name": "Fraser Forster",
+            "wiki_url": "/wiki/Fraser_Forster",
+            "pos": "GK",
+            "dob": "(1988-03-17) 17 March 1988 (age 29)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Southampton"
+        },
+        {
+            "name": "Tom Heaton",
+            "wiki_url": "/wiki/Tom_Heaton",
+            "pos": "GK",
+            "dob": "(1986-04-15) 15 April 1986 (age 31)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Burnley"
+        },
+        {
+            "name": "Phil Jones",
+            "wiki_url": "/wiki/Phil_Jones_(footballer,_born_1992)",
+            "pos": "DF",
+            "dob": "(1992-02-21) 21 February 1992 (age 25)",
+            "caps": "24",
+            "goals": "0",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Chris Smalling",
+            "wiki_url": "/wiki/Chris_Smalling",
+            "pos": "DF",
+            "dob": "(1989-11-22) 22 November 1989 (age 28)",
+            "caps": "31",
+            "goals": "1",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Aaron Cresswell",
+            "wiki_url": "/wiki/Aaron_Cresswell",
+            "pos": "DF",
+            "dob": "(1989-12-15) 15 December 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " West Ham United"
+        },
+        {
+            "name": "Ben Gibson",
+            "wiki_url": "/wiki/Ben_Gibson",
+            "pos": "DF",
+            "dob": "(1993-01-15) 15 January 1993 (age 25)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Middlesbrough"
+        },
+        {
+            "name": "Nathaniel Clyne",
+            "wiki_url": "/wiki/Nathaniel_Clyne",
+            "pos": "DF",
+            "dob": "(1991-04-05) 5 April 1991 (age 26)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Liverpool"
+        },
+        {
+            "name": "Luke Shaw",
+            "wiki_url": "/wiki/Luke_Shaw",
+            "pos": "DF",
+            "dob": "(1995-07-12) 12 July 1995 (age 22)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Manchester United"
+        },
+        {
+            "name": "Jordan Henderson",
+            "wiki_url": "/wiki/Jordan_Henderson",
+            "pos": "MF",
+            "dob": "(1990-06-17) 17 June 1990 (age 27)",
+            "caps": "36",
+            "goals": "0",
+            "club": " Liverpool"
+        },
+        {
+            "name": "Raheem Sterling",
+            "wiki_url": "/wiki/Raheem_Sterling",
+            "pos": "MF",
+            "dob": "(1994-12-08) 8 December 1994 (age 23)",
+            "caps": "35",
+            "goals": "2",
+            "club": " Manchester City"
+        },
+        {
+            "name": "Dele Alli",
+            "wiki_url": "/wiki/Dele_Alli",
+            "pos": "MF",
+            "dob": "(1996-04-11) 11 April 1996 (age 21)",
+            "caps": "22",
+            "goals": "2",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "name": "Fabian Delph",
+            "wiki_url": "/wiki/Fabian_Delph",
+            "pos": "MF",
+            "dob": "(1989-11-21) 21 November 1989 (age 28)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Manchester City"
+        },
+        {
+            "name": "Harry Winks",
+            "wiki_url": "/wiki/Harry_Winks",
+            "pos": "MF",
+            "dob": "(1996-02-02) 2 February 1996 (age 21)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "name": "Alex Oxlade-Chamberlain",
+            "wiki_url": "/wiki/Alex_Oxlade-Chamberlain",
+            "pos": "MF",
+            "dob": "(1993-08-15) 15 August 1993 (age 24)",
+            "caps": "30",
+            "goals": "6",
+            "club": " Liverpool"
+        },
+        {
+            "name": "Nathaniel Chalobah",
+            "wiki_url": "/wiki/Nathaniel_Chalobah",
+            "pos": "MF",
+            "dob": "(1994-12-12) 12 December 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Watford"
+        },
+        {
+            "name": "Adam Lallana",
+            "wiki_url": "/wiki/Adam_Lallana",
+            "pos": "MF",
+            "dob": "(1988-05-10) 10 May 1988 (age 29)",
+            "caps": "33",
+            "goals": "3",
+            "club": " Liverpool"
+        },
+        {
+            "name": "Ross Barkley",
+            "wiki_url": "/wiki/Ross_Barkley",
+            "pos": "MF",
+            "dob": "(1993-12-05) 5 December 1993 (age 24)",
+            "caps": "22",
+            "goals": "2",
+            "club": " Chelsea"
+        },
+        {
+            "name": "Nathan Redmond",
+            "wiki_url": "/wiki/Nathan_Redmond",
+            "pos": "MF",
+            "dob": "(1994-03-06) 6 March 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Southampton"
+        },
+        {
+            "name": "James Ward-Prowse",
+            "wiki_url": "/wiki/James_Ward-Prowse",
+            "pos": "MF",
+            "dob": "(1994-11-01) 1 November 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Southampton"
+        },
+        {
+            "name": "Michail Antonio",
+            "wiki_url": "/wiki/Michail_Antonio",
+            "pos": "MF",
+            "dob": "(1990-03-28) 28 March 1990 (age 27)",
+            "caps": "0",
+            "goals": "0",
+            "club": " West Ham United"
+        },
+        {
+            "name": "Harry Kane",
+            "wiki_url": "/wiki/Harry_Kane",
+            "pos": "FW",
+            "dob": "(1993-07-28) 28 July 1993 (age 24)",
+            "caps": "23",
+            "goals": "12",
+            "club": " Tottenham Hotspur"
+        },
+        {
+            "name": "Jermain Defoe",
+            "wiki_url": "/wiki/Jermain_Defoe",
+            "pos": "FW",
+            "dob": "(1982-10-07) 7 October 1982 (age 35)",
+            "caps": "57",
+            "goals": "20",
+            "club": " Bournemouth"
+        },
+        {
+            "name": "Daniel Sturridge",
+            "wiki_url": "/wiki/Daniel_Sturridge",
+            "pos": "FW",
+            "dob": "(1989-09-01) 1 September 1989 (age 28)",
+            "caps": "26",
+            "goals": "8",
+            "club": " Liverpool"
+        },
+        {
+            "name": "Danny Welbeck",
+            "wiki_url": "/wiki/Danny_Welbeck",
+            "pos": "FW",
+            "dob": "(1990-11-26) 26 November 1990 (age 27)",
+            "caps": "36",
+            "goals": "15",
+            "club": " Arsenal"
+        }
+    ],
+    "captain": "Various[a]",
+    "coach": "Gareth Southgate"
+}

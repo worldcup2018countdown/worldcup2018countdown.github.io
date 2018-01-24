@@ -1,0 +1,380 @@
+{
+    "name": "Uruguay",
+    "squad": [
+        {
+            "jerseyNumber": "23",
+            "name": "Martín Silva",
+            "wiki_url": "/wiki/Mart%C3%ADn_Silva",
+            "pos": "GK",
+            "dob": "(1983-03-23) March 23, 1983 (age 34)",
+            "caps": "11",
+            "goals": "0",
+            "club": " Vasco da Gama"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Martín Campaña",
+            "wiki_url": "/wiki/Mart%C3%ADn_Campa%C3%B1a",
+            "pos": "GK",
+            "dob": "(1989-05-29) May 29, 1989 (age 28)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Independiente"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Maxi Pereira",
+            "wiki_url": "/wiki/Maxi_Pereira",
+            "pos": "DF",
+            "dob": "(1984-06-08) June 8, 1984 (age 33)",
+            "caps": "124",
+            "goals": "3",
+            "club": " Porto"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Diego Godín ",
+            "wiki_url": "/wiki/Diego_God%C3%ADn",
+            "pos": "DF",
+            "dob": "(1986-02-16) February 16, 1986 (age 31)",
+            "caps": "113",
+            "goals": "8",
+            "club": " Atlético Madrid"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "José María Giménez",
+            "wiki_url": "/wiki/Jos%C3%A9_Gim%C3%A9nez",
+            "pos": "DF",
+            "dob": "(1995-01-20) January 20, 1995 (age 23)",
+            "caps": "39",
+            "goals": "4",
+            "club": " Atlético Madrid"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Gastón Silva",
+            "wiki_url": "/wiki/Gast%C3%B3n_Silva",
+            "pos": "DF",
+            "dob": "(1994-03-05) March 5, 1994 (age 23)",
+            "caps": "16",
+            "goals": "0",
+            "club": " Independiente"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Mauricio Lemos",
+            "wiki_url": "/wiki/Mauricio_Lemos",
+            "pos": "DF",
+            "dob": "(1995-12-28) December 28, 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Las Palmas"
+        },
+        {
+            "jerseyNumber": "24",
+            "name": "Guillermo Varela",
+            "wiki_url": "/wiki/Guillermo_Varela",
+            "pos": "DF",
+            "dob": "(1993-03-24) March 24, 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Peñarol"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Cristian Rodríguez",
+            "wiki_url": "/wiki/Cristian_Rodr%C3%ADguez",
+            "pos": "MF",
+            "dob": "(1985-09-30) September 30, 1985 (age 32)",
+            "caps": "102",
+            "goals": "11",
+            "club": " Peñarol"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Álvaro González",
+            "wiki_url": "/wiki/%C3%81lvaro_Rafael_Gonz%C3%A1lez",
+            "pos": "MF",
+            "dob": "(1984-10-29) October 29, 1984 (age 33)",
+            "caps": "73",
+            "goals": "3",
+            "club": " Nacional"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Nicolás Lodeiro",
+            "wiki_url": "/wiki/Nicol%C3%A1s_Lodeiro",
+            "pos": "MF",
+            "dob": "(1989-03-21) March 21, 1989 (age 28)",
+            "caps": "53",
+            "goals": "4",
+            "club": " Seattle Sounders"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Carlos Sánchez",
+            "wiki_url": "/wiki/Carlos_Andr%C3%A9s_S%C3%A1nchez",
+            "pos": "MF",
+            "dob": "(1984-12-02) December 2, 1984 (age 33)",
+            "caps": "34",
+            "goals": "1",
+            "club": " Monterrey"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Matías Vecino",
+            "wiki_url": "/wiki/Mat%C3%ADas_Vecino",
+            "pos": "MF",
+            "dob": "(1991-08-24) August 24, 1991 (age 26)",
+            "caps": "19",
+            "goals": "1",
+            "club": " Internazionale"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Giorgian De Arrascaeta",
+            "wiki_url": "/wiki/Giorgian_De_Arrascaeta",
+            "pos": "MF",
+            "dob": "(1994-05-01) May 1, 1994 (age 23)",
+            "caps": "12",
+            "goals": "1",
+            "club": " Cruzeiro"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Nahitan Nández",
+            "wiki_url": "/wiki/Nahitan_N%C3%A1ndez",
+            "pos": "MF",
+            "dob": "(1995-12-28) December 28, 1995 (age 22)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Boca Juniors"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Federico Valverde",
+            "wiki_url": "/wiki/Federico_Valverde",
+            "pos": "MF",
+            "dob": "(1998-07-22) July 22, 1998 (age 19)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Deportivo La Coruña"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Rodrigo Bentancur",
+            "wiki_url": "/wiki/Rodrigo_Bentancur",
+            "pos": "MF",
+            "dob": "(1997-06-05) June 5, 1997 (age 20)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Juventus"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Edinson Cavani",
+            "wiki_url": "/wiki/Edinson_Cavani",
+            "pos": "FW",
+            "dob": "(1987-02-14) February 14, 1987 (age 30)",
+            "caps": "98",
+            "goals": "40",
+            "club": " Paris Saint-Germain"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Cristhian Stuani",
+            "wiki_url": "/wiki/Cristhian_Stuani",
+            "pos": "FW",
+            "dob": "(1986-12-10) December 10, 1986 (age 31)",
+            "caps": "38",
+            "goals": "5",
+            "club": " Girona"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Jonathan Urretaviscaya",
+            "wiki_url": "/wiki/Jonathan_Urretaviscaya",
+            "pos": "FW",
+            "dob": "(1990-03-19) March 19, 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Monterrey"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Maximiliano Gómez",
+            "wiki_url": "/wiki/Maximiliano_G%C3%B3mez_Gonz%C3%A1lez",
+            "pos": "FW",
+            "dob": "(1996-08-14) August 14, 1996 (age 21)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Celta"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Gastón Pereiro",
+            "wiki_url": "/wiki/Gast%C3%B3n_Pereiro",
+            "pos": "FW",
+            "dob": "(1995-06-11) June 11, 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " PSV"
+        },
+        {
+            "name": "Fernando Muslera",
+            "wiki_url": "/wiki/Fernando_Muslera",
+            "pos": "GK",
+            "dob": "(1986-06-16) June 16, 1986 (age 31)",
+            "caps": "94",
+            "goals": "0",
+            "club": " Galatasaray"
+        },
+        {
+            "name": "Esteban Conde",
+            "wiki_url": "/wiki/Esteban_Conde",
+            "pos": "GK",
+            "dob": "(1983-03-04) March 4, 1983 (age 34)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Nacional"
+        },
+        {
+            "name": "Gastón Guruceaga",
+            "wiki_url": "/wiki/Gast%C3%B3n_Guruceaga",
+            "pos": "GK",
+            "dob": "(1995-03-15) March 15, 1995 (age 22)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Peñarol"
+        },
+        {
+            "name": "Martín Cáceres",
+            "wiki_url": "/wiki/Mart%C3%ADn_C%C3%A1ceres",
+            "pos": "DF",
+            "dob": "(1987-04-07) April 7, 1987 (age 30)",
+            "caps": "75",
+            "goals": "4",
+            "club": " Lazio"
+        },
+        {
+            "name": "Sebastián Coates",
+            "wiki_url": "/wiki/Sebasti%C3%A1n_Coates",
+            "pos": "DF",
+            "dob": "(1990-10-07) October 7, 1990 (age 27)",
+            "caps": "29",
+            "goals": "1",
+            "club": " Sporting CP"
+        },
+        {
+            "name": "Federico Ricca",
+            "wiki_url": "/wiki/Federico_Ricca",
+            "pos": "DF",
+            "dob": "(1994-12-01) December 1, 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Málaga"
+        },
+        {
+            "name": "Alejandro Silva",
+            "wiki_url": "/wiki/Alejandro_Silva_Gonz%C3%A1lez",
+            "pos": "DF",
+            "dob": "(1989-09-04) September 4, 1989 (age 28)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Lanús"
+        },
+        {
+            "name": "Jorge Fucile",
+            "wiki_url": "/wiki/Jorge_Fucile",
+            "pos": "DF",
+            "dob": "(1984-11-19) November 19, 1984 (age 33)",
+            "caps": "49",
+            "goals": "0",
+            "club": " Nacional"
+        },
+        {
+            "name": "Álvaro Pereira",
+            "wiki_url": "/wiki/%C3%81lvaro_Pereira",
+            "pos": "DF",
+            "dob": "(1985-11-28) November 28, 1985 (age 32)",
+            "caps": "84",
+            "goals": "7",
+            "club": " Cerro Porteño"
+        },
+        {
+            "name": "Egidio Arévalo Ríos",
+            "wiki_url": "/wiki/Egidio_Ar%C3%A9valo_R%C3%ADos",
+            "pos": "MF",
+            "dob": "(1982-01-01) January 1, 1982 (age 36)",
+            "caps": "90",
+            "goals": "0",
+            "club": " Racing"
+        },
+        {
+            "name": "Mathías Corujo",
+            "wiki_url": "/wiki/Math%C3%ADas_Corujo",
+            "pos": "MF",
+            "dob": "(1986-05-08) May 8, 1986 (age 31)",
+            "caps": "22",
+            "goals": "1",
+            "club": " Peñarol"
+        },
+        {
+            "name": "Diego Laxalt",
+            "wiki_url": "/wiki/Diego_Laxalt",
+            "pos": "MF",
+            "dob": "(1993-02-07) February 7, 1993 (age 24)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Genoa"
+        },
+        {
+            "name": "Gastón Ramírez",
+            "wiki_url": "/wiki/Gast%C3%B3n_Ram%C3%ADrez",
+            "pos": "MF",
+            "dob": "(1990-12-02) December 2, 1990 (age 27)",
+            "caps": "42",
+            "goals": "0",
+            "club": " Sampdoria"
+        },
+        {
+            "name": "Luis Suárez",
+            "wiki_url": "/wiki/Luis_Su%C3%A1rez",
+            "pos": "FW",
+            "dob": "(1987-01-24) January 24, 1987 (age 30)",
+            "caps": "95",
+            "goals": "49",
+            "club": " Barcelona"
+        },
+        {
+            "name": "Sebastián Fernández",
+            "wiki_url": "/wiki/Sebasti%C3%A1n_Fern%C3%A1ndez",
+            "pos": "FW",
+            "dob": "(1985-05-23) May 23, 1985 (age 32)",
+            "caps": "14",
+            "goals": "2",
+            "club": " Nacional"
+        },
+        {
+            "name": "Abel Hernández",
+            "wiki_url": "/wiki/Abel_Hern%C3%A1ndez",
+            "pos": "FW",
+            "dob": "(1990-08-08) August 8, 1990 (age 27)",
+            "caps": "29",
+            "goals": "11",
+            "club": " Hull City"
+        },
+        {
+            "name": "Diego Rolán",
+            "wiki_url": "/wiki/Diego_Rol%C3%A1n",
+            "pos": "FW",
+            "dob": "(1993-03-24) March 24, 1993 (age 24)",
+            "caps": "25",
+            "goals": "4",
+            "club": " Málaga"
+        }
+    ],
+    "captain": "Diego Godín",
+    "coach": "Óscar Tabárez"
+}

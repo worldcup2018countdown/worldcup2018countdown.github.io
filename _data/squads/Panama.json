@@ -1,0 +1,532 @@
+{
+    "name": "Panama",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Jaime Penedo",
+            "wiki_url": "/wiki/Jaime_Penedo",
+            "pos": "GK",
+            "dob": "(1981-09-26) 26 September 1981 (age 36)",
+            "caps": "128",
+            "goals": "0",
+            "club": " Dinamo București"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "José Calderón",
+            "wiki_url": "/wiki/Jos%C3%A9_Calder%C3%B3n_(Panamanian_footballer)",
+            "pos": "GK",
+            "dob": "(1985-08-14) 14 August 1985 (age 32)",
+            "caps": "29",
+            "goals": "0",
+            "club": " Marathón"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Felipe Baloy (Captain)",
+            "wiki_url": "/wiki/Felipe_Baloy",
+            "pos": "DF",
+            "dob": "(1981-02-24) 24 February 1981 (age 36)",
+            "caps": "99",
+            "goals": "3",
+            "club": " Municipal"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Erick Davis",
+            "wiki_url": "/wiki/Erick_Davis",
+            "pos": "DF",
+            "dob": "(1991-03-31) 31 March 1991 (age 26)",
+            "caps": "36",
+            "goals": "0",
+            "club": " Dunajská Streda"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Luis Ovalle",
+            "wiki_url": "/wiki/Luis_Ovalle",
+            "pos": "DF",
+            "dob": "(1988-09-07) 7 September 1988 (age 29)",
+            "caps": "23",
+            "goals": "0",
+            "club": " Deportes Tolima"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Roberto Chen",
+            "wiki_url": "/wiki/Roberto_Chen",
+            "pos": "DF",
+            "dob": "(1994-05-24) 24 May 1994 (age 23)",
+            "caps": "22",
+            "goals": "1",
+            "club": " Árabe Unido"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Fidel Escobar",
+            "wiki_url": "/wiki/Fidel_Escobar",
+            "pos": "DF",
+            "dob": "(1995-01-09) 9 January 1995 (age 23)",
+            "caps": "20",
+            "goals": "1",
+            "club": " New York Red Bulls"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Michael Murillo",
+            "wiki_url": "/wiki/Michael_Amir_Murillo",
+            "pos": "DF",
+            "dob": "(1996-02-15) 15 February 1996 (age 21)",
+            "caps": "19",
+            "goals": "2",
+            "club": " New York Red Bulls"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Jan Carlos Vargas",
+            "wiki_url": "/wiki/Jan_Carlos_Vargas",
+            "pos": "DF",
+            "dob": "(1995-03-13) 13 March 1995 (age 22)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Tauro"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Armando Cooper",
+            "wiki_url": "/wiki/Armando_Cooper",
+            "pos": "MF",
+            "dob": "(1987-11-26) 26 November 1987 (age 30)",
+            "caps": "96",
+            "goals": "7",
+            "club": " Toronto"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Marcos Sánchez",
+            "wiki_url": "/wiki/Marcos_S%C3%A1nchez",
+            "pos": "MF",
+            "dob": "(1989-12-23) 23 December 1989 (age 28)",
+            "caps": "35",
+            "goals": "2",
+            "club": " Tauro"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Ricardo Buitrago",
+            "wiki_url": "/wiki/Ricardo_Buitrago",
+            "pos": "MF",
+            "dob": "(1985-03-10) 10 March 1985 (age 32)",
+            "caps": "27",
+            "goals": "3",
+            "club": " Deportivo Municipal"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Josiel Núñez",
+            "wiki_url": "/wiki/Josiel_N%C3%BA%C3%B1ez",
+            "pos": "MF",
+            "dob": "(1993-01-29) 29 January 1993 (age 24)",
+            "caps": "13",
+            "goals": "1",
+            "club": " Árabe Unido"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "José González",
+            "wiki_url": "/wiki/Jos%C3%A9_Gonz%C3%A1lez_Joly",
+            "pos": "MF",
+            "dob": "(1991-05-05) 5 May 1991 (age 26)",
+            "caps": "9",
+            "goals": "0",
+            "club": " Árabe Unido"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Manuel Vargas",
+            "wiki_url": "/w/index.php?title=Manuel_Vargas_(footballer)&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1991-01-19) 19 January 1991 (age 27)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Chorrillo"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Leslie Heráldez",
+            "wiki_url": "/w/index.php?title=Leslie_Her%C3%A1ldez&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1993-03-30) 30 March 1993 (age 24)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Árabe Unido"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Ricardo Ávila",
+            "wiki_url": "/wiki/Ricardo_%C3%81vila",
+            "pos": "MF",
+            "dob": "(1997-01-04) 4 January 1997 (age 21)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Gent II"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Blas Pérez",
+            "wiki_url": "/wiki/Blas_P%C3%A9rez",
+            "pos": "FW",
+            "dob": "(1981-03-13) 13 March 1981 (age 36)",
+            "caps": "115",
+            "goals": "43",
+            "club": " Municipal"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Gabriel Torres",
+            "wiki_url": "/wiki/Gabriel_Torres",
+            "pos": "FW",
+            "dob": "(1988-10-31) 31 October 1988 (age 29)",
+            "caps": "70",
+            "goals": "14",
+            "club": " Huachipato"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Ismael Díaz",
+            "wiki_url": "/wiki/Ismael_D%C3%ADaz_(Panamanian_footballer)",
+            "pos": "FW",
+            "dob": "(1997-05-12) 12 May 1997 (age 20)",
+            "caps": "10",
+            "goals": "2",
+            "club": " Deportivo Fabril"
+        },
+        {
+            "jerseyNumber": "",
+            "name": "Alfredo Stephens",
+            "wiki_url": "/wiki/Alfredo_Stephens",
+            "pos": "FW",
+            "dob": "(1995-03-13) 13 March 1995 (age 22)",
+            "caps": "10",
+            "goals": "1",
+            "club": " Chorrillo"
+        },
+        {
+            "name": "Álex Rodríguez",
+            "wiki_url": "/wiki/%C3%81lex_Rodr%C3%ADguez_(Panamanian_footballer)",
+            "pos": "GK",
+            "dob": "(1990-08-05) 5 August 1990 (age 27)",
+            "caps": "6",
+            "goals": "0",
+            "club": " San Francisco"
+        },
+        {
+            "name": "Orlando Mosquera",
+            "wiki_url": "/w/index.php?title=Orlando_Mosquera&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1994-12-25) 25 December 1994 (age 23)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Tauro"
+        },
+        {
+            "name": "Eric Hughes",
+            "wiki_url": "/w/index.php?title=Eric_Hughes_Guevara&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1986-07-11) 11 July 1986 (age 31)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Plaza Amador"
+        },
+        {
+            "name": "Román Torres",
+            "wiki_url": "/wiki/Rom%C3%A1n_Torres",
+            "pos": "DF",
+            "dob": "(1986-03-20) 20 March 1986 (age 31)",
+            "caps": "106",
+            "goals": "10",
+            "club": " Seattle Sounders"
+        },
+        {
+            "name": "Adolfo Machado",
+            "wiki_url": "/wiki/Adolfo_Machado",
+            "pos": "DF",
+            "dob": "(1985-02-14) 14 February 1985 (age 32)",
+            "caps": "72",
+            "goals": "1",
+            "club": " Houston Dynamo"
+        },
+        {
+            "name": "Richard Peralta",
+            "wiki_url": "/wiki/Richard_Peralta",
+            "pos": "DF",
+            "dob": "(1993-09-20) 20 September 1993 (age 24)",
+            "caps": "6",
+            "goals": "0",
+            "club": " Tauro"
+        },
+        {
+            "name": "Azmahar Ariano",
+            "wiki_url": "/wiki/Azmahar_Ariano",
+            "pos": "DF",
+            "dob": "(1991-01-14) 14 January 1991 (age 27)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Árabe Unido"
+        },
+        {
+            "name": "Sergio Ortega",
+            "wiki_url": "/wiki/Sergio_Ortega_Leguias",
+            "pos": "DF",
+            "dob": "(1990-04-18) 18 April 1990 (age 27)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Plaza Amador"
+        },
+        {
+            "name": "Roderick Miller",
+            "wiki_url": "/wiki/Roderick_Miller_(footballer)",
+            "pos": "DF",
+            "dob": "(1992-04-03) 3 April 1992 (age 25)",
+            "caps": "28",
+            "goals": "1",
+            "club": " Atlético Nacional"
+        },
+        {
+            "name": "Ángel Patrick",
+            "wiki_url": "/wiki/%C3%81ngel_Patrick",
+            "pos": "DF",
+            "dob": "(1992-02-27) 27 February 1992 (age 25)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Árabe Unido"
+        },
+        {
+            "name": "Richard Dixon",
+            "wiki_url": "/wiki/Richard_Dixon_(footballer,_born_1992)",
+            "pos": "DF",
+            "dob": "(1992-03-28) 28 March 1992 (age 25)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Águila"
+        },
+        {
+            "name": "Harold Cummings",
+            "wiki_url": "/wiki/Harold_Cummings",
+            "pos": "DF",
+            "dob": "(1992-03-01) 1 March 1992 (age 25)",
+            "caps": "50",
+            "goals": "0",
+            "club": " San Jose Earthquakes"
+        },
+        {
+            "name": "Gabriel Gómez",
+            "wiki_url": "/wiki/Gabriel_Enrique_G%C3%B3mez",
+            "pos": "MF",
+            "dob": "(1984-05-29) 29 May 1984 (age 33)",
+            "caps": "140",
+            "goals": "12",
+            "club": " Atlético Bucaramanga"
+        },
+        {
+            "name": "Aníbal Godoy",
+            "wiki_url": "/wiki/An%C3%ADbal_Godoy",
+            "pos": "MF",
+            "dob": "(1990-02-10) 10 February 1990 (age 27)",
+            "caps": "85",
+            "goals": "2",
+            "club": " San Jose Earthquakes"
+        },
+        {
+            "name": "Édgar Bárcenas",
+            "wiki_url": "/wiki/%C3%89dgar_Joel_B%C3%A1rcenas",
+            "pos": "MF",
+            "dob": "(1993-10-23) 23 October 1993 (age 24)",
+            "caps": "25",
+            "goals": "0",
+            "club": " Tapachula"
+        },
+        {
+            "name": "Chamell Asprilla",
+            "wiki_url": "/wiki/Chamell_Asprilla",
+            "pos": "MF",
+            "dob": "(1998-08-11) 11 August 1998 (age 19)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Árabe Unido"
+        },
+        {
+            "name": "Eduardo Guerrero",
+            "wiki_url": "/wiki/Eduardo_Guerrero_(footballer)",
+            "pos": "MF",
+            "dob": "(2000-02-21) 21 February 2000 (age 17)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Chorrillo"
+        },
+        {
+            "name": "Alberto Quintero",
+            "wiki_url": "/wiki/Alberto_Quintero_Medina",
+            "pos": "MF",
+            "dob": "(1987-12-18) 18 December 1987 (age 30)",
+            "caps": "89",
+            "goals": "5",
+            "club": " Universitario"
+        },
+        {
+            "name": "Valentín Pimentel",
+            "wiki_url": "/wiki/Valent%C3%ADn_Pimentel",
+            "pos": "MF",
+            "dob": "(1991-05-30) 30 May 1991 (age 26)",
+            "caps": "19",
+            "goals": "1",
+            "club": " Plaza Amador"
+        },
+        {
+            "name": "Miguel Camargo",
+            "wiki_url": "/wiki/Miguel_Camargo",
+            "pos": "MF",
+            "dob": "(1993-09-05) 5 September 1993 (age 24)",
+            "caps": "17",
+            "goals": "2",
+            "club": " New York City"
+        },
+        {
+            "name": "Armando Polo",
+            "wiki_url": "/wiki/Armando_Polo",
+            "pos": "MF",
+            "dob": "(1990-04-02) 2 April 1990 (age 27)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Tauro"
+        },
+        {
+            "name": "Óscar Villarreal",
+            "wiki_url": "/w/index.php?title=%C3%93scar_Villarreal_(football)&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1995-02-03) 3 February 1995 (age 22)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Chorrillo"
+        },
+        {
+            "name": "Josimar Gómez",
+            "wiki_url": "/w/index.php?title=Josimar_G%C3%B3mez&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1992-06-28) 28 June 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Árabe Unido"
+        },
+        {
+            "name": "Francisco Castañeda",
+            "wiki_url": "/w/index.php?title=Francisco_Casta%C3%B1eda&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1988-11-23) 23 November 1988 (age 29)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Atlético Veragüense"
+        },
+        {
+            "name": "Luis Tejada",
+            "wiki_url": "/wiki/Luis_Tejada",
+            "pos": "FW",
+            "dob": "(1982-03-28) 28 March 1982 (age 35)",
+            "caps": "104",
+            "goals": "43",
+            "club": " Sport Boys"
+        },
+        {
+            "name": "Abdiel Arroyo",
+            "wiki_url": "/wiki/Abdiel_Arroyo",
+            "pos": "FW",
+            "dob": "(1993-12-13) 13 December 1993 (age 24)",
+            "caps": "32",
+            "goals": "5",
+            "club": " Danubio"
+        },
+        {
+            "name": "Roberto Nurse",
+            "wiki_url": "/wiki/Roberto_Nurse",
+            "pos": "FW",
+            "dob": "(1983-12-16) 16 December 1983 (age 34)",
+            "caps": "19",
+            "goals": "3",
+            "club": " Zacatecas"
+        },
+        {
+            "name": "Carlos Small",
+            "wiki_url": "/wiki/Carlos_Small",
+            "pos": "FW",
+            "dob": "(1995-03-13) 13 March 1995 (age 22)",
+            "caps": "2",
+            "goals": "2",
+            "club": " Árabe Unido"
+        },
+        {
+            "name": "Ronaldo Dinolis",
+            "wiki_url": "/w/index.php?title=Ronaldo_Dinolis&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1994-11-17) 17 November 1994 (age 23)",
+            "caps": "1",
+            "goals": "2",
+            "club": " Sporting San Miguelito"
+        },
+        {
+            "name": "José Fajardo",
+            "wiki_url": "/w/index.php?title=Jos%C3%A9_Fajardo_(footballer)&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1993-08-18) 18 August 1993 (age 24)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Independiente Chorrera"
+        },
+        {
+            "name": "Ricardo Clarke",
+            "wiki_url": "/wiki/Ricardo_Clarke",
+            "pos": "FW",
+            "dob": "(1992-09-27) 27 September 1992 (age 25)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Boavista"
+        },
+        {
+            "name": "Tony Taylor",
+            "wiki_url": "/wiki/Tony_Taylor_(footballer,_born_1989)",
+            "pos": "FW",
+            "dob": "(1989-07-13) 13 July 1989 (age 28)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Jacksonville Armada"
+        },
+        {
+            "name": "Jorman Aguilar",
+            "wiki_url": "/wiki/Jorman_Aguilar",
+            "pos": "FW",
+            "dob": "(1994-09-11) 11 September 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Estoril Praia"
+        },
+        {
+            "name": "Rolando Blackburn",
+            "wiki_url": "/wiki/Rolando_Blackburn",
+            "pos": "FW",
+            "dob": "(1990-01-09) 9 January 1990 (age 28)",
+            "caps": "26",
+            "goals": "4",
+            "club": " Chorrillo"
+        },
+        {
+            "name": "Enrico Small",
+            "wiki_url": "/w/index.php?title=Enrico_Small&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1989-05-01) 1 May 1989 (age 28)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Árabe Unido"
+        }
+    ],
+    "captain": "Felipe Baloy",
+    "coach": "Hernán Darío Gómez"
+}

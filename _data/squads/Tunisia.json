@@ -1,0 +1,480 @@
+{
+    "name": "Tunisia",
+    "squad": [
+        {
+            "jerseyNumber": "1",
+            "name": "Farouk Ben Mustapha",
+            "wiki_url": "/wiki/Farouk_Ben_Mustapha",
+            "pos": "GK",
+            "dob": "(1989-07-01) 1 July 1989 (age 28)",
+            "caps": "14",
+            "goals": "0",
+            "club": " Al-Shabab"
+        },
+        {
+            "jerseyNumber": "16",
+            "name": "Aymen Mathlouthi (Captain)",
+            "wiki_url": "/wiki/Aymen_Mathlouthi",
+            "pos": "GK",
+            "dob": "(1984-09-14) 14 September 1984 (age 33)",
+            "caps": "69",
+            "goals": "0",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "jerseyNumber": "22",
+            "name": "Moez Ben Cherifia",
+            "wiki_url": "/wiki/Moez_Ben_Cherifia",
+            "pos": "GK",
+            "dob": "(1991-06-24) 24 June 1991 (age 26)",
+            "caps": "18",
+            "goals": "0",
+            "club": " Espérance"
+        },
+        {
+            "jerseyNumber": "2",
+            "name": "Syam Ben Youssef",
+            "wiki_url": "/wiki/Syam_Ben_Youssef",
+            "pos": "DF",
+            "dob": "(1989-12-31) 31 December 1989 (age 28)",
+            "caps": "39",
+            "goals": "1",
+            "club": " Kasımpaşa"
+        },
+        {
+            "jerseyNumber": "4",
+            "name": "Yassine Meriah",
+            "wiki_url": "/wiki/Yassine_Meriah",
+            "pos": "DF",
+            "dob": "(1993-07-02) 2 July 1993 (age 24)",
+            "caps": "11",
+            "goals": "1",
+            "club": " CS Sfaxien"
+        },
+        {
+            "jerseyNumber": "5",
+            "name": "Oussama Haddadi",
+            "wiki_url": "/wiki/Oussama_Haddadi",
+            "pos": "DF",
+            "dob": "(1992-01-28) 28 January 1992 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Dijon"
+        },
+        {
+            "jerseyNumber": "6",
+            "name": "Rami Bedoui",
+            "wiki_url": "/wiki/Rami_Bedoui",
+            "pos": "DF",
+            "dob": "(1990-01-19) 19 January 1990 (age 28)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "jerseyNumber": "12",
+            "name": "Ali Maâloul",
+            "wiki_url": "/wiki/Ali_Ma%C3%A2loul",
+            "pos": "DF",
+            "dob": "(1990-01-01) 1 January 1990 (age 28)",
+            "caps": "41",
+            "goals": "0",
+            "club": " Al Ahly"
+        },
+        {
+            "jerseyNumber": "17",
+            "name": "Hamza Mathlouthi",
+            "wiki_url": "/wiki/Hamza_Mathlouthi",
+            "pos": "DF",
+            "dob": "(1992-05-25) 25 May 1992 (age 25)",
+            "caps": "24",
+            "goals": "0",
+            "club": " CS Sfaxien"
+        },
+        {
+            "jerseyNumber": "19",
+            "name": "Khalil Chemmam",
+            "wiki_url": "/wiki/Khalil_Chemmam",
+            "pos": "DF",
+            "dob": "(1987-07-04) 4 July 1987 (age 30)",
+            "caps": "21",
+            "goals": "0",
+            "club": " Espérance"
+        },
+        {
+            "jerseyNumber": "21",
+            "name": "Hamdi Nagguez",
+            "wiki_url": "/wiki/Hamdi_Nagguez",
+            "pos": "DF",
+            "dob": "(1992-10-28) 28 October 1992 (age 25)",
+            "caps": "13",
+            "goals": "0",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "jerseyNumber": "3",
+            "name": "Aymen Trabelsi",
+            "wiki_url": "/w/index.php?title=Aymen_Trabelsi&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1992-02-17) 17 February 1992 (age 25)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "jerseyNumber": "10",
+            "name": "Wahbi Khazri",
+            "wiki_url": "/wiki/Wahbi_Khazri",
+            "pos": "MF",
+            "dob": "(1991-02-08) 8 February 1991 (age 26)",
+            "caps": "33",
+            "goals": "11",
+            "club": " Rennes"
+        },
+        {
+            "jerseyNumber": "13",
+            "name": "Ferjani Sassi",
+            "wiki_url": "/wiki/Ferjani_Sassi",
+            "pos": "MF",
+            "dob": "(1992-03-18) 18 March 1992 (age 25)",
+            "caps": "34",
+            "goals": "2",
+            "club": " Espérance"
+        },
+        {
+            "jerseyNumber": "14",
+            "name": "Mohamed Ben Amor",
+            "wiki_url": "/wiki/Mohamed_Amine_Ben_Amor",
+            "pos": "MF",
+            "dob": "(1992-01-01) 1 January 1992 (age 26)",
+            "caps": "23",
+            "goals": "1",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "jerseyNumber": "15",
+            "name": "Karim Aouadhi",
+            "wiki_url": "/wiki/Karim_Aouadhi",
+            "pos": "MF",
+            "dob": "(1986-05-02) 2 May 1986 (age 31)",
+            "caps": "9",
+            "goals": "1",
+            "club": " CS Sfaxien"
+        },
+        {
+            "jerseyNumber": "18",
+            "name": "Bassem Srarfi",
+            "wiki_url": "/wiki/Bassem_Srarfi",
+            "pos": "MF",
+            "dob": "(1997-06-25) 25 June 1997 (age 20)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Nice"
+        },
+        {
+            "jerseyNumber": "20",
+            "name": "Ghailene Chaalali",
+            "wiki_url": "/wiki/Ghailene_Chaalali",
+            "pos": "MF",
+            "dob": "(1994-02-28) 28 February 1994 (age 23)",
+            "caps": "4",
+            "goals": "1",
+            "club": " Espérance"
+        },
+        {
+            "jerseyNumber": "7",
+            "name": "Youssef Msakni",
+            "wiki_url": "/wiki/Youssef_Msakni",
+            "pos": "FW",
+            "dob": "(1990-10-28) 28 October 1990 (age 27)",
+            "caps": "51",
+            "goals": "14",
+            "club": " Al-Duhail"
+        },
+        {
+            "jerseyNumber": "8",
+            "name": "Fakhreddine Ben Youssef",
+            "wiki_url": "/wiki/Fakhreddine_Ben_Youssef",
+            "pos": "FW",
+            "dob": "(1991-06-21) 21 June 1991 (age 26)",
+            "caps": "29",
+            "goals": "4",
+            "club": " Espérance"
+        },
+        {
+            "jerseyNumber": "9",
+            "name": "Yoann Touzghar",
+            "wiki_url": "/wiki/Yoann_Touzghar",
+            "pos": "FW",
+            "dob": "(1986-11-28) 28 November 1986 (age 31)",
+            "caps": "3",
+            "goals": "1",
+            "club": " Auxerre"
+        },
+        {
+            "jerseyNumber": "11",
+            "name": "Taha Khenissi",
+            "wiki_url": "/wiki/Taha_Yassine_Khenissi",
+            "pos": "FW",
+            "dob": "(1992-01-06) 6 January 1992 (age 26)",
+            "caps": "21",
+            "goals": "5",
+            "club": " Espérance"
+        },
+        {
+            "jerseyNumber": "23",
+            "name": "Anice Badri",
+            "wiki_url": "/wiki/Anice_Badri",
+            "pos": "FW",
+            "dob": "(1990-08-18) 18 August 1990 (age 27)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Espérance"
+        },
+        {
+            "name": "Mohamed Gaaloul",
+            "wiki_url": "/w/index.php?title=Mohamed_Hedi_Gaaloul&action=edit&redlink=1",
+            "pos": "GK",
+            "dob": "(1989-04-30) 30 April 1989 (age 28)",
+            "caps": "0",
+            "goals": "0",
+            "club": " CS Sfaxien"
+        },
+        {
+            "name": "Rami Jridi",
+            "wiki_url": "/wiki/Rami_Jridi",
+            "pos": "GK",
+            "dob": "(1985-04-25) 25 April 1985 (age 32)",
+            "caps": "17",
+            "goals": "0",
+            "club": " CS Sfaxien"
+        },
+        {
+            "name": "Dylan Bronn",
+            "wiki_url": "/wiki/Dylan_Bronn",
+            "pos": "DF",
+            "dob": "(1995-06-19) 19 June 1995 (age 22)",
+            "caps": "1",
+            "goals": "0",
+            "club": " Gent"
+        },
+        {
+            "name": "Walid Hichri",
+            "wiki_url": "/wiki/Walid_Hichri",
+            "pos": "DF",
+            "dob": "(1986-03-05) 5 March 1986 (age 31)",
+            "caps": "14",
+            "goals": "1",
+            "club": " US Monastir"
+        },
+        {
+            "name": "Chamseddine Dhaouadi",
+            "wiki_url": "/wiki/Chamseddine_Dhaouadi",
+            "pos": "DF",
+            "dob": "(1987-01-16) 16 January 1987 (age 31)",
+            "caps": "10",
+            "goals": "0",
+            "club": " Espérance"
+        },
+        {
+            "name": "Zied Boughattas",
+            "wiki_url": "/wiki/Zied_Boughattas",
+            "pos": "DF",
+            "dob": "(1987-07-21) 21 July 1987 (age 30)",
+            "caps": "7",
+            "goals": "0",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "name": "Aymen Belaïd",
+            "wiki_url": "/wiki/Aymen_Bela%C3%AFd",
+            "pos": "DF",
+            "dob": "(1989-01-02) 2 January 1989 (age 29)",
+            "caps": "3",
+            "goals": "0",
+            "club": " Levski Sofia"
+        },
+        {
+            "name": "Aymen Abdennour",
+            "wiki_url": "/wiki/Aymen_Abdennour",
+            "pos": "DF",
+            "dob": "(1989-08-06) 6 August 1989 (age 28)",
+            "caps": "54",
+            "goals": "2",
+            "club": " Marseille"
+        },
+        {
+            "name": "Mohamed Ali Yacoubi",
+            "wiki_url": "/wiki/Mohamed_Ali_Yacoubi",
+            "pos": "DF",
+            "dob": "(1990-10-05) 5 October 1990 (age 27)",
+            "caps": "8",
+            "goals": "0",
+            "club": " Al-Fateh"
+        },
+        {
+            "name": "Iheb Mbarki",
+            "wiki_url": "/wiki/Iheb_Mbarki",
+            "pos": "DF",
+            "dob": "(1992-02-14) 14 February 1992 (age 25)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Espérance"
+        },
+        {
+            "name": "Sliman Kchouk",
+            "wiki_url": "/wiki/Sliman_Kchouk",
+            "pos": "DF",
+            "dob": "(1994-05-07) 7 May 1994 (age 23)",
+            "caps": "1",
+            "goals": "0",
+            "club": " CA Bizertin"
+        },
+        {
+            "name": "Mohamed Ali Moncer",
+            "wiki_url": "/wiki/Mohamed_Ali_Moncer",
+            "pos": "MF",
+            "dob": "(1991-04-28) 28 April 1991 (age 26)",
+            "caps": "17",
+            "goals": "3",
+            "club": " Al-Ittihad Alexandria"
+        },
+        {
+            "name": "Naïm Sliti",
+            "wiki_url": "/wiki/Na%C3%AFm_Sliti",
+            "pos": "MF",
+            "dob": "(1992-07-27) 27 July 1992 (age 25)",
+            "caps": "10",
+            "goals": "3",
+            "club": " Dijon"
+        },
+        {
+            "name": "Ahmed Khalil",
+            "wiki_url": "/wiki/Ahmed_Khalil_(footballer,_born_1994)",
+            "pos": "MF",
+            "dob": "(1994-11-21) 21 November 1994 (age 23)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Club Africain"
+        },
+        {
+            "name": "Hamza Jelassi",
+            "wiki_url": "/w/index.php?title=Hamza_Jelassi&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1991-09-29) 29 September 1991 (age 26)",
+            "caps": "0",
+            "goals": "0",
+            "club": " CA Bizertin"
+        },
+        {
+            "name": "Idriss Mhirsi",
+            "wiki_url": "/wiki/Idriss_Mhirsi",
+            "pos": "MF",
+            "dob": "(1994-02-21) 21 February 1994 (age 23)",
+            "caps": "4",
+            "goals": "0",
+            "club": " Red Star"
+        },
+        {
+            "name": "Mohamed Larbi",
+            "wiki_url": "/wiki/Mohamed_Larbi",
+            "pos": "MF",
+            "dob": "(1987-09-02) 2 September 1987 (age 30)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Tours"
+        },
+        {
+            "name": "Karim Laribi",
+            "wiki_url": "/wiki/Karim_Laribi",
+            "pos": "MF",
+            "dob": "(1991-04-20) 20 April 1991 (age 26)",
+            "caps": "2",
+            "goals": "0",
+            "club": " Cesena"
+        },
+        {
+            "name": "Maher Ben Sghaier",
+            "wiki_url": "/w/index.php?title=Maher_Ben_Sghaier&action=edit&redlink=1",
+            "pos": "MF",
+            "dob": "(1996-04-22) 22 April 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Espérance"
+        },
+        {
+            "name": "Hamza Lahmar",
+            "wiki_url": "/wiki/Hamza_Lahmar",
+            "pos": "MF",
+            "dob": "(1990-02-28) 28 February 1990 (age 27)",
+            "caps": "13",
+            "goals": "2",
+            "club": " Étoile du Sahel"
+        },
+        {
+            "name": "Larry Azouni",
+            "wiki_url": "/wiki/Larry_Azouni",
+            "pos": "MF",
+            "dob": "(1994-03-23) 23 March 1994 (age 23)",
+            "caps": "5",
+            "goals": "0",
+            "club": " Kortrijk"
+        },
+        {
+            "name": "Ahmed Akaïchi",
+            "wiki_url": "/wiki/Ahmed_Aka%C3%AFchi",
+            "pos": "FW",
+            "dob": "(1989-02-23) 23 February 1989 (age 28)",
+            "caps": "29",
+            "goals": "9",
+            "club": " Al-Ittihad Jeddah"
+        },
+        {
+            "name": "Hamdi Harbaoui",
+            "wiki_url": "/wiki/Hamdi_Harbaoui",
+            "pos": "FW",
+            "dob": "(1985-01-05) 5 January 1985 (age 33)",
+            "caps": "16",
+            "goals": "4",
+            "club": " Zulte Waregem"
+        },
+        {
+            "name": "Ismail Sassi",
+            "wiki_url": "/w/index.php?title=Ismail_Sassi&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1991-12-24) 24 December 1991 (age 26)",
+            "caps": "1",
+            "goals": "0",
+            "club": " AEL Limassol"
+        },
+        {
+            "name": "Hamza Younés",
+            "wiki_url": "/wiki/Hamza_Youn%C3%A9s",
+            "pos": "FW",
+            "dob": "(1986-04-16) 16 April 1986 (age 31)",
+            "caps": "10",
+            "goals": "0",
+            "club": " BB Erzurumspor"
+        },
+        {
+            "name": "Ghazi Ayadi",
+            "wiki_url": "/w/index.php?title=Ghazi_Ayadi&action=edit&redlink=1",
+            "pos": "FW",
+            "dob": "(1996-06-19) 19 June 1996 (age 21)",
+            "caps": "0",
+            "goals": "0",
+            "club": " Club Africain"
+        },
+        {
+            "name": "Saber Khalifa",
+            "wiki_url": "/wiki/Saber_Khalifa",
+            "pos": "FW",
+            "dob": "(1986-10-14) 14 October 1986 (age 31)",
+            "caps": "41",
+            "goals": "7",
+            "club": " Club Africain"
+        }
+    ],
+    "captain": "Aymen Mathlouthi",
+    "coach": "Nabil Maâloul"
+}
