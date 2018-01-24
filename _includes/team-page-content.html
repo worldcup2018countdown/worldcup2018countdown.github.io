@@ -87,14 +87,23 @@
         <div class="squad-plain-card">
             {% assign squadData =  site.data.squads[page.country_name] %}
             <div class="squad-member coach">
-                <span class="squad-title">Coach:</span><span>{{squadData.coach}}</span>
+                <span class="squad-title">{{squadData.coach}}</span><span>Coach</span>
             </div>
             {% for member in squadData.squad %}
-            <div class="squad-member">
-                <span>{{member.jerseyNumber}} {{member.name}}</span>
+            <div class="squad-member
+            {% if member.name == squadData.captain %} captain {% endif %}">
+                <span {% if member.name == squadData.captain %} title="Captain" {% endif %}>
+                    {{member.jerseyNumber}} 
+                    {{member.name}}
+                    {% if member.name == squadData.captain %} (C) {% endif %}
+                </span>
                 <span class="squad-title">{{member.pos}}</span>
             </div>
             {% endfor %}
+            <p class="more-team-details">
+                Find out more details about {{page.country_name}}'s National Football team at
+                <a rel="no-follow" class="golden" href="{{team_data.wiki}}">{{team_data.wiki}}</a>
+            </p>
         </div>
 
     </div>

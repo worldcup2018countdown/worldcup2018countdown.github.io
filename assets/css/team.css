@@ -145,6 +145,9 @@ a.golden:hover {
     color: whitesmoke;
     font-size: 1.4rem;
 }
+.squad-member.captain {
+    color: whitesmoke;
+}
 
 .base-address {
     background-color: #a70009cc;
