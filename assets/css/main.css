@@ -370,7 +370,7 @@ body.bg-blue {
     display: flex;
     align-items: center;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
     background-color: var(--app-blue);
     border-bottom-left-radius: 2px;
     border-top-left-radius: 2px;
@@ -383,9 +383,6 @@ body.bg-blue {
     font-weight: 200;
 }
 .narrow-card .left-section.with-date {
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
     min-width: 4em;
 }
 
