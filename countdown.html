@@ -42,13 +42,14 @@
                 background-image: url(/assets/images/bg_blue.jpg);
             }
             .app-container {
-                padding-bottom: 8px;
-                justify-content: space-evenly;
-                flex-direction: column;
                 display: flex;
+                flex-direction: column;
+                justify-content: center;
+                padding-bottom: 8px;
                 background-clip: content-box;
             }
-            .hero {min-height: auto;}
+            .hero {min-height: auto;margin-bottom: 14vh;}
+            .hero .wc-logo{padding: 1rem;}
             .countdown-wrapper {margin: 0;}
             p.countdown-intro {font-size: 1.4em;}
             #countdown-days,.countdown-time {margin: 1em 0;}
@@ -186,7 +187,7 @@
                 <a href="/"><button>Home</button></a>
                 <button id="show-share-tips">Share Tips</button>
                 <button id="freeze-countdown">Freeze</button>
-                <button id="fullscreen">FullScreen</button>
+                <button id="fullscreen">Fullscreen</button>
             </div>
         </div>
         <div class="app-container txt-algn-center home screenshot">
@@ -242,9 +243,9 @@
                                     <h4>Windows</h4>
                                     <ol>
                                         <li>Click the <span class="button-like">Freeze</span> button on the countdown to pause the countdown. </li>
-                                        <li> Click the <span class="button-like">FullScreen</span> button on the countdown page. </li>
+                                        <li> Click the <span class="button-like">Fullscreen</span> button on the countdown page. </li>
                                         <li> Press <span class="keyboard-shortcut">Alt + Print Screen</span>  to automatically screenshot and save the image to clipboard. </li>
-                                        <li>Click the <span class="button-like">Exit FullScrren</span> to remove fullscreen mode.</li>
+                                        <li>Click the <span class="button-like">Normalscreen</span> to remove fullscreen mode.</li>
                                         <li> Press <span class="keyboard-shortcut">Ctrl + V</span> on message or post inbox of a social media of your chosing to upload the image. </li>
                                     </ol>
                                 </li>
@@ -253,9 +254,9 @@
                                     <h4>Mac OS</h4>
                                     <ol>
                                         <li>Click the <span class="button-like">Freeze</span> button on the countdown to pause the countdown. </li>
-                                        <li> Click the <span class="button-like">FullScreen</span> button on the countdown page. </li>
+                                        <li> Click the <span class="button-like">Fullscreen</span> button on the countdown page. </li>
                                         <li> Press <span class="keyboard-shortcut">Shift + Ctrl + Cmd + 3</span>  to automatically screenshot and save the image to clipboard. </li>
-                                        <li>Click the <span class="button-like">Exit FullScrren</span> to remove fullscreen mode.</li>
+                                        <li>Click the <span class="button-like">Normalscreen</span> to remove fullscreen mode.</li>
                                         <li> Press <span class="keyboard-shortcut">Cmd + V</span> on message or post inbox of a social media of your chosing to upload the image. </li>
                                     </ol>
                                 </li>
@@ -266,9 +267,9 @@
                             <h3>On mobile and tablet devices</h3>
                             <ol>
                                 <li>Click the <span class="button-like">Freeze</span> button on the countdown to pause the countdown animations so as to ensure a clear and sharp countdown screenshot. </li>
-                                <li> Click the <span class="button-like">FullScreen</span> button on the countdown page. </li>
+                                <li> Click the <span class="button-like">Fullscreen</span> button on the countdown page. </li>
                                 <li>Take a screenshot using your device's screenshot shortcut.</li>
-                                <li>Click the <span class="button-like">Exit FullScrren</span> to remove fullscreen mode.</li>
+                                <li>Click the <span class="button-like">Normalscreen</span> to remove fullscreen mode.</li>
                                 <li>Upload the screenshot image to your favourite social media site.</li>
                             </ol>
                         </section>
@@ -322,7 +323,7 @@
             fullScrnBtn.addEventListener("click", e => {
                 fullScrnBtn.classList.toggle("fullscreen");
                 if(fullScrnBtn.classList.contains("fullscreen")){
-                    fullScrnBtn.textContent = "Exit Fullscreen";
+                    fullScrnBtn.textContent = "Normalscreen";
                 }else{fullScrnBtn.textContent = "Fullscreen"}
 
                 toggleFullScreen(document.documentElement);
