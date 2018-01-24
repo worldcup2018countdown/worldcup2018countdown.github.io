@@ -69,7 +69,7 @@ function calcDisplayDate(date, adder){
 
     const dateString = new Date(dateToBeDisplayed).toDateString();
     displayedDate = dateString; // Day Month Date Year (Fri Jun 15 2018)
-    // dateHeader.textContent = dateString.slice(0,10); // Day Month Date (Fri Jun 15)
+    dateHeader.textContent = shortenToOrdinalDate(dateString);
     const dateKey = dateString.slice(4); // Month Date Year (Jun 15 2018)
     displayDateContents(dateKey);
 }
@@ -81,10 +81,25 @@ function displayDateContents (dateKey){
         matchCardContainer.removeChild(matchCardContainer.firstChild);
     }
     if (!matchDates[dateKey]) {restDayWrapper.classList.remove("hide"); return;}
-    dateHeader.textContent = matchDates[dateKey][0].OrdinalShortDate;
     matchDates[dateKey].forEach(match => {
         const matchCard = matchCardTemplate.cloneNode(true);
         matchCardContainer.appendChild(matchCard);
         displayMatchCard(match, matchCard, "match-dates-list");
     })
 }
+
+function shortenToOrdinalDate(dateString){
+    const dateParts = dateString.split(" "); //split (Fri Jun 15 2018)
+    const dateNum = Number(dateParts[2]);
+    const dateMonth = monthConvertor[dateParts[1]];
+    var ordinalSuffix = "th";
+    if(dateNum%10 == 1 && dateNum != 11) ordinalSuffix = "st";
+    else if(dateNum%10 == 2 && dateNum != 12) ordinalSuffix = "nd";
+    else if(dateNum%10 == 3 && dateNum != 13) ordinalSuffix = "rd";
+    return [dateNum+ordinalSuffix, dateMonth].join(" ");
+  }
+
+  const monthConvertor = {
+      "Jun": "June",
+      "Jul": "July"
+  }
