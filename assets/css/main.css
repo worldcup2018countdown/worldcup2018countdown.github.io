@@ -171,7 +171,12 @@ body.bg-blue {
     }
 }
 
-.app-container.home {min-height: 100vh;}
+.app-container.home {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .app-container.txt-algn-center {
     text-align: center;
@@ -355,6 +360,9 @@ body.bg-blue {
 .narrow-card h5,
 .narrow-card p {
     margin: 0;
+}
+.narrow-card h4 {
+    font-size: 0.9rem;
 }
 
 .narrow-card .left-section {
