@@ -25,9 +25,9 @@
                 </div>
                 <a class="x-vs-y-score-link" href="#">
                     <div class="x-vs-y-score">
-                        <span data-str-sub-next-match="Team1Score" class="x-score">3</span>
-                        <span data-str-sub-next-match="Status" class="vs-text match-status">FT</span>
-                        <span data-str-sub-next-match="Team1Score" class="y-score">1</span>
+                        <span data-str-sub-next-match="Team1Score" class="x-score"></span>
+                        <span data-str-sub-next-match="Status" class="vs-text match-status"></span>
+                        <span data-str-sub-next-match="Team1Score" class="y-score"></span>
                     </div>
                 </a>
             </div>
@@ -69,6 +69,7 @@
                 <h3>Match Has Started</h3>
             </div>
         </div>
+    </div>
 </div>
 
 <!-- squad -->
@@ -85,7 +86,8 @@
     <div class="collapse-body">
 
         <div class="squad-plain-card">
-            {% assign squadData =  site.data.squads[page.country_name] %}
+            {% assign escapedCountryName =  page.country_name | replace : " ", "_" %}
+            {% assign squadData =  site.data.squads[escapedCountryName] %}
             <div class="squad-member coach">
                 <span class="squad-title">{{squadData.coach}}</span><span>Coach</span>
             </div>
@@ -101,8 +103,8 @@
             </div>
             {% endfor %}
             <p class="more-team-details">
-                Find out more details about {{page.country_name}}'s National Football team at
-                <a rel="no-follow" class="golden" href="{{team_data.wiki}}">{{team_data.wiki}}</a>
+                Find out more details about {{page.country_name}}'s National Football team on
+                <a rel="no-follow" title="{{team_data.wiki}}" class="golden" href="{{team_data.wiki}}">wikipedia</a>
             </p>
         </div>
 
@@ -225,11 +227,31 @@
         </label>
     </div>
     <div class="collapse-body">
+        {% assign base = site.data.team_base_camps[page.country_name] %}
 
-        <h4 class="base-address">
-            <a class="golden" href="{{ site.data.team_infos[page.country_name].base.wiki_url }}">
-            {{ site.data.team_infos[page.country_name].base.name }}</a>
-        </h4>
+        <div class="base-plain-card">
+            <section class="hotel">
+                <h3>{{base.name}}</h3>
+                <p>{{base.hotel_address}}</p>
+                <a class="golden" href="{{ base.hotel_url }}">{{ base.hotel_url }}</a>
+            </section>
+
+            <section class="pitch">
+                <h4>Training Pitch Address:</h4>
+                <p>{{base.pitch_address}}</p>
+            </section>
+
+            <section class="tbc-link">
+                <p>
+                    Check out the offical team base camps catalogue for more information:
+                </p>
+                <p>
+                    <a class="golden" href="{{base.tbc_url}}" title="{{base.tbc_url}}">
+                            www.tbc-russia2018.com/Catalogue
+                    </a>
+                </p>
+            </section>
+        </div>
 
     </div>
 </div>
