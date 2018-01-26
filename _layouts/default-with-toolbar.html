@@ -1,66 +1,10 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
+    <head>
+        {% include head-content.html %}
+    </head>
     <body>
-        <div class="app-toolbar">
-            <div class="left-icons-wrapper">
-                <a href="/" title="Home Page">
-                    <div class="icon-wrapper home-icon center-bg"></div>
-                </a>
-            </div>
-            <div class="title-heading">
-                <h1>{{ page.toolbar_heading }}</h1>
-            </div>
-            <div class="right-icons-wrapper">
-                <!-- <a href="/" title="Home Page">
-                    <div class="icon-wrapper grid-icon center-bg"></div>
-                </a> -->
-                
-                <button id="toolbar-page-share" class="icon-wrapper share-icon center-bg">
-                    <div class="share-container">
-            
-                        <!-- facebook -->
-                        <a class="facebook" href="https://www.facebook.com/share.php?u=https://www.youtube.com&title=Youtube" 
-                            title="Share on Facebook" data-share-params="u,title" data-u="https://vk.com"
-                        target="_blank"><svg viewBox="-1 -1 102 102" class="share-icon facebook">
-                                <use xlink:href="/assets/images/share-icons/sprite.svg#Facebook"></use>
-                            </svg></a>
-                    
-                        <!-- twitter -->
-                        <a class="twitter" href="https://twitter.com/intent/tweet?text=Countdown+Template&url=https://www.youtube.com&hashtags=worldcup2018countdown" 
-                            title="Share on Twitter" data-share-params="text,url,hashtags"
-                        target="_blank"><svg viewBox="-1 -1 102 102" class="share-icon twitter">
-                                <use xlink:href="/assets/images/share-icons/sprite.svg#Twitter"></use>
-                        </svg></a>
-            
-                        <!-- vk -->
-                        <a class="vk" href="http://vk.com/share.php?url=https://www.youtube.com" 
-                            title="Share on VK" data-share-params="url"
-                        target="_blank"><svg viewBox="-1 -1 102 102" class="share-icon vk">
-                                <use xlink:href="/assets/images/share-icons/sprite.svg#VK"></use>
-                        </svg></a>
-            
-                        <!-- google plus -->
-                        <a class="googleplus" href="https://plus.google.com/share?url=https://www.youtube.com" 
-                            title="Share on Google Plus" data-share-params="url"
-                        target="_blank"><svg viewBox="-1 -1 102 102" class="share-icon google-plus">
-                                <use xlink:href="/assets/images/share-icons/sprite.svg#GooglePlus"></use>
-                        </svg></a>
-            
-                        <!-- tumblr -->
-                        <a class="tumblr" href="http://tumblr.com/widgets/share/tool?canonicalUrl=https://www.youtube.com" 
-                            title="Share on Tumblr" data-share-params="canonicalUrl"
-                        target="_blank"><svg viewBox="-1 -1 102 102" class="share-icon tumblr">
-                                <use xlink:href="/assets/images/share-icons/sprite.svg#Tumblr"></use>
-                        </svg></a>
-            
-                        <!--  -->
-                        <!-- <a class="" href="" target="_blank">  </a> -->            
-                    
-                    </div>
-                </button>
-            </div>
-        </div>
+        {% include app-toolbar.html %}
         <div class="app-container txt-algn-center {{page.page_css_class}}">
             <div class="app-content-container">
                 {{ content }}
