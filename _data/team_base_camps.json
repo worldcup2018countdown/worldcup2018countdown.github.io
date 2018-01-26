@@ -15,14 +15,6 @@
 		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/dd83b7df-ff27-e611-80c7-00155d0e2533/3STP01_Hilton-Saint-Petersburg-ExpoForum/",
 		"hotel_url": "http://saintpetersburgexpoforum.hilton.com"
 	},
-	"3STP02": {
-		"id": "3STP02",
-		"name": "ForRestMix Club Sport&Relax",
-		"area": "Saint Petersburg, Zelenogorsk, Objezdnaya st., 7A",
-		"address": "Saint Petersburg, Repino village, Lugovaya str, 10 A",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2d46d471-0d27-e511-80bc-00155d0e2515/3STP02_ForRestMix-Club-SportandRelax/",
-		"hotel_url": "http://www.forrestmix.ru"
-	},
 	"3STP03": {
 		"id": "3STP03",
 		"name": "Belmond Grand Hotel Europe",
@@ -31,21 +23,38 @@
 		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2746d471-0d27-e511-80bc-00155d0e2515/3STP03_Belmond-Grand-Hotel-Europe/",
 		"hotel_url": "http://fc-zenit.ru/club/base/"
 	},
-	"": {
-		"id": "",
-		"name": "",
-		"area": "",
-		"address": "",
-		"tbc_url": "",
-		"hotel_url": ""
+	"England": {
+		"id": "3STP02",
+		"name": "ForRestMix Club Sport&Relax",
+		"hotel_address": "Saint Petersburg, Repino village, Lugovaya str, 10 A",
+		"hotel_url": "http://www.forrestmix.ru",
+		"pitch_address": "Saint Petersburg, Zelenogorsk, Objezdnaya st., 7A",
+		"pitch_url": "",
+		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2d46d471-0d27-e511-80bc-00155d0e2515/3STP02_ForRestMix-Club-SportandRelax/"
+	},
+	"Brazil": {
+		"id": "4KKR06",
+		"name": "Swissotel Resort Sochi Kamelia",
+		"cluster": "Southern Cluster",
+		"hotel_address": "Krasnodar Region, Sochi, Kurortnyi Avenue, 89",
+		"hotel_url": "www.swissotel.com/sochi-kamelia",
+		"hotel_tel": "+7 862 2968801",
+		"hotel_type": "Seaside",
+		"pitch_address": "Krasnodar Region, Sochi, Bzugu st., 6",
+		"pitch_url": "http://www.yug-sport.ru/sport/football_fields/",
+		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2694bbe6-bd2f-e511-80bd-00155d0e2515/4KKR06_Swissotel-Resort-Sochi-Kamelia/"
 	},
 	"": {
 		"id": "",
 		"name": "",
-		"area": "",
-		"address": "",
-		"tbc_url": "",
-		"hotel_url": ""
+		"cluster": "",
+		"hotel_address": ,
+		"hotel_url": "",
+		"hotel_tel": "",
+		"hotel_type": "",
+		"pitch_address": ,
+		"pitch_url": "",
+		"tbc_url": ""
 	},
 	"": {
 		"id": "",
