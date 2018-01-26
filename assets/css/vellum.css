@@ -29,8 +29,7 @@
     border: none;
 } */
 p, ul {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 1rem 0;
 }
 .vellum {
     box-sizing: border-box;
@@ -68,6 +67,8 @@ p, ul {
 .fancy-vellum-button-wrapper {
     box-sizing: border-box;
     display: flex;
+    justify-content: space-between;
+    position: relative;
 }
 .side-button-patch {
     width: 50px;
@@ -77,24 +78,32 @@ p, ul {
     transform: rotateZ(180deg);
 }
 .center-button-patch {
-    width: calc(100% - 100px);
+    width: calc(100% - 96px);
     height: 50px;
     background-color: var(--vellum-button-red-bg);
+    /* background-color: yellow; */
     display: flex;
     justify-content: center;
     align-items: center;
+    position: absolute;
+    /* opacity: 0; */
+    margin: 0 48px;
+    /* z-index: -1; */
 }
+.vellum-title {color: var(--vellum-bg);}
+
 .vellum-content {
     box-sizing: border-box;
-    padding: 0 8px 0;
+    padding: 2px 8px;
     background-color: var(--vellum-bg);
+    margin-top: -1px;
 }
 .vellum-bottom {
     box-sizing: border-box;
     position: relative;
     margin-top: -1px;
-    margin-top: -4px;
-    margin-top: calc(-1 * var(--vellum-border-stroke-width));
+    /* margin-top: -4px; */
+    /* margin-top: calc(-1 * var(--vellum-border-stroke-width)); */
     z-index: -1;
 }
 .vellum-bottom.narrow-part {
@@ -115,3 +124,54 @@ p, ul {
 .fancy-star-wrapper img {
     width: 40px;
 }
+
+.centered-proclaimer {
+    text-align: center;
+    margin-top: 0;
+}
+
+p,
+.email-banner-container .fancy-vellum-button-wrapper path.button-side {
+    fill: var(--vellum-blue-bg);
+    color: var(--vellum-blue-bg)
+}
+
+.email-banner-container{
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.email-banner-container .fancy-vellum-button-wrapper .center-button-patch{
+    background-color: var(--vellum-blue-bg);
+}
+
+a{text-decoration: none;}
+a:hover, a:focus {text-decoration: underline;}
+
+a.admin-email{
+    color: var(--vellum-bg);
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 540px){
+    a.admin-email {font-size: 0.7rem;}
+}
+
+/*   sitemap    */
+.two-column-list {
+    display: flex;
+    box-sizing: border-box;
+}
+@media screen and (max-width: 540px){
+    .two-column-list {display: block;}
+}
+
+.two-column-list > div {width: 50%;}
+
+.two-column-list ul {
+    padding-left: 1rem;
+    margin: 0;
+}
+.two-column-list ul li {list-style: none;}
+
+a.site-link {color: var(--vellum-blue-bg);}

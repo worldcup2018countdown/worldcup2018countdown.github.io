@@ -185,9 +185,6 @@ body.bg-blue {
 .app-container.wide {
     width: 100%;
 }
-.app-container.wide.vellum-page {
-    padding-top: 8px;
-}
 .app-container.wide footer {
     text-align: center;
     width: 80%;
