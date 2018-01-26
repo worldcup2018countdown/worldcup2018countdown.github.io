@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6,p {
     padding: 0.5rem 2rem;
     font-size: 1.2rem;
     /* width: 100%; */
-    background-color: #a70009cc;
+    background-color: rgba(167, 0, 9, 0.8);
 }
 
 .match-meta-details {
@@ -118,7 +118,7 @@ a.golden:hover {
     justify-content: space-around;
     padding: 1.5rem 0;
     /*padding-top: 0.75rem;*/
-    /*background-color: #a70009cc;*/
+    /*background-color: rgba(167, 0, 9, 0.8);*/
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
 }
@@ -136,7 +136,7 @@ a.golden:hover {
     justify-content: space-between;
     padding: 4px;
     border-bottom: solid 1px var(--app-gold);
-    background-color: #a70009cc;
+    background-color: rgba(167, 0, 9, 0.8);
     font-size: 1.2rem;
 }
 .squad-member:last-child {border-bottom: none;}
@@ -149,8 +149,21 @@ a.golden:hover {
     color: whitesmoke;
 }
 
-.base-address {
-    background-color: #a70009cc;
-    padding: 0.5rem 0.25rem;
+.more-team-details a.golden {text-decoration: underline;}
+
+.base-plain-card {
+    background-color: rgba(167, 0, 9, 0.8);
+    padding: 0.5rem 0.125rem;
     border-radius: 4px;
+    text-align: left;
+}
+
+.base-plain-card section {
+    padding: 0 0.25rem;
+}
+
+.base-plain-card section:not(:last-child){margin-bottom: 1rem;}
+
+.base-plain-card section p {
+    margin: 0.125rem 0;
 }
