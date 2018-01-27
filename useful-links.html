@@ -5,34 +5,39 @@ description: Useful Links on all the information you need to know to get well pr
 keywords: useful_links,useful,link,worldcup2018countdown,wc2018countdown,countdown2018fwc,fifaworldcup,russia2018
 image_url: https://worldcup2018countdown.github.io/assets/images/share-page-images/index.png
 image_alt: Useful links page screenshot
-page_css_class: wide
+page_css_class: wide useful-links
 toolbar_heading: Useful Links
 additional_stylesheets: 
 additional_scripts: 
 <!-- permalink: -->
 ---
 
+{% for links_group in site.data.useful_links %}
 <section>
     <div class="section-header wide-narrow">
         <div class="icon-wrapper">
-            <img src="/assets/images/service-icon-qmark.png" alt="Heading Icon">
+            <img src="{{links_group.links_group_icon}}" alt="Heading Icon">
         </div>
         <div class="header-text-wrapper">
-            <h3 class="header-text"> General links </h3>
+            <h3 class="header-text"> {{links_group.links_group_name}} </h3>
         </div>
     </div>
 
     <div class="plain-dashed-separator"></div>
 
+    {% for link in links_group.link_items %}
     <div class="section-content wide-narrow">
         <div class="narrow-card link-card">
             <div class="left-section icon-wrapper">
-                <img src="/assets/images/Google__G__Logo.png" alt="Google Search Icon">
+                <img src="{{link.icon}}" alt="Google Search Icon">
             </div>
             <div class="right-section">
-                <h3>Google Search</h3>
-                <a href="http://google.com">http://google.com</a>
+                <h4 class="link-name">{{link.name}}</h4>
+                <a href="{{link.url}}" title="{{link.url}}">{{link.url}}</a>
             </div>
         </div>
     </div>
+    {% endfor %}
+
 </section>
+{% endfor %}

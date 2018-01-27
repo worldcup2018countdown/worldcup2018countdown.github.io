@@ -1,0 +1,45 @@
+[
+    {
+        "links_group_name": "General",
+        "links_group_icon": "/assets/images/link-logos-and-icons/service-icon-qmark-gold.png",
+        "link_items": [
+            {
+                "name": "Welcome comittee",
+                "url": "http://welcome2018.com/en/",
+                "icon": "/assets/images/link-logos-and-icons/welcome2018.png"
+            },
+            {
+                "name": "Wikipedia 2018 FIFA World Cup",
+                "url": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
+                "icon": "/assets/images/link-logos-and-icons/wikipedia.png"
+            }
+        ]
+    },
+    {
+        "links_group_name": "News",
+        "links_group_icon": "/assets/images/link-logos-and-icons/service-icon-list-gold.png",
+        "link_items": [
+            {
+                "name": "Welcome Committee News",
+                "url": "http://welcome2018.com/en/journal/materials/",
+                "icon": "/assets/images/link-logos-and-icons/welcome2018.png"
+            }
+        ]
+    },
+    {
+        "links_group_name": "Tickets",
+        "links_group_icon": "/assets/images/link-logos-and-icons/service-icon-tickets-gold.png",
+        "link_items": [
+            {
+                "name": "FIFA Tickets Homepage",
+                "url": "http://fifa.com/tickets",
+                "icon": "/assets/images/link-logos-and-icons/fifa.png"
+            },
+            {
+                "name": "FIFA Tickets Purchase",
+                "url": "http://www.fifa.com/worldcup/organisation/ticketing/index.html",
+                "icon": "/assets/images/link-logos-and-icons/fifa.png"
+            }
+        ]
+    }
+]
