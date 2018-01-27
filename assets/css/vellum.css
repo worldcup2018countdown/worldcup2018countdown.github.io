@@ -68,6 +68,7 @@ p, ul {
     box-sizing: border-box;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     position: relative;
 }
 .side-button-patch {
@@ -162,11 +163,13 @@ a.admin-email{
     display: flex;
     box-sizing: border-box;
 }
-@media screen and (max-width: 540px){
-    .two-column-list {display: block;}
-}
 
 .two-column-list > div {width: 50%;}
+
+@media screen and (max-width: 540px){
+    .two-column-list {display: block;}
+    .two-column-list > div {width: 100%;}
+}
 
 .two-column-list ul {
     padding-left: 1rem;
@@ -174,4 +177,4 @@ a.admin-email{
 }
 .two-column-list ul li {list-style: none;}
 
-a.site-link {color: var(--vellum-blue-bg);}
+.site-links a {color: var(--vellum-blue-bg);}

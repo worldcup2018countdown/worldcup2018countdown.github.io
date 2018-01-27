@@ -578,9 +578,18 @@ button:active .narrow-card .right-section {
 }
 .download-button-wrapper .icon-wrapper { width: 4rem;}
 
+.app-container.useful-links {max-width: 960px;}
+.useful-links section {margin-bottom: 3rem;}
+
+.link-card {margin-bottom: 0.5rem;}
+
 .link-card .left-section {
     max-width: 3rem;
+    min-height: 3rem;
+    min-width: auto;
+    background-color: transparent;
 }
+.link-card .left-section img {max-width: 90%;}
 
 .link-card .right-section {
     padding: 8px;
@@ -589,10 +598,20 @@ button:active .narrow-card .right-section {
     width: calc(100% - 3rem);
 }
 
+.link-card .right-section .link-name {
+    text-align: left;
+    font-size: 1.2rem;
+}
+
 .link-card a {
     color: var(--app-bg-white);
     font-size: 1rem;
+    max-width: 100%;
+    overflow: hidden;
+    /* white-space: nowrap; */
+    text-overflow: ellipsis;
 }
+.link-card a:hover,.link-card a:focus {color: goldenrod;}
 
 .tongue-wrapper.icon-wrapper  {
     max-width: 60vh;
