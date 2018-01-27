@@ -92,19 +92,24 @@
                 <span class="squad-title">{{squadData.coach}}</span><span>Coach</span>
             </div>
             {% for member in squadData.squad %}
-            <div class="squad-member
-            {% if member.name == squadData.captain %} captain {% endif %}">
-                <span {% if member.name == squadData.captain %} title="Captain" {% endif %}>
-                    {{member.jerseyNumber}} 
-                    {{member.name}}
-                    {% if member.name == squadData.captain %} (C) {% endif %}
-                </span>
+
+            {% assign escapedMemberName = member.name | replace : " (Captain)", "" %}
+            {% if escapedMemberName == squadData.captain %}
+            <div class="squad-member captain">
+                <span title="Captain"> {{member.jerseyNumber}} {{escapedMemberName}} (C) </span>
                 <span class="squad-title">{{member.pos}}</span>
             </div>
+            {% else %}
+            <div class="squad-member">
+                <span> {{member.jerseyNumber}} {{escapedMemberName}} </span>
+                <span class="squad-title">{{member.pos}}</span>
+            </div>
+            {% endif %}
+
             {% endfor %}
             <p class="more-team-details">
                 Find out more details about {{page.country_name}}'s National Football team on
-                <a rel="no-follow" title="{{team_data.wiki}}" class="golden" href="{{team_data.wiki}}">wikipedia</a>
+                <a rel="nofollow" title="{{team_data.wiki}}" class="golden" href="{{team_data.wiki}}">wikipedia</a>
             </p>
         </div>
 
@@ -230,10 +235,11 @@
         {% assign base = site.data.team_base_camps[page.country_name] %}
 
         <div class="base-plain-card">
+            {% if base %}
             <section class="hotel">
                 <h3>{{base.name}}</h3>
                 <p>{{base.hotel_address}}</p>
-                <a class="golden" href="{{ base.hotel_url }}">{{ base.hotel_url }}</a>
+                <a rel="nofollow" class="golden" href="{{ base.hotel_url }}">{{ base.hotel_url }}</a>
             </section>
 
             <section class="pitch">
@@ -246,11 +252,16 @@
                     Check out the offical team base camps catalogue for more information:
                 </p>
                 <p>
-                    <a class="golden" href="{{base.tbc_url}}" title="{{base.tbc_url}}">
+                    <a rel="nofollow" class="golden" href="{{base.tbc_url}}" title="{{base.tbc_url}}">
                             www.tbc-russia2018.com/Catalogue
                     </a>
                 </p>
             </section>
+            {% else %}
+            <section class="no-info">
+                <p>No information available so far.</p>
+            </section>
+            {% endif %}
         </div>
 
     </div>
