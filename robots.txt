@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Allow: /sitemap.htm
-Sitemap: https://worldcup2018countdown.com/sitemap.xml
+Allow: /sitemap.html
+Sitemap: https://worldcup2018countdown.com/sitemap.html
