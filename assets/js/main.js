@@ -69,17 +69,18 @@ class carouselJSON {
         const carouselEl = document.querySelector("[data-carousel-id="+this.carouselId+"]");
         document.querySelectorAll(".carousel-paginator button").forEach(btn => {
             btn.addEventListener('click', e => {
-                const currentIndex = carouselEl.dataset.ssIndex;
+                const currentIndex = Number(carouselEl.dataset.ssIndex);
                 let newIndex;
                 if(btn.classList.contains("next")){
                     newIndex = currentIndex+1;
                 }else if(btn.classList.contains("previous")){
                     newIndex = currentIndex-1;
                 }
+                if(newIndex == -1) newIndex = this.data.length-1;
                 newIndex = Math.abs(newIndex % this.data.length);
                 insertItemStrings(this.data[newIndex], carouselEl, this.carouselId);
                 carouselEl.dataset.ssIndex = newIndex;
-                console.log("carousel-paginator btn clicked");
+                // console.log("carousel-paginator btn clicked", newIndex);
             })
         });
     }
