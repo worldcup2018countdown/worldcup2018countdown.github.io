@@ -160,6 +160,11 @@ a.golden:hover {
 
 .base-plain-card section {
     padding: 0 0.25rem;
+    color: var(--app-bg-gray);
+}
+
+.base-plain-card section .base-section-header {
+    color: var(--app-gold);
 }
 
 .base-plain-card section:not(:last-child){margin-bottom: 1rem;}

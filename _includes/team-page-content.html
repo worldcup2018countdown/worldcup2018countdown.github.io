@@ -236,27 +236,25 @@
 
         <div class="base-plain-card">
             {% if base %}
+            <section class="location">
+                <h3 class="base-section-header">Location:</h3>
+                <h2>{{base.location}}</h2> 
+            </section>
             <section class="hotel">
-                <h3>{{base.name}}</h3>
-                <p>{{base.hotel_address}}</p>
+                <h3 class="base-section-header">Hotel:</h3>
+                <h4>{{base.tbc_hotel_name}}</h4>
+                <p>{{base.tbc_hotel_address}}</p>
+                {% if base.hotel_url %}
                 <a rel="nofollow" class="golden" href="{{ base.hotel_url }}">{{ base.hotel_url }}</a>
+                {% endif %}
             </section>
 
             <section class="pitch">
-                <h4>Training Pitch Address:</h4>
-                <p>{{base.pitch_address}}</p>
+                <h3 class="base-section-header">Training Pitch:</h3>
+                <h4>{{base.tbc_training_site_name}}</h4>
+                <p>{{base.tbc_training_site_adress}}</p>
             </section>
 
-            <section class="tbc-link">
-                <p>
-                    Check out the offical team base camps catalogue for more information:
-                </p>
-                <p>
-                    <a rel="nofollow" class="golden" href="{{base.tbc_url}}" title="{{base.tbc_url}}">
-                            www.tbc-russia2018.com/Catalogue
-                    </a>
-                </p>
-            </section>
             {% else %}
             <section class="no-info">
                 <p>No information available so far.</p>
