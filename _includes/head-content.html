@@ -34,3 +34,12 @@
 {% for stylesheet_link in page.additional_stylesheets %}
 <link rel="stylesheet" href="{{stylesheet_link}}">
 {% endfor %}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112766696-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-112766696-1');
+</script>
