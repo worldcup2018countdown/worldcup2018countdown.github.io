@@ -1,323 +1,250 @@
 {
-	"3LRG01": {
-		"id": "3LRG01",
-		"name": "Woodland Rhapsody Resort",
-		"area": "Leningrad region, Vyborg District, Roschino, Sovetskaya st.",
-		"address": "Leningrad region, Vyborgsky district, Ilichevo village, Lintulskaya alley, 1",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/32df47bc-be2f-e511-80bd-00155d0e2515/3LRG01_Woodland-Rhapsody-Resort/",
-		"hotel_url": "http://lrhotel.ru/en/"
+	"Russia": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Federal Sports Centre Novogorsk",
+		"tbc_hotel_address": "Moscow region, Khimki, Novogorsk district, Sokolovskaya St. 7",
+		"tbc_training_site_name": "Federal Sports Centre Novogorsk",
+		"tbc_training_site_adress": "Moscow region, Khimki, Novogorsk district, Sokolovskaya St. 7" 
 	},
-	"3STP01": {
-		"id": "3STP01",
-		"name": "Hilton Saint Petersburg ExpoForum",
-		"area": "Saint Petersburg, Pavlovsk, Gospitalnaya st, 24",
-		"address": "64 build.2, Peterburgskoye highway, Shushary",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/dd83b7df-ff27-e611-80c7-00155d0e2533/3STP01_Hilton-Saint-Petersburg-ExpoForum/",
-		"hotel_url": "http://saintpetersburgexpoforum.hilton.com"
-	},
-	"3STP03": {
-		"id": "3STP03",
-		"name": "Belmond Grand Hotel Europe",
-		"area": "Saint Petersburg, Akkuratova st., 7b",
-		"address": "St.Petersburg, Mikhailovskaya str., 1/7",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2746d471-0d27-e511-80bc-00155d0e2515/3STP03_Belmond-Grand-Hotel-Europe/",
-		"hotel_url": "http://fc-zenit.ru/club/base/"
-	},
-	"3STP02": {
-		"id": "3STP02",
-		"name": "ForRestMix Club Sport&Relax",
-		"hotel_address": "Saint Petersburg, Repino village, Lugovaya str, 10 A",
-		"hotel_url": "http://www.forrestmix.ru",
-		"pitch_address": "Saint Petersburg, Zelenogorsk, Objezdnaya st., 7A",
-		"pitch_url": "http://www.forrestmix.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2d46d471-0d27-e511-80bc-00155d0e2515/3STP02_ForRestMix-Club-SportandRelax/"
-	},
-	"Brazil": {
-		"id": "4KKR06",
-		"name": "Swissotel Resort Sochi Kamelia",
-		"cluster": "Southern Cluster",
-		"hotel_address": "Krasnodar Region, Sochi, Kurortnyi Avenue, 89",
-		"hotel_url": "https://www.swissotel.com/sochi-kamelia",
-		"hotel_tel": "+7 862 2968801",
-		"hotel_type": "Seaside",
-		"pitch_address": "Krasnodar Region, Sochi, Bzugu st., 6",
-		"pitch_url": "http://www.yug-sport.ru/sport/football_fields/",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2694bbe6-bd2f-e511-80bd-00155d0e2515/4KKR06_Swissotel-Resort-Sochi-Kamelia/"
-	},
-	"England": {
-		"id": "3STP02",
-		"name": "ForRestMix Club Sport&Relax",
-		"cluster": "Northern Cluster",
-		"hotel_address": "Saint Petersburg, Repino village, Lugovaya str, 10 A",
-		"hotel_url": "http://www.forrestmix.ru",
-		"hotel_tel": "+7 812 408 7777",
-		"hotel_type": "Countryside",
-		"pitch_address": "Saint Petersburg, Zelenogorsk, Objezdnaya st., 7A",
-		"pitch_url": "http://www.forrestmix.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2d46d471-0d27-e511-80bc-00155d0e2515/3STP02_ForRestMix-Club-SportandRelax/"
-	},
-	"Croatia": {
-		"id": "3LRG01",
-		"name": "Woodland Rhapsody Resort",
-		"cluster": "Northern Cluster",
-		"hotel_address": "Leningrad region, Vyborgsky district, Ilichevo village, Lintulskaya alley, 1",
-		"hotel_url": "http://lrhotel.ru/en/",
-		"hotel_tel": "+7 812 960 0300",
-		"hotel_type": "Countryside",
-		"pitch_address": "Leningrad region, Vyborg District, Roschino, Sovetskaya st.",
-		"pitch_url": "http://lrhotel.ru/en/",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/32df47bc-be2f-e511-80bd-00155d0e2515/3LRG01_Woodland-Rhapsody-Resort/"
-	},
-	"Costa Rica": {
-		"id": "3STP01",
-		"name": "Hilton Saint Petersburg ExpoForum",
-		"cluster": "Northern Cluster",
-		"hotel_address": "64 build.2, Peterburgskoye highway, Shushary",
-		"hotel_url": "http://saintpetersburgexpoforum.hilton.com",
-		"hotel_tel": "+7 812 647 74 74",
-		"hotel_type": "City Hotel",
-		"pitch_address": "Saint Petersburg, Pavlovsk, Gospitalnaya st, 24",
-		"pitch_url": "http://saintpetersburgexpoforum.hilton.com",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/dd83b7df-ff27-e611-80c7-00155d0e2533/3STP01_Hilton-Saint-Petersburg-ExpoForum/"
-	},
-	"South Korea": {
-		"id": "3STP04",
-		"name": "New Peterhof",
-		"cluster": "Northern Cluster",
-		"hotel_address": "St Petersburg, Sankt-Peterburgskiy pr., 34",
-		"hotel_url": "http://www.new-peterhof.com/en/welcome.html",
-		"hotel_tel": "+7 812 319 1010",
-		"hotel_type": "Countryside",
-		"pitch_address": "Saint Petersburg, Lomonosov, Mikhailovskaya st., 29",
-		"pitch_url": "http://центр-спорта.рф",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/34df47bc-be2f-e511-80bd-00155d0e2515/3STP04_New-Peterhof/"
-	},
-	"Poland": {
-		"id": "4KKR07",
-		"name": "Hyatt Regency Sochi",
-		"cluster": "Southern Cluster",
-		"hotel_address": "Krasnodar Region, Sochi, str. Ordzhonikidze, 17",
-		"hotel_url": "http://www.sochi.regency.hyatt.com",
-		"hotel_tel": "+7 862 2271234",
-		"hotel_type": "City Hotel, Seaside",
-		"pitch_address": "Krasnodar Region, Sochi, Chekmeneva str.",
-		"pitch_url": "http://xn----otbgkibejbfgid.com/",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/d383b7df-ff27-e611-80c7-00155d0e2533/4KKR07_Hyatt-Regency-Sochi/"
-	},
-	"Denmark": {
-		"id": "4KKR02",
-		"name": "Beton Brut Resort",
-		"cluster": "Southern Cluster",
-		"hotel_address": "Krasnodar Region, Anapa, st.Verhnyaya Doroga, 120",
-		"hotel_url": "http://betonbrut.ru",
-		"hotel_tel": "8 800 200 24 44",
-		"hotel_type": "Seaside",
-		"pitch_address": "Krasnodar Region, Anapa, Vityazevo, Stepnaya st./ Shkolnaya st. 33 b/2",
-		"pitch_url": "http://betonbrut.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2e94bbe6-bd2f-e511-80bd-00155d0e2515/4KKR02_Beton-Brut-Resort/"
-	},
-	"Sweden": {
-		"id": "4KKR04",
-		"name": "Kempinski Grand Hotel Gelendzhik",
-		"cluster": "Southern Cluster",
-		"hotel_address": "Krasnodar Region, Gelendzhik, Revolutsionnaya street 53",
-		"hotel_url": "https://www.kempinski.com/en/gelendzhik/grand-hotel-gelendzhik/",
-		"hotel_tel": "+7 86141 43 800",
-		"hotel_type": "Seaside",
-		"pitch_address": "Krasnodar Region, Gelendzhik, Solntsedarskaya st.",
-		"pitch_url": "https://www.kempinski.com/en/gelendzhik/grand-hotel-gelendzhik/",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/2c94bbe6-bd2f-e511-80bd-00155d0e2515/4KKR04_Kempinski-Grand-Hotel-Gelendzhik/"
-	},
-	"Panama": {
-		"id": "2SRS01",
-		"name": "Olympic Sports Centre",
-		"cluster": "Volga Cluster",
-		"hotel_address": "3а Pobedy str., Saransk",
-		"hotel_url": "http://olympic-rm.ru/",
-		"hotel_tel": "+7 (8342) 75-85-72",
-		"hotel_type": "City Hotel",
-		"pitch_address": "3а Pobedy str., Saransk",
-		"pitch_url": "http://olympic-rm.ru/",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/4cedff95-b1b4-e711-80ce-00155d010131/2SRS01_Olympic-Sports-Centre/"
-	},
-	"Uruguay": {
-		"id": "2NNG02",
-		"name": "Sports Centre Borsky",
-		"cluster": "Volga Cluster",
-		"hotel_address": "Nizhny Novgorod region, city district Bor town, Krasnogorka street, house 120",
-		"hotel_url": "",
-		"hotel_tel": "8 831 592 77 07",
-		"hotel_type": "Countryside",
-		"pitch_address": "Nizhny Novgorod region, city district Bor town, Krasnogorka street, house 120",
-		"pitch_url": "",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/8a4c8a38-a9b4-e711-80ce-00155d010131/2NNG02_Sports-Centre-Borsky/"
-	},
-	"Peru": {
-		"id": "1MOS01",
-		"name": "Sheraton Moscow Sheremetyevo",
-		"cluster": "Central Cluster",
-		"hotel_address": "Moscow, Mezhdunarodnoye highway, 28b",
-		"hotel_url": "http://www.sheratonmoscowairport.com/",
-		"hotel_tel": "+7 (495) 229 0010",
-		"hotel_type": "City Hotel",
-		"pitch_address": "http://www.arena-khimki.ru/cgi-bin/show.pl?option=tribuni",
-		"pitch_url": "http://www.arena-khimki.ru/cgi-bin/show.pl?option=tribuni",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/43b2a438-432a-e511-80bc-00155d0e2515/1MOS01_Sheraton-Moscow-Sheremetyevo/"
-	},
-	"France": {
-		"id": "1MSR08",
-		"name": "Hilton Garden Inn Moscow New Riga",
-		"cluster": "Central Cluster",
-		"hotel_address": "Moscow region,  Istra Area, Kostrovo village, 1 Building",
-		"hotel_url": "http://www.hgi-moscow-new-riga.ru",
-		"hotel_tel": "+7 498 319 5600",
-		"hotel_type": "Countryside",
-		"pitch_address": "Moscow region, Glebovets, Oktyabrskaya, 71a",
-		"pitch_url": "http://www.hgi-moscow-new-riga.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/4db2a438-432a-e511-80bc-00155d0e2515/1MSR08_Hilton-Garden-Inn-Moscow-New-Riga/"
-	},
-	"Germany": {
-		"id": "1MSR10",
-		"name": "Vatutinki Hotel",
-		"cluster": "Central Cluster",
-		"hotel_address": "Moscow,  Desenovskoe village, settlement Vatutinki -1",
-		"hotel_url": "http://www.ok-vatutinki.ru",
-		"hotel_tel": "+7 495 276 8808",
-		"hotel_type": "Countryside",
-		"pitch_address": "Moscow Region, Leninskiy district, Vatutinki",
-		"pitch_url": "http://cska.ru/objects/12",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/4fb2a438-432a-e511-80bc-00155d0e2515/1MSR10_Vatutinki-Hotel/"
-	},
-	"Mexico": {
-		"id": "1MSR05",
-		"name": "Training Base Novogorsk-Dynamo",
-		"cluster": "Central Cluster",
-		"hotel_address": "Moscow region, Khimki, Novogorsk district, Sokolovskaya str, 8",
-		"hotel_url": "http://www.fcdynamo.ru/club/training-base",
-		"hotel_tel": "+7 495 646 37 80",
-		"hotel_type": "Countryside",
-		"pitch_address": "Moscow region, Khimki,  Novogorsk community, Sokolovskaya st.,  8",
-		"pitch_url": "http://fcdynamo.ru/club/training-base/",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/1146d471-0d27-e511-80bc-00155d0e2515/1MSR05_Training-Base-Novogorsk-Dynamo/"
-	},
-	"Tunisia": {
-		"id": "1MSR03",
-		"name": "Imperial Park Hotel & Spa",
-		"cluster": "Central Cluster",
-		"hotel_address": "Moscow region, Settlement Pervomayskoe, Rogozinino village",
-		"hotel_url": "http://www.imperialhotel.ru",
-		"hotel_tel": "+7 495 428 5885",
-		"hotel_type": "Countryside",
-		"pitch_address": "Moscow region, Naro-Fominsky district, Selyatino village,   Sport-complex 'Stroitel'",
-		"pitch_url": "http://maus-stroitel.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/0346d471-0d27-e511-80bc-00155d0e2515/1MSR03_Imperial-Park-Hotel-and-Spa/"
-	},
-	"Morocco": {
-		"id": "1VRN02",
-		"name": "Art Hotel",
-		"cluster": "Central Cluster",
-		"hotel_address": "Voronezh, Dzerzinskogo str, 5b",
-		"hotel_url": "http://www.arthotelv.ru/en",
-		"hotel_tel": "+7 473 206 5678",
-		"hotel_type": "City Hotel",
-		"pitch_address": "Voronezh, Krasnoznamennaya st., 101",
-		"pitch_url": "http://www.arthotelv.ru/en",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/1346d471-0d27-e511-80bc-00155d0e2515/1VRN02_Art-Hotel/"
+	"Saudi Arabia": {
+		"location": "Saint Petersburg",
+		"tbc_hotel_name": "Belmond Grand Hotel Europe",
+		"tbc_hotel_address": "Saint Petersburg, Mikhailovskaya St, 1/7",
+		"tbc_training_site_name": "Training base FC Zenit",
+		"tbc_training_site_adress": "Saint Petersburg, Akkuratova St, 7b"
 	},
 	"Egypt": {
-		"id": "4CHE01",
-		"name": "Hotel Grozny City",
-		"cluster": "Southern Cluster",
-		"hotel_address": "Grozny, Kadyrova avenue, 1/16",
-		"hotel_url": "http://hotelgroznycity.ru/en/",
-		"hotel_tel": "+7 871 229 6000",
-		"hotel_type": "City Hotel",
-		"pitch_address": "Grozny, L'va Yashina st., 21",
-		"pitch_url": "http://ahmat-arena.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/0746d471-0d27-e511-80bc-00155d0e2515/4CHE01_Hotel-Grozny-City/"
+		"location": "Grozny",
+		"tbc_hotel_name": "The Local Hotel, Grozny",
+		"tbc_hotel_address": "Grozny, Kyrova Ave, 53/25",
+		"tbc_training_site_name": "Akhmat-Arena",
+		"tbc_training_site_adress": "Grozny, L'va Yashina St, 21"
 	},
-	"Serbia": {
-		"id": "3KLD01",
-		"name": "Falke Resort",
-		"cluster": "Northern Cluster",
-		"hotel_address": "Kalininrgad region, Svetlogorsk, Lenina str, 1B",
-		"hotel_url": "http://www.falke-hotel.ru",
-		"hotel_tel": "+7 (40153) 2-16-00, 2-16-05",
-		"hotel_type": "City Hotel, Seaside",
-		"pitch_address": "Kaliningrad Region, Svetlogorsk, Baltyskaya st., 31",
-		"pitch_url": "http://www.falke-hotel.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/6e53358c-db32-e611-80c7-00155d0e2533/3KLD01_Falke-Resort/"
+	"Uruguay": {
+		"location": "Nizhny Novgorod Region, Bor",
+		"tbc_hotel_name": "Sports Centre Borsky",
+		"tbc_hotel_address": "Nizhny Novgorod region, Bor town City District",
+		"tbc_training_site_name": "Sports Centre Borsky",
+		"tbc_training_site_adress": "Nizhny Novgorod region, Bor town City district, Krasnogorka St, 120"
+	},
+
+
+	"Portugal": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Saturn Training Base",
+		"tbc_hotel_address": "Moscow region, Ramenskoe district, Kratovo village, Baumana St, 10",
+		"tbc_training_site_name": "Saturn Training Base",
+		"tbc_training_site_adress": "Moscow region, Ramenskoe district, Kratovo village, Baumana St, 10"
+	},
+	"Spain": {
+		"location": "Krasnodar",
+		"tbc_hotel_name": "FC Krasnodar Academy",
+		"tbc_hotel_address": "Krasnodar, Zholby St, 114",
+		"tbc_training_site_name": "FC Krasnodar Academy",
+		"tbc_training_site_adress": "Krasnodar, Zholby St, 114"
+	},
+	"Morocco": {
+		"location": "Voronezh",
+		"tbc_hotel_name": "Voronezh Marriott Hotel",
+		"tbc_hotel_address": "Voronezh, Revolyutsii Ave, 38",
+		"tbc_training_site_name": "Stadium Chaika",
+		"tbc_training_site_adress": "Voronezh, Krasnoznamennaya St, 101"
 	},
 	"Iran": {
-		"id": "1MSR16",
-		"name": "Lokomotiv Bakovka Training Center",
-		"cluster": "Central Cluster",
-		"hotel_address": "Moscow region., Lesnaya street, Bakovka, Str. , 16",
-		"hotel_url": "http://www.fclm.ru/ru/club/training_ground",
-		"hotel_tel": "+7(495) 591 34 78",
-		"hotel_type": "Countryside",
-		"pitch_address": "Moscow region.,  Lesnaya street, Bakovka, Str. , 16",
-		"pitch_url": "http://www.fclm.ru/ru/club/training_ground",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/57975fdb-75c3-e611-80c8-00155d0e2533/1MSR16_Lokomotiv-Bakovka-Training-Center/"
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Lokomotiv Bakovka Training Centre",
+		"tbc_hotel_address": "Moscow region, Bakovka Settlement, Lesnaya St, 16",
+		"tbc_training_site_name": "Lokomotiv Bakovka Training Centre",
+		"tbc_training_site_adress": "Moscow region, Bakovka Settlement, Lesnaya St, 16"
+	},
+
+
+	"France": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Hilton Garden Inn Moscow New Riga",
+		"tbc_hotel_address": "Moscow region, Istra Area, Kostrovo village, bld 1",
+		"tbc_training_site_name": "Glebovets Stadium",
+		"tbc_training_site_adress": "Moscow region, Istra district, Glebovsky, Oktyabrskaya St, 71a"
 	},
 	"Australia": {
-		"id": "2TTR02",
-		"name": "HC Ak Bars Training Base",
-		"cluster": "Volga Cluster",
-		"hotel_address": "Kazan, Nikolai Yershov str, 1",
-		"hotel_url": "",
-		"hotel_tel": "+7 843 533 5750",
-		"hotel_type": "City Hotel",
-		"pitch_address": "Kazan, Nikolai Yershov st., 7",
-		"pitch_url": "",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/1746d471-0d27-e511-80bc-00155d0e2515/2TTR02_HC-Ak-Bars-Training-Base/"
+		"location": "Kazan",
+		"tbc_hotel_name": "HC Ak Bars Training Base",
+		"tbc_hotel_address": "Kazan, Nikolai Yershov St, 1",
+		"tbc_training_site_name": "Stadium Trudovye Rezervy",
+		"tbc_training_site_adress": "Kazan, Nikolai Yershov St, 7"
 	},
-	"Switzerland": {
-		"id": "2SAM04",
-		"name": "Toliatti Resort",
-		"cluster": "Volga Cluster",
-		"hotel_address": "Samara region, Togliatti, Lesoparkovoe road., 55",
-		"hotel_url": "http://www.lada-resort.com/en/",
-		"hotel_tel": "+7 8482 64 56 56",
-		"hotel_type": "Countryside",
-		"pitch_address": "Samara region, Togliatti,Revolutionary Str., 80",
-		"pitch_url": "http://www.tltsport.ru/sportplace.php?id=torpedo",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/d583b7df-ff27-e611-80c7-00155d0e2533/2SAM04_Toliatti-Resort/"
+	"Peru": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Sheraton Moscow Sheremetyevo",
+		"tbc_hotel_address": "Moscow, Mezhdunarodnoye Rd, 28b, bld 5",
+		"tbc_training_site_name": "Arena Khimki",
+		"tbc_training_site_adress": "Moscow region, Khimki, Kirova St, 24"
+	},
+	"Denmark": {
+		"location": "Anapa",
+		"tbc_hotel_name": "Beton Brut",
+		"tbc_hotel_address": "Krasnodar region, Anapa, Verhnyaya Doroga St, 120",
+		"tbc_training_site_name": "Training site at Pontos Stadium",
+		"tbc_training_site_adress": "Krasnodar region, Anapa, Vityazevo, Stepnaya St/shkolnaya St, 33 b/2"
+	},
+
+
+	"Argentina": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Training base Bronnitsy",
+		"tbc_hotel_address": "Moscow region, Bronnitsy, Moskvoretskaya St, 44",
+		"tbc_training_site_name": "Training site at Stadium of Syroyezhkin sports school",
+		"tbc_training_site_adress": "Moscow region, Bronnitsy, Moskvoretskaya St, 46"
 	},
 	"Iceland": {
-		"id": "4KKR03",
-		"name": "Resort Centre Nadezhda",
-		"cluster": "Southern Cluster",
-		"hotel_address": "Krasnodar Region, Gelendzhik , Kabardinka village, Mira str, 3",
-		"hotel_url": "http://www.nadezhda.ru",
-		"hotel_tel": "+7 861 419 0500",
-		"hotel_type": "Seaside",
-		"pitch_address": "Krasnodar Region, Gelendzhik, Kabardinka,, Mira st., 26b",
-		"pitch_url": "http://www.nadezhda.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/3346d471-0d27-e511-80bc-00155d0e2515/4KKR03_Resort-Centre-Nadezhda/"
+		"location": "Gelendzhik",
+		"tbc_hotel_name": "Resort Centre Nadezhda",
+		"tbc_hotel_address": "Krasnodar region, Gelendzhik, Kabardinka village, Mira St, 3",
+		"tbc_training_site_name": "Olymp Stadium",
+		"tbc_training_site_adress": "Krasnodar region, Gelendzhik, Kabardinka village, Mira St, 26b"
 	},
-	"Argentina": {
-		"id": "1MSR04",
-		"name": "Health Сomplex Bor",
-		"cluster": "Central Cluster",
-		"hotel_address": "Moscow region, Domodedovo, Odintsovo village, Bor area",
-		"hotel_url": "http://www.ok-bor.ru",
-		"hotel_tel": "+7 495 616 0701",
-		"hotel_type": "Countryside",
-		"pitch_address": "Moscow region, Domodedovo, Odintsovo village, Bor",
-		"pitch_url": "http://www.ok-bor.ru",
-		"tbc_url": "http://www.tbc-russia2018.com/Catalogue/Card/cb7a054e-d131-e511-80bd-00155d0e2515/1MSR04_Health-%D0%A1omplex-Bor/"
+	"Croatia": {
+		"location": "Leningrad Region",
+		"tbc_hotel_name": "Woodland Rhapsody Resort",
+		"tbc_hotel_address": "Leningrad region, Vyborgsky district, Ilichevo village, Lintulskaya Alley, 1",
+		"tbc_training_site_name": "Roschino Arena",
+		"tbc_training_site_adress": "Leningrad region, Vyborgsky district, Roschino, Sovetskaya St"
 	},
+	"Nigeria": {
+		"location": "Essentuki",
+		"tbc_hotel_name": "Sanatorium Istochnik",
+		"tbc_hotel_address": "Stavropol region, Essentuki, Semashko St, 6",
+		"tbc_training_site_name": "Essentuki Arena",
+		"tbc_training_site_adress": "Stavropol region, Essentuki, crossing of Shosseynaya St and Sadovyi Ln"
+	},
+
+
+	"Brazil": {
+		"location": "Sochi",
+		"tbc_hotel_name": "Swissotel Resort Sochi Kamelia",
+		"tbc_hotel_address": "Krasnodar region, Sochi, Kurortnyi Ave, 89",
+		"tbc_training_site_name": "Yug-Sport Stadium",
+		"tbc_training_site_adress": "Krasnodar region, Sochi, Bzugu St, 6"
+	},
+	"Switzerland": {
+		"location": "Togliatti",
+		"tbc_hotel_name": "Togliatti Resort",
+		"tbc_hotel_address": "Samara region, Togliatti, Lesoparkovoe Rd, 55",
+		"tbc_training_site_name": "Torpedo Stadium",
+		"tbc_training_site_adress": "Samara region, Togliatti, Revolutsionnaya St, 80"
+	},
+	"Costa Rica": {
+		"location": "Saint Petersburg",
+		"tbc_hotel_name": "Hilton Saint Petersburg ExpoForum",
+		"tbc_hotel_address": "Saint Petersburg, Peterburgskoye Rd, 64, bld 2",
+		"tbc_training_site_name": "Olympiyets Stadium",
+		"tbc_training_site_adress": "Saint Petersburg, Pavlovsk, Gospitalnaya St, 24"
+	},
+	"Serbia": {
+		"location": "Kalininrgad Region, Svetlogorsk",
+		"tbc_hotel_name": "Royal Falke Resort & Spa",
+		"tbc_hotel_address": "Kalininrgad region, Svetlogorsk, Lenina St, 1b",
+		"tbc_training_site_name": "Training site Baltiya",
+		"tbc_training_site_adress": "Kalininrgad region, Svetlogorsk, Baltyskaya St, 31"
+	},
+
+
+	"Germany": {
+		"location": "Moscow",
+		"tbc_hotel_name": "Vatutinki Hotel",
+		"tbc_hotel_address": "Moscow, Desenovskoe village, Charoitovaya St, 5, bld 1",
+		"tbc_training_site_name": "CSKA Sports Base",
+		"tbc_training_site_adress": "Moscow, 35th km of the Kaluzhskoe Rd, Vatutinki"
+	},
+	"Mexico": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Training base Novogorsk-Dynamo",
+		"tbc_hotel_address": "Moscow region, Khimki, Novogorsk district, Sokolovskaya St, 8",
+		"tbc_training_site_name": "Training base Novogorsk-Dynamo",
+		"tbc_training_site_adress": "Moscow region, Khimki, Novogorsk district, Sokolovskaya St, 8"
+	},
+	"Sweden": {
+		"location": "Gelendzhik",
+		"tbc_hotel_name": "Kempinski Grand Hotel Gelendzhik",
+		"tbc_hotel_address": "Krasnodar region, Gelendzhik, Revolutsionnaya St, 53",
+		"tbc_training_site_name": "Spartak Stadium",
+		"tbc_training_site_adress": "Krasnodar region, Gelendzhik, Solntsedarskaya St"
+	},
+	"South Korea": {
+		"location": "Saint Petersburg",
+		"tbc_hotel_name": "Hotel New Peterhof",
+		"tbc_hotel_address": "Saint Petersburg, Sankt-Peterburgskiy Ave, 34",
+		"tbc_training_site_name": "Spartak Stadium",
+		"tbc_training_site_adress": "Saint Petersburg, Lomonosov, Mikhailovskaya St, 29"
+	},
+
+
+	"Belgium": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Moscow Country Club",
+		"tbc_hotel_address": "Moscow region, Krasnogorsky district, Nakhabino-1 village",
+		"tbc_training_site_name": "Training site at Stadium of sport complex Guchkovo",
+		"tbc_training_site_adress": "Moscow region, Istra district, Dedovsk, Voykova St, 17"
+	},
+	"Panama": {
+		"location": "Saransk",
+		"tbc_hotel_name": "Olympic Sports Centre",
+		"tbc_hotel_address": "Saransk, Pobedy St, 3a",
+		"tbc_training_site_name": "Olympic Sports Centre",
+		"tbc_training_site_adress": "Saransk, Pobedy St, 3a"
+	},
+	"Tunisia": {
+		"location": "Moscow Region",
+		"tbc_hotel_name": "Imperial Park Hotel & SPA",
+		"tbc_hotel_address": "Moscow region, Pervomayskoe Settlement, Rogozinino village",
+		"tbc_training_site_name": "Stadium Stroitel",
+		"tbc_training_site_adress": "Moscow region, Selyatino, Sportivnaya St, 20"
+	},
+	"England": {
+		"location": "Saint Petersburg",
+		"tbc_hotel_name": "ForRestMix Club Sport&Relax",
+		"tbc_hotel_address": "Saint Petersburg, Repino village, Lugovaya St, 10A",
+		"tbc_training_site_name": "Stadium Spartak Zelenogorsk",
+		"tbc_training_site_adress": "Saint Petersburg, Zelenogorsk, Objezdnaya St, 7a"
+	},
+
+
+	"Poland": {
+		"location": "Sochi",
+		"tbc_hotel_name": "Hyatt Regency Sochi",
+		"tbc_hotel_address": "Krasnodar region, Sochi, Ordzhonikidze St, 17",
+		"tbc_training_site_name": "Sputnik-Sport Stadium",
+		"tbc_training_site_adress": "Krasnodar region, Sochi, Chekmeneva St"
+	},
+	"Senegal": {
+		"location": "Kaluga",
+		"tbc_hotel_name": "SK Royal Hotel Kaluga",
+		"tbc_hotel_address": "Kaluga, Tramplinnaya St, 1v",
+		"tbc_training_site_name": "Training site Sputnik",
+		"tbc_training_site_adress": "Kaluga, Tulskoye Rd"
+	},
+	"Colombia": {
+		"location": "Tatarstan Republic",
+		"tbc_hotel_name": "Ski Resort Kazan",
+		"tbc_hotel_address": "Tatarstan Republic, Verkhneuslonsky district, Savino village",
+		"tbc_training_site_name": "Stadium Sviyaga",
+		"tbc_training_site_adress": "Tatarstan Republic, Verkhneuslonsky district, Medvedkovo village"
+	},
+	"Japan": {
+		"location": "Kazan",
+		"tbc_hotel_name": "FC Rubin Kazan First Team Training Ground",
+		"tbc_hotel_address": "Kazan, Kopylova St, 2",
+		"tbc_training_site_name": "FC Rubin Kazan First Team Training Ground",
+		"tbc_training_site_adress": "Kazan, Kopylova St, 2"
+	},
+
+
 	"": {
-		"id": "",
-		"name": "",
-		"cluster": ,
-		"hotel_address": ,
-		"hotel_url": ,
-		"hotel_tel": ,
-		"hotel_type": ,
-		"pitch_address": ,
-		"pitch_url": ,
-		"tbc_url": ""
+		"location": "",
+		"tbc_hotel_name": "",
+		"tbc_hotel_address": "",
+		"tbc_training_site_name": "",
+		"tbc_training_site_adress": ""
 	}
+
 }
