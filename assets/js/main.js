@@ -146,3 +146,78 @@ class WCCountdownApp {
     }
 }
 const WCCountdownComponentsController = new WCCountdownApp();
+
+
+
+
+// --------
+// SERVICE WORKER LOGIC
+//  -------
+if(navigator.serviceWorker){
+	navigator.serviceWorker.register('/sw.js').then(reg => {
+		// console.log('sw ready to go.', reg);
+		if(!navigator.serviceWorker.controller){
+			if(reg.installing){
+				// sw is taking control for the first time
+				const sw = reg.installing;
+				sw.addEventListener('statechange', event => {
+					if (sw.state == "activated") {
+						// there is an update ready
+						console.log("Site is offline enabled.");
+					}
+				});
+			}
+			return;
+		}
+
+		let promptedUpdate = false;
+		const activateWaitingSW = function(){
+			reg.waiting.postMessage({skipWaiting: true});
+		}
+
+		if(reg.waiting){
+			// there's an udate ready
+
+			// we can decide to always update the sw whenevever waiting
+			activateWaitingSW(); return;
+
+			// or we can make it up to the user to update the page version
+            // console.log("Please update the page");
+			promptedUpdate = true;
+		}
+
+
+		reg.addEventListener('updatefound', function() {
+			// reg.installing has changed after a sw has been active on page
+			reg.installing.addEventListener('statechange', function() {
+				console.log('SW statechange:', this.state);
+				if (this.state == 'redundant') return;
+
+				if (this.state == 'installed'){
+					// there is an update ready
+					// console.log({msg: "sw successfully installed, there is an update ready"});
+					if(promptedUpdate) {
+						// the user hasn't updated when last propmted and thus
+						// there is an even new sw available
+                        // console.log("Already prompted user to update");
+					}else{
+                        console.log("There is a new site version.");
+					}
+				}
+			})
+		});
+
+
+
+	}).catch( err => {
+		console.log('sw registration error:', err);
+	});
+
+	navigator.serviceWorker.addEventListener('controllerchange', function(){
+		// the service worker controlling this page has change
+		// i.e incummbent sw has become redundat and the waiting one has taken over
+		// this is a good time to reload the page
+		// console.log("About to RELOAAAAD!");
+		window.location.reload();
+	});
+}
